@@ -32,6 +32,15 @@ permalink: /research-groups.html
 * University of Cambridge
 * University of Oxford
 
+## Safety
+
+* [Future of Life Institute](https://futureoflife.org/)
+* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+* [Machine Intelligence Research Institute](https://intelligence.org/)
+* [UC Berkeley Center for Human-Compatible AI](http://humancompatible.ai/)
+* [Center for the Study of Existential Risk](http://cser.org/)
+* [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
+
 ## Other Lists
 
 * [deeplearning.net list](http://deeplearning.net/deep-learning-research-groups-and-labs/)
