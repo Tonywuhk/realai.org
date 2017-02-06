@@ -16,6 +16,8 @@ Paper Submission | Start Date | End Date   | Place                | Conference
 
 ## Past Events
 
+FLI: [Beneficial AI 2017](https://futureoflife.org/bai-2017/), [Puerto Rico 2015](https://futureoflife.org/2015/10/12/ai-safety-conference-in-puerto-rico/)
+
 NIPS: [2016](https://nips.cc/Conferences/2016), [2015](https://nips.cc/Conferences/2015), [2014](https://nips.cc/Conferences/2014), [2013](https://nips.cc/Conferences/2013), [2012](https://nips.cc/Conferences/2012)
 
 IJCAI: [2016](http://ijcai-16.org/index.php/welcome/view/home), [2015](http://ijcai-15.org/), [2014](https://sites.google.com/site/ijcaischool2014/), [2013](http://ijcai-13.org/), 
