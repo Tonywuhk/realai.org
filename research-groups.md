@@ -3,28 +3,31 @@ permalink: /research-groups.html
 ---
 # Research Groups
 
-## Industry and Nonprofits
+## Industry
 
 * [DeepMind](https://deepmind.com/)
 * [Google Brain](https://research.google.com/teams/brain/)
-* [OpenAI](https://openai.com/)
 * [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/)
-* [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [Vicarious](http://www.vicarious.com/)
 * [Maluuba](http://www.maluuba.com/)
 * [Nnaisense](https://nnaisense.com/)
 * [Geometric Intelligence](http://geometric.ai/)
 * [GoodAI](https://www.goodai.com/)
 
+## Nonprofits
+* [OpenAI](https://openai.com/)
+* [Allen Institute for Artificial Intelligence](http://allenai.org/)
+* [IDSIA](http://www.idsia.ch/)
+
 ## Academia
 
 * MIT
 * CMU
-* Berkeley
-* NYU
-* Stanford
-* University of Montreal
-* University of Toronto
+* Berkeley: [AI Research](http://bair.berkeley.edu/)
+* NYU: [Center for Data Science](http://cds.nyu.edu/)
+* Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/)
+* University of Montreal: [MILA](https://mila.umontreal.ca/en/)
+* University of Toronto: [Machine Learning](http://learning.cs.toronto.edu/)
 * UCL
 * University of Cambridge
 * University of Oxford
