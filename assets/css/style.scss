@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background: #f2f2f2;
-}
-
 #header_wrap {
   background: #3d85c6;
 }
@@ -30,4 +26,8 @@ nav ul li {
 nav a {
   text-decoration: none;
   color: #fff;
+}
+
+#main_content_wrap {
+  flex-grow: 1;
 }
