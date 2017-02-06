@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background: #f2f2f2;
+}
+
 #header_wrap {
   background: #3d85c6;
 }
@@ -29,5 +33,6 @@ nav a {
 }
 
 #main_content_wrap {
-  flex-grow: 1;
+  border-top: 0px;
+  border-bottom: 0px;
 }
