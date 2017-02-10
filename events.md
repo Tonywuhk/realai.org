@@ -8,7 +8,6 @@ permalink: /events.html
 
 Paper Due  | Dates              | Place                | Conference
 ---------- | ------------------ | -------------------- | ----------
-           | 2017/02/04 - 09    | San Francisco, CA    | [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php)
 2017/02/19 | 2017/08/19 - 25    | Melbourne, Australia | [IJCAI 2017](http://ijcai-17.org/)
 2017/02/24 | 2017/08/06 - 11    | Sydney, Australia    | [ICML 2017](https://2017.icml.cc/)
            | 2017/03/26 - 30    | Obergurgl, Austria   | [AITP 2017](http://aitp-conference.org/2017/)
@@ -18,8 +17,11 @@ Paper Due  | Dates              | Place                | Conference
 2017/06/28 | 2017/11/13 - 15    | Mountain View, CA    | [CoRL 2017](http://www.robot-learning.org/)
            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
            | 2017/07/30 - 08/04 | Vancouver, Canada    | [ACL 2017](http://acl2017.org/)
-
+           | 2018/02/04 - 10    | New Orleans, LA      | [AAAI 2018](http://www.aaai.org/Conferences/AAAI/aaai18.php)
+           
 ## Past Events
+
+AAAI: [2017](http://www.aaai.org/Conferences/AAAI/aaai17.php), [2016](http://www.aaai.org/Conferences/AAAI/aaai16.php), [2015](http://www.aaai.org/Conferences/AAAI/aaai15.php), [2014](http://www.aaai.org/Conferences/AAAI/aaai14.php), [2013](http://www.aaai.org/Conferences/AAAI/aaai13.php), [2012](http://www.aaai.org/Conferences/AAAI/aaai12.php)
 
 NIPS: [2016](https://nips.cc/Conferences/2016), [2015](https://nips.cc/Conferences/2015), [2014](https://nips.cc/Conferences/2014), [2013](https://nips.cc/Conferences/2013), [2012](https://nips.cc/Conferences/2012)
 
@@ -36,8 +38,6 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
 AITP: [2016](http://aitp-conference.org/2016/)
-
-AAAI: [2016](http://www.aaai.org/Conferences/AAAI/aaai16.php), [2015](http://www.aaai.org/Conferences/AAAI/aaai15.php), [2014](http://www.aaai.org/Conferences/AAAI/aaai14.php), [2013](http://www.aaai.org/Conferences/AAAI/aaai13.php), [2012](http://www.aaai.org/Conferences/AAAI/aaai12.php)
 
 # Non-Academic
 
