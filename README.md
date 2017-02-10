@@ -10,7 +10,6 @@
 
 ## R
 
-* [Real AI](http://realai.org/about.html)
 * [Research Groups](http://realai.org/research-groups.html)
 
 # About Real AI
