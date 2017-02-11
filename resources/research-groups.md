@@ -1,5 +1,5 @@
 ---
-permalink: /research-groups.html
+permalink: /resources/research-groups.html
 ---
 # Research Groups
 
