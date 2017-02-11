@@ -1,3 +1,6 @@
+---
+permalink: /resources/
+---
 # Resources
 
 * [Events](http://realai.org/resources/events.html)
