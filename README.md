@@ -17,6 +17,10 @@
 * [Research Groups](http://realai.org/resources/research-groups.html)
 * [Resources](http://realai.org/resources/)
 
+## S
+
+* [Scientists](http://realai.org/resources/scientists.html)
+
 ## T
 
 * [Timeline](http://realai.org/frontier/timeline.html)
