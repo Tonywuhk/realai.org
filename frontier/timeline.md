@@ -1,4 +1,5 @@
 ---
+title: Timeline
 permalink: /frontier/timeline.html
 ---
 
