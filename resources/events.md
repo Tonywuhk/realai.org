@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: /events.html
+permalink: /resource/events.html
 ---
 # Academic
 
