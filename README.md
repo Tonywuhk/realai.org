@@ -6,11 +6,12 @@
 
 ## E
 
-* [Events](http://realai.org/events.html)
+* [Events](http://realai.org/resources/events.html)
 
 ## R
 
-* [Research Groups](http://realai.org/research-groups.html)
+* [Research Groups](http://realai.org/resources/research-groups.html)
+* [Resources](http://realai.org/resources/)
 
 # About Real AI
 
