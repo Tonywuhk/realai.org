@@ -9,7 +9,7 @@ Events that potentially will be proved significant enough to be added to Real AI
 
 #### 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/)
 
-The Future of Life Institute brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
+The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
 
 # Roadmaps
 
