@@ -7,10 +7,14 @@ permalink: /frontier/
 
 Events that potentially will be proved significant enough to be added to Real AI [Timeline](http://realai.org/frontier/timeline.html):
 
+#### 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/)
+
+The Future of Life Institute brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
+
 # Roadmaps
 
-* 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *[Beneficial AI 2017](https://futureoflife.org/bai-2017/).*
-* 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *[Beneficial AI 2017](https://futureoflife.org/bai-2017/).*
+* 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
+* 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
 
 # Environments
 
