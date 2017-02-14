@@ -18,6 +18,11 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2016 September, *MIT Press*, [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. Richard S. Sutton and Andrew G. Barto.
 * 2012 June 27, *Cengage Learning*, [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), 3rd Edition. Michael Sipser.
 
+### Introduction to Deep Learning
+
+* 2017 Fall, *Manning Publications*, [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet
+* 2016 December, *MIT Press*, [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
 ## By Application Areas
 
 ### Computer Vision
