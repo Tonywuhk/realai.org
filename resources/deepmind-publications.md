@@ -1,5 +1,6 @@
 ---
 permalink: /resources/deepmind-publications.html
+mathjax: true
 ---
 # DeepMind Publications
 
@@ -28,6 +29,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 September 24, Adhiguna Kuncoro, Miguel Ballesteros, Lingpeng Kong, Chris Dyer, and Noah A. Smith. [Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser](https://arxiv.org/abs/1609.07561). *arXiv:1609.07561*.
 * 2016 September 23, Yishu Miao and Phil Blunsom. [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://arxiv.org/abs/1609.07317). *arXiv:1609.07317*.
 * 2016 September 21, Oriol Vinyals, Alexander Toshev, Samy Bengio, and Dumitru Erhan. [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647). *arXiv:1609.06647*.
+* 2016 September 12, Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, and Koray Kavukcuoglu. [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499). *arXiv:1609.03499*.
 * 2016 August 18, Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, and Koray Kavukcuoglu. [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343). *arXiv:1608.05343*.
 * 2016 August 9, Ian Osband and Benjamin Van Roy. [On Lower Bounds for Regret in Reinforcement Learning](https://arxiv.org/abs/1608.02732). *arXiv:1608.02732*.
 * 2016 August 9, Ian Osband and Benjamin Van Roy. [Posterior Sampling for Reinforcement Learning Without Episodes](https://arxiv.org/abs/1608.02731). *arXiv:1608.02731*.
@@ -69,7 +71,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 February 25, Jan Leike, Tor Lattimore, Laurent Orseau, and Marcus Hutter. [Thompson Sampling is Asymptotically Optimal in General Environments](https://arxiv.org/abs/1602.07905). *arXiv:1602.07905*.
 * 2016 February 24, Hado van Hasselt, Arthur Guez, Matteo Hessel, Volodymyr Mnih, and David Silver. [Learning values across many orders of magnitude](https://arxiv.org/abs/1602.07714). *arXiv:1602.07714*.
 * 2016 February 22, Andriy Mnih and Danilo J. Rezende. [Variational inference for Monte Carlo objectives](https://arxiv.org/abs/1602.06725). *arXiv:1602.06725*.
-* 2016 February 16, Anna Harutyunyan, Marc G. Bellemare, Tom Stepleton, and Remi Munos. [Q($?$) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). *arXiv:1602.04951*.
+* 2016 February 16, Anna Harutyunyan, Marc G. Bellemare, Tom Stepleton, and Remi Munos. [Q($\lambda$) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). *arXiv:1602.04951*.
 * 2016 February 15, Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van Roy. [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621). *arXiv:1602.04621*.
 * 2016 February 10, Daniel J. Mankowitz, Timothy A. Mann, and Shie Mannor. [Adaptive Skills, Adaptive Partitions (ASAP)](https://arxiv.org/abs/1602.03351). *arXiv:1602.03351*.
 * 2016 February 9, Marcin Andrychowicz and Karol Kurach. [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://arxiv.org/abs/1602.03218). *arXiv:1602.03218*.
