@@ -9,4 +9,6 @@ permalink: /resources/
 
 ## Links
 
-* [Distill](http://distill.pub/) is a blog dedicated to clear explanations of machine learning
+* [AI•ON](http://ai-on.org/) is an open community dedicated to advancing Artificial Intelligence.
+* [Distill](http://distill.pub/) is a blog dedicated to clear explanations of machine learning.
+* [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
