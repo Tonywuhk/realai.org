@@ -108,6 +108,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2015 June 10, Karl Moritz Hermann, Tomáš Kociský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340). *arXiv:1506.03340*.
 * 2015 June 8, Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, and Phil Blunsom. [Learning to Transduce with Unbounded Memory](https://arxiv.org/abs/1506.02516). *arXiv:1506.02516*.
 * 2015 June 5, Max Jaderberg, Karen Simonyan, Andrew Zisserman, and Koray Kavukcuoglu. [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025). *arXiv:1506.02025*.
+* 2015 June 1, Tom Schaul, Daniel Horgan, Karol Gregor, and David Silver. [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html). *Proceedings of The 32nd International Conference on Machine Learning*, 1312-1320.
 * 2015 May 21, Danilo Jimenez Rezende and Shakir Mohamed. [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770). *arXiv:1505.05770*.
 * 2015 May 20, Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, and Daan Wierstra. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424). *arXiv:1505.05424*.
 * 2015 February 16, Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, and Daan Wierstra. [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623). *arXiv:1502.04623*.
