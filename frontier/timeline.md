@@ -12,5 +12,5 @@ permalink: /frontier/timeline.html
 
 ## Research
 
-* 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602.*
-* 2012 December 6, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks). *[NIPS 2012](https://nips.cc/Conferences/2012/Schedule?type=Poster).*
+* 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
+* 2012 December 6, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks). *[NIPS 2012](https://nips.cc/Conferences/2012/Schedule?type=Poster)*.
