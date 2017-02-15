@@ -12,6 +12,10 @@
 
 * [Frontier](http://realai.org/frontier/)
 
+## P
+
+* [Publications, DeepMind](http://realai.org/resources/deepmind-publications.html)
+
 ## R
 
 * [Research Groups](http://realai.org/resources/research-groups.html)
