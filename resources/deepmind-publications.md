@@ -71,7 +71,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 February 25, Jan Leike, Tor Lattimore, Laurent Orseau, and Marcus Hutter. [Thompson Sampling is Asymptotically Optimal in General Environments](https://arxiv.org/abs/1602.07905). *arXiv:1602.07905*.
 * 2016 February 24, Hado van Hasselt, Arthur Guez, Matteo Hessel, Volodymyr Mnih, and David Silver. [Learning values across many orders of magnitude](https://arxiv.org/abs/1602.07714). *arXiv:1602.07714*.
 * 2016 February 22, Andriy Mnih and Danilo J. Rezende. [Variational inference for Monte Carlo objectives](https://arxiv.org/abs/1602.06725). *arXiv:1602.06725*.
-* 2016 February 16, Anna Harutyunyan, Marc G. Bellemare, Tom Stepleton, and Remi Munos. [Q($\lambda$) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). *arXiv:1602.04951*.
+* 2016 February 16, Anna Harutyunyan, Marc G. Bellemare, Tom Stepleton, and Remi Munos. [Q(\(\lambda\)) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). *arXiv:1602.04951*.
 * 2016 February 15, Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van Roy. [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621). *arXiv:1602.04621*.
 * 2016 February 10, Daniel J. Mankowitz, Timothy A. Mann, and Shie Mannor. [Adaptive Skills, Adaptive Partitions (ASAP)](https://arxiv.org/abs/1602.03351). *arXiv:1602.03351*.
 * 2016 February 9, Marcin Andrychowicz and Karol Kurach. [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://arxiv.org/abs/1602.03218). *arXiv:1602.03218*.
@@ -80,6 +80,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 February 8, Sander Dieleman, Jeffrey De Fauw, and Koray Kavukcuoglu. [Exploiting Cyclic Symmetry in Convolutional Neural Networks](https://arxiv.org/abs/1602.02660). *arXiv:1602.02660*.
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
 * 2016 January 25, Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu. [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759). *arXiv:1601.06759*.
+* 2016 January 5, Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, and Demis Hassabis. [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html). *Nature*, 538(7626):471-476.
 
 ## 2015
 
