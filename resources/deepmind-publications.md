@@ -125,16 +125,21 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2014 November 19, Joel Veness, Marc G. Bellemare, Marcus Hutter, Alvin Chua, and Guillaume Desjardins. [Compress and Control](https://arxiv.org/abs/1411.5326). *arXiv:1411.5326*.
 * 2014 November 12, Dimitrios Kotzias, Misha Denil, Phil Blunsom, and Nando de Freitas. [Deep Multi-Instance Transfer Learning](https://arxiv.org/abs/1411.3128). *arXiv:1411.3128*.
 * 2014 October 20, Alex Graves, Greg Wayne, and Ivo Danihelka. [Neural Turing Machines](https://arxiv.org/abs/1410.5401). *arXiv:1410.5401*.
+* 2014 July 10, Volodymyr Mnih,	Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html). *Nature*, 518(7450):529-533.
 * 2014 June 24, Volodymyr Mnih, Nicolas Heess, Alex Graves, and Koray Kavukcuoglu. [Recurrent Models of Visual Attention](https://arxiv.org/abs/1406.6247). *arXiv:1406.6247*.
 * 2014 June 20, Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, and Max Welling. [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298). *arXiv:1406.5298*.
 * 2014 March 26, Joel Veness and Marcus Hutter. [Online Learning of k-CNF Boolean Functions](https://arxiv.org/abs/1403.6863). *arXiv:1403.6863*.
 * 2014 January 31, Andriy Mnih and Karol Gregor. [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/abs/1402.0030). *arXiv:1402.0030*.
+* 2014 January 27, David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.html). *Proceedings of The 31st International Conference on Machine Learning*, 387-395.
 * 2014 January 16, Danilo Jimenez Rezende, Shakir Mohamed, and Daan Wierstra. [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](https://arxiv.org/abs/1401.4082). *arXiv:1401.4082*.
 
 ## 2013
 
 * 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
 * 2013 October 31, Karol Gregor, Ivo Danihelka, Andriy Mnih, Charles Blundell, and Daan Wierstra. [Deep AutoRegressive Networks](https://arxiv.org/abs/1310.8499). *arXiv:1310.8499*.
+
+## 2011
+
 * 2011 September 27, Shane Legg and Joel Veness. [An Approximation of the Universal Intelligence Measure](https://arxiv.org/abs/1109.5951). *arXiv:1109.5951*.
 
 ## Reference
