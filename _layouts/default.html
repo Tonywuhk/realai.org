@@ -11,6 +11,12 @@
 
     <title>{{ page.title }}</title>
     <link rel="icon" href="/assets/images/real-ai-favicon.png" type="image/png">
+    
+    <!-- mathjax -->
+    {% if page.mathjax %}
+    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+    
   </head>
 
   <body>
@@ -35,11 +41,5 @@
         {{ content }}
       </section>
     </div>
-    
-    <!-- mathjax -->
-    {% if page.mathjax %}
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    {% endif %}
-    
   </body>
 </html>
