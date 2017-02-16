@@ -22,6 +22,10 @@ The [Future of Life Institute](https://futureoflife.org/) brought together a gro
 
 # Environments
 
+##### 2017 February 15, [Aerial Informatics and Robotics Platform](https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/)
+
+Through a [blog post](https://blogs.microsoft.com/next/2017/02/15/microsoft-shares-open-source-system-training-drones-gadgets-move-safely/), Microsoft shared this open-source, high-fidelity physics and photo-realistic robot simulator.
+
 ##### 2016 December 5, [Universe](https://universe.openai.com/)
 
 Through a [blog post](https://openai.com/blog/universe/), OpenAI released this software platform for measuring and training AI acrosss many games, websites and other applications.
