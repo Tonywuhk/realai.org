@@ -15,6 +15,7 @@
 ## P
 
 * [Publications, DeepMind](http://realai.org/resources/deepmind-publications.html)
+* [Publications, OpenAI](http://realai.org/resources/openai-publications.html)
 
 ## R
 
