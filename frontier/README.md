@@ -15,6 +15,7 @@ The [Future of Life Institute](https://futureoflife.org/) brought together a gro
 
 # Roadmaps
 
+* 2017 February 15, GoodAI [launched](http://blog.marekrosa.org/2017/02/first-round-of-general-ai-challenge_15.html) a 6-month [warm-up round](https://www.general-ai-challenge.org/active-rounds) of the General AI Challenge that is based on Facebook's [CommAI-env](https://github.com/facebookresearch/CommAI-env).
 * 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
 * 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
 
