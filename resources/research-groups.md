@@ -15,7 +15,7 @@ permalink: /resources/research-groups.html
 * [GoodAI](https://www.goodai.com/)
 
 ## Nonprofits
-* [OpenAI](https://openai.com/)
+* [OpenAI](https://openai.com/): [Publications](http://realai.org/resources/openai-publications)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [IDSIA](http://www.idsia.ch/)
 
