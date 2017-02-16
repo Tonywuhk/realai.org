@@ -22,6 +22,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 * 2017 Fall, *Manning Publications*, [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet
 * 2016 December, *MIT Press*, [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+* 2015 July 4, *The Spectator*, [A Statistical View of Deep Learning: Retrospective](http://blog.shakirm.com/2015/07/a-statistical-view-of-deep-learning-retrospective/). Shakir Mohamed.
 
 ## By Application Areas
 
