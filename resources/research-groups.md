@@ -6,8 +6,8 @@ permalink: /resources/research-groups.html
 ## Industry
 
 * [DeepMind](https://deepmind.com/): [Publications](http://realai.org/resources/deepmind-publications)
-* [Google Brain](https://research.google.com/teams/brain/)
-* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/)
+* [Google Brain](https://research.google.com/teams/brain/): [People](https://research.google.com/people/BrainTeam.html)
+* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications)
 * [Vicarious](http://www.vicarious.com/)
 * [Maluuba](http://www.maluuba.com/)
 * [Nnaisense](https://nnaisense.com/)
