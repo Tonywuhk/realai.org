@@ -15,6 +15,7 @@
 ## P
 
 * [Publications, DeepMind](http://realai.org/resources/deepmind-publications.html)
+* [Publications, Facebook AI Research](http://realai.org/resources/fair-publications.html)
 * [Publications, OpenAI](http://realai.org/resources/openai-publications.html)
 
 ## R
