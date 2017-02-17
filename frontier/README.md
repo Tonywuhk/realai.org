@@ -21,6 +21,12 @@ The [Future of Life Institute](https://futureoflife.org/) brought together a gro
 
 ---
 
+# AI and Society
+
+* 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
+
+---
+
 # Environments
 
 ##### 2017 February 15, [Aerial Informatics and Robotics Platform](https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/)
