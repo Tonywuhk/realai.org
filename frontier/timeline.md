@@ -14,3 +14,4 @@ permalink: /frontier/timeline.html
 
 * 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
 * 2012 December 6, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks). *[NIPS 2012](https://nips.cc/Conferences/2012/Schedule?type=Poster)*.
+* 2012 May 22, Quoc V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeff Dean, and Andrew Y. Ng. [Building high-level features using large scale unsupervised learning](https://arxiv.org/abs/1112.6209v2). *arXiv:1112.6209v2*.
