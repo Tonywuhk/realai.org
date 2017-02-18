@@ -2,7 +2,7 @@
 
 ## C
 
-* [Curriculum](http://realai.org/curriculum.html)
+* [Curriculum](http://realai.org/curriculum/)
 
 ## E
 
@@ -38,6 +38,6 @@ We believe many of today's problems such as poverty, disease, and global warming
 
 We are based in Hong Kong, currently looking for highly motivated individuals to work on pure research towards general AI. Legal work authorization is required. Interested candidates please send CV or self introduction to [hr@realai.org](mailto:hr@realai.org).
 
-This site is hosted on [GitHub Pages](https://pages.github.com/), based on the [Slate](https://github.com/pages-themes/slate) theme, and generated using [Jekyll](http://jekyllrb.com/).
+This site is hosted on [GitHub Pages](https://pages.github.com/), based on the [Slate](https://github.com/pages-themes/slate) theme, and generated using [Jekyll](http://jekyllrb.com/). Contents on this site are frequently updated.
 
 [View on GitHub](https://github.com/yanjon/yanjon.github.io)
