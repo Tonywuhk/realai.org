@@ -1,5 +1,5 @@
 ---
-permalink: /curriculum.html
+permalink: /curriculum/
 ---
 # Curriculum
 
