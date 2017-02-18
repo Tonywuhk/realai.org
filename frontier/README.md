@@ -5,7 +5,7 @@ permalink: /frontier/
 
 # Recent Events
 
-Events that potentially will be proved significant enough to be added to Real AI [Timeline](http://realai.org/frontier/timeline.html):
+Events that potentially will be proved significant enough to be added to Real AI [Timeline](http://realai.org/curriculum/timeline.html):
 
 ##### 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/)
 
