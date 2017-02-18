@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/timeline.html
+permalink: /curriculum/timeline.html
 ---
 # Timeline
 
@@ -7,6 +7,7 @@ permalink: /frontier/timeline.html
 
 * 2016 March 15, AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
 * 2015 December 11, Tech giants pledge $1bn for 'altruistic AI' venture, OpenAI. [*BBC News*](http://www.bbc.com/news/technology-35082344), [*OpenAI*](https://openai.com/blog/introducing-openai/).
+* 2014 October 23, DeepMind acqui-hired Dark Blue Labs and Vision Factory. [*TechCrunch*](https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford/), [*The Guardian*](https://www.theguardian.com/technology/2014/oct/23/google-uk-artificial-intelligence-startups-machine-learning-dark-blue-labs-vision-factory).
 * 2014 January 26, Google acquired DeepMind for £400m. [*TechCrunch*](https://techcrunch.com/2014/01/26/google-deepmind/), [*The Guardian*](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind).
 * 2013 December 10, Yann LeCun joined Facebook to lead its newly formed AI Group. [*TechCrunch*](https://techcrunch.com/2013/12/09/facebook-artificial-intelligence-lab-lecun/), [*Facebook Academics*](https://www.facebook.com/academics/posts/639860596065351).
 * 2012 October 13, SuperVision won [ILSVRC2012](http://www.image-net.org/challenges/LSVRC/2012/). [*ImageNet*](http://image-net.org/challenges/LSVRC/2012/results.html).
