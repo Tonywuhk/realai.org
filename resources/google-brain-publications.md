@@ -89,6 +89,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2015 November 16, Arvind Neelakantan, Quoc V. Le, and Ilya Sutskever. [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/abs/1511.04834). *arXiv:1511.04834*.
 * 2015 November 4, Andrew M. Dai and Quoc V. Le. [Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432). *arXiv:1511.01432*.
 * 2015 September 27, Georg Heigold, Ignacio Moreno, Samy Bengio, and Noam Shazeer. [End-to-End Text-Dependent Speaker Verification](https://arxiv.org/abs/1509.08062). *arXiv:1509.08062*.
+* 2015 September, Anelia Angelova, Alex Krizhevsky, Vincent Vanhoucke, Abhijit Ogale, and Dave Ferguson. [Real-Time Pedestrian Detection With Deep Network Cascades](https://research.google.com/pubs/pub43850.html). *Proceedings of BMVC 2015*.
 * 2015 August 5, William Chan, Navdeep Jaitly, Quoc V. Le, and Oriol Vinyals. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211). *arXiv:1508.01211*.
 * 2015 June 19, Oriol Vinyals and Quoc Le. [A Neural Conversational Model](https://arxiv.org/abs/1506.05869). *arXiv:1506.05869*.
 * 2015 June 9, Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly. [Pointer Networks](https://arxiv.org/abs/1506.03134). *arXiv:1506.03134*.
@@ -98,6 +99,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2015 April 3, Quoc V. Le, Navdeep Jaitly, and Geoffrey E. Hinton. [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941). *arXiv:1504.00941*.
 * 2015 March 31, Joe Yue-Hei Ng, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga, and George Toderici. [Beyond Short Snippets: Deep Networks for Video Classification](https://arxiv.org/abs/1503.08909). *arXiv:1503.08909*.
 * 2015 March 9, Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531). *arXiv:1503.02531*.
+* 2015, Katja Filippova, Enrique Alfonseca, Carlos Colmenares, Lukasz Kaiser, and Oriol Vinyals. [Sentence Compression by Deletion with LSTMs](https://research.google.com/pubs/pub43852.html). *EMNLP 2015*.
 
 ## 2014
 
@@ -118,8 +120,15 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2014 September 17, Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842). *arXiv:1409.4842*.
 * 2014 September 10, Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). *arXiv:1409.3215*.
 * 2014 September 8, Wojciech Zaremba, Ilya Sutskever, and Oriol Vinyals. [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329). *arXiv:1409.2329*.
-* 2014 April 24, Marc'Aurelio Ranzato. [On Learning Where To Look](https://arxiv.org/abs/1405.5488). *arXiv:1405.5488*.
 * 2014 May 16, Quoc V. Le and Tomas Mikolov. [Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053). *arXiv:1405.4053*.
+* 2014 April 24, Marc'Aurelio Ranzato. [On Learning Where To Look](https://arxiv.org/abs/1405.5488). *arXiv:1405.5488*.
+* 2014 April, Joonseok Lee, Samy Bengio, Seungyeon Kim, Guy Lebanon, and Yoram Singer. [Local Collaborative Ranking](https://research.google.com/pubs/pub42242.html). *Proceedings of the 23rd International World Wide Web Conference*, 85-96.
+* 2014, Jia Deng, Nan Ding, Yangqing Jia, Andrea Frome, Kevin Murphy, Samy Bengio, Yuan Li, Hartmut Neven, and Hartwig Adam. [Large-Scale Object Classification Using Label Relation Graphs](https://research.google.com/pubs/archive/42854.pdf). *ECCV 2014*.
+* 2014, Maya R. Gupta, Samy Bengio, and Jason Weston. [Training Highly Multiclass Classifiers](http://jmlr.org/papers/v15/gupta14a.html). *Journal of Machine Learning Research*, 15:1461-1492.
+* 2014, Navdeep Jaitly, Vincent Vanhoucke, and Geoffrey Hinton. [Autoregressive Product of Multi-frame Predictions Can Improve the Accuracy of Hybrid Models](https://research.google.com/pubs/pub42947.html). *Interspeech 2014*.
+* 2014, Hasim Sak, Oriol Vinyals, Georg Heigold, Andrew Senior, Erik McDermott, Rajat Monga, and Mark Mao. [Sequence Discriminative Distributed Training of Long Short-Term Memory Recurrent Neural Networks](https://research.google.com/pubs/pub42547.html). *Interspeech 2014*.
+* 2014, Samy Bengio and Georg Heigold. [Word Embeddings for Speech Recognition](https://research.google.com/pubs/pub42543.html). *Interspeech 2014*.
+* 2014, Georg Heigold, Erik McDermott, Vincent Vanhoucke, Andrew Senior, and Michiel Bacchiani. [Asynchronous Stochastic Optimization for Sequence Training of Deep Neural Networks](https://research.google.com/pubs/pub42248.html). *ICASSP 2014*.
 
 ## 2013
 
@@ -136,6 +145,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2013 January 16, Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781). *arXiv:1301.3781*.
 * 2013, Andrea Frome, Greg Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc’Aurelio Ranzato, and Tomas Mikolov. [DeViSE: A Deep Visual-Semantic Embedding Model](https://research.google.com/pubs/pub41869.html). *Advances in Neural Information Processing Systems*, 26:2121-2129.
 * 2013, Richard Socher, Andrej Karpathy, Quoc V. Le, Chris D. Manning, and Andrew Y. Ng. [Grounded compositional semantics for finding and describing images with sentences](https://research.google.com/pubs/pub45443.html). *Transactions of the Association for Computational Linguistics*.
+* 2013, Andrew Senior, Georg Heigold, Marc'aurelio Ranzato, and Ke Yang. [An Empirical study of learning rates in deep neural networks for speech recognition](https://research.google.com/pubs/archive/40808.pdf). *ICASSP 2013*.
 * 2013, M.D. Zeiler, M. Ranzato, R. Monga, M. Mao, K. Yang, Q.V. Le, P. Nguyen, A. Senior, V. Vanhoucke, J. Dean, and G.E. Hinton. [On Rectified Linear Units For Speech Processing](https://research.google.com/pubs/pub40811.html). *ICASSP 2013*.
 * 2013, Georg Heigold, Vincent Vanhoucke, Andrew Senior, Patrick Nguyen, Marc'aurelio Ranzato, Matthieu Devin, and Jeff Dean. [Multilingual acoustic models using distributed deep neural networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40807.pdf). *ICASSP 2013*.
 * 2013, Vincent Vanhoucke, Matthieu Devin, and Georg Heigold. [Multiframe Deep Neural Networks for Acoustic Modeling](https://research.google.com/pubs/archive/40810.pdf). *ICASSP 2013*.
