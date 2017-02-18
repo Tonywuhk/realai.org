@@ -30,7 +30,7 @@
 
 ## T
 
-* [Timeline](http://realai.org/frontier/timeline.html)
+* [Timeline](http://realai.org/curriculum/timeline.html)
 
 # About Real AI
 
