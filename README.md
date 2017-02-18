@@ -2,11 +2,8 @@
 
 ## C
 
+* [Conferences](http://realai.org/resources/conferences.html)
 * [Curriculum](http://realai.org/curriculum/)
-
-## E
-
-* [Events](http://realai.org/resources/events.html)
 
 ## F
 
