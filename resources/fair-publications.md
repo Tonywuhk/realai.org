@@ -16,10 +16,9 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2016
 
-* 2016 December 27, Huamin Li, Yuval Kluger, and Mark Tygert. [Randomized algorithms for distributed computation of principal component
-  analysis and singular value decomposition](https://arxiv.org/abs/1612.08709). *arXiv:1612.08709*.
-* 2016 December 20, Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C. Lawrence Zitnick, and Ross Girshick. [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary
-  Visual Reasoning](https://arxiv.org/abs/1612.06890). *arXiv:1612.06890*.
+* 2016 December 27, Huamin Li, Yuval Kluger, and Mark Tygert. [Randomized algorithms for distributed computation of principal component analysis and singular value decomposition](https://arxiv.org/abs/1612.08709). *arXiv:1612.08709*.
+* 2016 December 21, Angeliki Lazaridou, Alexander Peysakhovich, and Marco Baroni. [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182). *arXiv:1612.07182*.
+* 2016 December 20, Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C. Lawrence Zitnick, and Ross Girshick. [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890). *arXiv:1612.06890*.
 * 2016 December 19, Deepak Pathak, Ross Girshick, Piotr Dollár, Trevor Darrell, and Bharath Hariharan. [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370). *arXiv:1612.06370*.
 * 2016 December 15, Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, and Jason Weston. [Learning through Dialogue Interactions by Asking Questions](https://arxiv.org/abs/1612.04936). *arXiv:1612.04936*.
 * 2016 December 13, Edouard Grave, Armand Joulin, and Nicolas Usunier. [Improving Neural Language Models with a Continuous Cache](https://arxiv.org/abs/1612.04426). *arXiv:1612.04426*.
@@ -57,6 +56,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 June 9, Bharath Hariharan and Ross Girshick. [Low-shot Visual Recognition by Shrinking and Hallucinating Features](https://arxiv.org/abs/1606.02819). *arXiv:1606.02819*.
 * 2016 May 26, David Lopez-Paz, Robert Nishihara, Soumith Chintala, Bernhard Schölkopf, and Léon Bottou. [Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179). *arXiv:1605.08179*.
 * 2016 May 25, Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. [Learning Multiagent Communication with Backpropagation](https://arxiv.org/abs/1605.07736). *arXiv:1605.07736*.
+* 2016 May 24, Antoine Bordes, Y-Lan Boureau, and Jason Weston. [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). *arXiv:1605.07683*.
 * 2016 April 29, Jiajun Wu, Tianfan Xue, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba, and William T. Freeman. [Single Image 3D Interpreter Network](https://arxiv.org/abs/1604.08685). *arXiv:1604.08685*.
 * 2016 Aprial 13, Sumit Chopra, Michael Auli, and Alexander M. Rush. [Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](https://research.fb.com/publications/abstractive-summarization-with-attentive-rnn-naacl-2016/). *NAACL 2016*.
 * 2016 April 7, Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O. Pinheiro, Sam Gross, Soumith Chintala, and Piotr Dollár. [A MultiPath Network for Object Detection](https://arxiv.org/abs/1604.02135). *arXiv:1604.02135*.
