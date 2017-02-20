@@ -12,6 +12,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2015 January 22, *[Wait but Why](http://waitbutwhy.com/)*, The AI Revolution: The Road to Superintelligence [(Part 1)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [(2015 January 27, Part 2)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html). Tim Urban.
 * 2014 September 3, *Oxford University Press*, [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111). Nick Bostrom.
 * 2004, September 9, *Time Books*, [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). Jeff Hawkins.
+* A [timeline](http://realai.org/curriculum/timeline.html) of recent events.
 
 ### Basic Computer Science Textbooks
 
