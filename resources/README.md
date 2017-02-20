@@ -22,5 +22,7 @@ permalink: /resources/
 ## Links
 
 * [AI•ON](http://ai-on.org/) is an open community dedicated to advancing Artificial Intelligence.
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) is a curated list hosted on GitHub.
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) is a reading roadmap for newcomers.
 * The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development.
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
