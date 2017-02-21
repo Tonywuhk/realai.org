@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
 * 2017 February 13, Akosua Busia and Navdeep Jaitly. [Next-Step Conditioned Deep Convolutional Neural Networks Improve Protein Secondary Structure Prediction](https://arxiv.org/abs/1702.03865). *arXiv:1702.03865*.
 * 2017 February 2, Ryan Dahl, Mohammad Norouzi, and Jonathon Shlens. [Pixel Recursive Super Resolution](https://arxiv.org/abs/1702.00783). *arXiv:1702.00783*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
