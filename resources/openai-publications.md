@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 
 ## 2017
 
+* 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
 * 2017 February 11, Sandy H. Huang, David Held, Pieter Abbeel, and Anca D. Dragan. [Enabling Robots to Communicate their Objectives](https://arxiv.org/abs/1702.03465). *arXiv:1702.03465*.
 * 2017 February 8, Sandy Huang, Nicolas Papernot, Ian Goodfellow, Yan Duan, and Pieter Abbeel. [Adversarial Attacks on Neural Network Policies](https://arxiv.org/abs/1702.02284). *arXiv:1702.02284*.
 * 2017 February 3, Gregory Kahn, Adam Villaflor, Vitchyr Pong, Pieter Abbeel, and Sergey Levine. [Uncertainty-Aware Reinforcement Learning for Collision Avoidance](https://arxiv.org/abs/1702.01182). *arXiv:1702.01182*.
