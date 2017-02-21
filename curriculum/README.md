@@ -18,6 +18,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 * 2016 Autumn, *Stanford University*, [CS 229: Machine Learning](http://cs229.stanford.edu/). Andrew Ng and John Duchi.
 * 2016 September, *MIT Press*, [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. Richard S. Sutton and Andrew G. Barto.
+* 2016 August 1-7, *Montreal, Canada*, [Deep Learning Summer School](https://sites.google.com/site/deeplearningsummerschool2016/). CIFAR and CRM. *To be renewed in July 2017 as [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)*
 * 2012 June 27, *Cengage Learning*, [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), 3rd Edition. Michael Sipser.
 
 ### Introduction to Deep Learning
