@@ -14,8 +14,9 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2004, September 9, *Time Books*, [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). Jeff Hawkins.
 * A [timeline](http://realai.org/curriculum/timeline.html) of recent events.
 
-### Basic Computer Science Textbooks
+### Basic Computer Science
 
+* 2016 Autumn, *Stanford University*, [CS 229: Machine Learning](http://cs229.stanford.edu/). Andrew Ng and John Duchi.
 * 2016 September, *MIT Press*, [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. Richard S. Sutton and Andrew G. Barto.
 * 2012 June 27, *Cengage Learning*, [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), 3rd Edition. Michael Sipser.
 
