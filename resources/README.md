@@ -3,7 +3,7 @@ permalink: /resources/
 ---
 # Resources
 
-* [Events](http://realai.org/resources/events.html)
+* [Conferences](http://realai.org/resources/conferences.html)
 * [Research Groups](http://realai.org/resources/research-groups.html)
 * [Scientists](http://realai.org/resources/scientists.html)
 
@@ -15,6 +15,7 @@ permalink: /resources/
 * [inFERENCe](http://www.inference.vc/), posts on machine learning, statistics, opinions on things Ferenc's reading in the space.
 * Eric [Jang](http://blog.evjang.com/), technology, A.I., careers.
 * Andrej [Karpathy](http://karpathy.github.io/) blog.
+* The [Neural Perspective](https://theneuralperspective.com/) is all about simplifying and democratizing deep learning concepts and applications.
 * [Piekniewski's](http://blog.piekniewski.info/) blog on limits of deep learning and where to go next with AI.
 * The [Spectator](http://blog.shakirm.com/) is Shakir's machine learning blog.
 * [WildML](http://www.wildml.com/) is a blog about machine learning.
