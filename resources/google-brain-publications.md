@@ -35,6 +35,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
+* 2016 November 2, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://openreview.net/forum?id=ryuxYmvel&noteId=ryuxYmvel). *OpenReview*.
 * 2016 October 30, Augustus Odena, Christopher Olah, and Jonathon Shlens. [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). *arXiv:1610.09585*.
 * 2016 October 24, Vincent Dumoulin, Jonathon Shlens, and Manjunath Kudlur. [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629). *arXiv:1610.07629*.
 * 2016 October 21, Martín Abadi and David G. Andersen. [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/abs/1610.06918). *arXiv:1610.06918*.
