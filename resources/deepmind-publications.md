@@ -103,6 +103,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 February 8, Sander Dieleman, Jeffrey De Fauw, and Koray Kavukcuoglu. [Exploiting Cyclic Symmetry in Convolutional Neural Networks](https://arxiv.org/abs/1602.02660). *arXiv:1602.02660*.
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
 * 2016 January 25, Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu. [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759). *arXiv:1601.06759*.
+* 2016 January 7, Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, and Colin J. Akerman. [Random synaptic feedback weights support error backpropagation for deep learning](http://www.nature.com/articles/ncomms13276). *Nature Communications*, 7:13276.
 * 2016 January 5, Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, and Demis Hassabis. [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html). *Nature*, 538(7626):471-476.
 
 ## 2015
