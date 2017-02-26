@@ -54,6 +54,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 August 22, Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, and Dumitru Erhan. [Domain Separation Networks](https://arxiv.org/abs/1608.06019). *arXiv:1608.06019*.
 * 2016 July 8, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533). *arXiv:1607.02533*.
 * 2016 July 1, Martín Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang. [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133). *arXiv:1607.00133*.
+* 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2016 June 16, Ben Poole, Subhaneil Lahiri, Maithra Raghu, Jascha Sohl-Dickstein, and Surya Ganguli. [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/abs/1606.05340). *arXiv:1606.05340*.
 * 2016 June 14, Alex A. Alemi, Francois Chollet, Niklas Een, Geoffrey Irving, Christian Szegedy, and Josef Urban. [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442). *arXiv:1606.04442*.
 * 2016 May 25, Takeru Miyato, Andrew M. Dai, and Ian Goodfellow. [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725). *arXiv:1605.07725*.
@@ -97,6 +98,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2015 September 27, Georg Heigold, Ignacio Moreno, Samy Bengio, and Noam Shazeer. [End-to-End Text-Dependent Speaker Verification](https://arxiv.org/abs/1509.08062). *arXiv:1509.08062*.
 * 2015 September, Anelia Angelova, Alex Krizhevsky, Vincent Vanhoucke, Abhijit Ogale, and Dave Ferguson. [Real-Time Pedestrian Detection With Deep Network Cascades](https://research.google.com/pubs/pub43850.html). *Proceedings of BMVC 2015*.
 * 2015 August 5, William Chan, Navdeep Jaitly, Quoc V. Le, and Oriol Vinyals. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211). *arXiv:1508.01211*.
+* 2015 July 29, Andrew M. Dai, Christopher Olah, and Quoc V. Le. [Document Embedding with Paragraph Vectors](https://arxiv.org/abs/1507.07998). *arXiv:1507.07998*.
 * 2015 July, Erich Grädel, Wied Pakusa, Svenja Schalthöfer, and Lukasz Kaiser. [Characterising Choiceless Polynomial Time with First-Order Interpretations](http://ieeexplore.ieee.org/document/7174922/). *LICS 2015*, 677-688.
 * 2015 June 19, Oriol Vinyals and Quoc Le. [A Neural Conversational Model](https://arxiv.org/abs/1506.05869). *arXiv:1506.05869*.
 * 2015 June 9, Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly. [Pointer Networks](https://arxiv.org/abs/1506.03134). *arXiv:1506.03134*.
