@@ -3,13 +3,10 @@ title: Frontier
 permalink: /frontier/
 ---
 
-# Recent Events
+# AI and Society
 
-Events that potentially will be proved significant enough to be added to Real AI [Timeline](http://realai.org/curriculum/timeline.html):
-
-##### 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/)
-
-The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
+* 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
+* 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/): The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
 
 ---
 
@@ -21,12 +18,6 @@ The [Future of Life Institute](https://futureoflife.org/) brought together a gro
 * 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
 * 2016 April 1, Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289). *arXiv:1604.00289*.
 * 2015 November 30, Juergen Schmidhuber. [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](https://arxiv.org/abs/1511.09249). *arXiv:1511.09249*.
-
----
-
-# AI and Society
-
-* 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
 
 ---
 
