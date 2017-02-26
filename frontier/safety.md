@@ -19,11 +19,24 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
+* 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
 
 ## At Real AI
+
+*Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
 Among all the systems our civilization depends on, the nature has the best record: Physics never fails. We're the only known advanced civilization in vast time and space that stretch trillions of miles and billions of years. We have always been able to find a way forward.
 
 We will design our intelligent system to learn from the nature, understand the significance of our civilization, and facilitate its continued propserity.
 
 In order to achieve that, our AI will not be a naively utility-maximizing agent. Its learning mechanism is not necessarily a set of rules designed from optimizing a particular function. It will learn to be the way forward, protecting us against existential risks such as climate change, biotech, nuclear disaster, and harmful AI systems, including itself if it so turns out.
+
+### The Appearance of Goal-Driven Behavior
+
+An AI system is a complex system inside some environment. In the long run it does not even need to have a stable boundary. In the short run, when we can approximately draw boundary to separate the system from the environment, the system performs computations on its input and produces output. The output and input are sometimes linked in a way with the appearance that the system is trying to optimize an internal goal, while in fact the system is merely following the rules set in the environment.
+
+A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics.
+
+Our philosophy of designing a safe AI is to build a system that robustly translates natural input into beneficial behavior. This is not necessarily a goal encoded in the system itself, but will accurately depict the system's behavior as long as the system computes naturally. Our confidence in such a system will come from the reliability of physics and the exceptional track record that the nature has always been beneficial to our civilization.
+
+*To be continued ...*
