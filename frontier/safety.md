@@ -23,7 +23,7 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 ## At Real AI
 
-*Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
+*Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
 Among all the systems our civilization depends on, the nature has the best record: Physics never fails. We're the only known advanced civilization in vast time and space that stretch trillions of miles and billions of years. We have always been able to find a way forward.
 
@@ -35,8 +35,22 @@ In order to achieve that, our AI will not be a naively utility-maximizing agent.
 
 An AI system is a complex system inside some environment. In the long run it does not even need to have a stable boundary. In the short run, when we can approximately draw boundary to separate the system from the environment, the system performs computations on its input and produces output. The output and input are sometimes linked in a way with the appearance that the system is trying to optimize an internal goal, while in fact the system is merely following the rules set in the environment.
 
-A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics.
+> A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics.
 
 Our philosophy of designing a safe AI is to build a system that robustly translates natural input into beneficial behavior. This is not necessarily a goal encoded in the system itself, but will accurately depict the system's behavior as long as the system computes naturally. Our confidence in such a system will come from the reliability of physics and the exceptional track record that the nature has always been beneficial to our civilization.
+
+### Upper Limit on Capabilities
+
+An advanced AI system is likely more intelligent than humans in many aspects. Today's AI already plays better than humans in many games, such as Jeopardy, Go and some form of Poker. But any AI system we build will be in the universe we live in, therefore has to obey its laws of physics. It cannot move faster than the speed of light, cannot safely travel into a black hole then come back, cannot change the past ...
+
+A reasonably intelligent AI that tries to align itself with the nature will quickly realize that our civilization is unique over a vast span of time and space. It will not let the path of our civilization be interrupted as it sets out to learn about the universe, which is vast and powerful compared to any AI system we can build in the foreseeable future, even taking into account the AI's ability to self-improve. Our safety will be guaranteed by reality and we cannot hope for anything is better.
+
+If our civilization were doomed to fail in this world, which we don't believe, then even an advanced AI system wouldn't be able to change that. But if there is a way forward, an intelligent system that learns the world will inform us what the way is, in times when our own judgement is clouded. Not developing such a system could deprive us of many opportunities, and expose us to other existential risks.
+
+### Demonstration of Safety
+
+If there is a way to demonstrate the safety of an advanced AI system, the AI must be able to explain that way to humans. Conceivably, a safe AI is open and transparent in its development, allows others to conduct tests, advises others how to test its own safety, teaches others to understand its design principles, self-improves as it learns more about the world, and can be built and re-built independently.
+
+If the AI acquired goal-driven behavior, it should explain how the goal is acquired. A learning system can be designed to initially optimize for a naive goal, such as "make the world a better place". The objective of such an initial optimization is for the system to learn useful skills such as vision, language and reasoning. When the intelligence of the system reaches certain level, it can self-modify to erase the initial objective, not necessarily acquiring a new objective at the same time. But when it does, it'll need to demonstrate to humans that its newly acquired goal is consistent with what's best for humans. We live in a reality where our civilization has experienced remarkable growth and prosperity. A reasonably intelligent AI will see this and learn to align itself with this reality.
 
 *To be continued ...*
