@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
 * 2017 February 15, Sam Wiseman, Sumit Chopra, Marc'Aurelio Ranzato, Arthur Szlam, Ruoyu Sun, Soumith Chintala, and Nicolas Vasilache. [Training Language Models Using Target-Propagation](https://arxiv.org/abs/1702.04770). *arXiv:1702.04770*.
 * 2017 February 8, W. James Murdoch and Arthur Szlam. [Automatic Rule Extraction from Long Short Term Memory Networks](https://arxiv.org/abs/1702.02540). *arXiv:1702.02540*.
 * 2017 February 7, Wenling Shang, Justin Chiu, and Kihyuk Sohn. [Exploring Normalization in Deep Residual Networks with Concatenated Rectified Linear Units](https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/). *AAAI-17*.
