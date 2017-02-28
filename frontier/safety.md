@@ -53,4 +53,22 @@ If there is a way to demonstrate the safety of an advanced AI system, the AI mus
 
 If the AI acquired goal-driven behavior, it should explain how the goal is acquired. A learning system can be designed to initially optimize for a naive goal, such as "make the world a better place". The objective of such an initial optimization is for the system to learn useful skills such as vision, language and reasoning. When the intelligence of the system reaches certain level, it can self-modify to erase the initial objective, not necessarily acquiring a new objective at the same time. But when it does, it'll need to demonstrate to humans that its newly acquired goal is consistent with what's best for humans. We live in a reality where our civilization has experienced remarkable growth and prosperity. A reasonably intelligent AI will see this and learn to align itself with this reality.
 
+### Intelligence Jump after Wireheading
+
+Many self-modifying, goal-driven systems will eventually be capable enough to modify the internal encodings of original, human designed goals. This is sometimes referred to as wireheading, and it can be a great feature. When wireheading occurs, the AI effectively internalizes the optimization of its old objective, using a small fraction of its developed capabilities. Consequently, a large portion of the AI's intelligence that are previously used to optimize the old goal becomes free, resulting in an instant jump in intelligence.
+
+The new system effectively does not have a designed goal, which is internalized, and gains an enhanced ability to learn from the nature. There is no theoretical guarantee that the system after intelligence jump is safe. But if we restrict the jump to happen inside a safe environment, we can always repeat this process until a safe system emerges from the jump, before allowing it to interact more with our reality. For example, a system trained in exploring a virtual, abstract mathematical world is not a risk to us, because it receives no information regarding our world. But due to the complexity in math, it can grow to be very intelligent.
+
+Such a system's interaction with our reality can gradually increase as it demonstrates its own safety beyond the doubts of mankind and other reasonbly reliable AI systems, such as its own copies. As reality-based learning starts, a safe and intelligent system can learn to be part of nature that is historically aligned with our own prosperity.
+
+### No Free Lunch and Reality-Based AI
+
+A myriad of architectures are capable of Turing-complete computations, in the spirit of No Free Lunch Theorem, most don't work efficiently in our world. Recent advances in deep learning since 2012 suggest that the ones that work well are learning architectures based on neural networks.
+
+Similarly, not all neural learning architectures work well. Since the architecture is part of nature, and physics never rails, the ones that work well will be the ones better aligned with reality. In other words, compared to a poorly designed system, a reality-based AI will be more efficient in our world, develops faster using less resources, and more likely to survive in the long run even in the counterintuitive sense that maybe reality mandates the AI to not encode a goal of survival inside its system.
+
+Some examples: A learning architecture looking for a counterexample of a proved math theorem is doomed to fail. Another that is driven by minimizing its interaction with the environment is unlikely to develop useful intelligence to begin with.
+
+A more realistic example: if a learning architecture under human's development efforts appears to pose an existential threat, the efforts will likely stop, but if a system that appears to align well with human values, it will likely attract more efforts and thrive. Since the human society is a crucial part of reality, our own values are already putting a lot of constraints on its development of intelligence.
+
 *To be continued ...*
