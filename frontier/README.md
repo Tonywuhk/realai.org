@@ -36,3 +36,13 @@ Through a [blog post](https://openai.com/blog/universe/), OpenAI released this s
 Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), DeepMind open-sourced this fully 3D game-like platform tailored for agent-based AI research.
 
 *Note: Real AI first noticed DeepMind Lab on 2016 December 5, shortly after the OpenAI Universe [announcement on Twitter](https://twitter.com/OpenAI/status/805661402937565184).*
+
+---
+
+# Reinforcement Learning
+
+## Hierarchical Deep Reinforcement Learning
+
+* 2016 November 6, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=B1oK8aoxe). *OpenReview*.
+* 2016 October 17, Nicolas Heess, Greg Wayne, Yuval Tassa, Timothy Lillicrap, Martin Riedmiller, and David Silver. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182). *arXiv:1610.05182*.
+* 2016 April 20, Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, and Joshua B. Tenenbaum. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057). *arXiv:1604.06057*.
