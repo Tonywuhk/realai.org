@@ -1,5 +1,9 @@
 # Index
 
+## A
+
+* [Automated Theorem Proving](http://realai.org/frontier/automated-theorem-proving.html)
+
 ## C
 
 * [Conferences](http://realai.org/resources/conferences.html)
