@@ -10,6 +10,7 @@ On this page, we consider how to ensure that the AI system we develop will benef
 ### News
 
 * 2017 January 5-8, The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
+* 2015 July 1, Elon Musk-backed group gives $7M to explore AI risks. [*c|net*](https://www.cnet.com/news/musk-backed-ai-group-to-give-7m-on-artificial-intelligence-research/)
 * 2015 January 28, Bill Gates wrote that he is "concerned about super intelligence". [*BBC*](http://www.bbc.com/news/31047780), [*Reddit*](https://www.reddit.com/r/IAmA/comments/2tzjp7/hi_reddit_im_bill_gates_and_im_back_for_my_third/co3r3g8/).
 * 2015 January 12, A group of scientists and entrepreneurs, including Elon Musk and Stephen Hawking, signed an open letter promising to ensure AI research benefits humanity. [*Daily Mail*](http://www.dailymail.co.uk/sciencetech/article-2907069/Don-t-let-AI-jobs-kill-Stephen-Hawking-Elon-Musk-sign-open-letter-warning-robot-uprising.html).
 * 2014 December 2, Prof. Stephen Hawking told the BBC that the development of full AI "could spell the end of the human race". [*BBC*](http://www.bbc.com/news/technology-30290540).
@@ -24,6 +25,8 @@ On this page, we consider how to ensure that the AI system we develop will benef
 ## At Real AI
 
 *Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
+
+## Safe and Beneficial Intelligence
 
 We aim to provide a satisfactory answer to the philosophical question "Who am I?" for the superintelligence we build.
 
