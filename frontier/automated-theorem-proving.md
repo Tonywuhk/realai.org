@@ -3,7 +3,7 @@ permalink: /frontier/automated-theorem-proving.html
 ---
 # Automated Theorem Proving
 
-Automated Theorem Proving (ATP) is about proving math theorems automatically. In June 2016, it was [demonstrated](https://arxiv.org/abs/1606.04442) for the first time that neural networks are useful in large scale ATP. Two months later, a complete architecture combining deep learning and tree search was proposed for the [Metamath](http://us.metamath.org/) system. In November, a [HOL Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) dataset was [introduced](https://openreview.net/forum?id=ryuxYmvel) to the public. Deep learning was [incorporated](https://arxiv.org/abs/1701.06972) into the proof search procedure of the [E Theorem Prover](http://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html) in January 2017.
+Automated Theorem Proving (ATP) is about proving math theorems automatically. In June 2016, it was [demonstrated](https://arxiv.org/abs/1606.04442) for the first time that neural networks are useful in large scale ATP. Two months later, a complete architecture combining deep learning and tree search was [proposed](https://arxiv.org/abs/1608.02644) for the [Metamath](http://us.metamath.org/) system. In November, a [HOL Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) dataset was [introduced](https://openreview.net/forum?id=ryuxYmvel) to the public. Deep learning was [incorporated](https://arxiv.org/abs/1701.06972) into the proof search procedure of the [E Theorem Prover](http://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html) in January 2017.
 
 ## References
 
