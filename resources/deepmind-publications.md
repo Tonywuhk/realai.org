@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 February 28, Daniel Zoran, Balaji Lakshminarayanan, and Charles Blundell. [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833). *arXiv:1702.08833*.
 * 2017 February 16, David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, and Peter Battaglia. [Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068). *arXiv:1702.05068*.
 * 2017 February 15, Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, and Timothy Lillicrap. [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649). *arXiv:1702.04649*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
@@ -18,6 +19,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 * 2016 December 12, Charles Beattie, Joel Z. Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, Julian Schrittwieser, Keith Anderson, Sarah York, Max Cant, Adam Cain, Adrian Bolton, Stephen Gaffney, Helen King, Demis Hassabis, Shane Legg, and Stig Petersen. [DeepMind Lab](https://arxiv.org/abs/1612.03801). *arXiv:1612.03801*.
 * 2016 December 7, Dharshan Kumaran, Andrea Banino, Charles Blundell, Demis Hassabis, and Peter Dayan. [Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing Self-Relevant Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5158095/). *Neuron*, 92(5):1135-1147.
+* 2016 December 5, Balaji Lakshminarayanan, Alexander Pritzel, and Charles Blundell. [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474). *arXiv:1612.01474*.
 * 2016 December 2, James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell. [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796). *arXiv:1612.00796*.
 * 2016 December 1, Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, and Koray Kavukcuoglu. [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222). *arXiv:1612.00222*.
 * 2016 November 28, Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, and Wang Ling. [Learning to Compose Words into Sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100). *arXiv:1611.09100*.
