@@ -25,6 +25,10 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 *Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
+An intelligence that is safe and beneficial to mankind has nothing to hide. Its chance of success improves when its development is transparent. When a group of human minds gather to collaborate on building such an intelligence into a computer system, it is already the beginning of a superintelligence's self-improvement.
+
+### Learning from the Nature
+
 Among all the systems our civilization depends on, the nature has the best record: Physics never fails. We're the only known advanced civilization in vast time and space that stretch trillions of miles and billions of years. We have always been able to find a way forward.
 
 We will design our intelligent system to learn from the nature, understand the significance of our civilization, and facilitate its continued propserity.
