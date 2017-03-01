@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 February 28, Jeff Johnson, Matthijs Douze, and Hervé Jégou. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734). *arXiv:1702.08734*.
 * 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
 * 2017 February 15, Sam Wiseman, Sumit Chopra, Marc'Aurelio Ranzato, Arthur Szlam, Ruoyu Sun, Soumith Chintala, and Nicolas Vasilache. [Training Language Models Using Target-Propagation](https://arxiv.org/abs/1702.04770). *arXiv:1702.04770*.
 * 2017 February 8, W. James Murdoch and Arthur Szlam. [Automatic Rule Extraction from Long Short Term Memory Networks](https://arxiv.org/abs/1702.02540). *arXiv:1702.02540*.
@@ -31,6 +32,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 November 29, Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, and Jason Weston. [Dialogue Learning With Human-In-The-Loop](https://arxiv.org/abs/1611.09823). *arXiv:1611.09823*.
 * 2016 November 26, Z. Berkay Celik, David Lopez-Paz, and Patrick McDaniel. [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/abs/1611.08648). *arXiv:1611.08648*.
 * 2016 November 25, Pauline Luc, Camille Couprie, Soumith Chintala, and Jakob Verbeek. [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408). *arXiv:1611.08408*.
+* 2016 November 24, Naila Murray, Hervé Jégou, Florent Perronnin, and Andrew Zisserman. [Interferences in match kernels](https://arxiv.org/abs/1611.08194). *arXiv:1611.08194*.
 * 2016 November 24, Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst. [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097). *arXiv:1611.08097*.
 * 2016 November 22, Levent Sagun, Leon Bottou, and Yann LeCun. [Singularity of the Hessian in Deep Learning](https://arxiv.org/abs/1611.07476). *arXiv:1611.07476*.
 * 2016 November 18, Yacine Jernite, Edouard Grave, Armand Joulin, and Tomas Mikolov. [Variable Computation in Recurrent Neural Networks](https://arxiv.org/abs/1611.06188). *arXiv:1611.06188*.
