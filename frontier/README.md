@@ -46,3 +46,9 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 November 6, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=B1oK8aoxe). *OpenReview*.
 * 2016 October 17, Nicolas Heess, Greg Wayne, Yuval Tassa, Timothy Lillicrap, Martin Riedmiller, and David Silver. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182). *arXiv:1610.05182*.
 * 2016 April 20, Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, and Joshua B. Tenenbaum. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057). *arXiv:1604.06057*.
+
+## Reinforcement Learning Algorithms
+
+* 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
+* 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
+
