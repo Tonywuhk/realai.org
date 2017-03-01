@@ -6,7 +6,7 @@ permalink: /frontier/
 # AI and Society
 
 * 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
-* 2017 January 5-8, [Beneficial AI 2017](https://futureoflife.org/bai-2017/): The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for a conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
+* [Safety](http://realai.org/frontier/safety.html)
 
 ---
 
