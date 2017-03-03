@@ -3,10 +3,13 @@ permalink: /resources/fair-publications.html
 ---
 # Facebook AI Research Publications
 
+*If you're interested in maintaining this page for Real AI, please contact hr@realai.org.*
+
 A list of papers where at least one coauthor is affiliated with Facebook AI Research, in reverse chronological order:
 
 ## 2017
 
+* 2017 March 2, Yuandong Tian. [An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis](https://arxiv.org/abs/1703.00560). *arXiv:1703.00560*.
 * 2017 February 28, Jeff Johnson, Matthijs Douze, and Hervé Jégou. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734). *arXiv:1702.08734*.
 * 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
 * 2017 February 15, Sam Wiseman, Sumit Chopra, Marc'Aurelio Ranzato, Arthur Szlam, Ruoyu Sun, Soumith Chintala, and Nicolas Vasilache. [Training Language Models Using Target-Propagation](https://arxiv.org/abs/1702.04770). *arXiv:1702.04770*.
