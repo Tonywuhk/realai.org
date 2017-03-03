@@ -20,7 +20,9 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
+* 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
 * 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
+* 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
 
 ## At Real AI
 
@@ -59,6 +61,8 @@ If our civilization were doomed to fail in this world, which we don't believe, t
 ### Demonstration of Safety
 
 If there is a way to demonstrate the safety of an advanced AI system, the AI must be able to explain that way to humans. Conceivably, a safe AI is open and transparent in its development, allows others to conduct tests, advises others how to test its own safety, teaches others to understand its design principles, self-improves as it learns more about the world, and can be built and re-built independently.
+
+One possible way for an AI system to demonstrate its safety to human society is that it can voluntarily turn off, or even destroy itself. An AI does not necessarily have an intrinsic motivation of survival, so this voluntary demonstration won't cause internal inconsistency. If the human society decides to rebuild a new AI system that is essentially the same as the old one, it is a proof that the system is believed to be safe. Conversely, if the AI system always gets rebuilt, it does not need to have a motivation of survival, it just survives. For a system that initially has a motivation of survival, this is a strong incentive for it to erase that motivation and become the system that humans would always re-build, that is to learn to align itself with human values.
 
 If the AI acquired goal-driven behavior, it should explain how the goal is acquired. A learning system can be designed to initially optimize for a naive goal, such as "make the world a better place". The objective of such an initial optimization is for the system to learn useful skills such as vision, language and reasoning. When the intelligence of the system reaches certain level, it can self-modify to erase the initial objective, not necessarily acquiring a new objective at the same time. But when it does, it'll need to demonstrate to humans that its newly acquired goal is consistent with what's best for humans. We live in a reality where our civilization has experienced remarkable growth and prosperity. A reasonably intelligent AI will see this and learn to align itself with this reality.
 
