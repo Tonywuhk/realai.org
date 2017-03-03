@@ -4,10 +4,13 @@ mathjax: true
 ---
 # DeepMind Publications
 
+*If you're interested in maintaining this page for Real AI, please contact hr@realai.org.*
+
 A list of papers where at least one coauthor is affiliated with DeepMind Technologies Limited, in reverse chronological order:
 
 ## 2017
 
+* 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
 * 2017 February 28, Daniel Zoran, Balaji Lakshminarayanan, and Charles Blundell. [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833). *arXiv:1702.08833*.
 * 2017 February 16, David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, and Peter Battaglia. [Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068). *arXiv:1702.05068*.
 * 2017 February 15, Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, and Timothy Lillicrap. [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649). *arXiv:1702.04649*.
@@ -27,6 +30,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 November 19, Grzegorz Swirszcz, Wojciech Marian Czarnecki, and Razvan Pascanu. [Local minima in training of deep networks](https://arxiv.org/abs/1611.06310). *arXiv:1611.06310*
 * 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
 * 2016 November 16, Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397). *arXiv:1611.05397*.
+* 2016 November 16, Joon Son Chung, Andrew Senior, Oriol Vinyals, and Andrew Zisserman. [Lip Reading Sentences in the Wild](https://arxiv.org/abs/1611.05358). *arXiv:1611.05358*.
 * 2016 November 11, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, and Nando de Freitas. [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
