@@ -84,4 +84,10 @@ Some examples: A learning architecture looking for a counterexample of a proved 
 
 A more realistic example: if a learning architecture under human's development efforts appears to pose an existential threat, the efforts will likely stop, but if a system that appears to align well with human values, it will likely attract more efforts and thrive. Since the human society is a crucial part of reality, our own values are already putting a lot of constraints on its development of intelligence.
 
+### Human Control
+
+An AI system is intially controlled by its developers. It can stay under control even after developing superhuman abilities in certain tasks. For example, an automated theorem proving AI can solve problems that are beyond the best mathematicians' abilities, but such an AI has no need to know the environment in which it is built, and consequently has no control on its physical form.
+
+An AI system and its human controllers can be seen as a bigger system that is autonomous. When the AI system is unreliable, external parties rely on the human controllers to ensure the bigger system's safety. As the AI system improves, one day it'll be more reliably aligned to human values than its human controllers, then these controllers become the source of systemic risk. Therefore in the long run, a very reliable AI system, being more reliable than a group of human controllers, must be autonomous. This can be accomplished through very careful testing and sufficiently many demonstrations of safety, until the human society is satisfied that the AI system is ready. Eventually if the AI system is so reliable that nobody doubts its safety, it effectively becomes part of nature.
+
 *To be continued ...*
