@@ -49,6 +49,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
   Training Data](https://arxiv.org/abs/1610.05755). *arXiv:1610.05755*.
 * 2016 October 10, William Chan, Yu Zhang, Quoc Le, and Navdeep Jaitly. [Latent Sequence Decompositions](https://arxiv.org/abs/1610.03035). *arXiv:1610.03035*.
 * 2016 October 7, Moritz Hardt, Eric Price, and Nathan Srebro. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413). *arXiv:1610.02413*.
+* 2016 October 7, François Chollet. [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357). *arXiv:1610.02357*.
 * 2016 October 3, Shixiang Gu, Ethan Holly, Timothy Lillicrap, and Sergey Levine. [Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates](https://arxiv.org/abs/1610.00633). *arXiv:1610.00633*.
 * 2016 October, Derek G. Murray, Frank McSherry, Michael Isard, Rebecca Isaacs, Paul Barham, and Martin Abadi. [Incremental, iterative data processing with timely dataflow](http://cacm.acm.org/magazines/2016/10/207774-incremental-iterative-data-processing-with-timely-dataflow/fulltext). *Communications of the ACM*, 59(10):75-83.
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
