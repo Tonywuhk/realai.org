@@ -26,13 +26,11 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 ## At Real AI
 
-*Below is a summary of our current thinking. It will be updated from time to time as our understanding of AI safety continues to improve. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
+*Below is a summary of our current thinking. It will be revised from time to time as our understanding of AI safety improves. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
-## Safe and Beneficial Intelligence
+## Towards A Safe and Beneficial Intelligence
 
-We aim to provide a satisfactory answer to the philosophical question "Who am I?" for the superintelligence we build.
-
-An intelligence that is safe and beneficial to mankind has nothing to hide. Its chance of success improves when its development is transparent. When a group of human minds gather to collaborate on building such an intelligence into a computer system, it is already the beginning of a superintelligence's self-improvement.
+We attempt to answer the philosophical question “Who am I?” for the superintelligence (SI) that will be built. Throughout history, the nature has always offered a way for humanity to advance. Our SI learns to be this way, an infrastructure that provides for, supports, and protects the society. Not necessarily having explicit goals such as self-preservation, its continued existence is guaranteed by people's desire to build the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. When a group of human minds collaborate to build such an intelligence, the SI’s self-improvement begins.
 
 ### Learning from the Nature
 
