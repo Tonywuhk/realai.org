@@ -78,5 +78,6 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 ## Evolutionary Algorithms
 
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
+* 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
 * 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
 
