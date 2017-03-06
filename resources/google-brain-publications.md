@@ -28,12 +28,15 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 * 2016 December 20, Pierre Sermanet, Kelvin Xu, and Sergey Levine. [Unsupervised Perceptual Rewards for Imitation Learning](https://arxiv.org/abs/1612.06699). *arXiv:1612.06699*.
 * 2016 December 16, Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, and Dilip Krishnan. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424). *arXiv:1612.05424*.
+* 2016 December 8, Ben Poole, Alexander A. Alemi, Jascha Sohl-Dickstein, and Anelia Angelova. [Improved generator objectives for GANs](https://arxiv.org/abs/1612.02780). *arXiv:1612.02780*.
 * 2016 December 4, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](https://arxiv.org/abs/1612.01197). *arXiv:1612.01197*.
 * 2016 November 29, Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, and Samy Bengio. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940). *arXiv:1611.09940*.
+* 2016 November 29, Jasmine Collins, Jascha Sohl-Dickstein, and David Sussillo. [Capacity and Trainability in Recurrent Neural Networks](https://arxiv.org/abs/1611.09913). *arXiv:1611.09913*.
 * 2016 November 29, Varun Gulshan, Lily Peng, Marc Coram, Martin Stumpe, Derek Wu, Arunachalam Narayanaswamy, Subhashini Venugopalan, Kasumi Widner, Tom Madams, Jorge Cuadros, Ramasamy Kim, Rajiv Raman, Philip Q Nelson, Jessica Mega, and Dale Webster. [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://research.google.com/pubs/pub45732.html). *JAMA 2016*.
 * 2016 November 28, Jakob N. Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-Dickstein, and David Sussillo. [Intelligible Language Modeling with Input Switched Affine Networks](https://arxiv.org/abs/1611.09434). *arXiv:1611.09434*.
 * 2016 November 28, Ofir Nachum, Mohammad Norouzi, and Dale Schuurmans. [Improving Policy Gradient by Exploring Under-appreciated Rewards](https://arxiv.org/abs/1611.09321). *arXiv:1611.09321*.
 * 2016 November 28, Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, and Dario Amodei. [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945). *arXiv:1611.08945*.
+* 2016 November 24, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein. [Survey of Expressivity in Deep Neural Networks](https://arxiv.org/abs/1611.08083). *arXiv:1611.08083*.
 * 2016 November 14, Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558). *arXiv:1611.04558*.
 * 2016 November 14, Moritz Hardt and Tengyu Ma. [Identity Matters in Deep Learning](https://arxiv.org/abs/1611.04231). *arXiv:1611.04231*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
@@ -43,6 +46,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 7, Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein. [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163). *arXiv:1611.02163*.
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
+* 2016 November 4, Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, and Jascha Sohl-Dickstein. [Deep Information Propagation](https://arxiv.org/abs/1611.01232). *arXiv:1611.01232*.
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
 * 2016 October 31, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020). *arXiv:1611.00020*.
 * 2016 October 30, Augustus Odena, Christopher Olah, and Jonathon Shlens. [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). *arXiv:1610.09585*.
@@ -66,6 +70,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 July 1, Martín Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang. [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133). *arXiv:1607.00133*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2016 June 16, Ben Poole, Subhaneil Lahiri, Maithra Raghu, Jascha Sohl-Dickstein, and Surya Ganguli. [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/abs/1606.05340). *arXiv:1606.05340*.
+* 2016 June 16, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein. [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336). *arXiv:1606.05336*.
 * 2016 June 14, Alex A. Alemi, Francois Chollet, Niklas Een, Geoffrey Irving, Christian Szegedy, and Josef Urban. [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442). *arXiv:1606.04442*.
 * 2016 May 25, Takeru Miyato, Andrew M. Dai, and Ian Goodfellow. [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725). *arXiv:1605.07725*.
 * 2016 May 23, Chelsea Finn, Ian Goodfellow, and Sergey Levine. [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157). *arXiv:1605.07157*.
