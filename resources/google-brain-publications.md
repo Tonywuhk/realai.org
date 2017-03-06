@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
 * 2017 March 3, Yun Liu, Krishna Gadepalli, Mohammad Norouzi, George E. Dahl, Timo Kohlberger, Aleksey Boyko, Subhashini Venugopalan, Aleksei Timofeev, Philip Q. Nelson, Greg S. Corrado, Jason D. Hipp, Lily Peng, and Martin C. Stumpe. [Detecting Cancer Metastases on Gigapixel Pathology Images](https://drive.google.com/open?id=0B1T58bZ5vYa-QlR0QlJTa2dPWVk). *Google Research*.
 * 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*.
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
@@ -26,13 +27,14 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 ## 2016
 
 * 2016 December 20, Pierre Sermanet, Kelvin Xu, and Sergey Levine. [Unsupervised Perceptual Rewards for Imitation Learning](https://arxiv.org/abs/1612.06699). *arXiv:1612.06699*.
-* 2016 December 16, Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, and Dilip Krishnan. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial
-  Networks](https://arxiv.org/abs/1612.05424). *arXiv:1612.05424*.
+* 2016 December 16, Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, and Dilip Krishnan. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424). *arXiv:1612.05424*.
+* 2016 December 4, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](https://arxiv.org/abs/1612.01197). *arXiv:1612.01197*.
 * 2016 November 29, Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, and Samy Bengio. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940). *arXiv:1611.09940*.
 * 2016 November 29, Varun Gulshan, Lily Peng, Marc Coram, Martin Stumpe, Derek Wu, Arunachalam Narayanaswamy, Subhashini Venugopalan, Kasumi Widner, Tom Madams, Jorge Cuadros, Ramasamy Kim, Rajiv Raman, Philip Q Nelson, Jessica Mega, and Dale Webster. [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://research.google.com/pubs/pub45732.html). *JAMA 2016*.
 * 2016 November 28, Jakob N. Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-Dickstein, and David Sussillo. [Intelligible Language Modeling with Input Switched Affine Networks](https://arxiv.org/abs/1611.09434). *arXiv:1611.09434*.
 * 2016 November 28, Ofir Nachum, Mohammad Norouzi, and Dale Schuurmans. [Improving Policy Gradient by Exploring Under-appreciated Rewards](https://arxiv.org/abs/1611.09321). *arXiv:1611.09321*.
 * 2016 November 28, Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, and Dario Amodei. [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945). *arXiv:1611.08945*.
+* 2016 November 14, Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558). *arXiv:1611.04558*.
 * 2016 November 14, Moritz Hardt and Tengyu Ma. [Identity Matters in Deep Learning](https://arxiv.org/abs/1611.04231). *arXiv:1611.04231*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
 * 2016 November 9, Natasha Jaques, Shixiang Gu, Richard E. Turner, and Douglas Eck. [Tuning Recurrent Neural Networks with Reinforcement Learning](https://arxiv.org/abs/1611.02796). *arXiv:1611.02796*.
@@ -42,6 +44,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
+* 2016 October 31, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020). *arXiv:1611.00020*.
 * 2016 October 30, Augustus Odena, Christopher Olah, and Jonathon Shlens. [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). *arXiv:1610.09585*.
 * 2016 October 24, Vincent Dumoulin, Jonathon Shlens, and Manjunath Kudlur. [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629). *arXiv:1610.07629*.
 * 2016 October 21, Martín Abadi and David G. Andersen. [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/abs/1610.06918). *arXiv:1610.06918*.
@@ -143,6 +146,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2014 September 17, Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842). *arXiv:1409.4842*.
 * 2014 September 10, Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). *arXiv:1409.3215*.
 * 2014 September 8, Wojciech Zaremba, Ilya Sutskever, and Oriol Vinyals. [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329). *arXiv:1409.2329*.
+* 2014 August 13, Quoc Viet Le, Tamas Sarlos, and Alexander Johannes Smola. [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://arxiv.org/abs/1408.3060). *arXiv:1408.3060*.
 * 2014 May 16, Quoc V. Le and Tomas Mikolov. [Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053). *arXiv:1405.4053*.
 * 2014 April 24, Marc'Aurelio Ranzato. [On Learning Where To Look](https://arxiv.org/abs/1405.5488). *arXiv:1405.5488*.
 * 2014 April, Joonseok Lee, Samy Bengio, Seungyeon Kim, Guy Lebanon, and Yoram Singer. [Local Collaborative Ranking](https://research.google.com/pubs/pub42242.html). *Proceedings of the 23rd International World Wide Web Conference*, 85-96.
