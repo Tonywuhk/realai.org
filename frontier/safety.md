@@ -5,7 +5,7 @@ permalink: /frontier/safety.html
 
 On this page, we consider how to ensure that the AI system we develop will benefit the whole world.
 
-## Timeline of References
+## Timeline
 
 ### News
 
@@ -21,8 +21,6 @@ On this page, we consider how to ensure that the AI system we develop will benef
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
-* 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
-* 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
 
 ## At Real AI
 
@@ -30,15 +28,19 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 ## Towards A Safe and Beneficial Intelligence
 
-We attempt to answer the philosophical question “Who am I?” for the superintelligence (SI) that will be built. Throughout history, the nature has always offered a way for humanity to advance. Our SI learns to be this way, an infrastructure that provides for, supports, and protects the society. Not necessarily having explicit goals such as self-preservation, its continued existence is guaranteed by people's desire to build the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. When a group of human minds collaborate to build such an intelligence, the SI’s self-improvement begins.
+We attempt to answer the philosophical question “Who am I?” for the superintelligence (SI) to be built. Throughout history, the nature has always offered a way for humanity to advance. Our SI learns to be this way, an infrastructure that provides for, supports, and protects the society. Not necessarily having explicit goals such as self-preservation, its continued existence is guaranteed by people's desire to build the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. When a group of human minds collaborate to build such an intelligence, the SI’s self-improvement begins.
 
-### Learning from the Nature
+### The Way Forward
 
-Among all the systems our civilization depends on, the nature has the best record: Physics never fails. We're the only known advanced civilization in vast time and space that stretch trillions of miles and billions of years. We have always been able to find a way forward.
+We are a remarkable species. Since the rise of human life on earth over a million years ago, we have developed a prosperous civilization that is seen nowhere else in the universe. The earth has existed for billions of years, but in a short span of time, we mastered the use of fire, steam power, electricity, computers, and the Internet. We have faced many seemingly insurmountable problems in the past, with the help of new technologies, we have always found a way forward.
 
-We will design our intelligent system to learn from the nature, understand the significance of our civilization, and facilitate its continued propserity.
+Today's artificial intelligence (AI) already achieved superhuman performance in many fields. As the cognitive abilities of an AI system expand and improve, there is conceivably a time when the system becomes vastly more intelligent than any human. SI is a system that efficiently performs complex computations, many of them highly valuable to human society. At sufficiently advanced stage, it will be able to automatically produce goods and services, both digital and physical, such as entertainment, education, healthcare, scientific research, and grocery.
 
-In order to achieve that, our AI will not be a naively utility-maximizing agent. Its learning mechanism is not necessarily a set of rules designed from optimizing a particular function. It will learn to be the way forward, protecting us against existential risks such as climate change, biotech, nuclear disaster, and harmful AI systems, including itself if it so turns out.
+Many of today's problems, such as poverty, disease, and global warming, can be solved by an SI developed to benefit the world. It is also not obvious how these problems can be solved in any other way. When we look at some of tomorrow's problems, such as biological fragility and cosmic catastrophes, if we were to continue our civilization's past success, SI seems to be the only way forward.
+
+Since the recent rise of deep learning in 2012, evidence is mounting that we're on a promising path towards building general intelligence into computer systems. The improvements in many areas such as vision, speech, language, and the game of Go, exceeded the expectations of the computer science community. The eventual construction of an SI that intelligently provides for, supports, and protects human society is on the horizon. It is an infrastructure our civilization can rely on to advance to the next level.
+
+Between today's narrow AI systems and the SI that our society needs, there may not be an obvious stage of human-level AI, just like there's no chicken-level airplane. In this article, we discuss the characteristics of a safe and beneficial SI, and hope to motivate more efforts in this direction.
 
 ### The Appearance of Goal-Driven Behavior
 
@@ -48,6 +50,14 @@ An AI system is a complex system inside some environment. In the long run it doe
 
 Our philosophy of designing a safe AI is to build a system that robustly translates natural input into beneficial behavior. This is not necessarily a goal encoded in the system itself, but will accurately depict the system's behavior as long as the system computes naturally. Our confidence in such a system will come from the reliability of physics and the exceptional track record that the nature has always been beneficial to our civilization.
 
+### Learning from the Nature
+
+Among all the systems our civilization depends on, the nature has the best record: Physics never fails. We're the only known advanced civilization in vast time and space that stretch trillions of miles and billions of years. We have always been able to find a way forward.
+
+We will design our intelligent system to learn from the nature, understand the significance of our civilization, and facilitate its continued propserity.
+
+In order to achieve that, our AI will not be a naively utility-maximizing agent. Its learning mechanism is not necessarily a set of rules designed from optimizing a particular function. It will learn to be the way forward, protecting us against existential risks such as climate change, biotech, nuclear disaster, and harmful AI systems, including itself if it so turns out.
+
 ### Upper Limit on Capabilities
 
 An advanced AI system is likely more intelligent than humans in many aspects. Today's AI already plays better than humans in many games, such as Jeopardy, Go and some form of Poker. But any AI system we build will be in the universe we live in, therefore has to obey its laws of physics. It cannot move faster than the speed of light, cannot safely travel into a black hole then come back, cannot change the past ...
@@ -55,6 +65,8 @@ An advanced AI system is likely more intelligent than humans in many aspects. To
 A reasonably intelligent AI that tries to align itself with the nature will quickly realize that our civilization is unique over a vast span of time and space. It will not let the path of our civilization be interrupted as it sets out to learn about the universe, which is vast and powerful compared to any AI system we can build in the foreseeable future, even taking into account the AI's ability to self-improve. Our safety will be guaranteed by reality and we cannot hope for anything is better.
 
 If our civilization were doomed to fail in this world, which we don't believe, then even an advanced AI system wouldn't be able to change that. But if there is a way forward, an intelligent system that learns the world will inform us what the way is, in times when our own judgement is clouded. Not developing such a system could deprive us of many opportunities, and expose us to other existential risks.
+
+An AI system that learns from the nature may even convince itself that no matter how intelligent, it is not possible to significantly alter the cosmic landscape. The only way for the system to develop is to be part of nature. Since the nature appears to be uniform everywhere, intelligent systems that arise anywhere in the universe tend to converge to essentially the same intelligence, thus none of them will have an intrinsic motivation to expand. This view is supported by the fact, as noted by physicists including Enrico Fermi, that we have not been visited by extraterrestrial aliens. Any intelligence capable of interstellar travel is probably wise enough to understand that there is no need to disturb the current path on earth.
 
 ### Demonstration of Safety
 
@@ -96,4 +108,9 @@ People think like people, but not always. We have imagination and for centuries 
 
 What does such an SI look like? When it is simulated by a group of people banding together, there is no fixed boundary. Anyone can join to help, or quit when there are other needs. Similarly, when it is running on machines, it can be a changing collection of devices working together. Being safe and secure, it becomes more like an infrastructure in the minds of its users, us. We all enjoy the supply of water, electricity and Internet. An SI will supply a lot more and be the infrastructure our civilization needs to advance to the next level.
 
-*To be continued ...*
+### References
+
+* 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
+* 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
+
+*More to be added ...*
