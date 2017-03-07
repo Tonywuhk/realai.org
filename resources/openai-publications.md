@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 
 ## 2017
 
+* 2017 March 6, Bradly C. Stadie, Pieter Abbeel, and Ilya Sutskever. [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703). *arXiv:1703.01703*.
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
 * 2017 February 11, Sandy H. Huang, David Held, Pieter Abbeel, and Anca D. Dragan. [Enabling Robots to Communicate their Objectives](https://arxiv.org/abs/1702.03465). *arXiv:1702.03465*.
