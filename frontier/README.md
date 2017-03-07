@@ -70,6 +70,11 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 October 27, Jack W Rae, Jonathan J Hunt, Tim Harley, Ivo Danihelka, Andrew Senior, Greg Wayne, Alex Graves, and Timothy P Lillicrap. [Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes](https://arxiv.org/abs/1610.09027). *arXiv:1610.09027*.
 * 2016 January 5, Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, and Demis Hassabis. [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html). *Nature*, 538(7626):471-476.
 
+### Episodic Memory
+
+* 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
+* 2016 June 14, Charles Blundell, Benigno Uria, Alexander Pritzel, Yazhe Li, Avraham Ruderman, Joel Z Leibo, Jack Rae, Daan Wierstra, and Demis Hassabis. [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460). *arXiv:1606.04460*.
+
 ## Learning Rules
 
 * 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
