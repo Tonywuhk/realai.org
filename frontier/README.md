@@ -88,3 +88,11 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
 * 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
 
+## Predictive Learning
+
+* 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
+* 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
+
+# Applications
+
+* [Automated Theorem Proving](http://realai.org/frontier/automated-theorem-proving.html)
