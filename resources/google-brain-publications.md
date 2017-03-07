@@ -45,6 +45,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 7, Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, and Sergey Levine. [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247). *arXiv:1611.02247*.
 * 2016 November 7, Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein. [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163). *arXiv:1611.02163*.
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
+* 2016 November 5, Lukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio. [Learning to Remember Rare Events](https://openreview.net/forum?id=SJTQLdqlg). *OpenReview*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
 * 2016 November 4, Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, and Jascha Sohl-Dickstein. [Deep Information Propagation](https://arxiv.org/abs/1611.01232). *arXiv:1611.01232*.
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
