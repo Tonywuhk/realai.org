@@ -10,6 +10,10 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
+* 2017 March 6, Dani Yogatama, Chris Dyer, Wang Ling, and Phil Blunsom. [Generative and Discriminative Text Classification with Recurrent Neural Networks](https://arxiv.org/abs/1703.01898). *arXiv:1703.01898*.
+* 2017 March 3, Sean Lamont, John Aslanides, Jan Leike, and Marcus Hutter. [Generalised Discount Functions applied to a Monte-Carlo AImu  Implementation](https://arxiv.org/abs/1703.01358). *arXiv:1703.01358*.
+* 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
 * 2017 March 3, Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, and Koray Kavukcuoglu. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161). *arXiv:1703.01161*.
 * 2017 March 2, Marlos C. Machado, Marc G. Bellemare, and Michael Bowling. [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://arxiv.org/abs/1703.00956). *arXiv:1703.00956*.
 * 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
