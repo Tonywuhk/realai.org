@@ -37,6 +37,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 ### Natural Language Processing
 
+* 2017 March 5, *arXiv*, [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619). Graham Neubig.
 * 2017 Hilary, *University of Oxford*, [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures). Phil Blunsom.
 * 2017 Winter, *Stanford University*, [CS 224N / Ling 284: Natural Language Processing](http://web.stanford.edu/class/cs224n/). Chris Manning and Richard Socher.
 
