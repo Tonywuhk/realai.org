@@ -1,6 +1,7 @@
 ---
 title: Frontier
 permalink: /frontier/
+mathjax: true
 ---
 
 # AI and Society
@@ -57,6 +58,16 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 October 17, Nicolas Heess, Greg Wayne, Yuval Tassa, Timothy Lillicrap, Martin Riedmiller, and David Silver. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182). *arXiv:1610.05182*.
 * 2016 April 20, Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, and Joshua B. Tenenbaum. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057). *arXiv:1604.06057*.
 
+## Meta-Learning
+
+* 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
+* 2016 November 9, Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, and Pieter Abbeel. [RL\\(^2\\): Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779). *arXiv:1611.02779*.
+
+## Planning
+
+* 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
+* 2016 February 9, Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel. [Value Iteration Networks](https://arxiv.org/abs/1602.02867). *arXiv:1602.02867*.
+
 ## Reinforcement Learning Algorithms
 
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
@@ -92,6 +103,11 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
 * 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
+
+## Neural Programming
+
+* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
+* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
 
 # Applications
 
