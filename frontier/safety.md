@@ -40,15 +40,17 @@ Many of today's problems, such as poverty, disease, and global warming, can be s
 
 Since the recent rise of deep learning in 2012, evidence is mounting that we're on a promising path towards building general intelligence into computer systems. The improvements in many areas such as vision, speech, language, and the game of Go, exceeded the expectations of the computer science community. The eventual construction of an SI that intelligently provides for, supports, and protects human society is on the horizon. It is an infrastructure our civilization can rely on to advance to the next level.
 
+The nature has been supplying to us essential elements of life, such as water, air, and sunlight, for billions of year. We don't expect interruption, or gravity suddently turning upside down, ejecting everything on earth to the space. Such unthinkable events could happen, maybe in billions of years. The nature is intelligent, because it allowed our civilization to rise within, at the same time, it is also remarkably reliable. In the long run, a safe and beneficial intelligent infrastructure should work in a similar sense, supplying essential elements for future human society. Its possibility of failure is so remote that we rarely worry about it.
+
 Between today's narrow AI systems and the SI that our society needs, there may not be an obvious stage of human-level AI, just like there's no chicken-level airplane. In this article, we discuss the characteristics of a safe and beneficial SI, and hope to motivate more efforts in this direction.
 
 ### The Appearance of Goal-Driven Behavior
 
 An AI system is a complex system inside some environment. In the long run it does not even need to have a stable boundary. In the short run, when we can approximately draw boundary to separate the system from the environment, the system performs computations on its input and produces output. The output and input are sometimes linked in a way with the appearance that the system is trying to optimize an internal goal, while in fact the system is merely following the rules set in the environment.
 
-> A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics.
+A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics. A more modern example can be found in [Ostrovski et al. (2016)](https://arxiv.org/abs/1703.01310), where an entirely curiosity-driven game playing agent behaves as if its goal is to achieve high scores in the game.
 
-Our philosophy of designing a safe AI is to build a system that robustly translates natural input into beneficial behavior. This is not necessarily a goal encoded in the system itself, but will accurately depict the system's behavior as long as the system computes naturally. Our confidence in such a system will come from the reliability of physics and the exceptional track record that the nature has always been beneficial to our civilization.
+Our principle of designing a safe AI is to build a system that robustly translates environmental inputs into beneficial behaviors. This is not necessarily a goal encoded in the system itself, but will accurately depict the system's behavior as long as the system computes naturally. Our AI will be aligned with human values, this does not imply we as designers have to accurately encode human values into the system. It is not clear how today's scientists can predict the values adopted by a future human society. But if the future human society can learn its values collectively, then so can the AI system. Our system should operate based on rules motivated by scientific principles that do not change over time, and behave as if it is learning and aligning itself with human values. Our confidence in such a system will come from the exceptional track record of physics.
 
 ### Learning from the Nature
 
@@ -110,6 +112,7 @@ What does such an SI look like? When it is simulated by a group of people bandin
 
 ### References
 
+* 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
 * 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
 * 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
 
