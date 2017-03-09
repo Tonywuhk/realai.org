@@ -62,6 +62,7 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 ## Reinforcement Learning Algorithms
 
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
+* 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
 
 # Learning Architectures
@@ -76,6 +77,11 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 * 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
 * 2016 June 14, Charles Blundell, Benigno Uria, Alexander Pritzel, Yazhe Li, Avraham Ruderman, Joel Z Leibo, Jack Rae, Daan Wierstra, and Demis Hassabis. [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460). *arXiv:1606.04460*.
+
+## Neural Programming
+
+* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
+* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
 
 ## Learning Rules
 
@@ -104,11 +110,6 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
 * 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
-
-## Neural Programming
-
-* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
-* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
 
 # Applications
 
