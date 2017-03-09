@@ -47,3 +47,9 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 * 2017 Spring, *University of California, Berkeley*, [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/). Sergey Levine, John Schulman, Chelsea Finn.
 * 2016 June 17, *DeepMind Technologies*, [Blog: Deep Reinforcement Learning](https://deepmind.com/blog/deep-reinforcement-learning/). David Silver.
+
+### Generative Models
+
+* 2016 December 31, *arXiv*, [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160). Ian Goodfellow.
+* 2016 June 19, *arXiv*, [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908). Carl Doersch.
+* 2016 June 16, *OpenAI*, [Blog: Generative Models](https://openai.com/blog/generative-models/). Andrej Karpathy, Pieter Abbeel, Greg Brockman, Peter Chen, Vicki Cheung, Rocky Duan, Ian Goodfellow, Durk Kingma, Jonathan Ho, Rein Houthooft, Tim Salimans, John Schulman, Ilya Sutskever, and Wojciech Zaremba.
