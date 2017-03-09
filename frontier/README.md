@@ -7,20 +7,7 @@ mathjax: true
 # AI and Society
 
 * 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
-* [Safety](http://realai.org/frontier/safety.html)
-
----
-
-# Roadmaps
-
-* 2017 February 15, GoodAI [launched](http://blog.marekrosa.org/2017/02/first-round-of-general-ai-challenge_15.html) a 6-month [warm-up round](https://www.general-ai-challenge.org/active-rounds) of the General AI Challenge that is based on Facebook's [CommAI-env](https://github.com/facebookresearch/CommAI-env).
-* 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
-* 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
-* 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
-* 2016 April 1, Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289). *arXiv:1604.00289*.
-* 2015 November 30, Juergen Schmidhuber. [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](https://arxiv.org/abs/1511.09249). *arXiv:1511.09249*.
-
----
+* Topics: [Safety](http://realai.org/frontier/safety.html), [Roadmap](http://realai.org/frontier/roadmap.html).
 
 # Environments
 
@@ -37,8 +24,6 @@ Through a [blog post](https://openai.com/blog/universe/), OpenAI released this s
 Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), DeepMind open-sourced this fully 3D game-like platform tailored for agent-based AI research.
 
 *Note: Real AI first noticed DeepMind Lab on 2016 December 5, shortly after the OpenAI Universe [announcement on Twitter](https://twitter.com/OpenAI/status/805661402937565184).*
-
----
 
 # Reinforcement Learning
 
