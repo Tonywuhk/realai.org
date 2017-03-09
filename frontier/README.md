@@ -84,11 +84,21 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 January 7, Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, and Colin J. Akerman. [Random synaptic feedback weights support error backpropagation for deep learning](http://www.nature.com/articles/ncomms13276). *Nature Communications*, 7:13276.
 * 2015 February 14, Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [Towards Biologically Plausible Deep Learning](https://arxiv.org/abs/1502.04156). *arXiv:1502.04156*.
 
+## Regularization Methods
+
+* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
+
 ## Evolutionary Algorithms
 
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
 * 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
 * 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
+
+## Adversarial Learning
+
+* 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
+* 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
+* 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
 
 ## Predictive Learning
 
