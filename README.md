@@ -11,6 +11,7 @@
 
 ## F
 
+* [For Fun](http://realai.org/resources/for-fun.html)
 * [Frontier](http://realai.org/frontier/)
 
 ## P
@@ -24,6 +25,7 @@
 
 * [Research Groups](http://realai.org/resources/research-groups.html)
 * [Resources](http://realai.org/resources/)
+* [Roadmap](http://realai.org/frontier/roadmap.html)
 
 ## S
 
