@@ -20,6 +20,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 February 13, Akosua Busia and Navdeep Jaitly. [Next-Step Conditioned Deep Convolutional Neural Networks Improve Protein Secondary Structure Prediction](https://arxiv.org/abs/1702.03865). *arXiv:1702.03865*.
 * 2017 February 2, Ryan Dahl, Mohammad Norouzi, and Jonathon Shlens. [Pixel Recursive Super Resolution](https://arxiv.org/abs/1702.00783). *arXiv:1702.00783*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
+* 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
 * 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and Cezary Kaliszyk. [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
 * 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output
   Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
@@ -31,6 +32,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 December 20, Pierre Sermanet, Kelvin Xu, and Sergey Levine. [Unsupervised Perceptual Rewards for Imitation Learning](https://arxiv.org/abs/1612.06699). *arXiv:1612.06699*.
 * 2016 December 16, Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, and Dilip Krishnan. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424). *arXiv:1612.05424*.
 * 2016 December 8, Ben Poole, Alexander A. Alemi, Jascha Sohl-Dickstein, and Anelia Angelova. [Improved generator objectives for GANs](https://arxiv.org/abs/1612.02780). *arXiv:1612.02780*.
+* 2016 December 8, Jan Chorowski and Navdeep Jaitly. [Towards better decoding and language model integration in sequence to sequence models](https://arxiv.org/abs/1612.02695). *arXiv:1612.02695*.
 * 2016 December 4, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](https://arxiv.org/abs/1612.01197). *arXiv:1612.01197*.
 * 2016 November 29, Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, and Samy Bengio. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940). *arXiv:1611.09940*.
 * 2016 November 29, Jasmine Collins, Jascha Sohl-Dickstein, and David Sussillo. [Capacity and Trainability in Recurrent Neural Networks](https://arxiv.org/abs/1611.09913). *arXiv:1611.09913*.
@@ -53,6 +55,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
 * 2016 October 31, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020). *arXiv:1611.00020*.
 * 2016 October 30, Augustus Odena, Christopher Olah, and Jonathon Shlens. [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). *arXiv:1610.09585*.
+* 2016 October 27, Łukasz Kaiser and Samy Bengio. [Can Active Memory Replace Attention?](https://arxiv.org/abs/1610.08613). *arXiv:1610.08613*.
 * 2016 October 24, Vincent Dumoulin, Jonathon Shlens, and Manjunath Kudlur. [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629). *arXiv:1610.07629*.
 * 2016 October 21, Martín Abadi and David G. Andersen. [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/abs/1610.06918). *arXiv:1610.06918*.
 * 2016 October 20, Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z. Leibo, and Catalin Ionescu. [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258). *arXiv:1610.06258*.
@@ -68,6 +71,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
 * 2016 September 10, Martín Abadi, Bruno Blanchet, and Cédric Fournet. [The Applied Pi Calculus: Mobile Values, New Names, and Secure
   Communication](https://arxiv.org/abs/1609.03003). *arXiv:1609.03003*.
+* 2016 September 9, Charles Jordan and Łukasz Kaiser. [Machine Learning with Guarantees using Descriptive Complexity and SMT Solvers](https://arxiv.org/abs/1609.02664). *arXiv:1609.02664*.
 * 2016 September 1, Mohammad Norouzi, Samy Bengio, Zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, and Dale Schuurmans. [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://arxiv.org/abs/1609.00150). *arXiv:1609.00150*.
 * 2016 August 22, Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, and Dumitru Erhan. [Domain Separation Networks](https://arxiv.org/abs/1608.06019). *arXiv:1608.06019*.
 * 2016 July 8, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533). *arXiv:1607.02533*.
