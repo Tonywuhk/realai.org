@@ -9,12 +9,14 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 8, Lerrel Pinto, James Davidson, Rahul Sukthankar, and Abhinav Gupta. [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702). *arXiv:1703.02702*.
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
 * 2017 March 3, Yun Liu, Krishna Gadepalli, Mohammad Norouzi, George E. Dahl, Timo Kohlberger, Aleksey Boyko, Subhashini Venugopalan, Aleksei Timofeev, Philip Q. Nelson, Greg S. Corrado, Jason D. Hipp, Lily Peng, and Martin C. Stumpe. [Detecting Cancer Metastases on Gigapixel Pathology Images](https://drive.google.com/open?id=0B1T58bZ5vYa-QlR0QlJTa2dPWVk). *Google Research*.
 * 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*.
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 24, Augustus Odena, Dieterich Lawson, and Christopher Olah. [Changing Model Behavior at Test-Time Using Reinforcement Learning](https://arxiv.org/abs/1702.07780). *arXiv:1702.07780*.
 * 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
+* 2017 February 13, Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, and Jitendra Malik. [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920). *arXiv:1702.03920*.
 * 2017 February 13, Akosua Busia and Navdeep Jaitly. [Next-Step Conditioned Deep Convolutional Neural Networks Improve Protein Secondary Structure Prediction](https://arxiv.org/abs/1702.03865). *arXiv:1702.03865*.
 * 2017 February 2, Ryan Dahl, Mohammad Norouzi, and Jonathon Shlens. [Pixel Recursive Super Resolution](https://arxiv.org/abs/1702.00783). *arXiv:1702.00783*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
@@ -59,6 +61,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 October 10, William Chan, Yu Zhang, Quoc Le, and Navdeep Jaitly. [Latent Sequence Decompositions](https://arxiv.org/abs/1610.03035). *arXiv:1610.03035*.
 * 2016 October 7, Moritz Hardt, Eric Price, and Nathan Srebro. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413). *arXiv:1610.02413*.
 * 2016 October 7, François Chollet. [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357). *arXiv:1610.02357*.
+* 2016 October 5, Lerrel Pinto, James Davidson, and Abhinav Gupta. [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/abs/1610.01685). *arXiv:1610.01685*.
 * 2016 October 3, Shixiang Gu, Ethan Holly, Timothy Lillicrap, and Sergey Levine. [Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates](https://arxiv.org/abs/1610.00633). *arXiv:1610.00633*.
 * 2016 October, Derek G. Murray, Frank McSherry, Michael Isard, Rebecca Isaacs, Paul Barham, and Martin Abadi. [Incremental, iterative data processing with timely dataflow](http://cacm.acm.org/magazines/2016/10/207774-incremental-iterative-data-processing-with-timely-dataflow/fulltext). *Communications of the ACM*, 59(10):75-83.
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
