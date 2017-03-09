@@ -12,7 +12,9 @@ permalink: /resources/research-groups.html
 * [Maluuba](http://www.maluuba.com/)
 * [Nnaisense](https://nnaisense.com/)
 * [Geometric Intelligence](http://geometric.ai/)
+* [Numenta](http://numenta.com/)
 * [GoodAI](https://www.goodai.com/)
+* [Cogitai](http://www.cogitai.com/)
 
 ## Nonprofits
 * [OpenAI](https://openai.com/): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/resources/openai-publications)
