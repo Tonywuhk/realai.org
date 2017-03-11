@@ -14,6 +14,8 @@ Based on the standard learning task that is targeted at the lower level by the m
 
 ## Reinforcement Learning
 
+An agent can be trained across many different tasks to meta-learn a reinforcment learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively [structured](https://arxiv.org/abs/1611.05763) and [unstructured](https://arxiv.org/abs/1611.02779) distributions of tasks.
+
 ## Network Dynamics
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
