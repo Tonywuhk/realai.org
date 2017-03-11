@@ -118,6 +118,11 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
 * 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
 
+## Related Topics
+
+* [Meta-learning](http://realai.org/frontier/meta-learning.html)
+* [Multitask Learning](http://realai.org/frontier/multitask-learning.html)
+
 # Applications
 
 * [Automated Theorem Proving](http://realai.org/frontier/automated-theorem-proving.html)
