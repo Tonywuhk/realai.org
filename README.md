@@ -14,6 +14,10 @@
 * [For Fun](http://realai.org/resources/for-fun.html)
 * [Frontier](http://realai.org/frontier/)
 
+## M
+
+* [Meta-learning](http://realai.org/frontier/meta-learning.html)
+
 ## P
 
 * [Publications, DeepMind](http://realai.org/resources/deepmind-publications.html)
