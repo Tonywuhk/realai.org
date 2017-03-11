@@ -10,6 +10,13 @@ Based on the standard learning task that is targeted at the lower level by the m
 
 ## Few-Shot Learning
 
+Classification models that perform well after seeing very few samples from each class can be achieved in a number of ways:
+
+* A good [weight initialization](https://arxiv.org/abs/1703.03400) so that subsequent learning coverges rapidly,
+* [Weight initialization and an optimizer](https://openreview.net/forum?id=rJY0-Kcll) that builds on weight update rules [meta-learned by gradient descent](https://arxiv.org/abs/1606.04474),
+* [Task-specific embeddings](https://arxiv.org/abs/1606.04080) that facilitate classification, and
+* Using [external memory](https://arxiv.org/abs/1605.06065) to rapidly bind information in the data.
+
 [Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
 
 ## Reinforcement Learning
@@ -20,7 +27,7 @@ An agent can be trained across many different tasks to meta-learn a reinforcment
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
 
-In a standard neural network learning setup, the update rules of how the network's weights can be learned using [gradient descient](https://arxiv.org/abs/1606.04474) or [guided policy search](https://arxiv.org/abs/1606.01885). More generally, meta-learning can be applied to [black-box optimizations](https://arxiv.org/abs/1611.03824).
+In a standard neural network learning setup, the update rules of how the network's weights can be learned using [gradient descient](https://arxiv.org/abs/1606.04474) or [guided policy search](https://arxiv.org/abs/1606.01885). More generally, meta-learning can be applied to [black-box optimizations](https://arxiv.org/abs/1611.03824), one network can [dynamically generate weights](https://arxiv.org/abs/1609.09106) for another network.
 
 ## References
 
