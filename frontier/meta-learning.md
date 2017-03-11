@@ -17,6 +17,8 @@ Classification models that perform well after seeing very few samples from each 
 * [Task-specific embeddings](https://arxiv.org/abs/1606.04080) that facilitate classification, and
 * Using [external memory](https://arxiv.org/abs/1605.06065) to rapidly bind information in the data.
 
+For deep generative models, an autoencoder can be extended to [learn statistics of datasets](https://arxiv.org/abs/1606.02185), rather than datapoints.
+
 [Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
 
 ## Reinforcement Learning
@@ -42,5 +44,4 @@ In a standard neural network learning setup, the update rules of how the network
 * 2016 June 7, Harrison Edwards and Amos Storkey. [Towards a Neural Statistician](https://arxiv.org/abs/1606.02185). *arXiv:1606.02185*.
 * 2016 June 6, Ke Li and Jitendra Malik. [Learning to Optimize](https://arxiv.org/abs/1606.01885). *arXiv:1606.01885*.
 * 2016 May 19, Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, and Timothy Lillicrap. [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065). *arXiv:1605.06065*.
-* 2016 March 16, Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, and Daan Wierstra. [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106). *arXiv:1603.05106*.
 * 2015 December 11, Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum. [Human-level concept learning through probabilistic program induction](http://science.sciencemag.org/content/350/6266/1332). *Science*, 350(6266):1332-1338.
