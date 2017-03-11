@@ -4,6 +4,18 @@ mathjax: true
 ---
 # Meta-Learning
 
+Meta-learning occurs at a higher level than standard learning and improves the latter's performance. It is also referred to as "learning to learn".
+
+## Supervised Learning
+
+[Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
+
+## Reinforcement Learning
+
+## Learning Network Dynamics
+
+A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
+
 ## References
 
 * 2017 March 9, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*.
