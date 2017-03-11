@@ -4,22 +4,27 @@ mathjax: true
 ---
 # Meta-Learning
 
-Meta-learning occurs at a higher level than standard learning and improves the latter's performance. It is also referred to as "learning to learn".
+Meta-learning occurs at a higher level than standard learning and improves the latter's performance. It is also referred to as "learning to learn". It is theoretically possible to add another level of learning and build a system that learns to learn to learn, but this is rarely done in practice.
 
-## Supervised Learning
+Based on the standard learning task that is targeted at the lower level by the meta learner, research in this area can be further organized into the following lines:
+
+## Few-Shot Learning
 
 [Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
 
 ## Reinforcement Learning
 
-## Learning Network Dynamics
+## Network Dynamics
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
+
+In a standard neural network learning setup, the update rules of how the network's weights can be learned using [gradient descient](https://arxiv.org/abs/1606.04474) or [guided policy search](https://arxiv.org/abs/1606.01885). More generally, meta-learning can be applied to [black-box optimizations](https://arxiv.org/abs/1611.03824).
 
 ## References
 
 * 2017 March 9, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*.
 * 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
+* 2016 November 11, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, and Nando de Freitas. [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2016 November 9, Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, and Pieter Abbeel. [RL\\(^2\\): Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779). *arXiv:1611.02779*.
 * 2016 November 5, Sachin Ravi and Hugo Larochelle. [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll). *OpenReview*.
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
