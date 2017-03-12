@@ -112,6 +112,7 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
 * 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
 * 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
+* 2017 January 4, Dmitry Krotov and John J Hopfield. [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939). *arXiv:1701.00939*.
 
 ## Predictive Learning
 
