@@ -10,6 +10,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 March 10, Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Sergio Gómez Colmenarejo, Ziyu Wang, Dan Belov, and Nando de Freitas. [Parallel Multiscale Autoregressive Density Estimation](https://arxiv.org/abs/1703.03664). *arXiv:1703.03664*.
 * 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
 * 2017 March 6, Dani Yogatama, Chris Dyer, Wang Ling, and Phil Blunsom. [Generative and Discriminative Text Classification with Recurrent Neural Networks](https://arxiv.org/abs/1703.01898). *arXiv:1703.01898*.
 * 2017 March 3, Sean Lamont, John Aslanides, Jan Leike, and Marcus Hutter. [Generalised Discount Functions applied to a Monte-Carlo AImu  Implementation](https://arxiv.org/abs/1703.01358). *arXiv:1703.01358*.
