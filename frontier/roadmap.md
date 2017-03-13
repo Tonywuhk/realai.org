@@ -21,5 +21,6 @@ permalink: /frontier/roadmap.html
 * 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
 * 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
 * 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
+* 2016 July 29, Emmanuel Dupoux. [Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner](https://arxiv.org/abs/1607.08723). *arXiv:1607.08723*.
 * 2016 April 1, Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289). *arXiv:1604.00289*.
 * 2015 November 30, Juergen Schmidhuber. [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](https://arxiv.org/abs/1511.09249). *arXiv:1511.09249*.
