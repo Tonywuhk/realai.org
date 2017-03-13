@@ -66,6 +66,12 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 # Learning & Network Architecture
 
+## Network Architecture
+
+* 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
+* 2016 September 6, Junyoung Chung, Sungjin Ahn, and Yoshua Bengio. [Hierarchical Multiscale Recurrent Neural Networks](https://arxiv.org/abs/1609.01704). *arXiv:1609.01704*.
+* 2016 July 12, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, and Jürgen Schmidhuber. [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474). *arXiv:1607.03474*.
+
 ## Architecture Discovery
 
 ### Evolutionary Algorithms
