@@ -128,6 +128,7 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 ## Predictive Learning
 
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
+* 2016 August 19, Micah Richert, Dimitry Fisher, Filip Piekniewski, Eugene M. Izhikevich, and Todd L. Hylton. [Fundamental principles of cortical computation: unsupervised learning with prediction, compression and feedback](https://arxiv.org/abs/1608.06277). *arXiv:1608.06277*. [code](https://github.com/braincorp/ASC).
 * 2016 July 22, Filip Piekniewski, Patryk Laurent, Csaba Petre, Micah Richert, Dimitry Fisher, and Todd Hylton. [Unsupervised Learning from Continuous Video in a Scalable Predictive Recurrent Network](https://arxiv.org/abs/1607.06854). *arXiv:1607.06854*. [code](https://github.com/braincorp/PVM).
 * 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
 
