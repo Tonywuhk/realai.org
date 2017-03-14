@@ -3,7 +3,7 @@ permalink: /frontier/multitask-learning.html
 ---
 # Multitask Learning
 
-A generally intelligent agent must be able to perform multiple tasks.
+A standard deep neural network can [learn very different visual domains simultaneously](https://arxiv.org/abs/1701.07275). It's also possible to train a reinforcement learning agent to perform multiple tasks.
 
 ## Continual Learning
 
@@ -19,6 +19,7 @@ Another approach to prevent catastrophic forgetting is to alter network structur
 
 * 2017 March 13, Friedemann Zenke, Ben Poole, and Surya Ganguli. [Improved multitask learning through synaptic intelligence](https://arxiv.org/abs/1703.04200). *arXiv:1703.04200*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
+* 2017 January 25, Hakan Bilen and Andrea Vedaldi. [Universal representations:The missing link between faces, text, planktons, and cat breeds](https://arxiv.org/abs/1701.07275). *arXiv:1701.07275*.
 * 2016 December 2, James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell. [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796). *arXiv:1612.00796*.
 * 2016 November 6, Jacob Andreas, Dan Klein, and Sergey Levine. [Modular Multitask Reinforcement Learning with Policy Sketches](https://arxiv.org/abs/1611.01796). *arXiv:1611.01796*.
 * 2016 September 22, Coline Devin, Abhishek Gupta, Trevor Darrell, Pieter Abbeel, and Sergey Levine. [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](https://arxiv.org/abs/1609.07088). *arXiv:1609.07088*.
