@@ -27,6 +27,14 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 # Reinforcement Learning
 
+## Auxiliary tasks
+
+* 2016 November 16, Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397). *arXiv:1611.05397*.
+  * 2016 March 4. [modified version](https://openreview.net/forum?id=SJ6yPD5xg). *OpenReview*.
+  * 2016 December 10, Kosuke Miyoshi. [replication using TensorFlow and DeepMind Lab](https://github.com/miyosuda/unreal). *GitHub*.
+* 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
+* 2016 September 18, Guillaume Lample and Devendra Singh Chaplot. [Playing FPS Games with Deep Reinforcement Learning](https://arxiv.org/abs/1609.05521). *arXiv:1609.05521*.
+
 ## Exploration
 
 * 2017 March 6, Joshua Achiam and Shankar Sastry. [Surprise-Based Intrinsic Motivation for Deep Reinforcement Learning](https://arxiv.org/abs/1703.01732). *arXiv:1703.01732*.
@@ -53,6 +61,10 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 * 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
 * 2016 February 9, Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel. [Value Iteration Networks](https://arxiv.org/abs/1602.02867). *arXiv:1602.02867*.
+
+## Symbolic Learning
+
+* 2016 September 18, Marta Garnelo, Kai Arulkumaran, and Murray Shanahan. [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/abs/1609.05518). *arXiv:1609.05518*.
 
 ## Reinforcement Learning Algorithms
 
@@ -124,6 +136,8 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
 * 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
 * 2017 January 4, Dmitry Krotov and John J Hopfield. [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939). *arXiv:1701.00939*.
+* 2016 October 27, Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, and Yoshua Bengio. [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038). *arXiv:1610.09038*.
+* 2016 October 24, Jiajun Wu, Chengkai Zhang, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584). *arXiv:1610.07584*.
 
 ## Predictive Learning
 
