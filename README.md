@@ -17,6 +17,7 @@
 ## M
 
 * [Meta-learning](http://realai.org/frontier/meta-learning.html)
+* [Multitask Learning](http://realai.org/frontier/multitask-learning.html)
 
 ## P
 
@@ -42,9 +43,9 @@
 
 # About Real AI
 
-We believe that many of today's problems, such as poverty, disease, and global warming, can be solved by a strong and general artificial intelligence (AI) developed to benefit the world. At Real AI, we do our best to bring this AI to reality as fast as possible. Our main activity is scientific research.
+We believe that many of today's problems, such as poverty, disease, and global warming, can be solved by general artificial intelligence (AI) developed to benefit the world. At Real AI, we do our best to build this intelligence as fast as possible. Our main activity is scientific research.
 
-We are based in Hong Kong, currently looking for highly motivated individuals to work on pure research towards general AI. Legal work authorization is required. Interested candidates please send CV or self introduction to [hr@realai.org](mailto:hr@realai.org).
+We are based in Hong Kong. Candidates interested in working with us should send CV or self introduction to [hr@realai.org](mailto:hr@realai.org). Legal work authorization is required.
 
 This site is hosted on [GitHub Pages](https://pages.github.com/), based on the [Slate](https://github.com/pages-themes/slate) theme, and generated using [Jekyll](http://jekyllrb.com/). Contents on this site are frequently updated.
 
