@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 13, Michael Gygli, Mohammad Norouzi, and Anelia Angelova. [Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs](https://arxiv.org/abs/1703.04363). *arXiv:1703.04363*.
 * 2017 March 9, Łukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio. [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129). *arXiv:1703.03129*.
 * 2017 March 8, Lerrel Pinto, James Davidson, Rahul Sukthankar, and Abhinav Gupta. [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702). *arXiv:1703.02702*.
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
@@ -50,9 +51,11 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 7, Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, and Sergey Levine. [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247). *arXiv:1611.02247*.
 * 2016 November 7, Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein. [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163). *arXiv:1611.02163*.
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
+* 2016 November 4, Akosua Busia, Jasmine Collins, and Navdeep Jaitly. [Protein Secondary Structure Prediction Using Deep Multi-scale Convolutional Neural Networks and Next-Step Conditioning](https://arxiv.org/abs/1611.01503). *arXiv:1611.01503*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
 * 2016 November 4, Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, and Jascha Sohl-Dickstein. [Deep Information Propagation](https://arxiv.org/abs/1611.01232). *arXiv:1611.01232*.
 * 2016 November 3, Eric Jang, Shixiang Gu, and Ben Poole. [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144). *arXiv:1611.01144*.
+* 2016 October 31, Richard Sproat and Navdeep Jaitly. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/abs/1611.00068). *arXiv:1611.00068*.
 * 2016 October 31, Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020). *arXiv:1611.00020*.
 * 2016 October 30, Augustus Odena, Christopher Olah, and Jonathon Shlens. [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). *arXiv:1610.09585*.
 * 2016 October 27, Łukasz Kaiser and Samy Bengio. [Can Active Memory Replace Attention?](https://arxiv.org/abs/1610.08613). *arXiv:1610.08613*.
@@ -62,6 +65,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 October 18, Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, and Kunal Talwar. [Semi-supervised Knowledge Transfer for Deep Learning from Private
   Training Data](https://arxiv.org/abs/1610.05755). *arXiv:1610.05755*.
 * 2016 October 10, William Chan, Yu Zhang, Quoc Le, and Navdeep Jaitly. [Latent Sequence Decompositions](https://arxiv.org/abs/1610.03035). *arXiv:1610.03035*.
+* 2016 October 10, Yu Zhang, William Chan, and Navdeep Jaitly. [Very Deep Convolutional Networks for End-to-End Speech Recognition](https://arxiv.org/abs/1610.03022). *arXiv:1610.03022*.
 * 2016 October 7, Moritz Hardt, Eric Price, and Nathan Srebro. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413). *arXiv:1610.02413*.
 * 2016 October 7, François Chollet. [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357). *arXiv:1610.02357*.
 * 2016 October 5, Lerrel Pinto, James Davidson, and Abhinav Gupta. [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/abs/1610.01685). *arXiv:1610.01685*.
@@ -69,11 +73,13 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 October, Derek G. Murray, Frank McSherry, Michael Isard, Rebecca Isaacs, Paul Barham, and Martin Abadi. [Incremental, iterative data processing with timely dataflow](http://cacm.acm.org/magazines/2016/10/207774-incremental-iterative-data-processing-with-timely-dataflow/fulltext). *Communications of the ACM*, 59(10):75-83.
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
 * 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
+* 2016 September 20, Reza Mahjourian, Martin Wicke, and Anelia Angelova. [Geometry-Based Next Frame Prediction from Monocular Video](https://arxiv.org/abs/1609.06377). *arXiv:1609.06377*.
 * 2016 September 10, Martín Abadi, Bruno Blanchet, and Cédric Fournet. [The Applied Pi Calculus: Mobile Values, New Names, and Secure
   Communication](https://arxiv.org/abs/1609.03003). *arXiv:1609.03003*.
 * 2016 September 9, Charles Jordan and Łukasz Kaiser. [Machine Learning with Guarantees using Descriptive Complexity and SMT Solvers](https://arxiv.org/abs/1609.02664). *arXiv:1609.02664*.
 * 2016 September 1, Mohammad Norouzi, Samy Bengio, Zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, and Dale Schuurmans. [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://arxiv.org/abs/1609.00150). *arXiv:1609.00150*.
 * 2016 August 22, Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, and Dumitru Erhan. [Domain Separation Networks](https://arxiv.org/abs/1608.06019). *arXiv:1608.06019*.
+* 2016 August 3, Yuping Luo, Chung-Cheng Chiu, Navdeep Jaitly, and Ilya Sutskever. [Learning Online Alignments with Continuous Rewards Policy Gradient](https://arxiv.org/abs/1608.01281). *arXiv:1608.01281*.
 * 2016 July 8, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533). *arXiv:1607.02533*.
 * 2016 July 1, Martín Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, and Li Zhang. [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133). *arXiv:1607.00133*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
@@ -85,6 +91,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 May 27, Laurent Dinh, Jascha Sohl-Dickstein, and Samy Bengio. [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803). *arXiv:1605.08803*.
 * 2016 May 27, Martín Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, Manjunath Kudlur, Josh Levenberg, Rajat Monga, Sherry Moore, Derek G. Murray, Benoit Steiner, Paul Tucker, Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695). *arXiv:1605.08695*.
 * 2016 May 25, Takeru Miyato, Andrew M. Dai, and Ian Goodfellow. [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725). *arXiv:1605.07725*.
+* 2016 May 8, Georgia Gkioxari, Alexander Toshev, and Navdeep Jaitly. [Chained Predictions Using Convolutional Neural Networks](https://arxiv.org/abs/1605.02346). *arXiv:1605.02346*.
 * 2016 April 4, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1604.00981). *arXiv:1604.00981*.
 * 2016 March 28, S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa, David Szepesvari, Koray Kavukcuoglu, and Geoffrey E. Hinton. [Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575). *arXiv:1603.08575*.
 * 2016 March 14, Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mane, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viegas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed
@@ -119,6 +126,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2015 November 11, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
 * 2015 November 4, Andrew M. Dai and Quoc V. Le. [Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432). *arXiv:1511.01432*.
 * 2015 September 27, Georg Heigold, Ignacio Moreno, Samy Bengio, and Noam Shazeer. [End-to-End Text-Dependent Speaker Verification](https://arxiv.org/abs/1509.08062). *arXiv:1509.08062*.
+* 2015 September 4, Ivan Bogun, Anelia Angelova, and Navdeep Jaitly. [Object Recognition from Short Videos for Robotic Perception](https://arxiv.org/abs/1509.01602). *arXiv:1509.01602*.
 * 2015 September, Anelia Angelova, Alex Krizhevsky, Vincent Vanhoucke, Abhijit Ogale, and Dave Ferguson. [Real-Time Pedestrian Detection With Deep Network Cascades](https://research.google.com/pubs/pub43850.html). *Proceedings of BMVC 2015*.
 * 2015 August 5, William Chan, Navdeep Jaitly, Quoc V. Le, and Oriol Vinyals. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211). *arXiv:1508.01211*.
 * 2015 July 29, Andrew M. Dai, Christopher Olah, and Quoc V. Le. [Document Embedding with Paragraph Vectors](https://arxiv.org/abs/1507.07998). *arXiv:1507.07998*.
