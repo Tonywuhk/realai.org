@@ -29,3 +29,5 @@ On this page, we consider how to ensure that the AI system we develop will benef
 ## Real AI
 
 Safe and beneficial intelligence is everywhere: trees release oxygen, food is grown in fields, and grid transmits electricity. These systems follow physical laws and their natural behavior, complex but not goal-driven, safely provides enormous benefits to human society. Our long-term vision is to build more such intelligence. A smart planet that automatically produces almost everything we need is a great place. Everyone will live well and prosper.
+
+A long version is [under development](http://realai.org/frontier/towards-safe-and-beneficial-intelligence.html).
