@@ -10,6 +10,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 ## 2017
 
 * 2017 March 13, Michael Gygli, Mohammad Norouzi, and Anelia Angelova. [Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs](https://arxiv.org/abs/1703.04363). *arXiv:1703.04363*.
+* 2017 March 11, Denny Britz, Anna Goldie, Thang Luong, and Quoc Le. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906). *arXiv:1703.03906*.
 * 2017 March 9, Łukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio. [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129). *arXiv:1703.03129*.
 * 2017 March 8, Lerrel Pinto, James Davidson, Rahul Sukthankar, and Abhinav Gupta. [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702). *arXiv:1703.02702*.
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
@@ -24,10 +25,9 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
 * 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and Cezary Kaliszyk. [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
-* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output
-  Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
-* 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated
-  Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
+* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
+* 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
+* 2017 January 11, Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, and Ray Kurzweil. [Generating Long and Diverse Responses with Neural Conversation Models](https://arxiv.org/abs/1701.03185). *arXiv:1701.03185*.
 
 ## 2016
 
@@ -62,8 +62,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 October 24, Vincent Dumoulin, Jonathon Shlens, and Manjunath Kudlur. [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629). *arXiv:1610.07629*.
 * 2016 October 21, Martín Abadi and David G. Andersen. [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/abs/1610.06918). *arXiv:1610.06918*.
 * 2016 October 20, Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z. Leibo, and Catalin Ionescu. [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258). *arXiv:1610.06258*.
-* 2016 October 18, Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, and Kunal Talwar. [Semi-supervised Knowledge Transfer for Deep Learning from Private
-  Training Data](https://arxiv.org/abs/1610.05755). *arXiv:1610.05755*.
+* 2016 October 18, Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, and Kunal Talwar. [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755). *arXiv:1610.05755*.
 * 2016 October 10, William Chan, Yu Zhang, Quoc Le, and Navdeep Jaitly. [Latent Sequence Decompositions](https://arxiv.org/abs/1610.03035). *arXiv:1610.03035*.
 * 2016 October 10, Yu Zhang, William Chan, and Navdeep Jaitly. [Very Deep Convolutional Networks for End-to-End Speech Recognition](https://arxiv.org/abs/1610.03022). *arXiv:1610.03022*.
 * 2016 October 7, Moritz Hardt, Eric Price, and Nathan Srebro. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413). *arXiv:1610.02413*.
@@ -74,8 +73,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
 * 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
 * 2016 September 20, Reza Mahjourian, Martin Wicke, and Anelia Angelova. [Geometry-Based Next Frame Prediction from Monocular Video](https://arxiv.org/abs/1609.06377). *arXiv:1609.06377*.
-* 2016 September 10, Martín Abadi, Bruno Blanchet, and Cédric Fournet. [The Applied Pi Calculus: Mobile Values, New Names, and Secure
-  Communication](https://arxiv.org/abs/1609.03003). *arXiv:1609.03003*.
+* 2016 September 10, Martín Abadi, Bruno Blanchet, and Cédric Fournet. [The Applied Pi Calculus: Mobile Values, New Names, and Secure Communication](https://arxiv.org/abs/1609.03003). *arXiv:1609.03003*.
 * 2016 September 9, Charles Jordan and Łukasz Kaiser. [Machine Learning with Guarantees using Descriptive Complexity and SMT Solvers](https://arxiv.org/abs/1609.02664). *arXiv:1609.02664*.
 * 2016 September 1, Mohammad Norouzi, Samy Bengio, Zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, and Dale Schuurmans. [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://arxiv.org/abs/1609.00150). *arXiv:1609.00150*.
 * 2016 August 22, Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, and Dumitru Erhan. [Domain Separation Networks](https://arxiv.org/abs/1608.06019). *arXiv:1608.06019*.
@@ -94,15 +92,11 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 May 8, Georgia Gkioxari, Alexander Toshev, and Navdeep Jaitly. [Chained Predictions Using Convolutional Neural Networks](https://arxiv.org/abs/1605.02346). *arXiv:1605.02346*.
 * 2016 April 4, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1604.00981). *arXiv:1604.00981*.
 * 2016 March 28, S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa, David Szepesvari, Koray Kavukcuoglu, and Geoffrey E. Hinton. [Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575). *arXiv:1603.08575*.
-* 2016 March 14, Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mane, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viegas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed
-  Systems](https://arxiv.org/abs/1603.04467). *arXiv:1603.04467*.
-* 2016 March 7, Sergey Levine, Peter Pastor, Alex Krizhevsky, and Deirdre Quillen. [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning
-  and Large-Scale Data Collection](https://arxiv.org/abs/1603.02199). *arXiv:1603.02199*.
+* 2016 March 14, Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mane, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viegas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://arxiv.org/abs/1603.04467). *arXiv:1603.04467*.
+* 2016 March 7, Sergey Levine, Peter Pastor, Alex Krizhevsky, and Deirdre Quillen. [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/abs/1603.02199). *arXiv:1603.02199*.
 * 2016 March 2, Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, and Sergey Levine. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748). *arXiv:1603.00748*.
-* 2016 February 23, Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alex Alemi. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on
-  Learning](https://arxiv.org/abs/1602.07261). *arXiv:1602.07261*.
-* 2016 February 18, Amit Daniely, Roy Frostig, and Yoram Singer. [Toward Deeper Understanding of Neural Networks: The Power of
-  Initialization and a Dual View on Expressivity](https://arxiv.org/abs/1602.05897). *arXiv:1602.05897*.
+* 2016 February 23, Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alex Alemi. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261). *arXiv:1602.07261*.
+* 2016 February 18, Amit Daniely, Roy Frostig, and Yoram Singer. [Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity](https://arxiv.org/abs/1602.05897). *arXiv:1602.05897*.
 * 2016 February 7, Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu. [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410). *arXiv:1602.02410*.
 * 2016, Dale Schuurmans, and Martin Zinkevich. [Deep Learning Games](https://papers.nips.cc/paper/6315-deep-learning-games). *Advances in Neural Information Processing Systems*, 29:1678-1686.
 * 2016, Amir Globerson, Nevena Lazic, Soumen Chakrabarti, Amarnag Subramanya, Michael Ringaard, and Fernando Pereira. [Collective Entity Resolution with Multi-Focal Attention](https://research.google.com/pubs/pub45395.html). *ACL*.
@@ -162,8 +156,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2014 November 17, Oriol Vinyals, Alexander Toshev, Samy Bengio, and Dumitru Erhan. [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555). *arXiv:1411.4555*.
 * 2014 October 30, Minh-Thang Luong, Ilya Sutskever, Quoc V. Le, Oriol Vinyals, and Wojciech Zaremba. [Addressing the Rare Word Problem in Neural Machine Translation](https://arxiv.org/abs/1410.8206). *arXiv:1410.8206*.
 * 2014 October 17, Wojciech Zaremba and Ilya Sutskever. [Learning to Execute](https://arxiv.org/abs/1410.4615). *arXiv:1410.4615*.
-* 2014 October 9, Stephan Gouws, Yoshua Bengio, and Greg Corrado. [BilBOWA: Fast Bilingual Distributed Representations without Word
-  Alignments](https://arxiv.org/abs/1410.2455). *arXiv:1410.2455*.
+* 2014 October 9, Stephan Gouws, Yoshua Bengio, and Greg Corrado. [BilBOWA: Fast Bilingual Distributed Representations without Word Alignments](https://arxiv.org/abs/1410.2455). *arXiv:1410.2455*.
 * 2014 September 17, Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842). *arXiv:1409.4842*.
 * 2014 September 10, Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). *arXiv:1409.3215*.
 * 2014 September 8, Wojciech Zaremba, Ilya Sutskever, and Oriol Vinyals. [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329). *arXiv:1409.2329*.
@@ -184,10 +177,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2013 December 19, Samy Bengio, Jeff Dean, Dumitru Erhan, Eugene Ie, Quoc Le, Andrew Rabinovich, Jonathon Shlens, and Yoram Singer. [Using Web Co-occurrence Statistics for Improving Image Categorization](https://arxiv.org/abs/1312.5697). *arXiv:1312.5697*.
 * 2013 December 19, Mohammad Norouzi, Tomas Mikolov, Samy Bengio, Yoram Singer, Jonathon Shlens, Andrea Frome, Greg S. Corrado, and Jeffrey Dean. [Zero-Shot Learning by Convex Combination of Semantic Embeddings](https://arxiv.org/abs/1312.5650). *arXiv:1312.5650*.
 * 2013 December 16, David Eigen, Marc'Aurelio Ranzato, and Ilya Sutskever. [Learning Factored Representations in a Deep Mixture of Experts](https://arxiv.org/abs/1312.4314). *arXiv:1312.4314*.
-* 2013 December 11, Ciprian Chelba, Tomas Mikolov, Mike Schuster, Qi Ge, Thorsten Brants, Phillipp Koehn, and Tony Robinson. [One Billion Word Benchmark for Measuring Progress in Statistical
-  Language Modeling](https://arxiv.org/abs/1312.3005). *arXiv:1312.3005*.
-* 2013 October 16, Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. [Distributed Representations of Words and Phrases and their
-  Compositionality](https://arxiv.org/abs/1310.4546). *arXiv:1310.4546*.
+* 2013 December 11, Ciprian Chelba, Tomas Mikolov, Mike Schuster, Qi Ge, Thorsten Brants, Phillipp Koehn, and Tony Robinson. [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://arxiv.org/abs/1312.3005). *arXiv:1312.3005*.
+* 2013 October 16, Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546). *arXiv:1310.4546*.
 * 2013 September 17, Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/abs/1309.4168). *arXiv:1309.4168*.
 * 2013 May 26, Quoc Le, Tamas Sarlos, and Alexander Smola. [Fastfood - Computing Hilbert Space Expansions in loglinear time](http://jmlr.org/proceedings/papers/v28/le13.html). * JMLR W&CP* 28(3):244–252.
 * 2013 January 16, Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781). *arXiv:1301.3781*.
