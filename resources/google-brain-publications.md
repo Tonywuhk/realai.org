@@ -9,6 +9,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
+* 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 13, Michael Gygli, Mohammad Norouzi, and Anelia Angelova. [Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs](https://arxiv.org/abs/1703.04363). *arXiv:1703.04363*.
 * 2017 March 11, Denny Britz, Anna Goldie, Thang Luong, and Quoc Le. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906). *arXiv:1703.03906*.
 * 2017 March 9, Łukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio. [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129). *arXiv:1703.03129*.
