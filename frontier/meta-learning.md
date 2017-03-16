@@ -12,27 +12,28 @@ Based on the standard learning task that is targeted at the lower level by the m
 
 Classification models that perform well after seeing very few samples from each class can be achieved in a number of ways:
 
-* A good [weight initialization](https://arxiv.org/abs/1703.03400) so that subsequent learning coverges rapidly,
-* [Weight initialization and an optimizer](https://openreview.net/forum?id=rJY0-Kcll) that builds on weight update rules [meta-learned by gradient descent](https://arxiv.org/abs/1606.04474),
-* [Task-specific embeddings](https://arxiv.org/abs/1606.04080) that facilitate classification, and
-* Using [external memory](https://arxiv.org/abs/1605.06065) to rapidly bind information in the data.
+* A good weight initialization ([Finn et al., 2017](https://arxiv.org/abs/1703.03400)) so that subsequent learning coverges rapidly,
+* Weight initialization and an optimizer ([Ravi & Larochelle, 2016](https://openreview.net/forum?id=rJY0-Kcll)) that builds on weight update rules meta-learned by gradient descent ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)),
+* Learning an embedding of examples that facilitates classification by a linear model ([Snell et al., 2017](https://arxiv.org/abs/1703.05175)) or k-nearest neighbor ([Vinyals et al., 2016](https://arxiv.org/abs/1606.04080)), and
+* Using external memory ([Santoro et al., 2016](https://arxiv.org/abs/1605.06065)) to rapidly bind information in the data.
 
-For deep generative models, an autoencoder can be extended to [learn statistics of datasets](https://arxiv.org/abs/1606.02185), rather than datapoints.
+For deep generative models, an autoencoder can be extended to learn statistics of datasets ([Edwards & Storkey, 2016](https://arxiv.org/abs/1606.02185)), rather than datapoints.
 
 [Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
 
 ## Reinforcement Learning
 
-An agent can be trained across many different tasks to meta-learn a reinforcment learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively [structured](https://arxiv.org/abs/1611.05763) and [unstructured](https://arxiv.org/abs/1611.02779) distributions of tasks.
+An agent can be trained across many different tasks to meta-learn a reinforcment learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively structured ([Wang et al., 2016](https://arxiv.org/abs/1611.05763)) and unstructured ([Duan et al., 2016](https://arxiv.org/abs/1611.02779)) distributions of tasks.
 
 ## Network Dynamics
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
 
-In a standard neural network learning setup, the update rules of how the network's weights can be learned using [gradient descient](https://arxiv.org/abs/1606.04474) or [guided policy search](https://arxiv.org/abs/1606.01885). More generally, meta-learning can be applied to [black-box optimizations](https://arxiv.org/abs/1611.03824), one network can [dynamically generate weights](https://arxiv.org/abs/1609.09106) for another network.
+In a standard neural network learning setup, the update rules of how the network's weights can be learned using gradient descient ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)) or guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
 ## References
 
+* 2017 March 15, Jake Snell, Kevin Swersky, and Richard S. Zemel. [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175). *arXiv:1703.05175*.
 * 2017 March 9, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*.
 * 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
 * 2016 November 11, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, and Nando de Freitas. [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
