@@ -17,6 +17,7 @@
 ## M
 
 * [Meta-learning](http://realai.org/frontier/meta-learning.html)
+* [Multi-agent Learning](http://realai.org/frontier/multi-agent-learning.html)
 * [Multitask Learning](http://realai.org/frontier/multitask-learning.html)
 
 ## P
