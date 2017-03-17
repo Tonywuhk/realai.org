@@ -9,6 +9,8 @@ Low channel bandwith pressures agents to communicate in a language with high inf
 
 Language can emerge as a means for agents to collaborate, communicating in discrete actions ([Foerster, Assael et al., 2016](https://arxiv.org/abs/1605.06676)) or continuous vectors ([Sukhbaatar et al., 2016](https://arxiv.org/abs/1605.07736)). The emergent language can be made more interpretable by making changes to the game environment ([Lazaridou et al., 2016](https://arxiv.org/abs/1612.07182)), and can exhibit basic compositional structure ([Mordatch & Abbeel, 2017](https://arxiv.org/abs/1703.04908)).
 
+Symbolic communication between neural networks can also be learned within an agent, as proposed in [deep symbolic reinforcement learning](https://arxiv.org/abs/1609.05518).
+
 ## Reinforcement Learning
 
 *To be added later...*
