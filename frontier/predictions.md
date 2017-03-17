@@ -7,6 +7,10 @@ A list of public predictions *related to* when general AI will be created, in re
 
 ## News
 
+* 2017 February 9, Jürgen Schmidhuber suggested on [January 7](https://futureoflife.org/bai-2017/) that human-level AI could be created in **2028**. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 6:54-7:24.
+* 2017 January 29, Ray Kurzweil said on [January 7](https://futureoflife.org/bai-2017/) that we would achieve human-level intelligence in **2029**. Source: [Youtube: Creating Human-Level AI: How and When | Ray Kurzweil](https://www.youtube.com/watch?v=oPyCHwPS04E), 16:24-18:35.
+* 2017 January 19. [Google’s Sergey Brin ‘Surprised’ by Speed of AI Advancements](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements). *Bloomberg Technology*.
+* 2016 September 20, Oren Etzioni: 92.5% of AAAI survey respondents think superintelligence will arrive after **2041**. Source: [No, the Experts Don’t Think Superintelligent AI is a Threat to Humanity](https://www.technologyreview.com/s/602410/no-the-experts-dont-think-superintelligent-ai-is-a-threat-to-humanity/). *MIT Technology Review*.
 * 2016 February 16, Demis Hassabis: decades away from general intelligence. Source: [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 * 2015 May 21, Geoff Hinton: common sense in **2025**. Source: [Google a step closer to developing machines with human-like intelligence](https://www.theguardian.com/science/2015/may/21/google-a-step-closer-to-developing-machines-with-human-like-intelligence). *The Guardian*.
 
