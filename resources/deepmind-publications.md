@@ -11,6 +11,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 ## 2017
 
 * 2017 March 16, Mohammad Gheshlaghi Azar, Ian Osband, and Rémi Munos. [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/abs/1703.05449). *arXiv:1703.05449*.
+* 2017 March 15, Florian Strub, Harm de Vries, Jeremie Mary, Bilal Piot, Aaron Courville, and Olivier Pietquin. [End-to-end optimization of goal-driven and visually grounded dialogue systems](https://arxiv.org/abs/1703.05423). *arXiv:1703.05423*.
 * 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
 * 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 10, Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Sergio Gómez Colmenarejo, Ziyu Wang, Dan Belov, and Nando de Freitas. [Parallel Multiscale Autoregressive Density Estimation](https://arxiv.org/abs/1703.03664). *arXiv:1703.03664*.
