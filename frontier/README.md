@@ -8,7 +8,7 @@ mathjax: true
 
 * 2017 March 17. DeepMind hopes to publish six more papers in Nature or Science within the next year, according to [Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0).
 * 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
-* Topics: [Safety](http://realai.org/frontier/safety.html), [Roadmap](http://realai.org/frontier/roadmap.html).
+* Topics: [Safety](http://realai.org/frontier/safety.html), [Predictions](http://realai.org/frontier/predictions.html), [Roadmap](http://realai.org/frontier/roadmap.html).
 
 # Environments
 
