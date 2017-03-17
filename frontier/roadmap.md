@@ -9,8 +9,9 @@ permalink: /frontier/roadmap.html
 
 * 2017 February 15, GoodAI [launched](http://blog.marekrosa.org/2017/02/first-round-of-general-ai-challenge_15.html) a 6-month [warm-up round](https://www.general-ai-challenge.org/active-rounds) of the [General AI Challenge](https://www.general-ai-challenge.org/) that is based on Facebook's [CommAI-env](https://github.com/facebookresearch/CommAI-env), a platform described in
   * 2017 January 31, Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, Angeliki Lazaridou, Klemen Simonic, and Tomas Mikolov. [CommAI: Evaluating the first steps towards a useful general AI](https://arxiv.org/abs/1701.08954). *arXiv:1701.0894*, and
-  * 2015 November 25, Tomas Mikolov, Armand Joulin, and Marco Baroni. [A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130). *arXiv:1511.08130*. It was criticized as being "both too broad and too narrow":
+  * 2015 November 25, Tomas Mikolov, Armand Joulin, and Marco Baroni. [A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130). *arXiv:1511.08130*. It was criticized as being "both too broad and too narrow", and "imposing a lossy representation" of environment:
     * 2017 January 14, Steven Stenberg Hansen. [Minimally Naturalistic Artificial Intelligence](https://arxiv.org/abs/1701.03868). *arXiv:1701.03868*.
+    * 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
 * 2017 January 24, Martin Stránský. [Roadmap Comparison at GoodAI](https://medium.com/ai-roadmap-institute/roadmap-comparison-at-goodai-cfba094c645b). [*AI Roadmap Institute*](https://medium.com/ai-roadmap-institute).
 * 2016 December 9, Marek Rosa and Jan Feyereisl. [Consolidating the Search for General AI](https://mainatnips.github.io/mainatnips.github.io/abstracts/rosa-feyereisl.pdf). [Machine Intelligence Workshop](https://mainatnips.github.io/) @ *NIPS*.
 * 2016 December 5, [AI Roadmap Institute](https://www.roadmapinstitute.org/), an institute founded by GoodAI, was to be introduced at NIPS. [*Twitter*](https://twitter.com/AIroadmap/status/805790998207008770).
