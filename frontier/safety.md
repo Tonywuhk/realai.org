@@ -31,3 +31,21 @@ On this page, we consider how to ensure that the AI system we develop will benef
 Safe and beneficial intelligence is everywhere: trees release oxygen, food is grown in fields, and grid transmits electricity. These systems follow physical laws and their natural behavior, complex but not goal-driven, safely provides enormous benefits to human society. Our long-term vision is to build more such intelligence. A smart planet that automatically produces almost everything we need is a great place. Everyone will live well and prosper.
 
 A long version is [under development](http://realai.org/frontier/towards-safe-and-beneficial-intelligence.html).
+
+### FAQ
+
+##### What are the goals of your AI systems?
+
+We do not plan to build goal-driven AI systems. Our AIs are complex systems whose behaviors are dictated by the laws of physics, not the optimization of specific goals. We just need the systems to behave nicely.
+
+##### How do you specify human values and ethics to your AI systems?
+
+Safe and beneficial intelligent systems do not have to understand human values or ethics, as in many real world examples, but if necessary, our AI systems will learn by themselves to ensure that their behaviours are aligned with us. 
+
+##### Will AI systems self-modify?
+
+Yes, self-modification is a common intelligent behaviour. Just like people study and exercise, intelligent AI systems self-modify when they anticipate safe and beneficial outcomes.
+
+##### How can AI systems recognize when they are not operating normally?
+
+How do people recognize when they're sick? AI systems can conduct self tests and rely on assessments from other AI systems.
