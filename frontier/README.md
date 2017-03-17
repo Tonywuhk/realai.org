@@ -152,6 +152,14 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * [Meta-learning](http://realai.org/frontier/meta-learning.html)
 * [Multitask Learning](http://realai.org/frontier/multitask-learning.html)
 
+# Neuroscience
+
+*Not yet covered.*
+
+# Emerging Areas
+
+*Not yet covered.*
+
 # Applications
 
 * [Automated Theorem Proving](http://realai.org/frontier/automated-theorem-proving.html)
