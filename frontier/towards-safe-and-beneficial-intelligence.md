@@ -91,6 +91,7 @@ What does such an SI look like? When it is simulated by a group of people bandin
 ## References
 
 * 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
+* 2012 June 13, Nick Bostrom. [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents](https://link.springer.com/article/10.1007/s11023-012-9281-3). *Minds and Machines*, 22(2):71-85. [PDF](http://www.nickbostrom.com/superintelligentwill.pdf).
 * 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
 * 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
 
