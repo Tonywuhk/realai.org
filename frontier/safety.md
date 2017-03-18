@@ -22,6 +22,7 @@ On this page, we consider how to ensure that the AI system we develop will benef
 
 ### Research
 
+* 2016 July 27, Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, and Andrew Critch. [Alignment for Advanced Machine Learning Systems](https://intelligence.org/2016/07/27/alignment-machine-learning/). *Machine Intelligence Research Institute*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
@@ -40,7 +41,11 @@ We do not plan to build goal-driven AI systems. Our AIs are complex systems whos
 
 ##### How do you specify human values and ethics to your AI systems?
 
-Safe and beneficial intelligent systems do not have to understand human values or ethics, as in many real world examples, but if necessary, our AI systems will learn by themselves to ensure that their behaviours are aligned with us. 
+Intelligent systems do not have to understand human values or ethics to be safe and beneficial, as in many real world scenarios. But if necessary, our AI systems will learn by themselves to ensure that their behaviors are aligned with human interests. For example, if an intelligent system is asked a moral question, then it most likely will need to learn human values before it can provide a good answer.
+
+##### Why would your AI systems have beneficial behaviors?
+
+Because we won't build systems that are not beneficial. Our research is completely open to the public and we will revise our methods when there are any concerns. Both development and monitoring efforts can potentially involve advanced AI systems too. Eventually, only paths leading to benefical AI will be pursued. Beneficial behaviors will be the result of human selection, just like "survival of the fittest" from Darwin's theory of evolution.
 
 ##### Will AI systems self-modify?
 
