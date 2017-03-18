@@ -6,7 +6,7 @@ permalink: /frontier/towards-safe-and-beneficial-intelligence.html
 
 # Towards Safe and Beneficial Intelligence
 
-We attempt to answer the philosophical question “Who am I?” for the superintelligence (SI) to be built. Throughout history, the nature has always offered a way for humanity to advance. Our SI learns to be this way, an infrastructure that provides for, supports, and protects the society. Not necessarily having explicit goals such as self-preservation, its continued existence is guaranteed by people's desire to build the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. When a group of human minds collaborate to build such an intelligence, the SI’s self-improvement begins.
+Throughout history, the nature has always offered a way for humanity to advance. Our AI system learns to be part this way, an infrastructure that provides for, supports, and protects the society. Not necessarily having explicit goals such as self-preservation, its continued existence is guaranteed by people's desire to build the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. When a group of human minds collaborate to build such an intelligence, its self-improvement begins.
 
 ## The Way Forward
 
