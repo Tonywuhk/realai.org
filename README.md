@@ -44,9 +44,9 @@
 
 # About Real AI
 
-We believe that many of today's problems, such as poverty, disease, and global warming, can be solved by safe and general artificial intelligence (AI) built to benefit the world. At Real AI, we do our best to develop such intelligence. Our core activity is scientific research.
+Many of today’s problems, such as poverty, disease, and climate change, can be solved by safe and general artificial intelligence (AI) built to benefit the world. On a smart planet that automatically produces goods and services, everyone will live well and prosper. At Real AI, we do our best to turn this vision into reality.
 
-We are based in Hong Kong and are not profit-driven. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
+We are based in Hong Kong and are not profit-driven. Our core activity is AI research. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
 
 This site is hosted on [GitHub Pages](https://pages.github.com/), based on the [Slate](https://github.com/pages-themes/slate) theme, and generated using [Jekyll](http://jekyllrb.com/). Contents on this site are frequently updated.
 
