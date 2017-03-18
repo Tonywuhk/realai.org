@@ -45,7 +45,7 @@
 
 # About Real AI
 
-Many of today’s problems, such as poverty, disease, and climate change, can be solved by safe and general artificial intelligence (AI) built to benefit the world. On a smart planet that automatically produces goods and services, everyone will live well and prosper. At Real AI, we do our best to turn this vision into reality.
+Many of today’s problems, such as poverty, disease, and climate change, can be solved by [safe](http://realai.org/frontier/safety.html) and general artificial intelligence (AI) built to benefit the world. On a smart planet that automatically produces goods and services, everyone will live well and prosper. At Real AI, we do our best to turn this vision into reality.
 
 We are based in Hong Kong and are not for profit. Our core activity is AI research. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
 
