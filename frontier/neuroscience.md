@@ -1,5 +1,5 @@
 ---
-permalink: /resources/neuroscience.html
+permalink: /frontier/neuroscience.html
 ---
 # Neuroscience
 
