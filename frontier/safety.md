@@ -39,6 +39,10 @@ A long version is [under development](http://realai.org/frontier/towards-safe-an
 
 We do not plan to build goal-driven AI systems. Our AIs are complex systems whose behaviors are dictated by the laws of physics, not the optimization of specific goals. We just need the systems to behave nicely.
 
+##### How do you ensure the behaviors of your AI systems are aligned with the interests of their operators?
+
+We don't do that. We aim to develop AI systems whose behaviors are aligned with human values and ethics, which not all operators understand properly. Sometimes not obeying the command of its operators is the right thing to do, and a safe and beneficial AI system must learn how to make that choice.
+
 ##### How do you specify human values and ethics to your AI systems?
 
 Intelligent systems do not have to understand human values or ethics to be safe and beneficial, as in many real world scenarios. But if necessary, our AI systems will learn by themselves to ensure that their behaviors are aligned with human interests. For example, if an intelligent system is asked a moral question, then it most likely will need to learn human values before it can provide a good answer.
