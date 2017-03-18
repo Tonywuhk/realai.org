@@ -3,7 +3,7 @@ permalink: /frontier/safety.html
 ---
 # Safety
 
-On this page, we consider how to ensure that the AI system we develop will benefit the whole world.
+On this page, we consider how to ensure that the AI systems we develop will benefit the whole world.
 
 ## Timeline
 
