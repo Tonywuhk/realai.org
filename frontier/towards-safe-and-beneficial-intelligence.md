@@ -3,7 +3,7 @@ permalink: /frontier/towards-safe-and-beneficial-intelligence.html
 ---
 # Towards Safe and Beneficial Intelligence
 
-*Below is a summary of our current thinking. It will be revised from time to time as our understanding of AI safety improves. When this page develops into a cohrent article of scholarly value, we plan to organize the snapshot into an academic paper, and publish on arXiv periodically. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
+*This article will be revised from time to time as our understanding of AI safety improves. When this page develops into a cohrent piece of scholarly value, we plan to publish it on arXiv. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
 Throughout history, the nature has always offered ways for humanity to advance. One way is an intelligent infrastructure that provides for, supports, and protects the society. Our AI learns to be part of it. Not necessarily having explicit goals such as self-preservation, the AI's continued existence is guaranteed by people's desire to develop the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. As soon as it's properly understood, it comes into existence as concrete ideas. When a group of humans collaborate to build such an intelligence, its self-improvement begins.
 
@@ -15,7 +15,7 @@ Today's artificial intelligence (AI) already achieved superhuman performance in 
 
 Many of today's problems, such as poverty, disease, and climate change, can be solved by an SI developed to benefit the world. It is also not obvious how these problems can be solved in any other way. When we look at some of tomorrow's problems, such as biological fragility and cosmic catastrophes, if we are to continue our civilization's past success, SI seems to be the only way forward.
 
-Since the recent rise of deep learning in 2012, evidence is mounting that we're on a promising path towards building general intelligence into computer systems. The improvements in many areas such as vision, speech, language, and the game of Go, exceeded the expectations of the computer science community. The eventual construction of an SI that intelligently provides for, supports, and protects human society is on the horizon. It is an infrastructure our civilization can rely on to advance to the next level.
+Since the recent rise of deep learning in 2012 ([LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)), evidence is mounting that we're on a promising path towards building general intelligence into computer systems. The improvements in many areas such as vision, speech, language, and the game of Go, exceeded the expectations of the computer science community. The eventual construction of an SI that intelligently provides for, supports, and protects human society is on the horizon. It is an infrastructure our civilization can rely on to advance to the next level.
 
 The nature has been supplying to us essential elements of life, such as water, air, and sunlight, for billions of years. We don't expect interruptions, or gravity suddently turning upside down, ejecting everything on earth to the space, even though such unthinkable events could happen in the distant future. The nature is intelligent, because it allowed our civilization to rise within, at the same time, it is also remarkably reliable. In the long run, a safe and beneficial intelligent infrastructure should work in a similar way, supplying essential elements for the future human society, and its possibility of failure so remote that we rarely worry about it.
 
@@ -98,6 +98,7 @@ What does such an SI look like? When it is simulated by a group of people bandin
 ## References
 
 * 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
+* 2015 May 1, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 * 2012 June 13, Nick Bostrom. [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents](https://link.springer.com/article/10.1007/s11023-012-9281-3). *Minds and Machines*, 22(2):71-85. [PDF](http://www.nickbostrom.com/superintelligentwill.pdf).
 * 2008 January 25, Stephen M. Omohundro. [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). [*Self-Aware Systems*](https://selfawaresystems.com/).
 * 2003, Nick Bostrom. [Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html). *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
