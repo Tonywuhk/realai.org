@@ -69,13 +69,15 @@ Such a system's interaction with our world can gradually increase as it continuo
 
 ## No Free Lunch and Reality-Based AI
 
-A myriad of architectures are capable of Turing-complete computations, in the spirit of No Free Lunch Theorem, most don't work efficiently in our world. Recent advances in deep learning since 2012 suggest that the ones that work well are learning architectures based on neural networks.
+A myriad of architectures are capable of Turing complete computations, in the spirit of the no free lunch Theorem, most don't work well in our world. A learning architecture looking for a counterexample of a proved math theorem is doomed to fail. Another that is driven by minimizing its interaction with the environment is unlikely to develop useful intelligence to begin with. Recent advances in deep learning since 2012 suggest that the ones that work well are learning architectures based on neural networks.
 
-Similarly, not all neural learning architectures work well. Since the architecture is part of nature, and physics never rails, the ones that work well will be the ones better aligned with reality. In other words, compared to a poorly designed system, a reality-based AI will be more efficient in our world, develops faster using less resources, and more likely to survive in the long run even in the counterintuitive sense that maybe reality mandates the AI to not encode a goal of survival inside its system.
+Similarly, most neural learning architectures don't work well either. Neural architectures operate in the real world, and physics never fails, the ones that work well will be the ones that are better aligned with reality. In other words, compared to a poorly designed system, a reality-based AI will be more efficient in our world, develop faster, use less resources, and more likely survive in the long run, even in the counterintuitive sense that maybe reality mandates the AI to not encode a goal of survival inside its system, like a popular song or story.
 
-Some examples: A learning architecture looking for a counterexample of a proved math theorem is doomed to fail. Another that is driven by minimizing its interaction with the environment is unlikely to develop useful intelligence to begin with.
+For an advanced AI system to be built on our planet, the human society is the most crucial aspect of reality that puts strong constraints on its potential paths of development. If a learning architecture under human development efforts appears to be an existential threat, the efforts will stop. If an AI system's development efforts are too opague, it is unlikely to gain much trust from the public.
 
-A more realistic example: if a learning architecture under human's development efforts appears to pose an existential threat, the efforts will likely stop, but if a system that appears to align well with human values, it will likely attract more efforts and thrive. Since the human society is a crucial part of reality, our own values are already putting a lot of constraints on its development of intelligence.
+Conversely, a system that aligns well with human values will likely be more transparent, attract more efforts, and thrive. Paths leading to benefical AI systems, which can be potentially more complex and difficult than random AI systems, are much more likely to be pursued, simply because we don’t want to build systems that are not. As a result, these systems have much higher chances to exist on this planet.
+
+The behaviors of such AI systems will appear to be driven by an instinct to serve humanity, in the same way that many human behaviors appear to be driven by an instinct of survival. The systems will want to adapt to the human society as faithfully as we do to our environment. Beneficial behaviors are the results of human selection, much like “survival of the fittest” from Darwin’s theory of evolution.
 
 ## Human Control
 
