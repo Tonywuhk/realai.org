@@ -20,6 +20,6 @@ A list of public predictions *related to* when general AI will be created, in re
 
 * 2014, Survey: high-level machine intelligence in **2040** (median). Source: Vincent C. Müller and Nick Bostrom. [Future Progress in Artificial Intelligence: A Survey of Expert Opinion](http://www.nickbostrom.com/papers/survey.pdf). *Fundamental Issues of Artificial Intelligence*.
 
-# Real AI
+## Real AI
 
 Please contact [Jonathan Yan](mailto:jyan@realai.org) if you're interested in joining our effort to build statistical models that predict when general AI will be created. Prior experience in modeling [basket CDS](http://www.nasdaq.com/investing/glossary/b/basket-credit-default-swap) is a plus.
