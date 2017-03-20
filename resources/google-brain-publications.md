@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 16, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Arnaud Doucet, Andriy Mnih, and Yee Whye Teh. [Particle Value Functions](https://arxiv.org/abs/1703.05820). *arXiv:1703.05820*.
 * 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
 * 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 13, Michael Gygli, Mohammad Norouzi, and Anelia Angelova. [Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs](https://arxiv.org/abs/1703.04363). *arXiv:1703.04363*.
@@ -20,6 +21,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*.
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 24, Augustus Odena, Dieterich Lawson, and Christopher Olah. [Changing Model Behavior at Test-Time Using Reinforcement Learning](https://arxiv.org/abs/1702.07780). *arXiv:1702.07780*.
+* 2017 February 22, Colin Raffel and Dieterich Lawson. [Training a Subsampling Mechanism in Expectation](https://arxiv.org/abs/1702.06914). *arXiv:1702.06914*.
 * 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
 * 2017 February 13, Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, and Jitendra Malik. [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920). *arXiv:1702.03920*.
 * 2017 February 13, Akosua Busia and Navdeep Jaitly. [Next-Step Conditioned Deep Convolutional Neural Networks Improve Protein Secondary Structure Prediction](https://arxiv.org/abs/1702.03865). *arXiv:1702.03865*.
