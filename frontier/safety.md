@@ -5,9 +5,7 @@ permalink: /frontier/safety.html
 
 On this page, we consider how to ensure that the AI systems we develop will benefit the whole world.
 
-## Timeline
-
-### News
+## News
 
 * 2017 January 5-8, The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
   * 2017 February 9, [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc) *YouTube*.
@@ -20,7 +18,7 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 * 2014 December 2, Prof. Stephen Hawking told the BBC that the development of full AI "could spell the end of the human race". [*BBC*](http://www.bbc.com/news/technology-30290540).
 * 2014 October 27, Elon Musk said AI is our "biggest existential threat". [*The Guardian*](https://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat).
 
-### Research
+## Research
 
 * 2016 July 27, Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, and Andrew Critch. [Alignment for Advanced Machine Learning Systems](https://intelligence.org/2016/07/27/alignment-machine-learning/). *Machine Intelligence Research Institute*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
