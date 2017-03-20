@@ -10,6 +10,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 March 16, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Arnaud Doucet, Andriy Mnih, and Yee Whye Teh. [Particle Value Functions](https://arxiv.org/abs/1703.05820). *arXiv:1703.05820*.
 * 2017 March 16, Mohammad Gheshlaghi Azar, Ian Osband, and Rémi Munos. [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/abs/1703.05449). *arXiv:1703.05449*.
 * 2017 March 15, Florian Strub, Harm de Vries, Jeremie Mary, Bilal Piot, Aaron Courville, and Olivier Pietquin. [End-to-end optimization of goal-driven and visually grounded dialogue systems](https://arxiv.org/abs/1703.05423). *arXiv:1703.05423*.
 * 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
@@ -17,7 +18,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2017 March 10, Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Sergio Gómez Colmenarejo, Ziyu Wang, Dan Belov, and Nando de Freitas. [Parallel Multiscale Autoregressive Density Estimation](https://arxiv.org/abs/1703.03664). *arXiv:1703.03664*.
 * 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
 * 2017 March 6, Dani Yogatama, Chris Dyer, Wang Ling, and Phil Blunsom. [Generative and Discriminative Text Classification with Recurrent Neural Networks](https://arxiv.org/abs/1703.01898). *arXiv:1703.01898*.
-* 2017 March 3, Sean Lamont, John Aslanides, Jan Leike, and Marcus Hutter. [Generalised Discount Functions applied to a Monte-Carlo AImu  Implementation](https://arxiv.org/abs/1703.01358). *arXiv:1703.01358*.
+* 2017 March 3, Sean Lamont, John Aslanides, Jan Leike, and Marcus Hutter. [Generalised Discount Functions applied to a Monte-Carlo AImu Implementation](https://arxiv.org/abs/1703.01358). *arXiv:1703.01358*.
 * 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
 * 2017 March 3, Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, and Koray Kavukcuoglu. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161). *arXiv:1703.01161*.
 * 2017 March 2, Marlos C. Machado, Marc G. Bellemare, and Michael Bowling. [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://arxiv.org/abs/1703.00956). *arXiv:1703.00956*.
@@ -86,7 +87,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 June 17, Irina Higgins, Loic Matthey, Xavier Glorot, Arka Pal, Benigno Uria, Charles Blundell, Shakir Mohamed, and Alexander Lerchner. [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/abs/1606.05579). *arXiv:1606.05579*.
 * 2016 June 16, Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, and Koray Kavukcuoglu. [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328). *arXiv:1606.05328*.
 * 2016 June 16, André Barreto, Rémi Munos, Tom Schaul, and David Silver. [Successor Features for Transfer in Reinforcement Learning](https://arxiv.org/abs/1606.05312). *arXiv:1606.05312*.
-* 2016 June 15,  Alexander,  Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, and Koray Kavukcuoglu. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695). *arXiv:1606.04695*.
+* 2016 June 15, Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, and Koray Kavukcuoglu. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695). *arXiv:1606.04695*.
 * 2016 June 15, Andrei A. Rusu, Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. [Progressive Neural Networks](https://arxiv.org/abs/1606.04671). *arXiv:1606.04671*.
 * 2016 June 14, Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, and Nando de Freitas. [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474). *arXiv:1606.04474*.
 * 2016 June 14, Charles Blundell, Benigno Uria, Alexander Pritzel, Yazhe Li, Avraham Ruderman, Joel Z Leibo, Jack Rae, Daan Wierstra, and Demis Hassabis. [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460). *arXiv:1606.04460*.
