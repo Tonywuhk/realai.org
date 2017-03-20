@@ -1,7 +1,7 @@
 ---
-permalink: /frontier/predictions.html
+permalink: /frontier/timing.html
 ---
-# Predictions
+# Timing
 
 A list of public predictions *related to* when general AI will be created, in reverse chronological order:
 
