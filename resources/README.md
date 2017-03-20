@@ -11,7 +11,6 @@ permalink: /resources/
 
 * Miles [Brundage](http://www.milesbrundage.com/blog-posts) is a research fellow at the University of Oxford's Future of Humanity Institute.
 * [Denny's](http://blog.dennybritz.com/) Blog where he writes about startups, software engineering, and life in general.
-* [Distill](http://distill.pub/) is a blog dedicated to clear explanations of machine learning.
 * [inFERENCe](http://www.inference.vc/), posts on machine learning, statistics, opinions on things Ferenc's reading in the space.
 * Eric [Jang](http://blog.evjang.com/), technology, A.I., careers.
 * Andrej [Karpathy](http://karpathy.github.io/) blog.
@@ -26,5 +25,6 @@ permalink: /resources/
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) is built by [@karpathy](https://twitter.com/karpathy) to accerlerate research.
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) is a curated list hosted on GitHub.
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) is a reading roadmap for newcomers.
+* [Distill](http://distill.pub/) is dedicated to clear explanations of machine learning. It hosts a [research journal](http://distill.pub/journal/).
 * The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development.
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
