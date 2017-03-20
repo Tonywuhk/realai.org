@@ -23,7 +23,7 @@ Between today's narrow AI systems and the SI that our society needs, there may n
 
 ## The Appearance of Goal-Driven Behaviors
 
-An AI system is a complex system operating inside an environment. Like cloud computing, in the long run it does not need to have a stable physical boundary. In the short run, when we can approximately separate the system from the environment, the system performs computations on its input and produces output. The output and input are sometimes linked in a way with the appearance that the system is trying to optimize an internal goal, while in fact the system is merely following the rules set in the environment.
+An AI system is a complex system operating inside an environment. Like cloud computing, in the long run it does not need to have a stable physical boundary. It may consist of multiple independent learning agents that are self-interested ([Leibo & Zambaldi et al., 2017](https://arxiv.org/abs/1702.03037)) or sharing rewards ([Mordatch & Abbeel, 2017](https://arxiv.org/abs/1703.04908)). In the short run, when we can approximately separate the system from the environment, the system performs computations on its input and produces output. The output and input are sometimes linked in a way with the appearance that the system is trying to optimize an internal goal, while in fact the system is merely following the rules set in the environment.
 
 A tilting doll appears to have an internal goal of always standing up straight, but this goal is nowhere encoded inside the doll, it's just physics. A more modern example can be found in [Ostrovski et al. (2016)](https://arxiv.org/abs/1703.01310), where an entirely curiosity-driven game playing agent behaves as if its goal is to achieve high scores in the game.
 
@@ -97,7 +97,9 @@ What does such an SI look like? When it is simulated by a group of people bandin
 
 ## References
 
+* 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*. [blog](https://openai.com/blog/learning-to-communicate/).
 * 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
+* 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
 * 2015 November 11, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
 * 2015 May 1, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
