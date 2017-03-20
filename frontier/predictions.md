@@ -7,6 +7,7 @@ A list of public predictions *related to* when general AI will be created, in re
 
 ## News
 
+* 2017 February 9, Demis Hassabis said on [January 7](https://futureoflife.org/bai-2017/) that he would be surprised if there were "more than about 20" mountains left. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 24:40-25:10.
 * 2017 February 9, Jürgen Schmidhuber suggested on [January 7](https://futureoflife.org/bai-2017/) that human-level AI could be created in **2028**. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 6:54-7:24.
 * 2017 January 29, Ray Kurzweil said on [January 7](https://futureoflife.org/bai-2017/) that we would achieve human-level intelligence in **2029**. Source: [Youtube: Creating Human-Level AI: How and When \| Ray Kurzweil](https://www.youtube.com/watch?v=oPyCHwPS04E), 16:24-18:35.
 * 2017 January 19. [Google’s Sergey Brin ‘Surprised’ by Speed of AI Advancements](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements). *Bloomberg Technology*.
