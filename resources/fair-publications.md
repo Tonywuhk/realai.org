@@ -9,7 +9,9 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
 * 2017 March 15, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
+* 2017 March 5, Jianwei Yang, Anitha Kannan, Dhruv Batra, and Devi Parikh. [LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/1703.01560). *arXiv:1703.01560*.
 * 2017 March 2, Yuandong Tian. [An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis](https://arxiv.org/abs/1703.00560). *arXiv:1703.00560*.
 * 2017 February 28, Jeff Johnson, Matthijs Douze, and Hervé Jégou. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734). *arXiv:1702.08734*.
 * 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
