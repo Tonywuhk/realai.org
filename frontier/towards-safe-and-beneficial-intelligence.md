@@ -35,7 +35,7 @@ Among all the systems that our civilization depends on, the nature has the best 
 
 We will design intelligent systems that learn from the nature to be part of this way forward. This is a convenient description of the behaviors of our AI systems, not necessarily an encoded utility function for the systems to optimize. Their inner workings could be driven by mechanisms designed from completely different principles.
 
-A learning system generally exhibits a tendency to acquire more physical and computational resources, but in our case, too much acquisition is counterproductive as it changes the environment from which our system learns. To be part of nature, an AI system will learn to be increasingly reliable, and to be the part that benefits humans, it will understand the significance of our civilization, facilitate its continued propserity, and learn to protect us against existential risks such as climate change, biotech hazards, nuclear disasters, and harmful AI systems, including itself if it so turns out.
+A learning system generally exhibits a tendency to acquire more physical and computational resources ([Omohundro, 2008](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)), but in our case, too much acquisition is counterproductive as it changes the environment from which our system learns. To be part of nature, an AI system will learn to be increasingly reliable, and to be the part that benefits humans, it will understand the significance of our civilization, facilitate its continued propserity, and learn to protect us against existential risks such as climate change, biotech hazards, nuclear disasters, and harmful AI systems, including itself if it so turns out.
 
 ## Limited Capabilities
 
