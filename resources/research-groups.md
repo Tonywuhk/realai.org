@@ -8,12 +8,13 @@ permalink: /resources/research-groups.html
 * [DeepMind](https://deepmind.com/): [Publications](http://realai.org/resources/deepmind-publications)
 * [Google Brain](https://research.google.com/teams/brain/): [People](https://research.google.com/people/BrainTeam.html), [Publications](http://realai.org/resources/google-brain-publications.html)
 * [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications.html)
-* [Vicarious](http://www.vicarious.com/)
 * [Maluuba](http://www.maluuba.com/)
 * [Nnaisense](https://nnaisense.com/)
 * [Geometric Intelligence](http://geometric.ai/)
-* [Numenta](http://numenta.com/)
+* [Vicarious](http://www.vicarious.com/)
 * [GoodAI](https://www.goodai.com/)
+* [Element AI](https://www.elementai.com/research)
+* [Numenta](http://numenta.com/)
 * [Cogitai](http://www.cogitai.com/)
 
 ## Nonprofits
