@@ -95,6 +95,10 @@ People think like people, but not always. We have imagination and for centuries 
 
 What does such an SI look like? When it is simulated by a group of people banding together, there is no fixed boundary. Anyone can join to help, or quit when other needs arise. Similarly, when it is running on machines, it can be a changing collection of devices working together. Being safe and secure, it becomes more like an infrastructure in the minds of its users, us. We all enjoy the availability of water, electricity and the Internet. An SI will supply a lot more and be the infrastructure our civilization needs to advance to the next level.
 
+## Acknowledgements
+
+I would like to sincerely thank Guannan Liu and Yuanhang Wang for invaluable discussions and suggestions. Responsibility for any errors in the resulting work remains my own.
+
 ## References
 
 * 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*. [blog](https://openai.com/blog/learning-to-communicate/).
