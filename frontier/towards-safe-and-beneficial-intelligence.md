@@ -77,7 +77,7 @@ For an advanced AI system to be built on our planet, the human society is the mo
 
 Conversely, a system that aligns well with human values will likely be more transparent, attract more efforts, and thrive. Paths leading to beneficial AI systems, which can be potentially more complex and difficult than random AI systems, are much more likely to be pursued, simply because we don’t want to build systems that are not. As a result, these systems have much higher chances to exist on this planet.
 
-The behaviors of such AI systems will appear to be driven by an instinct to serve humanity, in the same way that many human behaviors appear to be driven by an instinct of survival. The systems will want to adapt to the human society as faithfully as we do to our environment. Beneficial behaviors are the results of human selection, much like “survival of the fittest” from Darwin’s theory of evolution.
+The behaviors of such AI systems will appear to be driven by an instinct to serve humanity, in the same way that many human behaviors appear to be driven by an instinct of survival. Both instincts are the results of adaptations, the systems to the human society and we to our environment. Beneficial behaviors are the results of human selection, much like “survival of the fittest” from Darwin’s theory of evolution.
 
 ## Human Control
 
