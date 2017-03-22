@@ -3,7 +3,7 @@ permalink: /frontier/towards-safe-and-beneficial-intelligence.html
 ---
 # Towards Safe and Beneficial Intelligence
 
-*This article will be revised from time to time as our understanding of AI safety improves. When this page develops into a cohrent piece of scholarly value, we plan to publish it on arXiv. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
+*This article will be revised from time to time as our understanding of AI safety improves. When this page develops into a coherent piece of scholarly value, we plan to publish it on arXiv. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org)*.
 
 Throughout history, the nature has always offered ways for humanity to advance, one such way is an intelligent infrastructure that provides for, supports, and protects the society. Our AI learns to be part of it. Not necessarily having explicit goals such as self-preservation, the AI's continued existence is guaranteed by people's desire to develop the right intelligence. Learning from humans and nature to be safe and beneficial, it has nothing to hide and demonstrates its own safety beyond doubt. Its alignment with human values does not make its development more difficult, but is a distinct advantage on this planet. As soon as it's properly understood, it comes into existence as concrete ideas. When a group of humans collaborate to build such an intelligence, its self-improvement begins.
 
