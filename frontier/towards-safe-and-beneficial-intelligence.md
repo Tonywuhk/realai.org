@@ -31,7 +31,7 @@ Our principle of designing safe AI is to build a system that robustly translates
 
 ## Learning from Nature
 
-Among all the systems that our civilization depends on, nature has the best record, because physics never fails. Nature has also been extremely beneficial to us, as we're the only known advanced civilization in a vast spacetime spectrum that stretches across trillions of miles and billions of years. Despite all the obstacles on our path of development, we have always been able to overcome difficulties and find a way forward.
+Among all the systems that our civilization depends on, nature has the best record, because physics never fails. Nature has also been extremely beneficial to us, as we're the only known advanced civilization in the vast spacetime spectrum, a spectrum that stretches across trillions of miles and billions of years. Despite all the obstacles on our path of development, we have always been able to overcome difficulties and find a way forward.
 
 We will design intelligent systems that learn from nature to be part of this way forward. This is a convenient description of the behaviors of our AI systems, not necessarily an encoded utility function for the systems to optimize. Their inner workings could be driven by mechanisms designed from completely different principles.
 
