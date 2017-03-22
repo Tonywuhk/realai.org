@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 
 ## 2017
 
+* 2017 March 21, Yan Duan, Marcin Andrychowicz, Bradly Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, and Wojciech Zaremba. [One-Shot Imitation Learning](https://arxiv.org/abs/1703.07326). *arXiv:1703.07326*.
+* 2017 March 20, Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, and Pieter Abbeel. [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907). *arXiv:1703.06907*.
 * 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*.
 * 2017 March 12, Nikhil Mishra, Pieter Abbeel, and Igor Mordatch. [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070). *arXiv:1703.04070*.
 * 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
