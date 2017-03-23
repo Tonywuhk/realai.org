@@ -10,6 +10,8 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 March 22, Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy. [Deep Exploration via Randomized Value Functions](https://arxiv.org/abs/1703.07608). *arXiv:1703.07608*.
+* 2017 March 21, George Tucker, Andriy Mnih, Chris J. Maddison, and Jascha Sohl-Dickstein. [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370). *arXiv:1703.07370*.
 * 2017 March 16, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Arnaud Doucet, Andriy Mnih, and Yee Whye Teh. [Particle Value Functions](https://arxiv.org/abs/1703.05820). *arXiv:1703.05820*.
 * 2017 March 16, Mohammad Gheshlaghi Azar, Ian Osband, and Rémi Munos. [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/abs/1703.05449). *arXiv:1703.05449*.
 * 2017 March 15, Florian Strub, Harm de Vries, Jeremie Mary, Bilal Piot, Aaron Courville, and Olivier Pietquin. [End-to-end optimization of goal-driven and visually grounded dialogue systems](https://arxiv.org/abs/1703.05423). *arXiv:1703.05423*.
