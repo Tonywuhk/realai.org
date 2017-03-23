@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 March 22, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.
 * 2017 March 20, Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. [Mask R-CNN](https://arxiv.org/abs/1703.06870). *arXiv:1703.06870*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
 * 2017 March 15, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
@@ -29,6 +30,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 December 21, Angeliki Lazaridou, Alexander Peysakhovich, and Marco Baroni. [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182). *arXiv:1612.07182*.
 * 2016 December 20, Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C. Lawrence Zitnick, and Ross Girshick. [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890). *arXiv:1612.06890*.
 * 2016 December 19, Deepak Pathak, Ross Girshick, Piotr Dollár, Trevor Darrell, and Bharath Hariharan. [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370). *arXiv:1612.06370*.
+* 2016 December 15, Li Jing, Yichen Shen, Tena Dubček, John Peurifoy, Scott Skirlo, Yann LeCun, Max Tegmark, and Marin Soljačić. [Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs](https://arxiv.org/abs/1612.05231). *arXiv:1612.05231*.
 * 2016 December 15, Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, and Jason Weston. [Learning through Dialogue Interactions by Asking Questions](https://arxiv.org/abs/1612.04936). *arXiv:1612.04936*.
 * 2016 December 13, Edouard Grave, Armand Joulin, and Nicolas Usunier. [Improving Neural Language Models with a Continuous Cache](https://arxiv.org/abs/1612.04426). *arXiv:1612.04426*.
 * 2016 December 12, Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, and Yann LeCun. [Tracking the World State with Recurrent Entity Networks](https://arxiv.org/abs/1612.03969). *arXiv:1612.03969*.
