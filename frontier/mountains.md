@@ -15,7 +15,7 @@ In the more likely case that update rules are motivated by optimization, the abi
 
 Here we include the type of update rules that are driven by the optimization of physics-inspired quantities such as free energy.
 
-#### 3. Preditive Learning
+#### 3. Predictive Learning
 
 The system learns to predict future inputs.
 
@@ -52,7 +52,7 @@ A general AI should exhibit the following abilities, but the keys to obtaining t
 
 ### 10. World Model
 
-The learning system should contain a vast amount of knowledge that forms the basis of "common sense"
+The learning system should contain a vast amount of knowledge that forms the basis of "common sense".
 
 ### 11. Few Shot Learning
 
