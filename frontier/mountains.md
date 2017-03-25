@@ -39,7 +39,9 @@ A hierarchy of learning structures eases the difficulty of learning in long time
 
 ### 8. Neural Interface and Modules
 
-The architecture needs to be independent enough to allow unlocked learning, so that modules can learn autonomously while communicating with other modules via cleverly designed interface. This also covers the case of multi-agent learning where each agent is considered a module and their means of communication the interface.
+* The architecture needs to be independent enough to allow unlocked learning, so that modules can learn autonomously while communicating with other modules via cleverly designed interface;
+* Multi-agent learning where each agent is considered a module and their means of communication the interface; and
+* Stable input and output interfaces for interactions with the environment.
 
 ### 9. Memory
 
