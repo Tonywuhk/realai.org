@@ -9,7 +9,7 @@ We hope to evolve this preliminary document into a concrete roadmap towards gene
 
 It is not yet clear how a general AI system's internal states should change according to inputs. At present, the optimization of an objective function motivates most of the standard update rules, e.g. SGD, momentum, Adagrad, Adadelta, RMSprop, and Adam. There may be new update rules that are more directly linked to inputs.
 
-In the more likely case that update rules are motivated by optimization, the ability of unsupervised learning requires the objectives of optimization to be relatively stable.
+In the more likely case that update rules are motivated by optimization, the ability of unsupervised learning requires the objectives of optimization to be relatively stable and likely intrinsic.
 
 ### 2. Intrinsic Motivations
 
