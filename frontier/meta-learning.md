@@ -29,7 +29,7 @@ An agent can be trained across many different tasks to meta-learn a reinforcment
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
 
-In a standard neural network learning setup, the update rules of how the network's weights can be learned using gradient descient ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)) or guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
+In a standard neural network learning setup, the update rules of how the network's weights can be learned using gradient descient ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)) or guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
 ## References
 
