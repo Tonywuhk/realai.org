@@ -34,11 +34,13 @@ In a standard neural network learning setup, the update rules of how the network
 ## References
 
 * 2017 March 15, Jake Snell, Kevin Swersky, and Richard S. Zemel. [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175). *arXiv:1703.05175*.
+* 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 9, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*.
 * 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
 * 2016 November 11, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, and Nando de Freitas. [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2016 November 9, Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, and Pieter Abbeel. [RL\\(^2\\): Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779). *arXiv:1611.02779*.
 * 2016 November 5, Sachin Ravi and Hugo Larochelle. [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll). *OpenReview*.
+* 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
 * 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
 * 2016 June 14, Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, and Nando de Freitas. [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474). *arXiv:1606.04474*.
 * 2016 June 13, Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, and Daan Wierstra. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080). *arXiv:1606.04080*.
