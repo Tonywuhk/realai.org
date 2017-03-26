@@ -3,17 +3,17 @@ permalink: /frontier/multitask-learning.html
 ---
 # Multitask Learning
 
-A standard deep neural network can [learn very different visual domains simultaneously](https://arxiv.org/abs/1701.07275). It's also possible to train a reinforcement learning agent to perform multiple tasks.
+A standard deep neural network can learn very different visual domains simultaneously ([Bilen & Vedaldi, 2017](https://arxiv.org/abs/1701.07275)). It's also possible to train a reinforcement learning agent to perform multiple tasks.
 
 ## Continual Learning
 
-Continual learning focuses on an agent's ability to learn new tasks without forgeting old ones. Skills learned from old tasks may or may not transfer to new tasks, but must be largely retained. One approach is to penalize learning for weights that are important for remembering old tasks. Importance measures of weights can be computed [online](https://arxiv.org/abs/1703.04200). The [elastic weight consolidation (EWC)](https://arxiv.org/abs/1612.00796) method relies on computing the Fisher information metric at the end of each task.
+Continual learning focuses on an agent's ability to learn new tasks without forgeting old ones. Skills learned from old tasks may or may not transfer to new tasks, but must be largely retained. One approach is to penalize learning for weights that are important for remembering old tasks. Importance measures of weights can be computed online ([Zenke & Poole & Ganguli, 2017](https://arxiv.org/abs/1703.04200)). The elastic weight consolidation (EWC) ([Kirkpatrick et al, 2016](https://arxiv.org/abs/1612.00796)) method relies on computing the Fisher information metric at the end of each task.
 
-Another approach to prevent catastrophic forgetting is to alter network structures. The [progressive networks](https://arxiv.org/abs/1606.04671) instantiates a new column for each new task being solved.
+Another approach to prevent catastrophic forgetting is to design novel network architectures. PathNets ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) evolve the learning of a particular task towards a subset of parameters, then fix these parameters before moving on to the next task. In contrast, the progressive networks ([Rusu & Rabinowitz et al., 2016](https://arxiv.org/abs/1606.04671)) instantiate a new column for each new task being solved.
 
 ## Transfer Learning
 
-[Policy distillation](https://arxiv.org/abs/1511.06295) is a technique to transfer one or more action policies from Q-networks to an untrained network. It can be used to consolidate multiple task-specific policies into a single policy. A similar way to accomplish this is [Actor-Mimic](https://arxiv.org/abs/1511.06342).
+Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a technique to transfer one or more action policies from Q-networks to an untrained network. It can be used to consolidate multiple task-specific policies into a single policy. A similar way to accomplish this is Actor-Mimic ([Parisotto et al, 2015](https://arxiv.org/abs/1511.06342)).
 
 ## References
 
