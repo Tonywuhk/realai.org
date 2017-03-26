@@ -57,6 +57,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 September 8, Neil Zeghidour, Gabriel Synnaeve, Nicolas Usunier, and Emmanuel Dupoux. [Joint Learning of Speaker and Phonetic Similarities with Siamese Networks](https://research.fb.com/publications/joint-learning-of-speaker-and-phonetic-similarities-with-siamese-networks/). *Interspeech 2016*.
 * 2016 September 7, Matthijs Douze, Hervé Jégou, and Florent Perronnin. [Polysemous codes](https://arxiv.org/abs/1609.01882). *arXiv:1609.01882*.
 * 2016 August 16, Vladimir Vapnik and Rauf Izmailov. [Synergy of Monotonic Rules](http://jmlr.org/papers/v17/16-137.html). *Journal of Machine Learning Research*, 17(136):1-33.
+* 2016 July 25, Flavian Vasile, Elena Smirnova, and Alexis Conneau. [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation](https://arxiv.org/abs/1607.07326). *arXiv:1607.07326*.
 * 2016 July 15, Piotr Bojanowski, Edouard Grave, Armand Joulin, and Tomas Mikolov. [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606). *arXiv:1607.04606*.
 * 2016 July 6, Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov. [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759). *arXiv:1607.01759*.
 * 2016 June 30, Joel Legrand, Michael Auli, and Ronan Collobert. [Neural Network-based Word Alignment through Score Aggregation](https://arxiv.org/abs/1606.09560). *arXiv:1606.09560*.
@@ -65,6 +66,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 June 15, Léon Bottou, Frank E. Curtis, and Jorge Nocedal. [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838). *arXiv:1606.04838*.
 * 2016 June 9, Alexander Miller, Adam Fisch, Jesse Dodge, Amir-Hossein Karimi, Antoine Bordes, and Jason Weston. [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126). *arXiv:1606.03126*.
 * 2016 June 9, Bharath Hariharan and Ross Girshick. [Low-shot Visual Recognition by Shrinking and Hallucinating Features](https://arxiv.org/abs/1606.02819). *arXiv:1606.02819*.
+* 2016 June 6, Alexis Conneau, Holger Schwenk, Loïc Barrault, and Yann Lecun. [Very Deep Convolutional Networks for Text Classification](https://arxiv.org/abs/1606.01781). *arXiv:1606.01781*.
 * 2016 May 26, David Lopez-Paz, Robert Nishihara, Soumith Chintala, Bernhard Schölkopf, and Léon Bottou. [Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179). *arXiv:1605.08179*.
 * 2016 May 25, Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. [Learning Multiagent Communication with Backpropagation](https://arxiv.org/abs/1605.07736). *arXiv:1605.07736*.
 * 2016 May 24, Antoine Bordes, Y-Lan Boureau, and Jason Weston. [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). *arXiv:1605.07683*.
