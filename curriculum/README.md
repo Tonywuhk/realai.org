@@ -18,6 +18,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 * 2017 Winter, *Stanford University*, [MS&E 338: Reinforcement Learning](https://web.stanford.edu/class/msande338/). Benjamin Van Roy.
 * 2016 Autumn, *Stanford University*, [CS 229: Machine Learning](http://cs229.stanford.edu/). Andrew Ng and John Duchi.
+* 2016 Winter, *Stanford University*, [EE376A/Stats376A: Information Theory](http://web.stanford.edu/class/ee376a/). David Tse.
 * 2016 September, *MIT Press*, [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. Richard S. Sutton and Andrew G. Barto.
 * 2012 June 27, *Cengage Learning*, [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), 3rd Edition. Michael Sipser.
 
