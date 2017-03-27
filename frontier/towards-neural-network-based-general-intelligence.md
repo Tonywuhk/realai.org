@@ -41,11 +41,11 @@ The system can easily generalize. Its encoded knowledge and continual learning a
 
 ## 5. Hierarchical Learning
 
-A hierarchy of learning structures eases the difficulty of learning in long time horizon and facilitates abstract thinking.
+A hierarchy of learning structures eases the difficulty of learning in long time horizon and facilitates reasoning in abstract terms.
 
-### 5.1 Abstraction
+### 5.1 Concept Learning
 
-The ability to extract concepts from data and conduct inferences.
+The ability to extract abstract concepts from data.
 
 ## 6. Neural Interface and Modules
 
@@ -59,10 +59,15 @@ The ability to extract concepts from data and conduct inferences.
 
 ### 7.2 Temporary memory that facilitates learning e.g. used for experience replay
 
-## 8. World Model
+## 8. Reasoning
 
-The learning system should contain a vast amount of knowledge that forms the basis of "common sense", which can be the result of continual learning.
+The system needs to have the ability of reasoning.
 
 ## 9. Language Grounding
 
 The system's understanding of language should be grounded to its representation of common sense knowledge, not merely finding patterns in texts. Language can be considered as the interface between neural network agents who need to communicate.
+
+## 10. World Model
+
+The learning system should contain a vast amount of knowledge that forms the basis of "common sense", which can be the result of continual learning.
+
