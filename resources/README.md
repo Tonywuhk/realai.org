@@ -17,6 +17,7 @@ permalink: /resources/
 * The [Neural Perspective](https://theneuralperspective.com/) is all about simplifying and democratizing deep learning concepts and applications.
 * [Piekniewski's](http://blog.piekniewski.info/) blog on limits of deep learning and where to go next with AI.
 * The [Spectator](http://blog.shakirm.com/) is Shakir's machine learning blog.
+* I am [trask](https://iamtrask.github.io/) is a machine learning craftsmanship blog.
 * [WildML](http://www.wildml.com/) is a blog about machine learning.
 
 ## Links
