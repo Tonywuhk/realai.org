@@ -1,7 +1,7 @@
 ---
-permalink: /frontier/mountains.html
+permalink: /frontier/towards-neural-network-based-general-intelligence.html
 ---
-# Mountains
+# Towards Neural Network-Based General Intelligence
 
 We hope to evolve this preliminary document into a concrete roadmap towards general AI. As a first step, we make a list of problems that we think should be solved before a learning system can be declared "general".
 
