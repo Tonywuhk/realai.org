@@ -11,6 +11,8 @@ Continual learning focuses on an agent's ability to learn new tasks without forg
 
 Another approach to prevent catastrophic forgetting is to design novel network architectures. PathNets ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) evolve the learning of a particular task towards a subset of parameters, then fix these parameters before moving on to the next task. In contrast, the progressive networks ([Rusu & Rabinowitz et al., 2016](https://arxiv.org/abs/1606.04671)) instantiate a new column for each new task being solved.
 
+We also plan to review studies that focus on augmenting the input and output layers of a neural network to adapt to new tasks without forgeting the old ones.
+
 ## Transfer Learning
 
 Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a technique to transfer one or more action policies from Q-networks to an untrained network. It can be used to consolidate multiple task-specific policies into a single policy. A similar way to accomplish this is Actor-Mimic ([Parisotto et al, 2015](https://arxiv.org/abs/1511.06342)).
