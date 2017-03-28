@@ -21,7 +21,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 * 2017 February 11, Sandy H. Huang, David Held, Pieter Abbeel, and Anca D. Dragan. [Enabling Robots to Communicate their Objectives](https://arxiv.org/abs/1702.03465). *arXiv:1702.03465*.
 * 2017 February 8, Sandy Huang, Nicolas Papernot, Ian Goodfellow, Yan Duan, and Pieter Abbeel. [Adversarial Attacks on Neural Network Policies](https://arxiv.org/abs/1702.02284). *arXiv:1702.02284*.
 * 2017 February 3, Gregory Kahn, Adam Villaflor, Vitchyr Pong, Pieter Abbeel, and Sergey Levine. [Uncertainty-Aware Reinforcement Learning for Collision Avoidance](https://arxiv.org/abs/1702.01182). *arXiv:1702.01182*.
-* 2017 January 19, Tim Salimans, Andrej Karpathy, Xi Chen, and Diederik P. Kingma. [PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/abs/1701.05517). *arXiv:1701.05517*.
+* 2017 January 19, Tim Salimans, Andrej Karpathy, Xi Chen, and Diederik P. Kingma. [PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/abs/1701.05517). *arXiv:1701.05517*. [code](https://github.com/openai/pixel-cnn).
 * 2017 January 3, Nithyanand Kota, Abhishek Mishra, Sunil Srinivasa,  Xi,  Chen, and Pieter Abbeel. [A K-fold Method for Baseline Estimation in Policy Gradient Algorithms](https://arxiv.org/abs/1701.00867). *arXiv:1701.00867*.
 
 ## 2016
