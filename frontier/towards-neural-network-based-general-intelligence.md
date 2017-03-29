@@ -3,7 +3,11 @@ permalink: /frontier/towards-neural-network-based-general-intelligence.html
 ---
 # Towards Neural Network-Based General Intelligence
 
-We hope to evolve this preliminary document into a concrete roadmap towards general AI. As a first step, we make a list of problems that we think should be solved before a learning system can be declared "general".
+*Below is a list of obstacles we believe are on the paths from today's technologies to general AI. As our understanding improves, this list will be revised from time to time. When this page develops into a coherent piece of scholarly value, we plan to publish it on arXiv. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org).*
+
+## Introduction 
+
+The problems listed below are interrelated, the solution of one part of a problem is often closely related to the solution of one part of another problem. AGI may be attainable after satisfactory solutions of only a few problems.
 
 ## 1. Learning Architecture
 
@@ -21,7 +25,7 @@ Here we include the type of update rules that are driven by the optimization of 
 
 #### 2.1.1 Predictive Learning
 
-The system learns to predict future inputs.
+The system learns to predict future inputs. This is likely harder than the study of *generative models* which only need to generate data without making extra moves through time.
 
 #### 2.1.2 Exploration / Curiosity
 
@@ -53,11 +57,23 @@ This can be seen as a special case where one level of hierarchy, from data to co
 * Multi-agent learning where each agent is considered a module and their means of communication the interface; and
 * Stable input and output interfaces for interactions with the environment.
 
-## 7. Memory
+## 7. Basic Cognitive Functions
 
-### 7.1 Episodic and long-term memory
+### 7.1 Memory
 
-### 7.2 Temporary memory that facilitates learning e.g. used for experience replay
+Memory can be a very useful component of the learning architecture and is often times not in the form neural networks, which are not particularly good at recording data.
+
+#### 7.1.1 Episodic and long-term memory
+
+#### 7.1.2 Temporary memory that facilitates learning e.g. used for experience replay
+
+### 7.2 Attention
+
+Selectively attend to the part of data that are important for the current context in which the system is operating.
+
+### 7.3 Reasoning
+
+The ability to reason in abstract terms is one way of hierarchical thinking.
 
 ## 8. Language Grounding
 
