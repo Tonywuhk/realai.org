@@ -7,7 +7,7 @@ A list of public predictions *related to* when general AI will be created, in re
 
 ## News
 
-* 2017 March 29, Geoff Hinton predicted in [2016 summer](https://twitter.com/jackclarkSF/status/846794552421732357) that reasoning and few-short learning may come **later than 2026**. Source: [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly*.
+* 2017 March 29, Geoff Hinton predicted that reasoning and few-short learning may come **later than 2027**. Source: [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly*.
 * 2017 February 9, Demis Hassabis said on [January 7](https://futureoflife.org/bai-2017/) that he would be surprised if there were "more than about 20" mountains left. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 24:40-25:10.
 * 2017 February 9, Jürgen Schmidhuber suggested on [January 7](https://futureoflife.org/bai-2017/) that human-level AI could be created in **2028**. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 6:54-7:24.
 * 2017 January 29, Ray Kurzweil said on [January 7](https://futureoflife.org/bai-2017/) that we would achieve human-level intelligence in **2029**. Source: [Youtube: Creating Human-Level AI: How and When \| Ray Kurzweil](https://www.youtube.com/watch?v=oPyCHwPS04E), 16:24-18:35.
