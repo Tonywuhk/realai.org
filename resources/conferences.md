@@ -38,7 +38,7 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 
 ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
-AITP: [2016](http://aitp-conference.org/2016/)
+AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
 
 # Non-Academic
 
