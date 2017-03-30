@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 March 29, Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Jaitly, Zongheng Yang, Ying Xiao, Zhifeng Chen, Samy Bengio, Quoc Le, Yannis Agiomyrgiannakis, Rob Clark, and Rif A. Saurous. [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). *arXiv:1703.10135*.
 * 2017 March 26, Melody Y. Guan, Varun Gulshan, Andrew M. Dai, and Geoffrey E. Hinton. [Who Said What: Modeling Individual Labelers Improves Classification](https://arxiv.org/abs/1703.08774). *arXiv:1703.08774*.
 * 2017 March 24, Ron J. Weiss, Jan Chorowski, Navdeep Jaitly, Yonghui Wu, and Zhifeng Chen. [Sequence-to-Sequence Models Can Directly Transcribe Foreign Speech](https://arxiv.org/abs/1703.08581). *arXiv:1703.08581*.
 * 2017 March 22, Amit Daniely, Roy Frostig, Vineet Gupta, and Yoram Singer. [Random Features for Compositional Kernels](https://arxiv.org/abs/1703.07872). *arXiv:1703.07872*.
