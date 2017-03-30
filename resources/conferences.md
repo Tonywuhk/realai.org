@@ -22,6 +22,8 @@ permalink: /resources/conferences.html
            
 ## Past Meetings
 
+AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
+
 AAAI: [2017](http://www.aaai.org/Conferences/AAAI/aaai17.php), [2016](http://www.aaai.org/Conferences/AAAI/aaai16.php), [2015](http://www.aaai.org/Conferences/AAAI/aaai15.php), [2014](http://www.aaai.org/Conferences/AAAI/aaai14.php), [2013](http://www.aaai.org/Conferences/AAAI/aaai13.php), [2012](http://www.aaai.org/Conferences/AAAI/aaai12.php)
 
 NIPS: [2016](https://nips.cc/Conferences/2016), [2015](https://nips.cc/Conferences/2015), [2014](https://nips.cc/Conferences/2014), [2013](https://nips.cc/Conferences/2013), [2012](https://nips.cc/Conferences/2012)
@@ -37,8 +39,6 @@ ACL: [2016](http://acl2016.org/), [2015](http://acl2015.org/), [2014](http://acl
 CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), [2014](http://cvpr2014.thecvf.com/), [2013](http://cvpr2013.thecvf.com/), [2012](http://tab.computer.org/pamitc/archive/cvpr2012/)
 
 ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
-
-AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
 
 # Non-Academic
 
