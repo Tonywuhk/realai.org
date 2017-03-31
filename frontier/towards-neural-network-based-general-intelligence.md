@@ -9,11 +9,21 @@ permalink: /frontier/towards-neural-network-based-general-intelligence.html
 
 The problems listed below are interrelated, the solution of one part of a problem is often closely related to the solution of one part of another problem. AGI may be attainable after satisfactory solutions of only a few problems.
 
-## 1. Learning Architecture
+## 1. Learning and Network Architecture
+
+### 1.1 Update Rules
 
 It is not yet clear how a general AI system's internal states should change according to inputs. At present, the optimization of an objective function motivates most of the standard update rules, e.g. SGD, momentum, Adagrad, Adadelta, RMSprop, and Adam.
 
 There may be new update rules that are more directly linked to inputs. Network weights and topology can also change over time, sometimes according to outputs from other networks.
+
+### 1.2 Meta-Networks
+
+A *meta* neural network can operate on the weights and topology of an underlying neural network.
+
+### 1.3 Learning Network Topology
+
+The topology of a neural network can also change in the course of learning.
 
 ## 2. Unsupervised Learning
 
@@ -56,6 +66,10 @@ This can be seen as a special case where one level of hierarchy, from data to co
 * The architecture needs to be independent enough to allow unlocked learning, so that modules can learn autonomously while communicating with other modules via cleverly designed interface;
 * Multi-agent learning where each agent is considered a module and their means of communication the interface; and
 * Stable input and output interfaces for interactions with the environment.
+
+### 6.1 Communication
+
+When the communication between neural networks takes the form of more explicit data such as language or image, this problem can include standard topics such as NLP and generative models.
 
 ## 7. Basic Cognitive Functions
 
