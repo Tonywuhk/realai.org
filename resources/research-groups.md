@@ -18,10 +18,11 @@ permalink: /resources/research-groups.html
 * [Cogitai](http://www.cogitai.com/)
 
 ## Nonprofits
+
 * [OpenAI](https://openai.com/): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/resources/openai-publications)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [IDSIA](http://www.idsia.ch/)
-* The Vector Institute: [news](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html)
+* [Vector Institute](http://vectorinstitute.ai/)
 
 ## Academia
 
