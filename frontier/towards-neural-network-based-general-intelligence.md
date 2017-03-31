@@ -9,6 +9,10 @@ permalink: /frontier/towards-neural-network-based-general-intelligence.html
 
 The problems listed below are interrelated, the solution of one part of a problem is often closely related to the solution of one part of another problem. AGI may be attainable after satisfactory solutions of only a few problems.
 
+We do not include the topics of supervised learning and reinforcement learning because they can be considered solved ([Hassabis 2017](https://www.youtube.com/watch?v=V0aXMTpZTfc)), at least in the very narrow sense of still image recognition and video game play. Further improvements of the performances in these tasks will likely be driven by solutions to other topics covered in this article.
+
+We also stress that deep learning is only one way towards building general AI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, theoretical physics and other fields. They're promising directions but are beyond the scope of this preview.
+
 ## 1. Learning and Network Architecture
 
 ### 1.1 Update Rules
@@ -97,3 +101,6 @@ The system's understanding of language should be grounded to its representation 
 
 The learning system should contain a vast amount of knowledge that forms the basis of "common sense", which can be the result of continual learning.
 
+## References
+
+* 2017 February 9, Demis Hassabis. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *[BAI 2017](https://futureoflife.org/bai-2017/)*, (YouTube video)24:40-25:10.
