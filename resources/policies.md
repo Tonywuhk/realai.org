@@ -5,6 +5,7 @@ permalink: /resources/policies.html
 
 ## Canada
 
+* 2017 March 30, *Phys.org*, [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html).
 * 2017 March 22, *Canada NewsWire*, [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html).
 
 ## United Kingdom
