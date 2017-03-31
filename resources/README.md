@@ -28,4 +28,5 @@ permalink: /resources/
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) is a reading roadmap for newcomers.
 * [Distill](http://distill.pub/) is dedicated to clear explanations of machine learning. It hosts a [research journal](http://distill.pub/journal/).
 * The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development.
+* Machine Learning Camp [Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp).
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
