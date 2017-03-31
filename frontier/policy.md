@@ -1,7 +1,8 @@
 ---
-permalink: /frontier/policies.html
+title: Policy
+permalink: /frontier/policy.html
 ---
-# Policies
+# Country Policies
 
 ## Canada
 
