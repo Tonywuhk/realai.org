@@ -14,3 +14,7 @@ permalink: /frontier/policies.html
 
 ## United Kingdom
 * 2017 February 26, *The Telegraph*, [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/).
+
+# Research
+
+* 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
