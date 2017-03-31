@@ -6,7 +6,7 @@ mathjax: true
 
 # AI and Society
 
-[Safety](http://realai.org/frontier/safety.html) | [Timing](http://realai.org/frontier/timing.html) | [Roadmap](http://realai.org/frontier/roadmap.html) | [Policy](http://realai.org/frontier/policy.html)
+[Safety](http://realai.org/frontier/safety.html) | [Roadmap](http://realai.org/frontier/roadmap.html) | [Timing](http://realai.org/frontier/timing.html) | [Policy](http://realai.org/frontier/policy.html)
 
 # Environments
 
