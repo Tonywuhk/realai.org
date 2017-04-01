@@ -7,6 +7,7 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 
 ## News
 
+* 2017 March 31, The Open Philanthropy Project awarded a grant of $30 million in general support to OpenAI. [*Open Philanthropy*](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support).
 * 2017 January 5-8, The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
   * 2017 February 9, [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc) *YouTube*.
   * 2017 February 2, [How to Keep Strong AI Safe and Beneficial](https://www.youtube.com/watch?v=UMq4BcRf-bY). *YouTube*.
