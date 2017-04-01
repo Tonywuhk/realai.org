@@ -61,3 +61,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2016 December 31, *arXiv*, [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160). Ian Goodfellow.
 * 2016 June 19, *arXiv*, [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908). Carl Doersch.
 * 2016 June 16, *OpenAI*, [Blog: Generative Models](https://openai.com/blog/generative-models/). Andrej Karpathy, Pieter Abbeel, Greg Brockman, Peter Chen, Vicki Cheung, Rocky Duan, Ian Goodfellow, Durk Kingma, Jonathan Ho, Rein Houthooft, Tim Salimans, John Schulman, Ilya Sutskever, and Wojciech Zaremba.
+
+### Safety
+
+* 2016 December 6, *Center for Human-Compatible AI*, [Annontated bibliography of recommended materials](http://humancompatible.ai/bibliography).
