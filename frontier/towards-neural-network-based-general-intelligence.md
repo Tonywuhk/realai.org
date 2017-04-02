@@ -3,17 +3,21 @@ permalink: /frontier/towards-neural-network-based-general-intelligence.html
 ---
 # Towards Neural Network-Based General Intelligence
 
-*Below is a list of obstacles we believe are on the paths from today's technologies to general AI. As our understanding improves, this list will be revised from time to time. When this page develops into a coherent piece of scholarly value, we plan to publish it on arXiv. Comments should be directed to [Jonathan Yan](mailto:jyan@realai.org).*
+*[Jonathan Yan](mailto:jyan@realai.org)*
+
+Building computer systems based on neural networks (NNs) is a promising path towards the development of artificial general intelligence (AGI). The capabilities of today's systems are still very limited and can only successfully learn narrow tasks at best. We review problems that likely need to be solved before AGI can be achieved. 
 
 ## Introduction 
 
 The problems listed below are interrelated, the solution of one part of a problem is often closely related to the solution of one part of another problem. AGI may be attainable after satisfactory solutions of only a few problems.
 
-We do not include the topics of supervised learning and reinforcement learning because they can be considered solved ([Hassabis 2017](https://www.youtube.com/watch?v=V0aXMTpZTfc)), at least in the very narrow sense of still image recognition and video game play. Further improvements of the performances in these tasks will likely be driven by solutions to other topics covered in this article.
+We do not include the topics of supervised learning and reinforcement learning because they can be considered solved ([Hassabis 2017](https://www.youtube.com/watch?v=V0aXMTpZTfc)), at least in the very narrow sense of still image recognition and simple gameplay. Further improvements of the performances in these tasks will likely be driven by solutions to other topics covered in this article.
 
-We also stress that deep learning is only one way towards building general AI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, theoretical physics and other fields. They're promising directions but are beyond the scope of this preview.
+We also stress that deep learning is only one way towards building general AI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, physics and other fields. Even inside machine learning, advanced systems can be built that do not use on neural networks. They're promising directions but are beyond the scope of this preview.
 
-## 1. Learning and Network Architecture
+## 1. Learning Architecture
+
+In the sense that the eventual implementation of an NN-based AGI system is a large learning architecture, this is the problem that captures all the others. Here we specifically focus on the algorithmic and architectural aspects of learning, while leaving the characteristics of learning to later sections.
 
 ### 1.1 Update Rules
 
@@ -53,7 +57,7 @@ A general AI system can learn new tasks while largely retaining old knowledge.
 
 Training and testing phases should not be completely separate and can happen concurrently. 
 
-## 4. Few Shot Learning
+## 4. Few-Shot Learning
 
 The system can easily generalize. Its encoded knowledge and continual learning ability allow it to learn new behaviors from much fewer data than today's narrow AI systems.
 
