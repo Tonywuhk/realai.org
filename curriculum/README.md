@@ -37,6 +37,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2016 January, *Harvard University*, [The Fundamentals of Neuroscience](https://www.mcb80x.org/). David Cox.
 * 2010 January 13, *Nature Reviews Neuroscience*, [The free-energy principle: a unified brain theory?](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf). Karl Friston.
 * 2004 November 29, *Springer*, [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/gp/product/3540221395). Marcus Hutter.
+* 1989, *Oxford University Press*, [The Emperor's New Mind](https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980). Roger Penrose.
 
 ## By Application Areas
 
