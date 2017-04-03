@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/roadmap.html
+permalink: /roadmap.html
 ---
 # Roadmap
 
