@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/timing.html
+permalink: /timing.html
 ---
 # Timing
 
