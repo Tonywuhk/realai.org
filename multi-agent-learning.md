@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/multi-agent-learning.html
+permalink: /multi-agent-learning.html
 ---
 # Multi-Agent Learning
 
