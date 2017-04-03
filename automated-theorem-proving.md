@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/automated-theorem-proving.html
+permalink: /automated-theorem-proving.html
 ---
 # Automated Theorem Proving
 
