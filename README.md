@@ -1,12 +1,12 @@
 ---
-title: Frontier
-permalink: /frontier/
+title: Home
+permalink: /
 mathjax: true
 ---
 
 # AI and Society
 
-[Safety](http://realai.org/frontier/safety.html) | [Roadmap](http://realai.org/frontier/roadmap.html) | [Timing](http://realai.org/frontier/timing.html) | [Policy](http://realai.org/frontier/policy.html)
+[Safety](http://realai.org/safety.html) | [Roadmap](http://realai.org/roadmap.html) | [Timing](http://realai.org/timing.html) | [Policy](http://realai.org/policy.html)
 
 # Environments
 
@@ -150,14 +150,14 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 # Related Topics
 
 * Emerging Areas (*Not yet covered*)
-* [Meta-learning](http://realai.org/frontier/meta-learning.html)
-* [Multi-agent Learning](http://realai.org/frontier/multi-agent-learning.html)
-* [Multitask Learning](http://realai.org/frontier/multitask-learning.html)
-* [Neuroscience](http://realai.org/frontier/neuroscience.html)
+* [Meta-learning](http://realai.org/meta-learning.html)
+* [Multi-agent Learning](http://realai.org/multi-agent-learning.html)
+* [Multitask Learning](http://realai.org/multitask-learning.html)
+* [Neuroscience](http://realai.org/neuroscience.html)
 
 # Applications
 
-* [Automated Theorem Proving](http://realai.org/frontier/automated-theorem-proving.html)
+* [Automated Theorem Proving](http://realai.org/automated-theorem-proving.html)
 
 ## Gameplay
 
