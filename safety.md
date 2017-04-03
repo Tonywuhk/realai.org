@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/safety.html
+permalink: /safety.html
 ---
 # Safety
 
