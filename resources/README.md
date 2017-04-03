@@ -4,6 +4,7 @@ permalink: /resources/
 # Resources
 
 * [Conferences](http://realai.org/resources/conferences.html)
+* [Curriculum](http://realai.org/resources/curriculum.html)
 * [Research Groups](http://realai.org/resources/research-groups.html)
 * [Scientists](http://realai.org/resources/scientists.html)
 
