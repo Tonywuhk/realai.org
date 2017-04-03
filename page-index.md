@@ -7,7 +7,7 @@
 ## C
 
 * [Conferences](http://realai.org/resources/conferences.html)
-* [Curriculum](http://realai.org/curriculum/)
+* [Curriculum](http://realai.org/resources/curriculum.html)
 
 ## F
 
