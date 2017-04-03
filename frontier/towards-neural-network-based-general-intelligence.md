@@ -13,7 +13,7 @@ The problems listed below are interrelated, the solution of one part of a proble
 
 We do not include the topics of supervised learning and reinforcement learning because they can be considered solved ([Hassabis 2017](https://www.youtube.com/watch?v=V0aXMTpZTfc)), at least in the very narrow sense of still image recognition and simple gameplay. Further improvements of the performances in these tasks will likely be driven by solutions to other topics covered in this article.
 
-We also stress that deep learning is only one way towards building general AI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, physics and other fields. Even inside machine learning, advanced systems can be built that do not use on neural networks. They're promising directions but are beyond the scope of this preview.
+We also stress that deep learning is only one way towards building general AI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, physics and other fields. Even inside machine learning, advanced systems can be built that do not use neural networks. They're promising directions but are beyond the scope of this preview.
 
 ## 1. Learning Architecture
 
