@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/multitask-learning.html
+permalink: /multitask-learning.html
 ---
 # Multitask Learning
 
