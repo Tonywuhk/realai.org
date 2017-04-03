@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/meta-learning.html
+permalink: /meta-learning.html
 mathjax: true
 ---
 # Meta-Learning
