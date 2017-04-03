@@ -1,6 +1,6 @@
 ---
 title: Policy
-permalink: /frontier/policy.html
+permalink: /policy.html
 ---
 # Country Policies
 
