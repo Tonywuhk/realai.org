@@ -1,10 +1,8 @@
 ---
-permalink: /resources/deepmind-publications.html
+permalink: /labs/deepmind-publications.html
 mathjax: true
 ---
 # DeepMind Publications
-
-*If you're interested in maintaining this page for Real AI, please contact hr@realai.org.*
 
 A list of papers where at least one coauthor is affiliated with DeepMind Technologies Limited, in reverse chronological order:
 
