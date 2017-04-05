@@ -1,5 +1,5 @@
 ---
-permalink: /resources/openai-publications.html
+permalink: /labs/openai-publications.html
 mathjax: true
 ---
 # OpenAI Publications
