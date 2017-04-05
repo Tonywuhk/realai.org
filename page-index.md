@@ -22,10 +22,10 @@
 ## P
 
 * [Predictions](http://realai.org/predictions.html)
-* [Publications, DeepMind](http://realai.org/resources/deepmind-publications.html)
+* [Publications, DeepMind](http://realai.org/labs/deepmind-publications.html)
 * [Publications, Facebook AI Research](http://realai.org/resources/fair-publications.html)
 * [Publications, Google Brain](http://realai.org/resources/google-brain-publications.html)
-* [Publications, OpenAI](http://realai.org/resources/openai-publications.html)
+* [Publications, OpenAI](http://realai.org/labs/openai-publications.html)
 
 ## R
 
