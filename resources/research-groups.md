@@ -32,13 +32,15 @@ permalink: /resources/research-groups.html
 * NYU: [Center for Data Science](http://cds.nyu.edu/)
 * University of Toronto: [Machine Learning](http://learning.cs.toronto.edu/)
 * University of Montreal: [MILA](https://mila.umontreal.ca/en/)
-* Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/)
-* Carnegie Mellon University: [Machine Learning Department](http://www.ml.cmu.edu/)
-* Massachusetts Institute of Technology
+* University of Alberta: [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/)
+* Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/)
+* Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
+* Carnegie Mellon University: [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
 * University College London
 * University of Cambridge
 * University of Oxford
-* University of Michigan
+* University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
+* Imperial College London: [Machine Learning Group](http://wp.doc.ic.ac.uk/mlg/)
 
 ## Safety
 
