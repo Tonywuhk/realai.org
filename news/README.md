@@ -8,5 +8,7 @@
 * 2017 March 22. [Baidu Chief Scientist Ng to Depart in Setback for AI Push](https://www.bloomberg.com/news/articles/2017-03-22/baidu-s-chief-scientist-ng-to-depart-in-setback-for-ai-efforts). *Bloomberg Technology*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
+* 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
+* 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 
-Older news: [2014](http://realai.org/news/2014.html)
+Older news: [2016](http://realai.org/news/2016.html), [2014](http://realai.org/news/2014.html)
