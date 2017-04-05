@@ -17,6 +17,7 @@ Below is an incomplete list of scientists working in the field of AI:
 ## L
 
 * [Yann LeCun](http://yann.lecun.com/), Director of AI Research @ Facebook, Professor @ New York University
+* Shane Legg, Co-Founder & Chief Scientist @ [DeepMind](https://deepmind.com/about/)
 
 ## S
 
@@ -29,12 +30,12 @@ Below is an incomplete list of scientists working in the field of AI:
 
 # Sources
 
-* Mark Bergen and Kurt Wagner, [Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze](http://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning), *Recode*, 2015 July 15.
-* Ina Fried, [Apple has hired a big brain in AI to make Siri less dumb](http://www.recode.net/2016/10/17/13305914/apple-hire-cmu-artificial-intelligence), *Recode*, 2016 October 17.
-* Will Knight, [This AI Algorithm Learns Simple Tasks as Fast as We Do](https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/), *MIT Technology Review*, 2015 December 10.
-* John Markoff, [When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’](https://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html), *New York Times*, 2016 November 27.
-* David Rowan, [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind), *Wired UK*, 2015 June 22.
+* Mark Bergen and Kurt Wagner, [Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze](http://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning), *Recode*, 2015 July 15. (Hinton, LeCun, and Bengio)
+* Ina Fried, [Apple has hired a big brain in AI to make Siri less dumb](http://www.recode.net/2016/10/17/13305914/apple-hire-cmu-artificial-intelligence), *Recode*, 2016 October 17. (Salakhutdinov)
+* Will Knight, [This AI Algorithm Learns Simple Tasks as Fast as We Do](https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/), *MIT Technology Review*, 2015 December 10. (Salakhutdinov, Tenenbaum, and Hinton)
+* John Markoff, [When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’](https://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html), *New York Times*, 2016 November 27. (Schmidhuber)
+* David Rowan, [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind), *Wired UK*, 2015 June 22. (Hassabis and Legg)
 
 ---
 
-*Comments and inquiries regarding this web page should be directed to [hr@realai.org](mailto:hr@realai.org). More scientists will be added to this list over time as Real AI learns and understands their research.*
+*Comments and inquiries regarding this web page should be directed to [hr@realai.org](mailto:hr@realai.org).
