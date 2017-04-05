@@ -58,3 +58,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 * 2016 February 25, Tim Salimans and Diederik P. Kingma. [Weight Normalization: A Simple Reparameterization to Accelerate Training
   of Deep Neural Networks](https://arxiv.org/abs/1602.07868). *arXiv:1602.07868*.
 * 2016 February 8, Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, and Ananthram Swami. [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697). *arXiv:1602.02697*.
+
+## Reference
+
+[List](https://openai.com/research/#publications) of publications maintained at OpenAI.
