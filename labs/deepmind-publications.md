@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 
 ## 2017
 
+* 2017 April 5, Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279). *arXiv:1704.01279*.
+* 2017 April 4, Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, and George E. Dahl. [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212). *arXiv:1704.01212*.
 * 2017 March 22, Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy. [Deep Exploration via Randomized Value Functions](https://arxiv.org/abs/1703.07608). *arXiv:1703.07608*.
 * 2017 March 21, George Tucker, Andriy Mnih, Chris J. Maddison, and Jascha Sohl-Dickstein. [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370). *arXiv:1703.07370*.
 * 2017 March 16, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Arnaud Doucet, Andriy Mnih, and Yee Whye Teh. [Particle Value Functions](https://arxiv.org/abs/1703.05820). *arXiv:1703.05820*.
