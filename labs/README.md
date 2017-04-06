@@ -39,21 +39,21 @@ permalink: /labs/
 * Université de Montréal [MILA](https://mila.umontreal.ca/en/): [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/)
 * University of Alberta [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/): [Richard Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/)
 * Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
-* Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
+* Stanford University: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
 * Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/): [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
 * University College London [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/): Peter Dayan, Matthew Botvinick
-* University of Cambridge [Machine Learning Group](http://mlg.eng.cam.ac.uk/): [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
 * Imperial College London: [Machine Learning Group](http://wp.doc.ic.ac.uk/mlg/) ([Murray Shanahan](https://www.doc.ic.ac.uk/~mpsha/)), [BICV Group](http://www.bicv.org/)
 * University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
 * University of Oxford:
   * [Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/): [Phil Blunsom](http://www.cs.ox.ac.uk/people/phil.blunsom/)
   * [Statistical Machine Learning Group](http://csml.stats.ox.ac.uk/learning/): [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/)
+* University of Cambridge [Machine Learning Group](http://mlg.eng.cam.ac.uk/): [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
 
 ## Safety
 
-* [Future of Life Institute](https://futureoflife.org/)
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/): [Publications](http://www.fhi.ox.ac.uk/publications/), [Team](https://www.fhi.ox.ac.uk/about/the-team/)
 * [Machine Intelligence Research Institute](https://intelligence.org/): [Publications](https://intelligence.org/all-publications/), [Team](https://intelligence.org/team/)
+* [Future of Life Institute](https://futureoflife.org/)
 * [UC Berkeley Center for Human-Compatible AI](http://humancompatible.ai/)
 * [Center for the Study of Existential Risk](http://cser.org/)
 * [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
