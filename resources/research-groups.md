@@ -5,9 +5,10 @@ permalink: /resources/research-groups.html
 
 ## Industry
 
-* [DeepMind](https://deepmind.com/): [Publications](http://realai.org/labs/deepmind-publications.html)
-* [Google Brain](https://research.google.com/teams/brain/): [People](https://research.google.com/people/BrainTeam.html), [Publications](http://realai.org/resources/google-brain-publications.html)
-* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications.html)
+* [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
+* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [People](https://research.google.com/people/BrainTeam.html), [Publications](http://realai.org/resources/google-brain-publications.html)
+  * ~ Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
+* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications.html)
 * [Microsoft Maluuba](http://www.maluuba.com/)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/)
 * Baidu Research: [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
@@ -23,19 +24,19 @@ permalink: /resources/research-groups.html
 
 * [OpenAI](https://openai.com/): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
-* [IDSIA](http://www.idsia.ch/)
+* [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Vector Institute](http://vectorinstitute.ai/)
 
 ## Academia
 
 * Berkeley: [AI Research](http://bair.berkeley.edu/)
-* NYU: [Center for Data Science](http://cds.nyu.edu/)
-* University of Toronto: [Machine Learning](http://learning.cs.toronto.edu/)
-* University of Montreal: [MILA](https://mila.umontreal.ca/en/)
+* New York University [Center for Data Science](http://cds.nyu.edu/) ([Yann LeCun](http://yann.lecun.com/))
+* University of Toronto [Machine Learning](http://learning.cs.toronto.edu/) ([Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/))
+* Université de Montréal [MILA](https://mila.umontreal.ca/en/) ([Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html))
 * University of Alberta: [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/)
-* Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/)
+* Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
 * Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
-* Carnegie Mellon University: [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
+* Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/) ([Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/))
 * University College London
 * University of Cambridge
 * University of Oxford
@@ -50,3 +51,15 @@ permalink: /resources/research-groups.html
 * [UC Berkeley Center for Human-Compatible AI](http://humancompatible.ai/)
 * [Center for the Study of Existential Risk](http://cser.org/)
 * [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
+
+## News Archive
+
+* 2016 November 27. [When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’](https://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html). *New York Times*. (Schmidhuber)
+* 2016 October 17. [Apple has hired a big brain in AI to make Siri less dumb](https://www.recode.net/2016/10/17/13305914/apple-hire-cmu-artificial-intelligence). *Recode*. (Salakhutdinov)
+* 2015 December 10. [This AI Algorithm Learns Simple Tasks as Fast as We Do](https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/). *MIT Technology Review*. (Salakhutdinov, Tenenbaum, and Hinton)
+* 2015 July 15. [Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze](https://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning). *Recode*. (Hinton, LeCun, and Bengio)
+* 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*. (Hassabis and Legg)
+
+---
+
+*Comments and inquiries regarding this web page should be directed to [hr@realai.org](mailto:hr@realai.org).*
