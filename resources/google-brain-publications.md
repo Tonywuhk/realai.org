@@ -9,7 +9,9 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 April 5, Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279). *arXiv:1704.01279*.
 * 2017 April 3, Colin Raffel, Thang Luong, Peter J. Liu, Ron J. Weiss, and Douglas Eck. [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784). *arXiv:1704.00784*.
+* 2017 March 31, Ciprian Chelba, Mohammad Norouzi, and Samy Bengio. [N-gram Language Modeling using Recurrent Neural Network Estimation](https://arxiv.org/abs/1703.10724). *arXiv:1703.10724*.
 * 2017 March 29, Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Jaitly, Zongheng Yang, Ying Xiao, Zhifeng Chen, Samy Bengio, Quoc Le, Yannis Agiomyrgiannakis, Rob Clark, and Rif A. Saurous. [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). *arXiv:1703.10135*.
 * 2017 March 26, Melody Y. Guan, Varun Gulshan, Andrew M. Dai, and Geoffrey E. Hinton. [Who Said What: Modeling Individual Labelers Improves Classification](https://arxiv.org/abs/1703.08774). *arXiv:1703.08774*.
 * 2017 March 24, Ron J. Weiss, Jan Chorowski, Navdeep Jaitly, Yonghui Wu, and Zhifeng Chen. [Sequence-to-Sequence Models Can Directly Transcribe Foreign Speech](https://arxiv.org/abs/1703.08581). *arXiv:1703.08581*.
@@ -23,7 +25,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 March 9, Łukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio. [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129). *arXiv:1703.03129*.
 * 2017 March 8, Lerrel Pinto, James Davidson, Rahul Sukthankar, and Abhinav Gupta. [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702). *arXiv:1703.02702*.
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
-* 2017 March 3, Yun Liu, Krishna Gadepalli, Mohammad Norouzi, George E. Dahl, Timo Kohlberger, Aleksey Boyko, Subhashini Venugopalan, Aleksei Timofeev, Philip Q. Nelson, Greg S. Corrado, Jason D. Hipp, Lily Peng, and Martin C. Stumpe. [Detecting Cancer Metastases on Gigapixel Pathology Images](https://drive.google.com/open?id=0B1T58bZ5vYa-QlR0QlJTa2dPWVk). *Google Research*.
+* 2017 March 3, Yun Liu, Krishna Gadepalli, Mohammad Norouzi, George E. Dahl, Timo Kohlberger, Aleksey Boyko, Subhashini Venugopalan, Aleksei Timofeev, Philip Q. Nelson, Greg S. Corrado, Jason D. Hipp, Lily Peng, and Martin C. Stumpe. [Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442). *arXiv:1703.02442*.
 * 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*.
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 27, Amit Daniely. [SGD Learns the Conjugate Kernel Class of the Network](https://arxiv.org/abs/1702.08503). *arXiv:1702.08503*.
@@ -39,6 +41,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and Cezary Kaliszyk. [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
 * 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
 * 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
+* 2017 January 21, Jesse H. Engel, S. Burc Eryilmaz, SangBum Kim, Matthew BrightSky, Chung Lam, Hsiang-Lan Lung, Bruno A. Olshausen, and H. -S. Philip Wong. [Opportunities for Analog Coding in Emerging Memory Systems](https://arxiv.org/abs/1701.06063). *arXiv:1701.06063*.
 * 2017 January 11, Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, and Ray Kurzweil. [Generating Long and Diverse Responses with Neural Conversation Models](https://arxiv.org/abs/1701.03185). *arXiv:1701.03185*.
 
 ## 2016
