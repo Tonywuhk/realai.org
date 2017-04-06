@@ -7,7 +7,6 @@ permalink: /resources/
 * [Curriculum](http://realai.org/resources/curriculum.html)
 * [For Fun](http://realai.org/resources/for-fun.html)
 * [Research Groups](http://realai.org/resources/research-groups.html)
-* [Scientists](http://realai.org/resources/scientists.html)
 
 ## Blogs
 
