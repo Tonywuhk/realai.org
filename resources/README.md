@@ -5,7 +5,9 @@ permalink: /resources/
 
 * [Conferences](http://realai.org/resources/conferences.html)
 * [Curriculum](http://realai.org/resources/curriculum.html)
+* [Demos](http://realai.org/resources/demos.html)
 * [For Fun](http://realai.org/resources/for-fun.html)
+* [Open Source Projects](http://realai.org/resources/open-source-projects.html)
 * [Research Groups](http://realai.org/labs/)
 
 ## Blogs
