@@ -23,6 +23,7 @@ According to a [Financial Times report on March 17, 2017](https://www.ft.com/con
 * 2016 November 9. [Oxford and Cambridge are losing AI researchers to DeepMind](http://uk.businessinsider.com/oxbridge-ai-researchers-to-deepmind-2016-11). *Business Insider UK*.
 * 2016 October 5. [Nick Bostrom: London's DeepMind is winning the global race to develop human-level artificial intelligence](http://www.businessinsider.com/nick-bostrom-deepmind-is-winning-the-ai-race-2016-10). *Business Insider UK*.
 * 2016 March 30. [What it takes to work at Google DeepMind — a London startup no one has ever left](http://www.businessinsider.com/heres-what-it-takes-to-work-at-google-deepmind-an-ai-lab-that-no-one-has-ever-left-2016-3). *Business Insider UK*.
+* 2016 February 16. [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 * 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*.
 * 2014 January 27. [Google buys UK artificial intelligence startup Deepmind for £400m](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind). *The Guardian*.
 * 2014 January 26. [Google Acquires Artificial Intelligence Startup DeepMind For More Than $500M](https://techcrunch.com/2014/01/26/google-deepmind/). *TechCrunch*.
