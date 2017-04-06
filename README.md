@@ -178,3 +178,7 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 ### Atari 2600
 
 * 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
+
+# Hardware
+
+* 2017 April 5, Norm Jouppi. [Quantifying the performance of the TPU, our first machine learning chip](https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html). *Google Cloud Platform Blog*.
