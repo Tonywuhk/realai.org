@@ -26,26 +26,26 @@ permalink: /resources/research-groups.html
 
 ## Nonprofits
 
-* [OpenAI](https://openai.com/) (Ilya Sutskever): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
+* [OpenAI](https://openai.com/) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
 
 ## Academia
 
-* Berkeley: [AI Research](http://bair.berkeley.edu/)
-* New York University [Center for Data Science](http://cds.nyu.edu/) ([Yann LeCun](http://yann.lecun.com/), [Kyunghyun Cho](http://www.kyunghyuncho.me/))
-* University of Toronto [Machine Learning](http://learning.cs.toronto.edu/) ([Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php))
-* Université de Montréal [MILA](https://mila.umontreal.ca/en/) ([Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/))
-* University of Alberta: [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/)
+* UC [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/): [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
+* New York University [Center for Data Science](http://cds.nyu.edu/): [Yann LeCun](http://yann.lecun.com/), [Kyunghyun Cho](http://www.kyunghyuncho.me/)
+* University of Toronto [Machine Learning](http://learning.cs.toronto.edu/): [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php)
+* Université de Montréal [MILA](https://mila.umontreal.ca/en/): [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/)
+* University of Alberta [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/): [Richard Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/)
 * Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
 * Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
-* Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/) ([Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/))
-* University College London [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/) (Peter Dayan, Matthew Botvinick)
+* Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/): [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
+* University College London [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/): Peter Dayan, Matthew Botvinick
 * University of Cambridge
 * Imperial College London: [Machine Learning Group](http://wp.doc.ic.ac.uk/mlg/), [BICV Group](http://www.bicv.org/)
 * University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
-* University of Oxford [Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/) ([Phil Blunsom](http://www.cs.ox.ac.uk/people/phil.blunsom/))
+* University of Oxford [Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/): [Phil Blunsom](http://www.cs.ox.ac.uk/people/phil.blunsom/)
 
 ## Safety
 
