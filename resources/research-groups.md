@@ -6,7 +6,7 @@ permalink: /resources/research-groups.html
 ## Industry
 
 * [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
-  * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matt Botvinick, Yee Whye Teh, Murray Shanahan
+  * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Murray Shanahan
 * [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/resources/google-brain-publications.html)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), Quoc Le, Ian Goodfellow
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
@@ -41,7 +41,7 @@ permalink: /resources/research-groups.html
 * Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
 * Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
 * Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/) ([Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/))
-* University College London
+* University College London [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/) (Peter Dayan, Matthew Botvinick)
 * University of Cambridge
 * Imperial College London: [Machine Learning Group](http://wp.doc.ic.ac.uk/mlg/), [BICV Group](http://www.bicv.org/)
 * University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
