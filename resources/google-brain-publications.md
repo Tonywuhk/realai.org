@@ -10,6 +10,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 ## 2017
 
 * 2017 April 5, Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279). *arXiv:1704.01279*.
+* 2017 April 4, Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, and George E. Dahl. [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212). *arXiv:1704.01212*.
 * 2017 April 3, Colin Raffel, Thang Luong, Peter J. Liu, Ron J. Weiss, and Douglas Eck. [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784). *arXiv:1704.00784*.
 * 2017 March 31, Ciprian Chelba, Mohammad Norouzi, and Samy Bengio. [N-gram Language Modeling using Recurrent Neural Network Estimation](https://arxiv.org/abs/1703.10724). *arXiv:1703.10724*.
 * 2017 March 29, Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Jaitly, Zongheng Yang, Ying Xiao, Zhifeng Chen, Samy Bengio, Quoc Le, Yannis Agiomyrgiannakis, Rob Clark, and Rif A. Saurous. [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). *arXiv:1703.10135*.
