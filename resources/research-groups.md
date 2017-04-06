@@ -6,13 +6,13 @@ permalink: /resources/research-groups.html
 ## Industry
 
 * [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
-  * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Murray Shanahan
+  * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Chris Dyer, Murray Shanahan
 * [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/resources/google-brain-publications.html)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), Quoc Le, Ian Goodfellow
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
   * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
 * [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/resources/fair-publications.html)
-  * [People](https://research.fb.com/people/?letter=&cat=13): Rob Fergus, Jason Weston
+  * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
 * [Microsoft Maluuba](http://www.maluuba.com/)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/)
 * Baidu Research: [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
