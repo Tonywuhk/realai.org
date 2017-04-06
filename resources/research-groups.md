@@ -25,13 +25,13 @@ permalink: /resources/research-groups.html
 * [OpenAI](https://openai.com/): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
-* [Vector Institute](http://vectorinstitute.ai/)
+* [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
 
 ## Academia
 
 * Berkeley: [AI Research](http://bair.berkeley.edu/)
 * New York University [Center for Data Science](http://cds.nyu.edu/) ([Yann LeCun](http://yann.lecun.com/))
-* University of Toronto [Machine Learning](http://learning.cs.toronto.edu/) ([Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/))
+* University of Toronto [Machine Learning](http://learning.cs.toronto.edu/) ([Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php))
 * Université de Montréal [MILA](https://mila.umontreal.ca/en/) ([Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html))
 * University of Alberta: [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/)
 * Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
@@ -54,6 +54,7 @@ permalink: /resources/research-groups.html
 
 ## News Archive
 
+* 2017 March 28. [New institute aims to make Toronto an ‘intellectual centre’ of AI capability](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html). *Toronto Star*. (Hinton and Zemel; Vector Institute)
 * 2016 November 27. [When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’](https://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html). *New York Times*. (Schmidhuber)
 * 2016 October 17. [Apple has hired a big brain in AI to make Siri less dumb](https://www.recode.net/2016/10/17/13305914/apple-hire-cmu-artificial-intelligence). *Recode*. (Salakhutdinov)
 * 2015 December 10. [This AI Algorithm Learns Simple Tasks as Fast as We Do](https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/). *MIT Technology Review*. (Salakhutdinov, Tenenbaum, and Hinton)
