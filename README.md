@@ -148,9 +148,22 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 * 2016 July 22, Filip Piekniewski, Patryk Laurent, Csaba Petre, Micah Richert, Dimitry Fisher, and Todd Hylton. [Unsupervised Learning from Continuous Video in a Scalable Predictive Recurrent Network](https://arxiv.org/abs/1607.06854). *arXiv:1607.06854*. [code](https://github.com/braincorp/PVM).
 * 2016 May 25, William Lotter, Gabriel Kreiman, and David Cox. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104). *arXiv:1605.08104*.
 
+# Theory
+
+## Physics
+
+* 2017 April 5, Yoav Levine, David Yakira, Nadav Cohen, and Amnon Shashua. [Deep Learning and Quantum Physics : A Fundamental Bridge](https://arxiv.org/abs/1704.01552). *arXiv:1704.01552*.
+* 2016 August 29, Henry W. Lin and Max Tegmark. [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225). *arXiv:1608.08225*.
+* 2014 November 30, Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, and Yann LeCun. [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233). *arXiv:1412.0233*.
+* 2012 May 24, A. D. Wissner-Gross and C. E. Feer. [Causal Entropic Forces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702). *Phys. Rev. Lett.*, 110(168702). [PDF](http://math.mit.edu/~freer/papers/PhysRevLett_110-168702.pdf)
+
+## Topology
+
+* 2014 January 6, Monica Bianchini and Franco Scarselli. [On the Complexity of Neural Network Classifiers: A Comparison Between Shallow and Deep Architectures](http://ieeexplore.ieee.org/document/6697897/). *IEEE Transactions on Neural Networks and Learning Systems*, 25(8):1553-1565.
+
 # Related Topics
 
-* Emerging Areas (*Not yet covered*)
+* Frontiers (*Not yet covered*)
 * [Meta-learning](http://realai.org/meta-learning.html)
 * [Multi-agent Learning](http://realai.org/multi-agent-learning.html)
 * [Multitask Learning](http://realai.org/multitask-learning.html)
