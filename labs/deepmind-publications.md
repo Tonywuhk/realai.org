@@ -26,11 +26,13 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2017 March 2, Marlos C. Machado, Marc G. Bellemare, and Michael Bowling. [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://arxiv.org/abs/1703.00956). *arXiv:1703.00956*.
 * 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
 * 2017 February 28, Daniel Zoran, Balaji Lakshminarayanan, and Charles Blundell. [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833). *arXiv:1702.08833*.
+* 2017 February 21, Liang Lu, Lingpeng Kong, Chris Dyer, and Noah A. Smith. [Multitask Learning with CTC and Segmental CRF for Speech Recognition](https://arxiv.org/abs/1702.06378). *arXiv:1702.06378*.
 * 2017 February 16, David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, and Peter Battaglia. [Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068). *arXiv:1702.05068*.
 * 2017 February 15, Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, and Timothy Lillicrap. [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649). *arXiv:1702.04649*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
+* 2017 January 15, Graham Neubig, Chris Dyer, Yoav Goldberg, Austin Matthews, Waleed Ammar, Antonios Anastasopoulos, Miguel Ballesteros, David Chiang, Daniel Clothiaux, Trevor Cohn, Kevin Duh, Manaal Faruqui, Cynthia Gan, Dan Garrette, Yangfeng Ji, Lingpeng Kong, Adhiguna Kuncoro, Gaurav Kumar, Chaitanya Malaviya, Paul Michel, Yusuke Oda, Matthew Richardson, Naomi Saphra, Swabha Swayamdipta, and Pengcheng Yin. [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/abs/1701.03980). *arXiv:1701.03980*.
 
 ## 2016
 
@@ -43,6 +45,7 @@ A list of papers where at least one coauthor is affiliated with DeepMind Technol
 * 2016 November 23, Harm de Vries, Florian Strub, Sarath Chandar, Olivier Pietquin, Hugo Larochelle, and Aaron Courville. [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481). *arXiv:1611.08481*.
 * 2016 November 22, Karol Gregor, Danilo Jimenez Rezende, and Daan Wierstra. [Variational Intrinsic Control](https://arxiv.org/abs/1611.07507). *arXiv:1611.07507*.
 * 2016 November 19, Grzegorz Swirszcz, Wojciech Marian Czarnecki, and Razvan Pascanu. [Local minima in training of deep networks](https://arxiv.org/abs/1611.06310). *arXiv:1611.06310*
+* 2016 November 17, Adhiguna Kuncoro, Miguel Ballesteros, Lingpeng Kong, Chris Dyer, Graham Neubig, and Noah A. Smith. [What Do Recurrent Neural Network Grammars Learn About Syntax?](https://arxiv.org/abs/1611.05774). *arXiv:1611.05774*.
 * 2016 November 17, Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763). *arXiv:1611.05763*.
 * 2016 November 16, Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397). *arXiv:1611.05397*.
   * 2016 March 4. [modified version](https://openreview.net/forum?id=SJ6yPD5xg). *OpenReview*.
