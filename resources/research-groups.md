@@ -6,10 +6,13 @@ permalink: /resources/research-groups.html
 ## Industry
 
 * [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
-* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [People](https://research.google.com/people/BrainTeam.html) ([Samy Bengio](https://research.google.com/pubs/bengio.html)), [Publications](http://realai.org/resources/google-brain-publications.html)
+  * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matt Botvinick, Yee Whye Teh, Murray Shanahan
+* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/resources/google-brain-publications.html)
+  * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), Quoc Le, Ian Goodfellow
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
   * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
-* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications.html)
+* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/resources/fair-publications.html)
+  * [People](https://research.fb.com/people/?letter=&cat=13): Rob Fergus, Jason Weston
 * [Microsoft Maluuba](http://www.maluuba.com/)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/)
 * Baidu Research: [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
@@ -23,7 +26,7 @@ permalink: /resources/research-groups.html
 
 ## Nonprofits
 
-* [OpenAI](https://openai.com/): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
+* [OpenAI](https://openai.com/) (Ilya Sutskever): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
@@ -31,18 +34,18 @@ permalink: /resources/research-groups.html
 ## Academia
 
 * Berkeley: [AI Research](http://bair.berkeley.edu/)
-* New York University [Center for Data Science](http://cds.nyu.edu/) ([Yann LeCun](http://yann.lecun.com/))
+* New York University [Center for Data Science](http://cds.nyu.edu/) ([Yann LeCun](http://yann.lecun.com/), [Kyunghyun Cho](http://www.kyunghyuncho.me/))
 * University of Toronto [Machine Learning](http://learning.cs.toronto.edu/) ([Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php))
-* Université de Montréal [MILA](https://mila.umontreal.ca/en/) ([Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html))
+* Université de Montréal [MILA](https://mila.umontreal.ca/en/) ([Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/))
 * University of Alberta: [Reinforcement Learning and Artificial Intelligence](http://spaces.facsci.ualberta.ca/rlai/)
 * Massachusetts Institute of Technology: [NLP](http://nlp.csail.mit.edu/), [Vision](http://groups.csail.mit.edu/vision/welcome/), [Computational Cognitive Science](http://cocosci.mit.edu/) ([Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html))
 * Stanford: [NLP](http://nlp.stanford.edu/), [Vision](http://vision.stanford.edu/), [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), [Benjamin Van Roy](https://web.stanford.edu/~bvr/)
 * Carnegie Mellon University [Machine Learning Department](http://www.ml.cmu.edu/) ([Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/))
 * University College London
 * University of Cambridge
-* University of Oxford
-* University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
 * Imperial College London: [Machine Learning Group](http://wp.doc.ic.ac.uk/mlg/), [BICV Group](http://www.bicv.org/)
+* University of Michigan: [Honglak Lee](http://web.eecs.umich.edu/~honglak/)
+* University of Oxford [Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/) ([Phil Blunsom](http://www.cs.ox.ac.uk/people/phil.blunsom/))
 
 ## Safety
 
