@@ -7,8 +7,8 @@ permalink: /resources/research-groups.html
 
 * [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
 * [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [People](https://research.google.com/people/BrainTeam.html) ([Samy Bengio](https://research.google.com/pubs/bengio.html)), [Publications](http://realai.org/resources/google-brain-publications.html)
-  * ~ Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
-  * ~ Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
+  * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
+  * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
 * [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [People](https://research.fb.com/people/?letter=&cat=13), [Publications](http://realai.org/resources/fair-publications.html)
 * [Microsoft Maluuba](http://www.maluuba.com/)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/)
