@@ -9,6 +9,7 @@ permalink: /resources/
 * [For Fun](http://realai.org/resources/for-fun.html)
 * [Open Source Projects](http://realai.org/resources/open-source-projects.html)
 * [Research Groups](http://realai.org/labs/)
+* [Timeline](http://realai.org/resources/timeline.html)
 
 ## Blogs
 
