@@ -65,9 +65,11 @@ The system can easily generalize. Its encoded knowledge and continual learning a
 
 The ability to learn hierarchical structures in the data and use them for abstract planning and reasoning, sometimes in long time horizon. Hierarchies in network architeture are likely necessary.
 
-### 5.1 Concept Learning
+### 5.1 Deep Representation Learning
 
-This can be seen as a special case where one level of hierarchy, from data to concept, needs to be solved.
+Build a hierarchy of feature representations that are useful for one or more tasks.
+
+**Concept learning** focuses on meaningful abstractions of data that are embedded in the representations
 
 ## 6. Neural Interface and Modules
 
