@@ -1,9 +1,7 @@
 ---
-permalink: /resources/fair-publications.html
+permalink: /labs/fair-publications.html
 ---
 # Facebook AI Research Publications
-
-*If you're interested in maintaining this page for Real AI, please contact hr@realai.org.*
 
 A list of papers where at least one coauthor is affiliated with Facebook AI Research, in reverse chronological order:
 
