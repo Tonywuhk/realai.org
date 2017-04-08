@@ -1,5 +1,5 @@
 ---
-permalink: /blog/towards-safe-and-beneficial-intelligence.html
+permalink: /blog/towards-safe-and-beneficial-intelligence/
 ---
 # Towards Safe and Beneficial Intelligence
 
