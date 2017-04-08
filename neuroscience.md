@@ -1,5 +1,5 @@
 ---
-permalink: /neuroscience.html
+permalink: /neuroscience/
 ---
 # Neuroscience
 
