@@ -1,5 +1,5 @@
 ---
-permalink: /frontier/towards-neural-network-based-general-intelligence.html
+permalink: /blog/towards-neural-network-based-general-intelligence/
 ---
 # Towards Neural Network-Based General Intelligence
 
