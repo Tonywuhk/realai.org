@@ -13,7 +13,7 @@ It is stated in OpenAI's [mission](https://openai.com/about/#mission) that "We w
 
 | Name            | Position                             | Source Date                                                     |
 | --------------- | ------------------------------------ | --------------------------------------------------------------- |
-| Ilya Sustskever | Research Director                    | [2015 December 11](https://blog.openai.com/introducing-openai/) |
+| Ilya Sutskever  | Research Director                    | [2015 December 11](https://blog.openai.com/introducing-openai/) |
 | Greg Brockman   | CTO                                  | [2015 December 11](https://blog.openai.com/introducing-openai/) |
 | Erika Reinhardt | Engineering Director                 | [2017 January 30](https://blog.openai.com/team-update-january/) |
 | Jack Clark      | Strategy and Communications Director | [2016 August 16](https://blog.openai.com/team-update-august/)   |
