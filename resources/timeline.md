@@ -1,5 +1,5 @@
 ---
-permalink: /resources/timeline.html
+permalink: /resources/timeline/
 ---
 # Timeline
 
