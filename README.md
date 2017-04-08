@@ -8,22 +8,6 @@ mathjax: true
 
 [Safety](http://realai.org/safety.html) | [Roadmap](http://realai.org/roadmap.html) | [Timing](http://realai.org/timing.html) | [Policy](http://realai.org/policy.html)
 
-# Environments
-
-##### 2017 February 15, [Aerial Informatics and Robotics Platform](https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/)
-
-Through a [blog post](https://blogs.microsoft.com/next/2017/02/15/microsoft-shares-open-source-system-training-drones-gadgets-move-safely/), Microsoft shared this open-source, high-fidelity physics and photo-realistic robot simulator.
-
-##### 2016 December 5, [Universe](https://universe.openai.com/)
-
-Through a [blog post](https://openai.com/blog/universe/), OpenAI released this software platform for measuring and training AI acrosss many games, websites and other applications.
-
-##### 2016 December 3, [DeepMind Lab](https://github.com/deepmind/lab)
-
-Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), DeepMind open-sourced this fully 3D game-like platform tailored for agent-based AI research.
-
-*Note: Real AI first noticed DeepMind Lab on 2016 December 5, shortly after the OpenAI Universe [announcement on Twitter](https://twitter.com/OpenAI/status/805661402937565184).*
-
 # Reinforcement Learning
 
 ## Auxiliary tasks
@@ -77,6 +61,8 @@ Through a [blog post](https://deepmind.com/blog/open-sourcing-deepmind-lab/), De
 
 * 2017 March 9, Hoang M. Le, Yisong Yue, and Peter Carr. [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/abs/1703.03121). *arXiv:1703.03121*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
+
+[Learning Platforms](http://realai.org/learning-platforms.html)
 
 # Learning & Network Architecture
 
