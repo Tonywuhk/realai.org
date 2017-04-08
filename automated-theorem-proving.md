@@ -1,5 +1,5 @@
 ---
-permalink: /automated-theorem-proving.html
+permalink: /automated-theorem-proving/
 ---
 # Automated Theorem Proving
 
