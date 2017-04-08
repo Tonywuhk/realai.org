@@ -1,5 +1,5 @@
 ---
-permalink: /predictive-learning.html
+permalink: /predictive-learning/
 ---
 # Predictive Learning
 
