@@ -1,5 +1,6 @@
 ---
 permalink: /labs/deepmind/
+title: Labs/DeepMind
 ---
 # DeepMind
 
