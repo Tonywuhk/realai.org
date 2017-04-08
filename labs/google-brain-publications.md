@@ -1,9 +1,7 @@
 ---
-permalink: /labs/google-brain-publications.html
+permalink: /labs/google-brain-publications/
 ---
 # Google Brain Publications
-
-*If you're interested in maintaining this page for Real AI, please contact hr@realai.org.*
 
 A list of papers where at least one coauthor is affiliated with Google Brain, in reverse chronological order:
 
