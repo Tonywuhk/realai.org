@@ -1,5 +1,7 @@
 # News
 
+* 2017 April 7. [Partnership on AI is looking for an Executive Director](https://www.partnershiponai.org/2017/04/partnership-ai-looking-executive-director/). *Partnership on AI*.
+* 2017 April 7. [The People Behind OpenAI](https://www.redhat.com/en/open-source-stories/ai-revolutionaries/people-behind-openai). *Red Hat*.
 * 2017 April 7. [Open sourcing Sonnet - a new library for constructing neural networks](https://deepmind.com/blog/open-sourcing-sonnet/). *DeepMind*.
 * 2017 March 31. [OpenAI — General Support](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support). *Open Philanthropy*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
