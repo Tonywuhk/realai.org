@@ -7,6 +7,7 @@ permalink: /news/
 * 2017 April 7. [Partnership on AI is looking for an Executive Director](https://www.partnershiponai.org/2017/04/partnership-ai-looking-executive-director/). *Partnership on AI*.
 * 2017 April 7. [The People Behind OpenAI](https://www.redhat.com/en/open-source-stories/ai-revolutionaries/people-behind-openai). *Red Hat*.
 * 2017 April 7. [Open sourcing Sonnet - a new library for constructing neural networks](https://deepmind.com/blog/open-sourcing-sonnet/). *DeepMind*.
+* 2017 APril 5. [Positively shaping development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/). *80000 Hours*.
 * 2017 March 31. [OpenAI — General Support](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support). *Open Philanthropy*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
 * 2017 March 30. [Canada’s AI Moment](https://canada.googleblog.com/2017/03/canadas-ai-moment.html). *Google Official Canada Blog*.
@@ -17,7 +18,8 @@ permalink: /news/
 * 2017 March 22. [Baidu Chief Scientist Ng to Depart in Setback for AI Push](https://www.bloomberg.com/news/articles/2017-03-22/baidu-s-chief-scientist-ng-to-depart-in-setback-for-ai-efforts). *Bloomberg Technology*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
+* 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 
-Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/)
+Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
