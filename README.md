@@ -6,7 +6,7 @@ mathjax: true
 
 # AI and Society
 
-[Safety](http://realai.org/safety.html) | [Roadmap](http://realai.org/roadmap.html) | [Timing](http://realai.org/timing.html) | [Policy](http://realai.org/policy.html)
+[Safety](http://realai.org/safety/) | [Roadmap](http://realai.org/roadmap/) | [Timing](http://realai.org/timing/) | [Policy](http://realai.org/policy/)
 
 # Reinforcement Learning
 
@@ -62,7 +62,7 @@ mathjax: true
 * 2017 March 9, Hoang M. Le, Yisong Yue, and Peter Carr. [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/abs/1703.03121). *arXiv:1703.03121*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
 
-[Learning Platforms](http://realai.org/learning-platforms.html)
+[Learning Platforms](http://realai.org/learning-platforms/)
 
 # Learning & Network Architecture
 
@@ -143,15 +143,15 @@ mathjax: true
 # Related Topics
 
 * Frontiers (*Not yet covered*)
-* [Meta-learning](http://realai.org/meta-learning.html)
-* [Multi-agent Learning](http://realai.org/multi-agent-learning.html)
-* [Multitask Learning](http://realai.org/multitask-learning.html)
-* [Neuroscience](http://realai.org/neuroscience.html)
-* [Predictive Learning](http://realai.org/predictive-learning.html)
+* [Meta-learning](http://realai.org/meta-learning/)
+* [Multi-agent Learning](http://realai.org/multi-agent-learning/)
+* [Multitask Learning](http://realai.org/multitask-learning/)
+* [Neuroscience](http://realai.org/neuroscience/)
+* [Predictive Learning](http://realai.org/predictive-learning/)
 
 # Applications
 
-* [Automated Theorem Proving](http://realai.org/automated-theorem-proving.html)
+* [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
 
 ## Gameplay
 
