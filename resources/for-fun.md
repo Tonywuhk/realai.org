@@ -1,5 +1,5 @@
 ---
-permalink: /resources/for-fun.html
+permalink: /resources/for-fun/
 ---
 
 # For Fun
