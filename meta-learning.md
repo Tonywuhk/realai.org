@@ -1,5 +1,5 @@
 ---
-permalink: /meta-learning.html
+permalink: /meta-learning/
 mathjax: true
 ---
 # Meta-Learning
