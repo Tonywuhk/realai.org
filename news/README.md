@@ -1,3 +1,6 @@
+---
+permalink: /news/
+---
 # News
 
 * 2017 April 7. [Rules of memory 'beautifully' rewritten](http://www.bbc.com/news/health-39518580). *BBC News*.
@@ -17,4 +20,4 @@
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 
-Older news: [2016](http://realai.org/news/2016.html), [2015](http://realai.org/news/2015.html), [2014](http://realai.org/news/2014.html)
+Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/)
