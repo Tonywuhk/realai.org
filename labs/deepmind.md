@@ -1,3 +1,6 @@
+---
+permalink: /labs/deepmind/
+---
 # DeepMind
 
 ## Overview
