@@ -5,13 +5,13 @@ permalink: /labs/
 
 ## Industry
 
-* [DeepMind](http://realai.org/labs/deepmind.html) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications.html)
+* [DeepMind](http://realai.org/labs/deepmind/) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind-publications/)
   * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Chris Dyer, Murray Shanahan
-* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/labs/google-brain-publications.html)
+* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/labs/google-brain-publications/)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), [Quoc V. Le](https://research.google.com/pubs/QuocLe.html), [Ian Goodfellow](https://research.google.com/pubs/105214.html)
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
   * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
-* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/labs/fair-publications.html)
+* [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/labs/fair-publications/)
   * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
 * [Microsoft Maluuba](http://www.maluuba.com/)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/) ([Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/))
@@ -26,7 +26,7 @@ permalink: /labs/
 
 ## Nonprofits
 
-* [OpenAI](http://realai.org/labs/openai.html) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Homepage](https://openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
+* [OpenAI](http://realai.org/labs/openai/) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Homepage](https://openai.com/), [Publications](http://realai.org/labs/openai-publications/)
 * [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
