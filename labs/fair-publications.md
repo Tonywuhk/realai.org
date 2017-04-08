@@ -1,5 +1,5 @@
 ---
-permalink: /labs/fair-publications.html
+permalink: /labs/fair-publications/
 ---
 # Facebook AI Research Publications
 
