@@ -1,5 +1,5 @@
 ---
-permalink: /resources/demos.html
+permalink: /resources/demos/
 ---
 # Demos
 
