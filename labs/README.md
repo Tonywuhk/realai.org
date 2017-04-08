@@ -26,7 +26,7 @@ permalink: /labs/
 
 ## Nonprofits
 
-* [OpenAI](https://openai.com/) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
+* [OpenAI](http://realai.org/labs/openai.html) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Homepage](https://openai.com/), [Publications](http://realai.org/labs/openai-publications.html)
 * [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
