@@ -1,5 +1,5 @@
 ---
-permalink: /labs/deepmind-publications.html
+permalink: /labs/deepmind-publications/
 mathjax: true
 ---
 # DeepMind Publications
