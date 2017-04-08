@@ -12,8 +12,8 @@ mathjax: true
 
 * [Timing](http://realai.org/timing/): Rapid progress in artificial intelligence (AI) has raised the prospect that machines will one day surpass humans in intelligence.
 * [Roadmap](http://realai.org/roadmap/): Many experts have published roadmaps towards building artificial general intelligence (AGI).
-* [Policy](http://realai.org/policy/): Countries around the world have policies in place to support AI growth.
-* [Safety](http://realai.org/safety/): AGI technology could have enormous impact on the human society. We can take steps to ensure that it is safe and beneficial.
+* [Safety](http://realai.org/safety/): AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is safe and beneficial.
+* [Policy](http://realai.org/policy/): Countries around the world have policies in place to support AI research and development.
 
 ---
 
