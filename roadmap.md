@@ -1,5 +1,5 @@
 ---
-permalink: /roadmap.html
+permalink: /roadmap/
 ---
 # Roadmap
 
