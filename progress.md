@@ -1,22 +1,22 @@
 ---
-permalink: /resources/timeline/
+permalink: /progress/
 ---
-# Timeline
+# Progress
 
-## News
+## Major Events
 
-* 2017 March 28, The Vector Institute will be backed by more than C$150m. [*Toronto Star*](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html).
-* 2016 September 27, A Neural Network for Machine Translation, at Production Scale. [*Google Research Blog*](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html).
-* 2016 March 15, AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
-* 2015 December 11, Tech giants pledged $1bn for OpenAI. [*BBC News*](http://www.bbc.com/news/technology-35082344), [*OpenAI*](https://openai.com/blog/introducing-openai/).
-* 2014 October 23, DeepMind acqui-hired Dark Blue Labs and Vision Factory. [*TechCrunch*](https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford/), [*The Guardian*](https://www.theguardian.com/technology/2014/oct/23/google-uk-artificial-intelligence-startups-machine-learning-dark-blue-labs-vision-factory).
-* 2014 January 26, Google acquired DeepMind for £400m. [*TechCrunch*](https://techcrunch.com/2014/01/26/google-deepmind/), [*The Guardian*](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind).
-* 2013 December 10, Yann LeCun joined Facebook to lead its newly formed AI Group. [*TechCrunch*](https://techcrunch.com/2013/12/09/facebook-artificial-intelligence-lab-lecun/), [*Facebook Academics*](https://www.facebook.com/academics/posts/639860596065351).
-* 2013 March 12, Google acquired DNNresearch. [*TechCrunch*](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/), [*VentureBeat*](http://venturebeat.com/2013/03/12/google-dnnresearch/).
-* 2012 October 13, SuperVision won [ILSVRC2012](http://www.image-net.org/challenges/LSVRC/2012/). [*ImageNet*](http://image-net.org/challenges/LSVRC/2012/results.html).
-* 2012 June 26, Google learned to detect cats from unlabeled YouTube stills. [*Google*](https://googleblog.blogspot.com/2012/06/using-large-scale-brain-simulations-for.html).
+* 2017 March 28. The Vector Institute will be backed by more than C$150m. [*Toronto Star*](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html), [*Canada Newswire*](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html).
+* 2016 September 27. Google uses a neural network for machine translation. [*Wired*](https://www.wired.com/2016/09/google-claims-ai-breakthrough-machine-translation/), [*Google Research Blog*](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html).
+* 2016 March 15. AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
+* 2015 December 11. Tech giants pledged $1bn for [OpenAI](http://realai.org/labs/openai/). [*BBC News*](http://www.bbc.com/news/technology-35082344), [*OpenAI*](https://openai.com/blog/introducing-openai/).
+* 2014 October 23. DeepMind acqui-hired Dark Blue Labs and Vision Factory. [*TechCrunch*](https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford/), [*The Guardian*](https://www.theguardian.com/technology/2014/oct/23/google-uk-artificial-intelligence-startups-machine-learning-dark-blue-labs-vision-factory).
+* 2014 January 26. Google acquired [DeepMind](http://realai.org/labs/deepmind/) for £400m. [*TechCrunch*](https://techcrunch.com/2014/01/26/google-deepmind/), [*The Guardian*](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind).
+* 2013 December 10. Yann LeCun joined Facebook to lead its newly formed AI Group. [*TechCrunch*](https://techcrunch.com/2013/12/09/facebook-artificial-intelligence-lab-lecun/), [*Facebook Academics*](https://www.facebook.com/academics/posts/639860596065351).
+* 2013 March 12. Google acquired DNNresearch. [*TechCrunch*](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/), [*VentureBeat*](http://venturebeat.com/2013/03/12/google-dnnresearch/).
+* 2012 October 13. SuperVision won [ILSVRC2012](http://www.image-net.org/challenges/LSVRC/2012/). [*ImageNet*](http://image-net.org/challenges/LSVRC/2012/results.html).
+* 2012 June 26. Google learned to detect cats from unlabeled YouTube stills. [*Wired*](https://www.wired.com/2012/06/google-x-neural-network/), [*Google Official Blog*](https://googleblog.blogspot.com/2012/06/using-large-scale-brain-simulations-for.html).
 
-## Research
+## Research Milestones
 
 * 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
