@@ -1,5 +1,5 @@
 ---
-permalink: /labs/openai.html
+permalink: /labs/openai/
 title: Labs/OpenAI
 ---
 
