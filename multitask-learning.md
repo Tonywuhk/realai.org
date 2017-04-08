@@ -1,5 +1,5 @@
 ---
-permalink: /multitask-learning.html
+permalink: /multitask-learning/
 ---
 # Multitask Learning
 
