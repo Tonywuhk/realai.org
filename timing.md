@@ -1,5 +1,5 @@
 ---
-permalink: /timing.html
+permalink: /timing/
 ---
 # Timing
 
