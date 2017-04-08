@@ -10,6 +10,9 @@ mathjax: true
 
 # Reinforcement Learning
 
+* [Hierarchical Learning](http://realai.org/hierarchical-learning/)
+* [Learning Platforms](http://realai.org/learning-platforms/)
+
 ## Auxiliary tasks
 
 * 2016 November 16, Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397). *arXiv:1611.05397*.
@@ -28,13 +31,6 @@ mathjax: true
 * 2016 November 15, Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel. [Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717). *arXiv:1611.04717*.
 * 2016 June 6, Marc G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos. [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868). *arXiv:1606.01868*.
 * 2016 May 31, Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674). *arXiv:1605.09674*.
-
-## Hierarchical Deep Reinforcement Learning
-
-* 2017 March 3, Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, and Koray Kavukcuoglu. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161). *arXiv:1703.01161*.
-* 2016 November 6, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=B1oK8aoxe). *OpenReview*.
-* 2016 October 17, Nicolas Heess, Greg Wayne, Yuval Tassa, Timothy Lillicrap, Martin Riedmiller, and David Silver. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182). *arXiv:1610.05182*.
-* 2016 April 20, Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, and Joshua B. Tenenbaum. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057). *arXiv:1604.06057*.
 
 ## Inverse Reinforcement Learning
 
@@ -61,8 +57,6 @@ mathjax: true
 
 * 2017 March 9, Hoang M. Le, Yisong Yue, and Peter Carr. [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/abs/1703.03121). *arXiv:1703.03121*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
-
-[Learning Platforms](http://realai.org/learning-platforms/)
 
 # Learning & Network Architecture
 
