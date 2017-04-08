@@ -1,5 +1,5 @@
 ---
-permalink: /learning-platforms.html
+permalink: /learning-platforms/
 ---
 # Learning Platforms
 
