@@ -153,9 +153,4 @@ mathjax: true
 # Applications
 
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-
-### Gameplay
-
-#### Atari 2600
-
-* 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
+* [Games](http://realai.org/games/)
