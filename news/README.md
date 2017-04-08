@@ -8,6 +8,7 @@
 * 2017 March 30. [Canada’s AI Moment](https://canada.googleblog.com/2017/03/canadas-ai-moment.html). *Google Official Canada Blog*.
 * 2017 March 28. [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly Media*.
 * 2017 March 28. [New institute aims to make Toronto an ‘intellectual centre’ of AI capability](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html). *Toronto Star*.
+* 2017 March 27. [Elon Musk's Billion-Dollar Crusade to Stop the A.I. Apocalypse](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x). *Vanity Fair*.
 * 2017 March 22. [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html). *Canada Newswire*.
 * 2017 March 22. [Baidu Chief Scientist Ng to Depart in Setback for AI Push](https://www.bloomberg.com/news/articles/2017-03-22/baidu-s-chief-scientist-ng-to-depart-in-setback-for-ai-efforts). *Bloomberg Technology*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
