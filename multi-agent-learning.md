@@ -1,5 +1,5 @@
 ---
-permalink: /multi-agent-learning.html
+permalink: /multi-agent-learning/
 ---
 # Multi-Agent Learning
 
