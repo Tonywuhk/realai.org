@@ -3,13 +3,13 @@ permalink: /resources/
 ---
 # Resources
 
-* [Conferences](http://realai.org/resources/conferences.html)
-* [Curriculum](http://realai.org/resources/curriculum.html)
-* [Demos](http://realai.org/resources/demos.html)
-* [For Fun](http://realai.org/resources/for-fun.html)
-* [Open Source Projects](http://realai.org/resources/open-source-projects.html)
+* [Conferences](http://realai.org/resources/conferences/)
+* [Curriculum](http://realai.org/resources/curriculum/)
+* [Demos](http://realai.org/resources/demos/)
+* [For Fun](http://realai.org/resources/for-fun/)
+* [Open Source Projects](http://realai.org/resources/open-source-projects/)
 * [Research Groups](http://realai.org/labs/)
-* [Timeline](http://realai.org/resources/timeline.html)
+* [Timeline](http://realai.org/resources/timeline/)
 
 ## Blogs
 
