@@ -1,5 +1,6 @@
 ---
-permalink: /learning-platforms/
+permalink: /reinforcement-learning-platforms/
+title: Learning Platforms
 ---
 # Learning Platforms
 
