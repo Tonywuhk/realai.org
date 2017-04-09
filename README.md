@@ -19,7 +19,50 @@ The best place to appreciate AI’s progress is at its research frontiers. Unlik
 
 Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show promise towards AGI.
 
-A deep-learning architecture is usually a large and complex [network architecture](http://realai.org/network-architecture/) subject to [learning rules](http://realai.org/learning-rules).
+### Learning Architecture
+
+A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/), sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), that is subject to [learning rules](http://realai.org/learning-rules).
+
+#### Architecture Discovery
+
+##### Evolutionary Algorithms
+
+* 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
+* 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
+* 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
+
+##### Reinforcement Learning
+
+* 2016 November 7, Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). *arXiv:1611.02167*.
+* 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
+
+#### Neural Programming
+
+* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
+* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
+
+#### Regularization Methods
+
+* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
+
+#### Adversarial Learning
+
+* 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
+  * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
+* 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
+* 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
+* 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
+* 2017 January 4, Dmitry Krotov and John J Hopfield. [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939). *arXiv:1701.00939*.
+* 2016 October 27, Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, and Yoshua Bengio. [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038). *arXiv:1610.09038*.
+* 2016 October 24, Jiajun Wu, Chengkai Zhang, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584). *arXiv:1610.07584*.
+
+#### Related Topics
+
+* [Imitation Learning](http://realai.org/imitation-learning/)
+* [Meta-learning](http://realai.org/meta-learning/)
+* [Multi-agent Learning](http://realai.org/multi-agent-learning/)
+* [Multitask Learning](http://realai.org/multitask-learning/)
+* [Predictive Learning](http://realai.org/predictive-learning/)
 
 ### Reinforcement Learning
 
@@ -51,53 +94,6 @@ A deep-learning architecture is usually a large and complex [network architectur
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
 
-### Learning & Network Architecture
-
-#### Architecture Discovery
-
-##### Evolutionary Algorithms
-
-* 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
-* 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
-* 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
-
-##### Reinforcement Learning
-
-* 2016 November 7, Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). *arXiv:1611.02167*.
-* 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
-
-#### Memory Augmented Neural Networks
-
-* 2017 February 27, Emilio Parisotto and Ruslan Salakhutdinov. [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360). *arXiv:1702.08360*.
-* 2017 January 30, Caglar Gulcehre, Sarath Chandar, and Yoshua Bengio. [Memory Augmented Neural Networks with Wormhole Connections](https://arxiv.org/abs/1701.08718). *arXiv:1701.08718*.
-* 2016 October 27, Jack W Rae, Jonathan J Hunt, Tim Harley, Ivo Danihelka, Andrew Senior, Greg Wayne, Alex Graves, and Timothy P Lillicrap. [Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes](https://arxiv.org/abs/1610.09027). *arXiv:1610.09027*.
-* 2016 January 5, Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, and Demis Hassabis. [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html). *Nature*, 538(7626):471-476.
-
-##### Episodic Memory
-
-* 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
-* 2016 June 14, Charles Blundell, Benigno Uria, Alexander Pritzel, Yazhe Li, Avraham Ruderman, Joel Z Leibo, Jack Rae, Daan Wierstra, and Demis Hassabis. [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460). *arXiv:1606.04460*.
-
-#### Neural Programming
-
-* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
-* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
-
-#### Regularization Methods
-
-* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
-
-#### Adversarial Learning
-
-* 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
-  * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
-* 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
-* 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
-* 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
-* 2017 January 4, Dmitry Krotov and John J Hopfield. [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939). *arXiv:1701.00939*.
-* 2016 October 27, Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, and Yoshua Bengio. [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038). *arXiv:1610.09038*.
-* 2016 October 24, Jiajun Wu, Chengkai Zhang, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584). *arXiv:1610.07584*.
-
 ### Theory
 
 #### Physics
@@ -115,15 +111,7 @@ A deep-learning architecture is usually a large and complex [network architectur
 
 * 2017 April 5, Norm Jouppi. [Quantifying the performance of the TPU, our first machine learning chip](https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html). *Google Cloud Platform Blog*.
 
-### Related Topics
-
-* [Imitation Learning](http://realai.org/imitation-learning/)
-* [Meta-learning](http://realai.org/meta-learning/)
-* [Multi-agent Learning](http://realai.org/multi-agent-learning/)
-* [Multitask Learning](http://realai.org/multitask-learning/)
-* [Predictive Learning](http://realai.org/predictive-learning/)
-
-## Applications
+### Applications
 
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
 * [Games](http://realai.org/games/)
