@@ -17,7 +17,7 @@ mathjax: true
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success in many areas, e.g., [vision](https://arxiv.org/list/cs.CV/recent), [language](https://arxiv.org/list/cs.CL/recent), autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although many systems have been [implemented](http://realai.org/deep-learning-implementation/) in large-scale, we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished.
+Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success in many areas, e.g., [vision](https://arxiv.org/list/cs.CV/recent), [language](https://arxiv.org/list/cs.CL/recent), autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
 Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
 
@@ -53,10 +53,11 @@ A deep-learning architecture is a large and complex [network architecture](http:
 
 ### Reinforcement Learning
 
+In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
+
 * [Exploration](http://realai.org/exploration/)
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
 * [Inverse Reinforcement Learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning)
-* [Learning Platforms](http://realai.org/learning-platforms/)
 
 #### Auxiliary tasks
 
@@ -84,5 +85,6 @@ A deep-learning architecture is a large and complex [network architecture](http:
 ## References
 
 * 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [online version](http://www.deeplearningbook.org/)
-* 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+* 2016 September, Richard S. Sutton and Andrew G. Barto. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. *The MIT Press*. [PDF](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf).
+* 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 * 2014 April 30, Jürgen Schmidhuber. [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828). *arXiv:1404.7828*.
