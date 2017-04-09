@@ -19,6 +19,8 @@ The best place to appreciate AI’s progress is at its research frontiers. Unlik
 
 Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show promise towards AGI.
 
+A deep-learning architecture is usually a large and complex [network architecture](http://realai.org/network-architecture/) subject to [learning rules](http://realai.org/learning-rules).
+
 ### Reinforcement Learning
 
 * [Exploration](http://realai.org/exploration/)
@@ -51,15 +53,6 @@ Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress
 
 ### Learning & Network Architecture
 
-#### Network Architecture
-
-* 2017 March 10, Manzil Zaheer, Satwik Kottur, Siamak Ravanbhakhsh, Barnabas Poczos, Ruslan Ssalakhutdinov, and Alexander Smola. [Deep Sets](https://arxiv.org/abs/1703.06114). *arXiv:1703.06114*.
-* 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
-* 2016 December 7, Michael Figurnov, Maxwell D. Collins, Yukun Zhu, Li Zhang, Jonathan Huang, Dmitry Vetrov, and Ruslan Salakhutdinov. [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297). *arXiv:1612.02297*. [code](https://github.com/mfigurnov/sact).
-* 2016 September 27, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
-* 2016 September 6, Junyoung Chung, Sungjin Ahn, and Yoshua Bengio. [Hierarchical Multiscale Recurrent Neural Networks](https://arxiv.org/abs/1609.01704). *arXiv:1609.01704*.
-* 2016 July 12, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, and Jürgen Schmidhuber. [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474). *arXiv:1607.03474*.
-
 #### Architecture Discovery
 
 ##### Evolutionary Algorithms
@@ -89,13 +82,6 @@ Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress
 
 * 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
 * 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
-
-#### Learning Rules
-
-* 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
-* 2016 August 18, Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, and Koray Kavukcuoglu. [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343). *arXiv:1608.05343*.
-* 2016 January 7, Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, and Colin J. Akerman. [Random synaptic feedback weights support error backpropagation for deep learning](http://www.nature.com/articles/ncomms13276). *Nature Communications*, 7:13276.
-* 2015 February 14, Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [Towards Biologically Plausible Deep Learning](https://arxiv.org/abs/1502.04156). *arXiv:1502.04156*.
 
 #### Regularization Methods
 
