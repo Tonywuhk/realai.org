@@ -21,29 +21,14 @@ Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress
 
 ### Learning Architecture
 
-A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/), sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), that is subject to [learning rules](http://realai.org/learning-rules).
+A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/), sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), that can be automatically designed using [architecture search](http://realai.org/architecture-search/).
 
-#### Architecture Discovery
-
-##### Evolutionary Algorithms
-
-* 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
-* 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
-* 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
-
-##### Reinforcement Learning
-
-* 2016 November 7, Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). *arXiv:1611.02167*.
-* 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
+[Learning rules](http://realai.org/learning-rules) apply to the dynamics of the architecture.
 
 #### Neural Programming
 
 * 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
 * 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
-
-#### Regularization Methods
-
-* 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
 
 #### Adversarial Learning
 
