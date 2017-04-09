@@ -4,20 +4,16 @@ permalink: /
 mathjax: true
 ---
 
-# What's New
+## What's New
 
----
-
-# AI and Society
+## AI and Society
 
 * [Timing](http://realai.org/timing/): Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will one day surpass humans in intelligence.
 * [Roadmap](http://realai.org/roadmap/): Many experts have published roadmaps towards building artificial general intelligence (AGI).
 * [Safety](http://realai.org/safety/): AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is safe and beneficial.
 * [Policy](http://realai.org/policy/): Countries around the world have policies in place to support AI research and development.
 
----
-
-# Research
+## Research
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
@@ -52,11 +48,6 @@ Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
-
-#### Multi-agent Reinforcement Learning
-
-* 2017 March 9, Hoang M. Le, Yisong Yue, and Peter Carr. [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/abs/1703.03121). *arXiv:1703.03121*.
-* 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
 
 ### Learning & Network Architecture
 
@@ -146,16 +137,12 @@ Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress
 * [Multitask Learning](http://realai.org/multitask-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
 
----
-
-# Applications
+## Applications
 
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
 * [Games](http://realai.org/games/)
 
----
-
-# References
+## References
 
 * 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [online version](http://www.deeplearningbook.org/)
 * 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
