@@ -21,5 +21,7 @@ permalink: /news/
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
+* 2017 January 10. [This AI can supposedly beat experts at No-Limit Texas Hold’em poker](http://www.theverge.com/2017/1/10/14220578/ai-deepstack-beats-poker-pros-no-limit-texas-hold-em). *The Verge*.
+* 2017 January 7. [Artificial intelligence is the future, and Canada can seize it](http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/). *The Globe and Mail*.
 
 Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
