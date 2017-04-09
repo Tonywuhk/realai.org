@@ -17,7 +17,7 @@ mathjax: true
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show promise towards AGI.
+Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Since 2012, deep learning has achieved phenomenal success in many areas, e.g. [vision](https://arxiv.org/list/cs.CV/recent), [language](https://arxiv.org/list/cs.CL/recent), autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). However, we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished. Our focus will shift if [other areas](http://realai.org/frontiers/) show more promise towards AGI.
 
 ### Learning Architecture
 
@@ -79,27 +79,9 @@ A deep-learning architecture is a large and complex [network architecture](http:
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
 
-### Theory
-
-#### Physics
-
-* 2017 April 5, Yoav Levine, David Yakira, Nadav Cohen, and Amnon Shashua. [Deep Learning and Quantum Physics : A Fundamental Bridge](https://arxiv.org/abs/1704.01552). *arXiv:1704.01552*.
-* 2016 August 29, Henry W. Lin and Max Tegmark. [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225). *arXiv:1608.08225*.
-* 2014 November 30, Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, and Yann LeCun. [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233). *arXiv:1412.0233*.
-* 2012 May 24, A. D. Wissner-Gross and C. E. Feer. [Causal Entropic Forces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702). *Phys. Rev. Lett.*, 110(168702). [PDF](http://math.mit.edu/~freer/papers/PhysRevLett_110-168702.pdf)
-
-#### Topology
-
-* 2014 January 6, Monica Bianchini and Franco Scarselli. [On the Complexity of Neural Network Classifiers: A Comparison Between Shallow and Deep Architectures](http://ieeexplore.ieee.org/document/6697897/). *IEEE Transactions on Neural Networks and Learning Systems*, 25(8):1553-1565.
-
 ### Hardware
 
 * 2017 April 5, Norm Jouppi. [Quantifying the performance of the TPU, our first machine learning chip](https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html). *Google Cloud Platform Blog*.
-
-### Applications
-
-* [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-* [Games](http://realai.org/games/)
 
 ## References
 
