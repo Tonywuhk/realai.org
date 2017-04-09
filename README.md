@@ -21,6 +21,8 @@ mathjax: true
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
+Presently, our focus is on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), a promising area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/).
+
 ### Reinforcement Learning
 
 * [Exploration](http://realai.org/exploration/)
@@ -143,7 +145,6 @@ The best place to appreciate AI’s progress is at its research frontiers. Unlik
 * [Meta-learning](http://realai.org/meta-learning/)
 * [Multi-agent Learning](http://realai.org/multi-agent-learning/)
 * [Multitask Learning](http://realai.org/multitask-learning/)
-* [Neuroscience](http://realai.org/neuroscience/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
 
 ---
@@ -152,3 +153,11 @@ The best place to appreciate AI’s progress is at its research frontiers. Unlik
 
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
 * [Games](http://realai.org/games/)
+
+---
+
+# References
+
+* 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [online version](http://www.deeplearningbook.org/)
+* 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+* 2014 April 30, Jürgen Schmidhuber. [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828). *arXiv:1404.7828*.
