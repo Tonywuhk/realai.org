@@ -2,9 +2,11 @@
 title: Conferences
 permalink: /resources/conferences/
 ---
-# Academic
+# Conferences
 
-## Future Meetings
+## Academic
+
+### Future Meetings
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
@@ -20,7 +22,7 @@ permalink: /resources/conferences/
 |            | 2018/02/04 - 10    | New Orleans, LA      | [AAAI 2018](http://www.aaai.org/Conferences/AAAI/aaai18.php)
 |            | 2017/03/26 - 30    | Obergurgl, Austria   | [AITP 2017](http://aitp-conference.org/2017/)
            
-## Past Meetings
+### Past Meetings
 
 AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
 
@@ -40,7 +42,7 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 
 ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
-# Non-Academic
+## Non-Academic
 
 * AI Frontiers: [2017](https://www.aifrontiers.com/2017)
 * Code: *[2017.05.30](https://events.recode.net/events/code-conference-2017/)*, [2016](http://www.recode.net/code-conference-2016), [2015](http://www.recode.net/code-conference-2015)
