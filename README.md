@@ -27,11 +27,6 @@ A deep-learning architecture is a large and complex [network architecture](http:
 
 [Learning rules](http://realai.org/learning-rules) apply to the dynamics of the architecture.
 
-#### Neural Programming
-
-* 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
-* 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
-
 #### Related Topics
 
 * [Adversarial Learning](http://realai.org/adversarial-learning/)
