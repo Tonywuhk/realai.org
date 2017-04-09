@@ -3,7 +3,7 @@ permalink: /multi-agent-learning/
 ---
 # Multi-Agent Learning
 
-[Le et al., (2017)](https://arxiv.org/abs/1703.03121) applied an [imitation learning](http://realai.org/imitation-learning/) approach to jointly learn a latent coordination model of multiple agents along with their individual policies.
+[Le et al. (2017)](https://arxiv.org/abs/1703.03121) applied an [imitation learning](http://realai.org/imitation-learning/) approach to jointly learn a latent coordination model of multiple agents along with their individual policies.
 
 ## Communication
 
@@ -17,7 +17,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## Reinforcement Learning
 
-*To be added later...*
+[Leibo & Zambaldi et al. (2017)](https://arxiv.org/abs/1702.03037) employed multi-agent deep Q-learning to model the emergence of cooperation and conflict in sequential social dilemmas.
 
 ## References
 
