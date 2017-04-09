@@ -23,6 +23,7 @@ mathjax: true
 
 * [Exploration](http://realai.org/exploration/)
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
+* [Inverse Reinforcement Learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning)
 * [Learning Platforms](http://realai.org/learning-platforms/)
 
 #### Auxiliary tasks
@@ -33,12 +34,6 @@ mathjax: true
 * 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
 * 2016 September 18, Guillaume Lample and Devendra Singh Chaplot. [Playing FPS Games with Deep Reinforcement Learning](https://arxiv.org/abs/1609.05521). *arXiv:1609.05521*.
 
-#### Inverse Reinforcement Learning
-
-* 2017 March 6, Bradly C. Stadie, Pieter Abbeel, and Ilya Sutskever. [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703). *arXiv:1703.01703*.
-* 2016 June 10, Jonathan Ho and Stefano Ermon. [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476). *arXiv:1606.03476*.
-* 2016 March 1, Chelsea Finn, Sergey Levine, and Pieter Abbeel. [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448). *arXiv:1603.00448*.
-  
 #### Planning
 
 * 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
@@ -142,6 +137,7 @@ mathjax: true
 ### Related Topics
 
 * Frontiers (*Not yet covered*)
+* [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-learning](http://realai.org/meta-learning/)
 * [Multi-agent Learning](http://realai.org/multi-agent-learning/)
 * [Multitask Learning](http://realai.org/multitask-learning/)
