@@ -32,19 +32,9 @@ A deep-learning architecture is a large and complex [network architecture](http:
 * 2016 November 6, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/forum?id=BkbY4psgg). *OpenReview*.
 * 2015 November 19, Scott Reed and Nando de Freitas. [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279). *arXiv:1511.06279*.
 
-#### Adversarial Learning
-
-* 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
-  * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
-* 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
-* 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
-* 2017 January 17, Martin Arjovsky and Léon Bottou. [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862). *arXiv:1701.04862*.
-* 2017 January 4, Dmitry Krotov and John J Hopfield. [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939). *arXiv:1701.00939*.
-* 2016 October 27, Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, and Yoshua Bengio. [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038). *arXiv:1610.09038*.
-* 2016 October 24, Jiajun Wu, Chengkai Zhang, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584). *arXiv:1610.07584*.
-
 #### Related Topics
 
+* [Adversarial Learning](http://realai.org/adversarial-learning/)
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-learning](http://realai.org/meta-learning/)
 * [Multi-agent Learning](http://realai.org/multi-agent-learning/)
