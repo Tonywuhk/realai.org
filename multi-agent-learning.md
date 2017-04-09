@@ -3,6 +3,8 @@ permalink: /multi-agent-learning/
 ---
 # Multi-Agent Learning
 
+[Le et al., (2017)](https://arxiv.org/abs/1703.03121) applied an [imitation learning](http://realai.org/imitation-learning/) approach to jointly learn a latent coordination model of multiple agents along with their individual policies.
+
 ## Communication
 
 Low channel bandwith pressures agents to communicate in a language with high information content. For this communication to be effective, agents should build objective internal models of the environment. In this sense, a successful language among independent agents is a powerful regularizer that reduces overfitting, and helps the agents to develop "common sense". This is a promising line of research towards language grounding.
