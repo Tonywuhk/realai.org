@@ -21,7 +21,7 @@ mathjax: true
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Presently, our focus is on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), a promising area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/).
+Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show promise towards AGI.
 
 ### Reinforcement Learning
 
@@ -140,7 +140,6 @@ Presently, our focus is on deep learning ([Goodfellow et al., 2016](https://mitp
 
 ### Related Topics
 
-* Frontiers (*Not yet covered*)
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-learning](http://realai.org/meta-learning/)
 * [Multi-agent Learning](http://realai.org/multi-agent-learning/)
