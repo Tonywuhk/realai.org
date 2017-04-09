@@ -19,6 +19,8 @@ mathjax: true
 
 # Research
 
+The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
+
 ### Reinforcement Learning
 
 * [Exploration](http://realai.org/exploration/)
