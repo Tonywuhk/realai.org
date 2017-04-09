@@ -17,7 +17,9 @@ mathjax: true
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Presently, we focus on deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)), an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Since 2012, deep learning has achieved phenomenal success in many areas, e.g. [vision](https://arxiv.org/list/cs.CV/recent), [language](https://arxiv.org/list/cs.CL/recent), autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). However, we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished. Our focus will shift if [other areas](http://realai.org/frontiers/) show more promise towards AGI.
+Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success in many areas, e.g., [vision](https://arxiv.org/list/cs.CV/recent), [language](https://arxiv.org/list/cs.CL/recent), autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although many systems have been [implemented](http://realai.org/deep-learning-implementation/) in large-scale, we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished.
+
+Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
 
 ### Learning Architecture
 
@@ -78,10 +80,6 @@ A deep-learning architecture is a large and complex [network architecture](http:
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
-
-### Hardware
-
-* 2017 April 5, Norm Jouppi. [Quantifying the performance of the TPU, our first machine learning chip](https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html). *Google Cloud Platform Blog*.
 
 ## References
 
