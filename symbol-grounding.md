@@ -3,7 +3,7 @@ permalink: /symbol-grounding/
 ---
 # Symbol Grounding
 
-Language is a tool of communication in which words (symbols) trigger thoughts in the brains of the communicators. These thoughts are complex, vary across people, and contain a lot more information than can be practically encoded in the symbols. In order to use these symbols effectively, computer systems need to ground them into the kind of meanings that humans intuitively understand.
+Language is a tool of communication in which words (symbols) trigger thoughts in the brains of the communicators. These thoughts are complex, vary across people, and contain a lot more information than can be practically encoded in the symbols. In order to use a language effectively, a computer system needs to ground its symbols into their semantic meanings that humans intuitively understand. This is called the symbol grounding problem ([Harnad 1990](http://www.sciencedirect.com/science/article/pii/0167278990900876)).
 
 [Garnelo et al. (2016)](https://arxiv.org/abs/1609.05518) proposed an end-to-end reinforcement learning architecture where a neural back end must learn a symbolic representation of its raw data to communicate with the front end.
 
