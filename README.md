@@ -22,16 +22,12 @@ Presently, we focus on deep learning, an area in machine learning inspired by [n
 
 ### Learning Architecture
 
-A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/), sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), that can be automatically designed using [architecture search](http://realai.org/architecture-search/).
-
-[Learning rules](http://realai.org/learning-rules) apply to the dynamics of the architecture.
+A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/).
 
 #### Related Topics
 
-* [Adversarial Learning](http://realai.org/adversarial-learning/)
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-learning](http://realai.org/meta-learning/)
-* [Multi-agent Learning](http://realai.org/multi-agent-learning/)
 * [Multitask Learning](http://realai.org/multitask-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
 
@@ -68,7 +64,7 @@ In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sut
 
 ## References
 
-* 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [online version](http://www.deeplearningbook.org/)
+* 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [site](http://www.deeplearningbook.org/).
 * 2016 September, Richard S. Sutton and Andrew G. Barto. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. *The MIT Press*. [PDF](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf).
 * 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 * 2014 April 30, Jürgen Schmidhuber. [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828). *arXiv:1404.7828*.
