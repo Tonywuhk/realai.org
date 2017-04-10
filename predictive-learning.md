@@ -11,13 +11,14 @@ A general framework for video prediction is to learn a representation of an inpu
 
 ### Action-Conditional Prediction
 
-Many environments change in response to the actions of agents. [Oh et al. (2015)](https://arxiv.org/abs/1507.08750) generated predictions of Atari game video frames that are both realistic and useful for control. Building on their work, [Chiappa et al. (2017)](https://arxiv.org/abs/1704.02254) developed alternative learning architectures and improved performance.
+Many environments change in response to the actions of agents. [Oh et al. (2015)](https://arxiv.org/abs/1507.08750) generated predictions of Atari game video frames that are both realistic and useful for control. Building on their work, [Chiappa et al. (2017)](https://arxiv.org/abs/1704.02254) developed alternative learning architectures and improved performance. [Santana & Hotz (2016)](https://arxiv.org/abs/1611.00050) built models to predict real world highway scenes for self-driving cars.
 
 ## References
 
 * 2017 April 7, Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, and Shakir Mohamed. [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254). *arXiv:1704.02254*.
 * 2017 April 5, Alec Radford, Rafal Jozefowicz, and Ilya Sutskever. [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444). *arXiv:1704.01444*.
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
+* 2016 October 31, Eder Santana, Matthew Emigh, Pablo Zegers, and Jose C Principe. [Exploiting Spatio-Temporal Structure with Recurrent Winner-Take-All Networks](https://arxiv.org/abs/1611.00050). *arXiv:1611.00050*.
 * 2016 August 19, Micah Richert, Dimitry Fisher, Filip Piekniewski, Eugene M. Izhikevich, and Todd L. Hylton. [Fundamental principles of cortical computation: unsupervised learning with prediction, compression and feedback](https://arxiv.org/abs/1608.06277). *arXiv:1608.06277*. [code](https://github.com/braincorp/ASC).
 * 2016 August 3, Eder Santana and George Hotz. [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230). *arXiv:1608.01230*.
 * 2016 July 22, Filip Piekniewski, Patryk Laurent, Csaba Petre, Micah Richert, Dimitry Fisher, and Todd Hylton. [Unsupervised Learning from Continuous Video in a Scalable Predictive Recurrent Network](https://arxiv.org/abs/1607.06854). *arXiv:1607.06854*. [code](https://github.com/braincorp/PVM).
