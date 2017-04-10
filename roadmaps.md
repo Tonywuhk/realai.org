@@ -1,7 +1,7 @@
 ---
-permalink: /roadmap/
+permalink: /roadmaps/
 ---
-# Roadmap
+# Roadmaps
 
 ## Timeline
 
