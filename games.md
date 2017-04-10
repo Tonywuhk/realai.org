@@ -5,6 +5,12 @@ permalink: /games/
 
 ## Atari 2600
 
+## Starcraft
+
+* 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
+* 2017 February 28, Jakob Foerster, Nantas Nardelli, Gregory Farquhar, Philip. H. S. Torr, Pushmeet Kohli, and Shimon Whiteson. [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1702.08887). *arXiv:1702.08887*.
+* 2016 September 10, Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, and Soumith Chintala. [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](https://arxiv.org/abs/1609.02993). *arXiv:1609.02993*.
+  
 ## Poker
 
 ## Go
