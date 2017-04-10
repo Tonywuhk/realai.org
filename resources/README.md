@@ -31,3 +31,4 @@ permalink: /resources/
 * The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development.
 * Machine Learning Camp [Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp).
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
+* [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) on Reddit.
