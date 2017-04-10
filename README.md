@@ -48,11 +48,6 @@ In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sut
 * 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
 * 2016 September 18, Guillaume Lample and Devendra Singh Chaplot. [Playing FPS Games with Deep Reinforcement Learning](https://arxiv.org/abs/1609.05521). *arXiv:1609.05521*.
 
-#### Planning
-
-* 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
-* 2016 February 9, Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel. [Value Iteration Networks](https://arxiv.org/abs/1602.02867). *arXiv:1602.02867*.
-
 #### Reinforcement Learning Algorithms
 
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
