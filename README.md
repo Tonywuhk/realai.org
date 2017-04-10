@@ -30,6 +30,7 @@ A deep-learning architecture is a large and complex [network architecture](http:
 * [Meta-learning](http://realai.org/meta-learning/)
 * [Multitask Learning](http://realai.org/multitask-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
+* [Symbol Grounding](http://realai.org/symbol-grounding/)
 
 ### Reinforcement Learning
 
@@ -51,10 +52,6 @@ In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sut
 
 * 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
 * 2016 February 9, Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel. [Value Iteration Networks](https://arxiv.org/abs/1602.02867). *arXiv:1602.02867*.
-
-#### Symbolic Learning
-
-* 2016 September 18, Marta Garnelo, Kai Arulkumaran, and Murray Shanahan. [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/abs/1609.05518). *arXiv:1609.05518*.
 
 #### Reinforcement Learning Algorithms
 
