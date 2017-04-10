@@ -1,5 +1,5 @@
 ---
-permalink: /resources/curriculum/
+permalink: /curriculum/
 ---
 # Curriculum
 
