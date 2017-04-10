@@ -1,6 +1,6 @@
 ---
-title: Policy
-permalink: /policy/
+title: Policies
+permalink: /policies/
 ---
 # Country Policies
 
