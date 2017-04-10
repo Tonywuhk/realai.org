@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 7. [U of T professor Geoffrey Hinton hailed as guru of new computing era](http://www.theglobeandmail.com/news/toronto/u-of-t-professor-geoffrey-hinton-hailed-as-guru-of-new-era-of-computing/article34639148/). *The Globe and Mail*.
 * 2017 April 7. [Rules of memory 'beautifully' rewritten](http://www.bbc.com/news/health-39518580). *BBC News*.
 * 2017 April 7. [Partnership on AI is looking for an Executive Director](https://www.partnershiponai.org/2017/04/partnership-ai-looking-executive-director/). *Partnership on AI*.
 * 2017 April 7. [The People Behind OpenAI](https://www.redhat.com/en/open-source-stories/ai-revolutionaries/people-behind-openai). *Red Hat*.
