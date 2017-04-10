@@ -8,7 +8,7 @@ mathjax: true
 
 ## AI and Society
 
-Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will [one day](http://realai.org/timing/) surpass humans in intelligence. Countries around the world have [policies](http://realai.org/policy/) in place to support AI research and development. Many experts have already published [roadmaps](http://realai.org/roadmap/) towards building artificial general intelligence (AGI).
+Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will [one day](http://realai.org/timing/) surpass humans in intelligence. Countries around the world have [policies](http://realai.org/policies/) in place to support AI research and development. Many experts have already published [roadmaps](http://realai.org/roadmaps/) towards building artificial general intelligence (AGI).
 
 AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is [safe and beneficial](http://realai.org/safety/).
 
