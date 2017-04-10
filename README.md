@@ -14,7 +14,7 @@ AGI technology could represent the greatest change in the history of life on Ear
 
 ## Research
 
-The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
+The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/conferences/).
 
 Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
