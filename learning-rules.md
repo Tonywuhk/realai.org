@@ -22,7 +22,7 @@ $$
 \mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y_{1:T} | \theta, x_{1:T})] + \mathrm{KL}[q(\theta)||p(\theta)],
 $$
 
-where \\(p(y_{1:T}|\theta, x_{1:T})\\) is the likelihood of a sequence of length \\(T\\).
+where \\(p(y_{1:T} \| \theta, x_{1:T})\\) is the likelihood of a sequence of length \\(T\\).
 
 ## References
 
