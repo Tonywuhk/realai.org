@@ -24,6 +24,7 @@ permalink: /news/
 * 2017 March 22. [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html). *Canada Newswire*.
 * 2017 March 22. [Baidu Chief Scientist Ng to Depart in Setback for AI Push](https://www.bloomberg.com/news/articles/2017-03-22/baidu-s-chief-scientist-ng-to-depart-in-setback-for-ai-efforts). *Bloomberg Technology*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
+* 2017 March 16. [The Mobile Internet Is Over. Baidu Goes All In on AI](https://www.bloomberg.com/news/articles/2017-03-16/the-mobile-internet-is-over-baidu-goes-all-in-on-ai). *Bloomberg Businessweek*.
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
