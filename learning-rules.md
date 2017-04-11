@@ -16,7 +16,7 @@ $$
 \mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y | \theta, x)] + \mathrm{KL}[q(\theta)||p(\theta)],
 $$
 
-where \\(\mathrm{KL}[q(\theta)||p(\theta)]\\) is the Kullback-Leibler divergence between the prior \\(p(\theta)\\) and posterior \\(q(\theta)\\) of the weights. [Fortunato et al. (2017)](https://arxiv.org/abs/1704.02798) extended this approach to recurrent neural networks:
+where \\(\mathrm{KL}[q(\theta)\|\|p(\theta)]\\) is the Kullback-Leibler divergence between the prior \\(p(\theta)\\) and posterior \\(q(\theta)\\) of the weights. [Fortunato et al. (2017)](https://arxiv.org/abs/1704.02798) extended this approach to recurrent neural networks:
 
 $$
 \mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y_{1:T} | \theta, x_{1:T})] + \mathrm{KL}[q(\theta)||p(\theta)],
