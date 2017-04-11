@@ -1,10 +1,12 @@
 ---
-title: Home
+title: Welcome to Real AI
 permalink: /
 mathjax: true
 ---
 
 ## What's New
+
+* 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*. ([DeepMind](http://realai.org/labs/deepmind-publications/), [Learning Rules](http://realai.org/learning-rules/))
 
 ## AI and Society
 
