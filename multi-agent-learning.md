@@ -21,6 +21,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## References
 
+* 2017 April 3, Romain Laroche, Mehdi Fatemi, Joshua Romoff, and Harm van Seijen. [Multi-Advisor Reinforcement Learning](https://arxiv.org/abs/1704.00756). *arXiv:1704.00756*.
 * 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
 * 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*. [blog](https://openai.com/blog/learning-to-communicate/).
