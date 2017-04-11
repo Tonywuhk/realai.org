@@ -21,6 +21,7 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 
 ## Research
 
+* 2017 April 10, El Mahdi El Mhamdi, Rachid Guerraoui, Hadrien Hendrikx, and Alexandre Maurer. [Can AIs learn to avoid human interruption?](https://arxiv.org/abs/1704.02882). *arXiv:1704.02882*.
 * 2017 April 3, Gopal P. Sarma. [Brief Notes on Hard Takeoff, Value Alignment, and Coherent Extrapolated Volition](https://arxiv.org/abs/1704.00783). *arXiv:1704.00783*.
 * 2016 July 27, Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, and Andrew Critch. [Alignment for Advanced Machine Learning Systems](https://intelligence.org/2016/07/27/alignment-machine-learning/). *Machine Intelligence Research Institute*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
