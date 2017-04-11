@@ -16,4 +16,4 @@ Microsoft's [Aerial Informatics and Robotics Platform](https://www.microsoft.com
 * 2016 December 5. [Universe](https://blog.openai.com/universe/). *OpenAI*.
 * 2016 December 3. [Open-sourcing DeepMind Lab](https://deepmind.com/blog/open-sourcing-deepmind-lab/). *DeepMind*.
 * 2016 April 27. [OpenAI Gym Beta](https://blog.openai.com/openai-gym-beta/). *OpenAI*.
-* 2015 June 1. [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/). *Microsoft*.
+* 2016 March 13. [Project Malmo: Using Minecraft to build more intelligent technology](https://blogs.microsoft.com/next/2016/03/13/project-malmo-using-minecraft-build-intelligent-technology/). *The Official Microsoft Blog*.
