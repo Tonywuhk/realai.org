@@ -50,5 +50,6 @@ ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.ic
 * EmTech Digital: [2017](http://events.technologyreview.com/emtech/digital/17/), [2016](http://events.technologyreview.com/video/?event=emtech-digital&year=2016), [2015](http://events.technologyreview.com/video/?event=emtech-digital&year=2015)
 * FLI: [Beneficial AI 2017](https://futureoflife.org/bai-2017/), [Puerto Rico 2015](https://futureoflife.org/2015/10/12/ai-safety-conference-in-puerto-rico/)
 * Future Labs AI Summit: [2017](http://futurelabs.nyc/events/ai-summit)
+* Future of Go Summit: [*2017.05.23*](https://en.wikipedia.org/wiki/Future_of_Go_Summit) ([announcement](https://deepmind.com/blog/exploring-mysteries-alphago/))
 * Scaled ML: [2017](http://scaledml.org/) ([slides](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)), [2016](http://scaledml.org/index2016.html)
 * World Summit AI: [*2017.10.11*](http://thesummitai.com/)
