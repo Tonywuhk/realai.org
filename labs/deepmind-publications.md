@@ -4,7 +4,7 @@ mathjax: true
 ---
 # DeepMind Publications
 
-A list of papers where at least one coauthor is affiliated with DeepMind Technologies Limited, in reverse chronological order:
+A list of papers where at least one coauthor is affiliated with [DeepMind Technologies Limited](http://realai.org/labs/deepmind/), in reverse chronological order:
 
 ## 2017
 
