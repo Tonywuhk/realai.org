@@ -10,19 +10,19 @@ mathjax: true
 
 ### Bayesian Learning
 
-Bayesian learning introduces uncertainty in the weights \\(\theta\\) of a neural network. Given inputs \\(x\\) and outputs \\(y)\\, the *Bayes by Backprop* algorithm ([Blundell et al., 2015](https://arxiv.org/abs/1505.05424)) regularises the weights by minimizing the variationial free energy:
+Bayesian learning introduces uncertainty in the weights \\(\theta\\) of a neural network. Given inputs \\(x\\) and outputs \\(y\\), the *Bayes by Backprop* algorithm ([Blundell et al., 2015](https://arxiv.org/abs/1505.05424)) regularizes the weights by minimizing the variational free energy:
 
 $$
 \mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y | \theta, x)] + \mathrm{KL}[q(\theta)||p(\theta)],
 $$
 
-where \\(p(\theta)\\) and \\(q(\theta)\\) are the prior and posteriors of the weights, respectively.
-
-[Fortunato et al. (2017)](https://arxiv.org/abs/1704.02798) extended this approach to Recurrent Neural Networks:
+where \\(p(\theta)\\) and \\(q(\theta)\\) are the prior and posterior of the weights, respectively. [Fortunato et al. (2017)](https://arxiv.org/abs/1704.02798) extended this approach to recurrent neural networks:
 
 $$
-\mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y_{1:T} | \theta, x_{1:T})] + \mathrm{KL}[q(\theta)||p(\theta)].
+\mathcal{L}(\theta) = -\mathbb{E}_{q(\theta)} [\log p(y_{1:T} | \theta, x_{1:T})] + \mathrm{KL}[q(\theta)||p(\theta)],
 $$
+
+where \\(p(y_{1:T} | \theta, x_{1:T})\\) is the likelihood of a sequence of length \\(T\\).
 
 ## References
 
