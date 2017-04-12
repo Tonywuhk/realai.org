@@ -15,7 +15,9 @@ permalink: /labs/
   * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
 * [Microsoft Maluuba](http://www.maluuba.com/): [Publications](http://www.maluuba.com/publications)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/) ([Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/))
-* Baidu Research: [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/) (Wei Xu), [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
+* Baidu Research:
+  * [Institute of Deep Learning](http://idl.baidu.com/)： [Team](http://idl.baidu.com/IDL-team.html) (Wei Xu)
+  * [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
 * [Twitter Cortex](https://cortex.twitter.com/)
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Vicarious](http://www.vicarious.com/)
