@@ -5,6 +5,7 @@ permalink: /adversarial-learning/
 
 ## References
 
+* 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
 * 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
   * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
