@@ -1,7 +1,7 @@
 ---
-permalink: /multitask-learning/
+permalink: /multi-task-learning/
 ---
-# Multitask Learning
+# Multi-Task Learning
 
 A standard deep neural network can learn very different visual domains simultaneously ([Bilen & Vedaldi, 2017](https://arxiv.org/abs/1701.07275)). It's also possible to train a reinforcement learning agent to perform multiple tasks.
 
