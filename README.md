@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 April 10, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012). *arXiv:1704.03012*. ([OpenAI](http://realai.org/labs/openai-publications/); [Intrinsic Motivation](http://realai.org/intrinsic-motivation))
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*. ([Safety](http://realai.org/safety/); [News](http://realai.org/news/))
 * 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*. ([DeepMind](http://realai.org/labs/deepmind-publications/); [Learning Rules](http://realai.org/learning-rules/))
 * 2017 April 10. [The Future of Go Summit will be held in Wuzhen, China, May 23-27, 2017, and feature AlphaGo](https://deepmind.com/blog/exploring-mysteries-alphago/). *DeepMind*. ([Conferences](http://realai.org/conferences/); [News](http://realai.org/news/))
@@ -38,10 +39,9 @@ A deep-learning architecture is a large and complex [network architecture](http:
 
 ### Reinforcement Learning
 
-In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
+In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. The agents can be moved to learn by [intrinsic motivations](http://realai.org/intrinsic-motivation) that send rewards in ways unaffected by the specifics of the agents' tasks. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
 
 * [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-* [Exploration](http://realai.org/exploration/)
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
 * [Inverse Reinforcement Learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning)
 
