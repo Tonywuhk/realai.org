@@ -3,6 +3,8 @@ permalink: /imitation-learning/
 ---
 # Imitation Learning
 
+Imitation learning is when a learning architecture is trained to mimic behaviors, usually human demonstrations.
+
 ## Behavioral Cloning
 
 ## Inverse Reinforcement Learning
