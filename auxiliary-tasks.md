@@ -5,6 +5,7 @@ permalink: /auxiliary-tasks/
 
 ## References
 
+* 2016 December 21, Evan Shelhamer, Parsa Mahmoudieh, Max Argus, and Trevor Darrell. [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://arxiv.org/abs/1612.07307). *arXiv:1612.07307*.
 * 2016 November 16, Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397). *arXiv:1611.05397*.
   * 2016 March 4. [modified version](https://openreview.net/forum?id=SJ6yPD5xg). *OpenReview*.
   * 2016 December 10, Kosuke Miyoshi. [replication using TensorFlow and DeepMind Lab](https://github.com/miyosuda/unreal). *GitHub*.
