@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 
 ## 2017
 
+* 2017 April 10, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012). *arXiv:1704.03012*.
 * 2017 April 5, Alec Radford, Rafal Jozefowicz, and Ilya Sutskever. [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444). *arXiv:1704.01444*.
 * 2017 March 31, Alex X. Lee, Sergey Levine, and Pieter Abbeel. [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://arxiv.org/abs/1703.11000). *arXiv:1703.11000*.
 * 2017 March 21, Yan Duan, Marcin Andrychowicz, Bradly Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, and Wojciech Zaremba. [One-Shot Imitation Learning](https://arxiv.org/abs/1703.07326). *arXiv:1703.07326*.
