@@ -30,6 +30,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 ## 2016
 
 * 2016 December 31, Ian Goodfellow. [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160). *arXiv:1701.00160*.
+* 2016 December 21, Evan Shelhamer, Parsa Mahmoudieh, Max Argus, and Trevor Darrell. [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://arxiv.org/abs/1612.07307). *arXiv:1612.07307*.
 * 2016 December 1, Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, and Sergey Levine. [Generalizing Skills with Semi-Supervised Reinforcement Learning](https://arxiv.org/abs/1612.00429). *arXiv:1612.00429*.
 * 2016 November 28, Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, and Dario Amodei. [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945). *arXiv:1611.08945*.
 * 2016 November 15, Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel. [Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717). *arXiv:1611.04717*.
