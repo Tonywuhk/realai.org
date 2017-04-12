@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*. ([Safety](http://realai.org/safety/); [News](http://realai.org/news/))
 * 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*. ([DeepMind](http://realai.org/labs/deepmind-publications/); [Learning Rules](http://realai.org/learning-rules/))
 * 2017 April 10. [The Future of Go Summit will be held in Wuzhen, China, May 23-27, 2017, and feature AlphaGo](https://deepmind.com/blog/exploring-mysteries-alphago/). *DeepMind*. ([Conferences](http://realai.org/conferences/); [News](http://realai.org/news/))
 
