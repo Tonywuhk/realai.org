@@ -13,7 +13,7 @@ permalink: /labs/
   * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
 * [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/labs/fair-publications/)
   * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
-* [Microsoft Maluuba](http://www.maluuba.com/)
+* [Microsoft Maluuba](http://www.maluuba.com/): [Publications](http://www.maluuba.com/publications)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/) ([Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/))
 * Baidu Research: [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
 * [Twitter Cortex](https://cortex.twitter.com/)
