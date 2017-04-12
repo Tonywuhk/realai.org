@@ -30,8 +30,8 @@ A deep-learning architecture is a large and complex [network architecture](http:
 #### Related Topics
 
 * [Imitation Learning](http://realai.org/imitation-learning/)
-* [Meta-learning](http://realai.org/meta-learning/)
-* [Multitask Learning](http://realai.org/multitask-learning/)
+* [Meta-Learning](http://realai.org/meta-learning/)
+* [Multi-Task Learning](http://realai.org/multi-task-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
 * [Symbol Grounding](http://realai.org/symbol-grounding/)
 
