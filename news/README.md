@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 11. [Is Neuroscience Limited by Tools or Ideas?](https://www.scientificamerican.com/article/is-neuroscience-limited-by-tools-or-ideas/). *Scientific American*.
 * 2017 April 10. [Announcing the 2017 Google PhD Fellows for North America, Europe and the Middle East](https://research.googleblog.com/2017/04/announcing-2017-google-phd-fellows-for.html). *Google Research Blog*.
 * 2017 April 10. [AI Drives the Rise of Accelerated Computing in Data Centers](https://blogs.nvidia.com/blog/2017/04/10/ai-drives-rise-accelerated-computing-datacenter/)
 * 2017 April 10. [DeepMind's AlphaGo is back..and this time it's taking on five humans at once](http://www.wired.co.uk/article/deepmind-go-alphago-china-may-2017). *Wired UK*.
