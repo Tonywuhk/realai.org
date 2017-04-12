@@ -6,6 +6,7 @@ permalink: /news/
 * 2017 April 12. [【北大AI公开课】百度徐伟：AGI 2050年前实现可能性超50%](http://mp.weixin.qq.com/s/TM0SrdQiAkwTqY4JhNZ9cQ). *AI Era*.
 * 2017 April 11. [Fast Drawing for Everyone](https://www.blog.google/topics/machine-learning/fast-drawing-everyone/). *Google*.
 * 2017 April 11. [Is Neuroscience Limited by Tools or Ideas?](https://www.scientificamerican.com/article/is-neuroscience-limited-by-tools-or-ideas/). *Scientific American*.
+* 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*.
 * 2017 April 10. [Announcing the 2017 Google PhD Fellows for North America, Europe and the Middle East](https://research.googleblog.com/2017/04/announcing-2017-google-phd-fellows-for.html). *Google Research Blog*.
 * 2017 April 10. [AI Drives the Rise of Accelerated Computing in Data Centers](https://blogs.nvidia.com/blog/2017/04/10/ai-drives-rise-accelerated-computing-datacenter/)
 * 2017 April 10. [DeepMind's AlphaGo is back..and this time it's taking on five humans at once](http://www.wired.co.uk/article/deepmind-go-alphago-china-may-2017). *Wired UK*.
