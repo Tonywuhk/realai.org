@@ -29,8 +29,6 @@ Presently, we focus on deep learning, an area in machine learning inspired by [n
 
 A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/).
 
-#### Related Topics
-
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-Learning](http://realai.org/meta-learning/)
 * [Multi-Task Learning](http://realai.org/multi-task-learning/)
@@ -39,17 +37,13 @@ A deep-learning architecture is a large and complex [network architecture](http:
 
 ### Reinforcement Learning
 
-In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. The agents can be moved to learn by [intrinsic motivations](http://realai.org/intrinsic-motivation) that send rewards in ways unaffected by the specifics of the agents' tasks. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
+In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
+
+The agents can learn to explicitly build models of their environment, which they then use for planning. This type of learning is called model-based, as opposed to the simpler [model-free algorithms](http://realai.org/model-free-rl-algorithms) where agents learn actions directly. The agents can be moved to learn by [intrinsic motivations](http://realai.org/intrinsic-motivation) that send rewards in ways unaffected by the specifics of the agents' tasks. 
 
 * [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
 * [Inverse Reinforcement Learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning)
-
-#### Reinforcement Learning Algorithms
-
-* 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
-* 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
-* 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
 
 ## References
 
