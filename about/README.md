@@ -26,5 +26,3 @@ Real AI is supported by donations. Our bank account number is 390-693182-883, [H
 The field of AI is experiencing explosive growth and important new information is being produced almost every day. This site is a place where we put the relevant information together. We hope to show the big picture more clearly, to make scientific progress more accessible, and to accelerate the development of safe and beneficial AGI. Contents on this site are **not meant to be complete** and are frequently updated.
 
 This site is hosted on [GitHub Pages](https://pages.github.com/), based on the [Slate](https://github.com/pages-themes/slate) theme, and generated using [Jekyll](http://jekyllrb.com/).
-
-[View on GitHub](https://github.com/yanjon/yanjon.github.io)
