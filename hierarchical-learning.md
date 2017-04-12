@@ -3,6 +3,8 @@ permalink: /hierarchical-learning/
 ---
 # Hierarchical Learning
 
+The learning of some complex tasks can be a lot more efficient if these tasks are decomposed into subtasks that are easier to learn.
+
 ## Hierarchical Deep Reinforcement Learning
 
 [Van Seijen et al. (2016)](https://arxiv.org/abs/1612.05159) generalized the traditional setting by [training multiple agents](http://realai.org/multi-agent-learning/) in a hierarchical way.
