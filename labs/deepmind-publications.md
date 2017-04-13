@@ -42,7 +42,9 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 ## 2016
 
 * 2016 December 12, Charles Beattie, Joel Z. Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, Julian Schrittwieser, Keith Anderson, Sarah York, Max Cant, Adam Cain, Adrian Bolton, Stephen Gaffney, Helen King, Demis Hassabis, Shane Legg, and Stig Petersen. [DeepMind Lab](https://arxiv.org/abs/1612.03801). *arXiv:1612.03801*.
+* 2016 December 30, Timothy A. Mann, Hugo Penedones, Shie Mannor, and Todd Hester. [Adaptive Lambda Least-Squares Temporal Difference Learning](https://arxiv.org/abs/1612.09465). *arXiv:1612.09465*.
 * 2016 December 7, Dharshan Kumaran, Andrea Banino, Charles Blundell, Demis Hassabis, and Peter Dayan. [Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing Self-Relevant Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5158095/). *Neuron*, 92(5):1135-1147.
+* 2016 December 6, Alexandre Berard, Olivier Pietquin, Christophe Servan, and Laurent Besacier. [Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation](https://arxiv.org/abs/1612.01744). *arXiv:1612.01744*.
 * 2016 December 5, Balaji Lakshminarayanan, Alexander Pritzel, and Charles Blundell. [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474). *arXiv:1612.01474*.
 * 2016 December 2, James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell. [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796). *arXiv:1612.00796*. [blog](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/).
 * 2016 December 1, Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, and Koray Kavukcuoglu. [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222). *arXiv:1612.00222*.
@@ -130,6 +132,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2016 February 16, Anna Harutyunyan, Marc G. Bellemare, Tom Stepleton, and Remi Munos. [Q(\\(\lambda\\)) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). *arXiv:1602.04951*.
 * 2016 February 15, Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van Roy. [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621). *arXiv:1602.04621*.
 * 2016 February 10, Daniel J. Mankowitz, Timothy A. Mann, and Shie Mannor. [Adaptive Skills, Adaptive Partitions (ASAP)](https://arxiv.org/abs/1602.03351). *arXiv:1602.03351*.
+* 2016 February 10, Daniel J. Mankowitz, Timothy A. Mann, and Shie Mannor. [Iterative Hierarchical Optimization for Misspecified Problems (IHOMP)](https://arxiv.org/abs/1602.03348). *arXiv:1602.03348*.
 * 2016 February 9, Marcin Andrychowicz and Karol Kurach. [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://arxiv.org/abs/1602.03218). *arXiv:1602.03218*.
 * 2016 February 9, Ivo Danihelka, Greg Wayne, Benigno Uria, Nal Kalchbrenner, and Alex Graves. [Associative Long Short-Term Memory](https://arxiv.org/abs/1602.03032). *arXiv:1602.03032*.
 * 2016 February 8, Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, and Shimon Whiteson. [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](https://arxiv.org/abs/1602.02672). *arXiv:1602.02672*.
@@ -167,6 +170,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2015 July 1, Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, and Koray Kavukcuoglu. [Natural Neural Networks](https://arxiv.org/abs/1507.00210). *arXiv:1507.00210*.
 * 2015 June 17, John Schulman, Nicolas Heess, Theophane Weber, and Pieter Abbeel. [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254). *arXiv:1506.05254*.
 * 2015 June 13, Jan Buys and Phil Blunsom. [A Bayesian Model for Generative Transition-based Dependency Parsing](https://arxiv.org/abs/1506.04334). *arXiv:1506.04334*.
+* 2015 June 11, Daniel J. Mankowitz, Timothy A. Mann, and Shie Mannor. [Bootstrapping Skills](https://arxiv.org/abs/1506.03624). *arXiv:1506.03624*.
 * 2015 June 10, Karl Moritz Hermann, Tomáš Kociský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340). *arXiv:1506.03340*.
 * 2015 June 8, Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, and Phil Blunsom. [Learning to Transduce with Unbounded Memory](https://arxiv.org/abs/1506.02516). *arXiv:1506.02516*.
 * 2015 June 5, Max Jaderberg, Karen Simonyan, Andrew Zisserman, and Koray Kavukcuoglu. [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025). *arXiv:1506.02025*.
