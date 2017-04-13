@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 12. [Google, Facebook, Microsoft, IBM, Baidu and others just invested $80m into every AI company](https://medium.com/atomico/google-facebook-microsoft-ibm-baidu-and-others-just-invested-80m-into-every-ai-company-95dfcbe1ce11). *Medium*.
 * 2017 April 12. [The Countries Most (and Least) Likely to be Affected by Automation](https://hbr.org/2017/04/the-countries-most-and-least-likely-to-be-affected-by-automation). *Harvard Business Review*.
 * 2017 April 12. [【北大AI公开课】百度徐伟：AGI 2050年前实现可能性超50%](http://mp.weixin.qq.com/s/TM0SrdQiAkwTqY4JhNZ9cQ). *AI Era*.
 * 2017 April 11. [Fast Drawing for Everyone](https://www.blog.google/topics/machine-learning/fast-drawing-everyone/). *Google*.
