@@ -8,11 +8,11 @@ A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\m
 
 [Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double Q-learning, a supervised large margin classification loss, and an L2 regularization loss
 
-$$
-J(Q} = J_{DQ}(Q} + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
-$$
+\begin{equation}
+J(Q) = J_{DQ}(Q) + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
+\end{equation}
 
-to update the work, where the \\(\lambda\\) parameters control the relative weighting.
+to update the network, where the \\(\lambda\\) parameters control the relative weighting.
 
 ## References
 
