@@ -3,6 +3,8 @@ permalink: /sitemap/
 ---
 ## Site Map
 
+[About](http://realai.org/about/) Real AI
+
 [Labs](http://realai.org/labs/) (Research Groups)
 
 * [DeepMind](http://realai.org/labs/deepmind): [Publications](http://realai.org/labs/deepmind/publications/)
