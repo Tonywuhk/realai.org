@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
 
-A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \matbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
+A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
 The goal of the agent is to optimize a policy \\(\pi: \mathcal{S} \rightarrow \mathcal{A}\\). The value \\(Q^\pi (s,a)\\) is an estimate of the expected future rewards that can be obtained from \\((s,a)\\) when following policy \\(\pi\\).
 
