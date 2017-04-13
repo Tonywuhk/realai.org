@@ -29,7 +29,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2016 September 24-25, *Stanford, CA*, [Deep Learning School](https://www.bayareadlschool.org/).
 * 2016 August 1-7, *Montreal, Canada*, [Deep Learning Summer School](https://sites.google.com/site/deeplearningsummerschool2016/). CIFAR and CRM. *To be renewed in July 2017 as [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)*.
 * 2015 July 4, *The Spectator*, [A Statistical View of Deep Learning: Retrospective](http://blog.shakirm.com/2015/07/a-statistical-view-of-deep-learning-retrospective/). Shakir Mohamed.
-* Deep learning libraries: [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/), [Sonnet](https://github.com/deepmind/sonnet), [MXNet](http://mxnet.io/), [PyTorch](http://pytorch.org/) ([examples](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)).
+* Deep learning libraries: [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/), [Sonnet](https://github.com/deepmind/sonnet), [MXNet](http://mxnet.io/), [PyTorch](http://pytorch.org/) ([resources](https://github.com/ritchieng/the-incredible-pytorch)).
 
 ### Related Background
 
