@@ -6,7 +6,7 @@ mathjax: true
 
 A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}\_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}\_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
-At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t = \pi(s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\dot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The goal of an agent is to optimize its policy \\(\pi: \mathcal{S} \rightarrow \mathcal{A}\\), under which the expected value of future rewards is
+At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t = \pi(s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\bullet \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The goal of an agent is to optimize its policy \\(\pi: \mathcal{S} \rightarrow \mathcal{A}\\), under which the expected value of future rewards is
 
 $$
   Q^\pi (s,a) \equiv \mathbb{E}[r_1+ \gamma r_2+... | S_0=s, A_0=a, \pi].
@@ -15,6 +15,8 @@ $$
 The optimal value \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The two dominant approaches have been value based and policy based algorithms.
 
 ## Policy Based Reinforcement Learning Algorithms
+
+Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(s\_t; \theta)\\). [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
 ## Value Based Reinforcement Learning Algorithms
 
