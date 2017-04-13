@@ -1,7 +1,10 @@
 ---
 permalink: /model-free-rl-algorithms/
+mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
+
+A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}_+\\) a transition probability function, \\(r\\) a reward function, \\(\rho_0\\) an initial state distribution, \\(\gamma\\) a discount factor, and \\(T\\) the horizon.
 
 ## References
 
