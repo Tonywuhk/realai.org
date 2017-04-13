@@ -5,7 +5,7 @@ permalink: /sitemap/
 
 [About](http://realai.org/about/) Real AI
 
-AI and Society: **[HOME](http://realai.org)**
+AI and Society: **[Home](http://realai.org)**
 
 * [Policies](http://realai.org/policies/)
 * [Progress](http://realai.org/progress/)
@@ -27,6 +27,19 @@ AI and Society: **[HOME](http://realai.org)**
 
 [News](http://realai.org/news/) (2017): [2012](http://realai.org/news/2012/), [2013](http://realai.org/news/2013/), [2014](http://realai.org/news/2014/), [2015](http://realai.org/news/2015/), [2016](http://realai.org/news/2016/)
 
-Research: **[HOME](http://realai.org)**
+Research: **[Home](http://realai.org)**
+
+* Experiments:
+  * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
+  * [Games](http://realai.org/games/)
+  * Language: [Program Induction](http://realai.org/program-induction)
+  * Robotics: Autonomous Driving
+  * Vision
+* [Frontiers](http://realai.org/frontiers/)
+* Implementation: [Deep Learning Implementation](http://realai.org/deep-learning-implementation/)
+* **Learning Architecture**
+* [Neuroscience](http://realai.org/neuroscience/)
+* **Reinforcement Learning**
+* Theory: [Deep Learning Theory](http://realai.org/deep-learning-theory/)
 
 [Resources](http://realai.org/resources/): [Demos](http://realai.org/resources/demos), [For Fun](http://realai.org/resources/for-fun/), [Open Source Projects](http://realai.org/resources/open-source-projects/)
