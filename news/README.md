@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 13. [Europe's battle with Silicon Valley is just beginning - here's why it matters](http://www.wired.co.uk/article/europes-battle-with-silicon-valley-is-just-beginning-heres-why-it-matters). *Wired UK*.
 * 2017 April 12. [Google, Facebook, Microsoft, IBM, Baidu and others just invested $80m into every AI company](https://medium.com/atomico/google-facebook-microsoft-ibm-baidu-and-others-just-invested-80m-into-every-ai-company-95dfcbe1ce11). *Medium*.
 * 2017 April 12. [The Countries Most (and Least) Likely to be Affected by Automation](https://hbr.org/2017/04/the-countries-most-and-least-likely-to-be-affected-by-automation). *Harvard Business Review*.
 * 2017 April 12. [【北大AI公开课】百度徐伟：AGI 2050年前实现可能性超50%](http://mp.weixin.qq.com/s/TM0SrdQiAkwTqY4JhNZ9cQ). *AI Era*.
@@ -36,7 +37,10 @@ permalink: /news/
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
+* 2017 January 12. [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html). *Google Research Blog*.
 * 2017 January 10. [This AI can supposedly beat experts at No-Limit Texas Hold’em poker](http://www.theverge.com/2017/1/10/14220578/ai-deepstack-beats-poker-pros-no-limit-texas-hold-em). *The Verge*.
 * 2017 January 7. [Artificial intelligence is the future, and Canada can seize it](http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/). *The Globe and Mail*.
+* 2017 January 4. [My AI Forecasts--Past, Present, and Future (Main Post)](http://www.milesbrundage.com/blog-posts/my-ai-forecasts-past-present-and-future-main-post). *Miles Brundage*.
+* 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
 
 Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
