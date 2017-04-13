@@ -6,6 +6,7 @@ permalink: /resources/demos/
 ## Audio
 
 * 2017 March 29. Audio [samples](https://google.github.io/tacotron/) from "[Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135)"
+* 2016 December 22. [SampleRNN](https://soundcloud.com/samplernn): An Unconditional End-to-End Neural Audio Generation Model. [arXiv](https://arxiv.org/abs/1612.07837).
 
 ## Image
 
