@@ -1,5 +1,5 @@
 ---
-permalink: /labs/google-brain-publications/
+permalink: /labs/google-brain/publications/
 ---
 # Google Brain Publications
 
