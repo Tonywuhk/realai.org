@@ -3,9 +3,9 @@ permalink: /sitemap/
 ---
 ## Site Map
 
-[About](http://realai.org/about/) Real AI
+**[About](http://realai.org/about/) Real AI**
 
-AI and Society: **[Home](http://realai.org)**
+**AI and Society ([Home](http://realai.org))**
 
 * [Policies](http://realai.org/policies/)
 * [Progress](http://realai.org/progress/)
@@ -13,11 +13,11 @@ AI and Society: **[Home](http://realai.org)**
 * [Safety](http://realai.org/safety/): [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/) (blog)
 * [Timing](http://realai.org/timing/)
 
-[Conferences](http://realai.org/conferences/)
+**[Conferences](http://realai.org/conferences/)**
 
-[Curriculum](http://realai.org/curriculum/)
+**[Curriculum](http://realai.org/curriculum/)**
 
-[Labs](http://realai.org/labs/) (Research Groups)
+**[Labs](http://realai.org/labs/)** (Research Groups)
 
 * [DeepMind](http://realai.org/labs/deepmind): [Publications](http://realai.org/labs/deepmind/publications/)
 * FAIR: [Publications](http://realai.org/labs/fair/publications/)
@@ -25,9 +25,9 @@ AI and Society: **[Home](http://realai.org)**
 * [OpenAI](http://realai.org/labs/openai): [Publications](http://realai.org/labs/openai/publications/)
 * [Vector Institute](http://realai.org/labs/vector-institute/)
 
-[News](http://realai.org/news/) (2017): [2012](http://realai.org/news/2012/), [2013](http://realai.org/news/2013/), [2014](http://realai.org/news/2014/), [2015](http://realai.org/news/2015/), [2016](http://realai.org/news/2016/)
+**[News](http://realai.org/news/)** (2017): [2012](http://realai.org/news/2012/), [2013](http://realai.org/news/2013/), [2014](http://realai.org/news/2014/), [2015](http://realai.org/news/2015/), [2016](http://realai.org/news/2016/)
 
-Research: **[Home](http://realai.org)**
+**Research ([Home](http://realai.org))**
 
 * Experiments:
   * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
@@ -42,4 +42,4 @@ Research: **[Home](http://realai.org)**
 * **Reinforcement Learning**
 * Theory: [Deep Learning Theory](http://realai.org/deep-learning-theory/)
 
-[Resources](http://realai.org/resources/): [Demos](http://realai.org/resources/demos), [For Fun](http://realai.org/resources/for-fun/), [Open Source Projects](http://realai.org/resources/open-source-projects/)
+**[Resources](http://realai.org/resources/)**: [Demos](http://realai.org/resources/demos), [For Fun](http://realai.org/resources/for-fun/), [Open Source Projects](http://realai.org/resources/open-source-projects/)
