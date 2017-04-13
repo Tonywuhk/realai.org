@@ -6,10 +6,13 @@ mathjax: true
 
 A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \matbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
-[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double Q-learning, a supervised large margin classification loss, and an L2 regularization loss
+The goal of the agent is to optimize a policy \\(\pi: \mathcal{S} \rightarrow \mathcal{A}\\). The value \\(Q^\pi (s,a)\\) is an estimate of the expected future rewards that can be obtained from \\((s,a)\\) when following policy \\(\pi\\).
+
+[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double Q-learning loss, a supervised large margin classification loss, and an L2 regularization loss
 
 \begin{equation}
-J(Q) = J_{DQ}(Q) + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
+  J(Q) = J_{DQ}(Q) + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
+  \label{eq:DQfD}
 \end{equation}
 
 to update the network, where the \\(\lambda\\) parameters control the relative weighting.
