@@ -35,6 +35,7 @@ permalink: /news/
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
+* 2017 January 27. [Partnership on AI Update](https://www.partnershiponai.org/2017/01/partnership-ai-update/). *Partnership on AI*.
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 * 2017 January 12. [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html). *Google Research Blog*.
