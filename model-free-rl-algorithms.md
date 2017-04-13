@@ -12,13 +12,13 @@ $$
   Q^\pi (s,a) \equiv \mathbb{E}[r_1+ \gamma r_2+... | S_0=s, A_0=a, \pi].
 $$
 
-The optimal value \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\), but is often too complex for interesting problems. A parameterized function \\(Q(s, a; \theta\_t)\\) is often learned instead, by popular algorithms such as Q-learning. To reduce the algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the double DQN algorithm that learns the target
+The optimal value \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\), but is often too complex for interesting problems. A parameterized function \\(Q(s, a; \theta\_t)\\) is learned instead, by popular algorithms such as Q-learning. To reduce the algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the double DQN algorithm that learns the target
 
 $$
-  Y_t^{DQ} \equiv R_{t+1} + \gamma Q(S_{t+1}, \arg\max{a} Q(S_{t+1}, a; \theta_t), \theta_t^-).
+  Y_t^{DQ} \equiv r_{t+1} + \gamma Q(S_{t+1}, \arg\max_{a} Q(S_{t+1}, a; \theta_t), \theta_t^-).
 $$
 
-[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(J\_{DQ} \equiv (Y^{DQ} - Q(s,a; \theta))^2\\), a supervised large margin classification loss, and an L2 regularization loss
+[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(J\_{DQ} \equiv (Y\_t^{DQ} - Q(s\_t,a\_t; \theta\_t))^2\\), a supervised large margin classification loss, and an L2 regularization loss
 
 \begin{equation}
   J(Q) = J_{DQ}(Q) + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
