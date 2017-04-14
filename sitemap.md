@@ -53,7 +53,7 @@ permalink: /sitemap/
 * [2013](http://realai.org/news/2013/)
 * [2012](http://realai.org/news/2012/)
 
-## [Resources](http://realai.org/resources/)
+## [Resources](http://realai.org/resources/) (Blogs; Links)
 
 * [Conferences](http://realai.org/conferences/)
 * [Demos](http://realai.org/resources/demos)
