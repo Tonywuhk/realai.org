@@ -11,7 +11,7 @@ mathjax: true
 * 2017 April 10, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012). *arXiv:1704.03012*. ([OpenAI](http://realai.org/labs/openai/publications/); [Intrinsic Motivation](http://realai.org/intrinsic-motivation))
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*. ([Safety](http://realai.org/safety/); [News](http://realai.org/news/))
 * 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Learning Rules](http://realai.org/learning-rules/))
-* 2017 April 10. [The Future of Go Summit will be held in Wuzhen, China, May 23-27, 2017, and feature AlphaGo](https://deepmind.com/blog/exploring-mysteries-alphago/). *DeepMind*. ([Conferences](http://realai.org/conferences/); [News](http://realai.org/news/))
+* 2017 April 10. [The Future of Go Summit will be held in Wuzhen, China, May 23-27, 2017, and feature AlphaGo](https://deepmind.com/blog/exploring-mysteries-alphago/). *DeepMind*. ([Conferences](http://realai.org/resources/conferences/); [News](http://realai.org/news/))
 
 ## AI and Society
 
@@ -21,7 +21,7 @@ AGI technology could represent the greatest change in the history of life on Ear
 
 ## Research
 
-The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/conferences/).
+The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
 Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
