@@ -1,6 +1,6 @@
 ---
 title: Conferences
-permalink: /conferences/
+permalink: /resources/conferences/
 ---
 # Conferences
 
