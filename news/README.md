@@ -3,6 +3,11 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 14. [That's quite a shot! Russian humanoid set for space learns how to shoot a gun with BOTH hands](http://www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns-shoot-gun-hands.html). *Daily Mail*.
+* 2017 April 14. [Apple granted autonomous car testing permit in California](http://www.foxnews.com/auto/2017/04/14/apple-granted-autonomous-car-testing-permit-in-california.html). *Fox News*.
+* 2017 April 14. [Facebook’s Perfect, Impossible Chatbot](https://www.technologyreview.com/s/604117/facebooks-perfect-impossible-chatbot/). *MIT Technology Review*.
+* 2017 April 14. [汤晓鸥：人工智能在中国有点过热了，我想泼泼冷水](http://www.leiphone.com/news/201704/A9RuQzPwYKKLkIJT.html). *leiphone.com*.
+* 2017 April 13. [Humble beginnings keep Microsoft-acquired Maluuba on the straight and narrow](http://www.montrealintechnology.com/humble-beginnings-keep-microsoft-acquired-maluuba-on-the-straight-and-narrow/). *Montreal in Technology*.
 * 2017 April 13. [Europe's battle with Silicon Valley is just beginning - here's why it matters](http://www.wired.co.uk/article/europes-battle-with-silicon-valley-is-just-beginning-heres-why-it-matters). *Wired UK*.
 * 2017 April 12. [Google, Facebook, Microsoft, IBM, Baidu and others just invested $80m into every AI company](https://medium.com/atomico/google-facebook-microsoft-ibm-baidu-and-others-just-invested-80m-into-every-ai-company-95dfcbe1ce11). *Medium*.
 * 2017 April 12. [The Countries Most (and Least) Likely to be Affected by Automation](https://hbr.org/2017/04/the-countries-most-and-least-likely-to-be-affected-by-automation). *Harvard Business Review*.
