@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 14. [Learning to Love Intelligent Machines](https://www.wsj.com/articles/learning-to-love-intelligent-machines-1492174086). *Wall Street Journal*.
 * 2017 April 14. [That's quite a shot! Russian humanoid set for space learns how to shoot a gun with BOTH hands](http://www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns-shoot-gun-hands.html). *Daily Mail*.
 * 2017 April 14. [Apple granted autonomous car testing permit in California](http://www.foxnews.com/auto/2017/04/14/apple-granted-autonomous-car-testing-permit-in-california.html). *Fox News*.
 * 2017 April 14. [Facebook’s Perfect, Impossible Chatbot](https://www.technologyreview.com/s/604117/facebooks-perfect-impossible-chatbot/). *MIT Technology Review*.
