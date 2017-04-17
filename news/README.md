@@ -52,6 +52,7 @@ permalink: /news/
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 * 2017 January 12. [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html). *Google Research Blog*.
+* 2017 January 10. [New $27 million fund backs research into artificial intelligence for the public interest](http://www.geekwire.com/2017/ai-research-artificial-intelligence-ethics-governance/). *GeekWire*.
 * 2017 January 10. [This AI can supposedly beat experts at No-Limit Texas Hold’em poker](http://www.theverge.com/2017/1/10/14220578/ai-deepstack-beats-poker-pros-no-limit-texas-hold-em). *The Verge*.
 * 2017 January 7. [Artificial intelligence is the future, and Canada can seize it](http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/). *The Globe and Mail*.
 * 2017 January 4. [My AI Forecasts--Past, Present, and Future (Main Post)](http://www.milesbrundage.com/blog-posts/my-ai-forecasts-past-present-and-future-main-post). *Miles Brundage*.
