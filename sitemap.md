@@ -16,24 +16,24 @@ permalink: /sitemap/
 ### Learning Architecture
 
 * [Network Architecture](http://realai.org/network-architecture/)
-  * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
   * [Architecture Search](http://realai.org/architecture-search/)
+  * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
+  * [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
+  * [Adversarial Learning](http://realai.org/adversarial-learning/)
+  * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
 * [Learning Rules](http://realai.org/learning-rules)
-* [Adversarial Learning](http://realai.org/adversarial-learning/)
-* [Hierarchical learning](http://realai.org/hierarchical-learning/)
-* [Imitation Learning](http://realai.org/imitation-learning/)
-* [Meta-Learning](http://realai.org/meta-learning/)
-* [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-* [Multi-Task Learning](http://realai.org/multi-task-learning/)
+  * [Meta-Learning](http://realai.org/meta-learning/)
+  * [Multi-Task Learning](http://realai.org/multi-task-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
+* [Imitation Learning](http://realai.org/imitation-learning/)
 
 ### Reinforcement Learning
 
-* [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
 * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
   * [Prediction](http://realai.org/predictive-learning/)
   * [Exploration](http://realai.org/exploration/)
   * [Empowerment](http://realai.org/empowerment/)
+* [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
 * [Platforms](http://realai.org/reinforcement-learning-platforms/)
 
 ### [Neuroscience](http://realai.org/neuroscience/)
