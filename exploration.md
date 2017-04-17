@@ -1,9 +1,10 @@
 ---
 permalink: /exploration/
+mathjax: true
 ---
 # Exploration
 
-Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation).
+Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation). A simple form of exploration is \\(\epsilon\\)-greedy where at every time step an agent picks a random action with a small probability \\(\epsilon\\). There is no obvious "motivation" in this example, and most forms of exploration covered in this section involve more sophisticated designs, perhaps better described using the word *curiosity*.
 
 [Bellemare et al. (2016)](https://arxiv.org/abs/1606.01868) proposed a measure called *pseudo-count*, which can be derived from an arbitrary density model and is closely related to intrinsically motivated gains in information and prediction.
 
