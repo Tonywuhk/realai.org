@@ -15,8 +15,21 @@ permalink: /sitemap/
 
 ### Learning Architecture
 
+* [Network Architecture](http://realai.org/network-architecture/)
+  * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
+  * [Architecture Search](http://realai.org/architecture-search/)
+* [Learning Rules](http://realai.org/learning-rules)
+* [Adversarial Learning](http://realai.org/adversarial-learning/)
+* [Hierarchical learning](http://realai.org/hierarchical-learning/)
+* [Imitation Learning](http://realai.org/imitation-learning/)
+* [Meta-Learning](http://realai.org/meta-learning/)
+* [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
+* [Multi-Task Learning](http://realai.org/multi-task-learning/)
+* [Predictive Learning](http://realai.org/predictive-learning/)
+
 ### Reinforcement Learning
 
+* [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
 * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
   * [Prediction](http://realai.org/predictive-learning/)
   * [Exploration](http://realai.org/exploration/)
@@ -30,7 +43,7 @@ permalink: /sitemap/
 ### Experiments:
 
 * Vision
-* Language: [Program Induction](http://realai.org/program-induction/)
+* Language: [Symbol Grounding](http://realai.org/symbol-grounding/), [Program Induction](http://realai.org/program-induction/)
 * Robotics: Autonomous Driving
 * [Games](http://realai.org/games/)
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
