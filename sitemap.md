@@ -17,6 +17,9 @@ permalink: /sitemap/
 
 ### Reinforcement Learning
 
+* [Intrinsic Motivation](http://realai.org/intrinsic-motivation)
+  * [Exploration](http://realai.org/exploration)
+
 ### [Neuroscience](http://realai.org/neuroscience/)
 
 ### [Frontiers](http://realai.org/frontiers/)
