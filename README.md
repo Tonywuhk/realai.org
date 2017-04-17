@@ -23,20 +23,19 @@ AGI technology could represent the greatest change in the history of life on Ear
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
+Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [symbol grounding](http://realai.org/symbol-grounding/), [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
 Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
 
 ### Learning Architecture
 
-A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/).
+A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/). Recently, deep learning has made significant progress in many areas of machine learning, including:
 
 * [Hierarchical learning](http://realai.org/hierarchical-learning/)
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-Learning](http://realai.org/meta-learning/)
 * [Multi-Task Learning](http://realai.org/multi-task-learning/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
-* [Symbol Grounding](http://realai.org/symbol-grounding/)
 
 ### Reinforcement Learning
 
