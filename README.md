@@ -31,6 +31,7 @@ Presently, we focus on deep learning, an area in machine learning inspired by [n
 
 A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/).
 
+* [Hierarchical learning](http://realai.org/hierarchical-learning/)
 * [Imitation Learning](http://realai.org/imitation-learning/)
 * [Meta-Learning](http://realai.org/meta-learning/)
 * [Multi-Task Learning](http://realai.org/multi-task-learning/)
@@ -39,13 +40,9 @@ A deep-learning architecture is a large and complex [network architecture](http:
 
 ### Reinforcement Learning
 
-In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process.
+In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process. The agents can learn to explicitly build models of their environment, which they then use for planning. This type of learning is referred to as model-based, as opposed to the simpler [model-free algorithms](http://realai.org/model-free-rl-algorithms) where agents learn actions directly. When reward signals are sparse, learning is often helped by giving the agents [auxiliary tasks](http://realai.org/auxiliary-tasks/) that are believed to be helpful for the completion of their original task. Some auxiliary tasks depend so little on the specifics of the original task that they effectively become the agents' [intrinsic motivations](http://realai.org/intrinsic-motivation).
 
-The agents can learn to explicitly build models of their environment, which they then use for planning. This type of learning is called model-based, as opposed to the simpler [model-free algorithms](http://realai.org/model-free-rl-algorithms) where agents learn actions directly. The agents can be moved to learn by [intrinsic motivations](http://realai.org/intrinsic-motivation) that send rewards in ways unaffected by the specifics of the agents' tasks. 
-
-* [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-* [Hierarchical Learning](http://realai.org/hierarchical-learning/)
-* [Inverse Reinforcement Learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning)
+Many general machine learning techniques mentioned in the previous section can be directly applied to the reinforcement learning setting. [Prediction](http://realai.org/predictive-learning/) is a popular approach to intrinsic motivation; in [meta-learning](http://realai.org/meta-learning/), agents learn to reinforcment-learn [multiple tasks](http://realai.org/multi-task-learning/); [hierarchical learning](http://realai.org/hierarchical-learning/) is useful in reducing the space of agents' actions; and when it is not clear what the rewards should be, it is possible for the agents to infer the reward function from demonstrations, using an imitation learning method called [inverse reinforcement learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning).
 
 ## References
 
