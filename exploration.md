@@ -3,6 +3,8 @@ permalink: /exploration/
 ---
 # Exploration
 
+[Bellemare et al. (2016)](https://arxiv.org/abs/1606.01868) proposed a measure called *pseudo-count*, which can be derived from an arbitrary density model and is closely related to intrinsically motivated gains in information and prediction.
+
 ## References
 
 * 2017 March 22, Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy. [Deep Exploration via Randomized Value Functions](https://arxiv.org/abs/1703.07608). *arXiv:1703.07608*.
