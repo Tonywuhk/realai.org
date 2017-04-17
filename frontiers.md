@@ -14,6 +14,7 @@ Non-deep learning theories of machine intelligence:
 
 ## References
 
+* 2016 November 28, Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe, and Seth Lloyd. [Quantum Machine Learning](https://arxiv.org/abs/1611.09347). *arXiv:1611.09347*.
 * 2016 September 13, Eric Laukien, Richard Crowder, and Fergal Byrne. [Feynman Machine: The Universal Dynamical Systems Computer](https://arxiv.org/abs/1609.03971). *arXiv:1609.03971*.
 * 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
 * 2012 May 24, A. D. Wissner-Gross and C. E. Feer. [Causal Entropic Forces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702). *Phys. Rev. Lett.*, 110(168702). [PDF](http://math.mit.edu/~freer/papers/PhysRevLett_110-168702.pdf)
