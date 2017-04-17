@@ -17,8 +17,11 @@ permalink: /sitemap/
 
 ### Reinforcement Learning
 
-* [Intrinsic Motivation](http://realai.org/intrinsic-motivation)
-  * [Exploration](http://realai.org/exploration)
+* [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+  * [Prediction](http://realai.org/predictive-learning/)
+  * [Exploration](http://realai.org/exploration/)
+  * [Empowerment](http://realai.org/empowerment/)
+* [Platforms](http://realai.org/reinforcement-learning-platforms/)
 
 ### [Neuroscience](http://realai.org/neuroscience/)
 
@@ -27,7 +30,7 @@ permalink: /sitemap/
 ### Experiments:
 
 * Vision
-* Language: [Program Induction](http://realai.org/program-induction)
+* Language: [Program Induction](http://realai.org/program-induction/)
 * Robotics: Autonomous Driving
 * [Games](http://realai.org/games/)
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
@@ -42,7 +45,7 @@ permalink: /sitemap/
 
 ## Research Groups ([Labs](http://realai.org/labs/))
 
-* [DeepMind](http://realai.org/labs/deepmind): [Publications](http://realai.org/labs/deepmind/publications/)
+* [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
 * Google Brain: [Publications](http://realai.org/labs/google-brain/publications/)
 * [OpenAI](http://realai.org/labs/openai): [Publications](http://realai.org/labs/openai/publications/)
 * FAIR: [Publications](http://realai.org/labs/fair/publications/)
