@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 19. [Reinforcement Learning or Evolutionary Strategies? Nature has a solution: Both.](https://medium.com/@awjuliani/reinforcement-learning-or-evolutionary-strategies-nature-has-a-solution-both-8bc80db539b3). *Medium*.
+* 2017 April 18. [Jürgen Schmidhuber on the robot future​: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 April 14. [Learning to Love Intelligent Machines](https://www.wsj.com/articles/learning-to-love-intelligent-machines-1492174086). *Wall Street Journal*.
 * 2017 April 14. [That's quite a shot! Russian humanoid set for space learns how to shoot a gun with BOTH hands](http://www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns-shoot-gun-hands.html). *Daily Mail*.
 * 2017 April 14. [Apple granted autonomous car testing permit in California](http://www.foxnews.com/auto/2017/04/14/apple-granted-autonomous-car-testing-permit-in-california.html). *Fox News*.
@@ -41,6 +43,7 @@ permalink: /news/
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
+* 2017 February 9. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *YouTube*
 * 2017 January 27. [Partnership on AI Update](https://www.partnershiponai.org/2017/01/partnership-ai-update/). *Partnership on AI*.
 * 2017 January 26. [Apple Set to Join Amazon, Google, Facebook in AI Research Group](https://www.bloomberg.com/news/articles/2017-01-26/apple-said-to-join-amazon-google-facebook-in-ai-research-group). *Bloomberg Technology*.
 * 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
