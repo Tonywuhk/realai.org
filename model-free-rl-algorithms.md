@@ -6,7 +6,7 @@ mathjax: true
 
 A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}\_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}\_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
-At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The goal of an agent is to optimize its policy \\(\pi: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\_+ \\), such that the *action-value function*
+At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The goal of the agent is to optimize its policy \\(\pi: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\_+ \\), such that the *action-value function*
 
 $$
   Q^\pi (s,a) \equiv \mathbb{E}[r_0 + \gamma r_1 + \gamma^2 r_2 + ... | S_0=s, A_0=a, \pi]
@@ -22,7 +22,7 @@ $$
   L(\theta) = \mathbb{E} [(r+\gamma \max_{a'} Q(s', a'; \theta^-) - Q(s, a; \theta))^2]
 $$
 
-in which \\(\theta^-\\) is the previous version of \\(\theta\\). A memory buffer is used for experience replay, where a random minibatch of state transitions are sampled before every gradient step.
+where \\(\theta^-\\) is the previous version of \\(\theta\\), and a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay.
 
 ## Value Based Reinforcement Learning Algorithms
 
