@@ -35,6 +35,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 February 24, Augustus Odena, Dieterich Lawson, and Christopher Olah. [Changing Model Behavior at Test-Time Using Reinforcement Learning](https://arxiv.org/abs/1702.07780). *arXiv:1702.07780*.
 * 2017 February 22, Colin Raffel and Dieterich Lawson. [Training a Subsampling Mechanism in Expectation](https://arxiv.org/abs/1702.06914). *arXiv:1702.06914*.
 * 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
+* 2017 February 15, Natasha Jaques, Shixiang Gu, Richard E. Turner, and Douglas Eck. [Tuning Recurrent Neural Networks with Reinforcement Learning](https://openreview.net/forum?id=Syyv2e-Kx). *OpenReview*.
 * 2017 February 13, Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, and Jitendra Malik. [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920). *arXiv:1702.03920*.
 * 2017 February 13, Akosua Busia and Navdeep Jaitly. [Next-Step Conditioned Deep Convolutional Neural Networks Improve Protein Secondary Structure Prediction](https://arxiv.org/abs/1702.03865). *arXiv:1702.03865*.
 * 2017 February 2, Ryan Dahl, Mohammad Norouzi, and Jonathon Shlens. [Pixel Recursive Super Resolution](https://arxiv.org/abs/1702.00783). *arXiv:1702.00783*.
@@ -68,6 +69,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 8, Prajit Ramachandran, Peter J. Liu, and Quoc V. Le. [Unsupervised Pretraining for Sequence to Sequence Learning](https://arxiv.org/abs/1611.02683). *arXiv:1611.02683*.
 * 2016 November 7, Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, and Sergey Levine. [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247). *arXiv:1611.02247*.
 * 2016 November 7, Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein. [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163). *arXiv:1611.02163*.
+* 2016 November 5, Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin, and Honglak Lee. [Decomposing Motion and Content for Natural Video Sequence Prediction](https://openreview.net/forum?id=rkEFLFqee). *OpenReview*.
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
 * 2016 November 4, Akosua Busia, Jasmine Collins, and Navdeep Jaitly. [Protein Secondary Structure Prediction Using Deep Multi-scale Convolutional Neural Networks and Next-Step Conditioning](https://arxiv.org/abs/1611.01503). *arXiv:1611.01503*.
 * 2016 November 4, Alexey Kurakin, Ian Goodfellow, and Samy Bengio. [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236). *arXiv:1611.01236*.
