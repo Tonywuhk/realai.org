@@ -14,22 +14,26 @@ $$
 
 is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The true \\(Q^\*(s, a)\\) is often too complex for interesting problems, so in practice we often learn a parameterized version \\(Q(s, a; \theta)\\).
 
-## Deep Q-Network (DQN)
-
-In the DQN algorithm ([Mnih & Kavukcuoglu & Silver et al., 2015](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html)), we use gradient descent to update parameters \\(\theta\\) by minimizing a loss function
-
-$$
-  L(\theta) = \mathbb{E} [(r+\gamma \max_{a'} Q(s', a'; \theta^-) - Q(s, a; \theta))^2]
-$$
-
-where \\(\theta^-\\) is the previous version of \\(\theta\\), and a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay.
-
 ## Value Based Reinforcement Learning Algorithms
+
+In the **Deep Q-Network (DQN)** algorithm ([Mnih & Kavukcuoglu & Silver et al., 2015](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html)), we learn a target
+
+$$
+  Y^{DQN} = r+\gamma \max_{a'} Q(s', a'; \theta^-)
+$$
+
+by minimizing a loss function
+
+$$
+  L(\theta) = \mathbb{E} [(Y^{DQN} - Q(s, a; \theta))^2],
+$$
+
+where \\(\theta^-\\) is the previous version of \\(\theta\\), a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay, and gradient descent is used to update parameters \\(\theta\\).
 
 To reduce the DQN algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the double DQN algorithm that learns the target
 
 $$
-  Y_t^{DQ} \equiv r_{t+1} + \gamma Q(S_{t+1}, \arg\max_{a} Q(S_{t+1}, a; \theta_t), \theta_t^-).
+  Y_t^{DDQN} \equiv r_{t+1} + \gamma Q(S_{t+1}, \arg\max_{a} Q(S_{t+1}, a; \theta_t), \theta_t^-).
 $$
 
 [Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(J\_{DQ} \equiv (Y\_t^{DQ} - Q(s\_t,a\_t; \theta\_t))^2\\), a supervised large margin classification loss, and an L2 regularization loss
