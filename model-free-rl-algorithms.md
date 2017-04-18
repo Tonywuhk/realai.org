@@ -28,7 +28,7 @@ $$
   L(\theta) = \mathbb{E} [(Y^{DQN} - Q(s, a; \theta))^2],
 $$
 
-where \\(\theta^-\\) is the previous version of \\(\theta\\), a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay, and gradient descent is used to update parameters \\(\theta\\).
+where \\(\theta^-\\) is a previous version that's periodically copied from \\(\theta\\), a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay, and gradient descent is used to update parameters \\(\theta\\).
 
 To reduce the DQN algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the **double DQN (DDQN)** algorithm that learns the target
 
@@ -36,10 +36,10 @@ $$
   Y^{DDQN} = r + \gamma Q(s', \arg\max_{a'} Q(s', a'; \theta), \theta^-).
 $$
 
-[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(J\_{DQ} \equiv (Y\_t^{DQ} - Q(s\_t,a\_t; \theta\_t))^2\\), a supervised large margin classification loss, and an L2 regularization loss
+[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(L^{DDQN} = (Y^{DDQN} - Q(s, a; \theta))^2\\), a supervised large margin classification loss, and an L2 regularization loss
 
 \begin{equation}
-  J(Q) = J_{DQ}(Q) + \lambda_1 J_E(Q) + \lambda_2 J_{L2}(Q)
+  L(Q) = L^{DDQN}(Q) + \lambda_1 L^E(Q) + \lambda_2 L^{(2)}(Q)
   \label{eq:DQfD}
 \end{equation}
 
