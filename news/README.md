@@ -57,5 +57,6 @@ permalink: /news/
 * 2017 January 7. [Artificial intelligence is the future, and Canada can seize it](http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/). *The Globe and Mail*.
 * 2017 January 4. [My AI Forecasts--Past, Present, and Future (Main Post)](http://www.milesbrundage.com/blog-posts/my-ai-forecasts-past-present-and-future-main-post). *Miles Brundage*.
 * 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
+* 2017 January 2. [Summary of NIPS 2016](http://blog.evjang.com/2017/01/nips2016.html). *Eric Jang*.
 
 Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
