@@ -26,3 +26,4 @@ permalink: /resources/demos/
 ## Face Synthesis
 
 * 2017 April 13, Rui Huang, Shu Zhang, Tianyu Li, and Ran He. [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086). *arXiv:1704.04086*.
+* 2017 March 31, David Berthelot, Thomas Schumm, and Luke Metz. [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). *arXiv:1703.10717*.
