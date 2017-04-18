@@ -71,11 +71,10 @@ permalink: /sitemap/
 
 ## [Resources](http://realai.org/resources/) (Blogs; Links)
 
-* [Conferences](http://realai.org/conferences/)
+* [Curriculum](/resources/curriculum/)
+* [Conferences](http://realai.org/resources/conferences/)
 * [Demos](http://realai.org/resources/demos)
 * [Open Source Projects](http://realai.org/resources/open-source-projects/)
 * [For Fun](http://realai.org/resources/for-fun/)
-
-## [Curriculum](http://realai.org/curriculum/)
 
 ## [About](http://realai.org/about/) Real AI
