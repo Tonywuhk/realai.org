@@ -25,7 +25,7 @@ $$
 by minimizing a loss function
 
 $$
-  L(\theta) = \mathbb{E} [(Y^{DQN} - Q(s, a; \theta))^2],
+  L^{DQN} (\theta) = (Y^{DQN} - Q(s, a; \theta))^2,
 $$
 
 where \\(\theta^-\\) is a previous version that's periodically copied from \\(\theta\\), a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay, and gradient descent is used to update parameters \\(\theta\\).
@@ -36,7 +36,7 @@ $$
   Y^{DDQN} = r + \gamma Q(s', \arg\max_{a'} Q(s', a'; \theta), \theta^-).
 $$
 
-[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(L^{DDQN} = (Y^{DDQN} - Q(s, a; \theta))^2\\), a supervised large margin classification loss, and an L2 regularization loss
+[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss, a supervised large margin classification loss, and an L2 regularization loss
 
 \begin{equation}
   L(Q) = L^{DDQN}(Q) + \lambda_1 L^E(Q) + \lambda_2 L^{(2)}(Q)
