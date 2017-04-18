@@ -36,14 +36,14 @@ $$
   Y^{DDQN} = r + \gamma Q(s', \arg\max_{a'} Q(s', a'; \theta), \theta^-).
 $$
 
-[Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss, a supervised large margin classification loss, and an L2 regularization loss
+In a setting where the agent has access to previous control data, [Hester et al. (2017)](https://arxiv.org/abs/1704.03732) proposed the **Deep Q-Learning from Demonstrations (DQfD)** algorithm where a combination of the double DQN loss, a supervised large margin classification loss, and an L2 regularization loss, weighted by the \\(\lambda\\) parameters,
 
 \begin{equation}
-  L(Q) = L^{DDQN}(Q) + \lambda_1 L^E(Q) + \lambda_2 L^{(2)}(Q)
+  L^{DQfD}(\theta) = L^{DDQN}(\theta) + \lambda_1 L^E(\theta) + \lambda_2 L^{(2)}(\theta)
   \label{eq:DQfD}
 \end{equation}
 
-to update the network, where the \\(\lambda\\) parameters control the relative weighting.
+was used to update the network.
 
 ## Policy Based Reinforcement Learning Algorithms
 
