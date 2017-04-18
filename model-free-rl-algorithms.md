@@ -9,7 +9,7 @@ A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\m
 At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The goal of the agent is to optimize its policy \\(\pi: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\_+ \\), such that the *action-value function*
 
 $$
-  Q^\pi (s,a) \equiv \mathbb{E}[r_0 + \gamma r_1 + \gamma^2 r_2 + ... | S_0=s, A_0=a, \pi]
+  Q^\pi (s,a) = \mathbb{E}[r_0 + \gamma r_1 + \gamma^2 r_2 + ... | S_0=s, A_0=a, \pi]
 $$
 
 is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The true \\(Q^\*(s, a)\\) is often too complex for interesting problems, so in practice we often learn a parameterized version \\(Q(s, a; \theta)\\).
@@ -30,10 +30,10 @@ $$
 
 where \\(\theta^-\\) is the previous version of \\(\theta\\), a random minibatch of transitions \\((s, a, r, s')\\) are sampled from a memory buffer used for experience replay, and gradient descent is used to update parameters \\(\theta\\).
 
-To reduce the DQN algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the double DQN algorithm that learns the target
+To reduce the DQN algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the **double DQN (DDQN)** algorithm that learns the target
 
 $$
-  Y_t^{DDQN} \equiv r_{t+1} + \gamma Q(S_{t+1}, \arg\max_{a} Q(S_{t+1}, a; \theta_t), \theta_t^-).
+  Y^{DDQN} = r + \gamma Q(s', \arg\max_{a'} Q(s', a'; \theta), \theta^-).
 $$
 
 [Hester et al. (2017)](https://arxiv.org/abs/1704.03732) used a combination of the double DQN loss \\(J\_{DQ} \equiv (Y\_t^{DQ} - Q(s\_t,a\_t; \theta\_t))^2\\), a supervised large margin classification loss, and an L2 regularization loss
