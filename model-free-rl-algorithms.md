@@ -18,6 +18,8 @@ The optimal value \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the ag
 
 Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(s\_t; \theta)\\). [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
+[Gruslys et al. (2017)](https://arxiv.org/abs/1704.04651) proposed the *Reactor* actor-critic architecture in which the critic was trained by the Retrace algorithm and the actor by a novel \\(\beta\\)-leave-one-out policy gradient estimate. It used memory replay and multi-step returns.
+
 ## Value Based Reinforcement Learning Algorithms
 
 The true \\(Q^\*(s, a)\\) is often too complex for interesting problems, and we instead learn a parameterized version \\(Q(s, a; \theta\_t)\\), by popular algorithms such as Q-learning. To reduce the algorithm's overestimation problem, [van Hasselt et al. (2015)](https://arxiv.org/abs/1509.06461) proposed the double DQN algorithm that learns the target
