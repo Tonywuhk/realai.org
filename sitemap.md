@@ -13,28 +13,40 @@ permalink: /sitemap/
 
 ## Research ([Home](http://realai.org))
 
-### Learning Architecture
+### General Principles
+
+* [Multi-Task Learning](http://realai.org/multi-task-learning/)
+* [Hierarchical Learning](http://realai.org/hierarchical-learning/)
+* [Meta-Learning](http://realai.org/meta-learning/)
+* [Predictive Learning](http://realai.org/predictive-learning/)
+* [Imitation Learning](http://realai.org/imitation-learning/)
+    
+### Deep Learning
 
 * [Network Architecture](http://realai.org/network-architecture/)
   * [Architecture Search](http://realai.org/architecture-search/)
-  * [Hierarchical Learning](http://realai.org/hierarchical-learning/)
   * [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
   * [Adversarial Learning](http://realai.org/adversarial-learning/)
   * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
 * [Learning Rules](http://realai.org/learning-rules)
-  * [Meta-Learning](http://realai.org/meta-learning/)
-  * [Multi-Task Learning](http://realai.org/multi-task-learning/)
-* [Predictive Learning](http://realai.org/predictive-learning/)
-* [Imitation Learning](http://realai.org/imitation-learning/)
-
+  
 ### Reinforcement Learning
 
+* [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
 * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
   * [Prediction](http://realai.org/predictive-learning/)
   * [Exploration](http://realai.org/exploration/)
   * [Empowerment](http://realai.org/empowerment/)
 * [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
 * [Platforms](http://realai.org/reinforcement-learning-platforms/)
+
+### Cognitive Properties
+
+* [Symbol Grounding](http://realai.org/symbol-grounding/)
+* World Model
+* Reasoning
+* Attention
+* Memory
 
 ### [Neuroscience](http://realai.org/neuroscience/)
 
@@ -43,7 +55,7 @@ permalink: /sitemap/
 ### Experiments:
 
 * Vision
-* Language: [Symbol Grounding](http://realai.org/symbol-grounding/), [Program Induction](http://realai.org/program-induction/)
+* Language: [Program Induction](http://realai.org/program-induction/)
 * Robotics: Autonomous Driving
 * [Games](http://realai.org/games/)
 * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
