@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 April 17, Ardavan Saeedi, Matthew D. Hoffman, Stephen J. DiVerdi, Asma Ghandeharioun, Matthew J. Johnson, and Ryan P. Adams. [Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models](https://arxiv.org/abs/1704.04997). *arXiv:1704.04997*.
 * 2017 April 11, David Ha and Douglas Eck. [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477). *arXiv:1704.03477*.
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
 * 2017 April 5, Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279). *arXiv:1704.01279*.
