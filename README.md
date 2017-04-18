@@ -16,13 +16,13 @@ mathjax: true
 
 ## AI and Society
 
-Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will [one day](http://realai.org/timing/) surpass humans in intelligence. Countries around the world have [policies](http://realai.org/policies/) in place to support AI research and development, [research groups](http://realai.org/labs/) are given a lot of resources, and many experts have already published [roadmaps](/roadmaps/) towards building artificial general intelligence (AGI).
+Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will [one day](http://realai.org/timing/) surpass humans in intelligence. Countries around the world have [policies](http://realai.org/policies/) in place to support AI research and development, [research groups](http://realai.org/labs/) are given a lot of resources, and many experts have already published [roadmaps](http://realai.org/roadmaps/) towards building artificial general intelligence (AGI).
 
-AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is [safe and beneficial](/safety/).
+AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is [safe and beneficial](http://realai.org/safety/).
 
 ## Research
 
-The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](/resources/conferences/).
+The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
 Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [symbol grounding](http://realai.org/symbol-grounding/), [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
