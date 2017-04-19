@@ -27,10 +27,10 @@ The best place to appreciate AI’s progress is at its research frontiers. Unlik
 
 The most crucial ability of an intelligent system is the ability of learning. To achieve AGI, it is widely believed that several objectives need to be accomplished:
 
+* Unsupervised Learning: supervision should not be necessary as the system learns autonomously, often driven by [intrinsic motivations](http://realai.org/intrinsic-motivation) such as [prediction](http://realai.org/predictive-learning/).
 * [Multi-Task Learning](http://realai.org/multi-task-learning/): the system can learn multiple tasks, continuously or perhaps throughout its life of operation, and transfer knowledge learned from some tasks to others.
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/): the system can understand data in a hierarchical way, including learning useful abstract concepts.
 * [Meta-Learning](http://realai.org/meta-learning/): the system can improve its own learning architecture by learning how to learn.
-* Unsupervised Learning: supervision should not be necessary as the system learns autonomously, often driven by intrinsic motivations such as [prediction](http://realai.org/predictive-learning/).
 
 As a result, the system should have the ability of reasoning, attention, and memory, build an internal world model, and understand language in a way that is [grounded](http://realai.org/symbol-grounding/) in this model.
 
