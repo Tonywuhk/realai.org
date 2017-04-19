@@ -57,7 +57,7 @@ permalink: /sitemap/
 
 ### Experiments:
 
-* Vision
+* [Vision](http://realai.org/computer-vision/)
 * Language: [Program Induction](http://realai.org/program-induction/)
 * Robotics: Autonomous Driving
 * [Games](http://realai.org/games/)
