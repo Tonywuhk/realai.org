@@ -18,7 +18,7 @@ According to a [Financial Times report on March 17, 2017](https://www.ft.com/con
 
 * **Fund Management**: In March 2017, a machine learning expert [believed](http://www.afr.com/brand/chanticleer/google-will-disrupt-funds-management-says-machine-learning-expert-20170329-gv93jc) that a new powerful fund management machine would likely emerge from DeepMind.
 
-## News Archive
+## Sources
 
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
 * 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
@@ -26,6 +26,7 @@ According to a [Financial Times report on March 17, 2017](https://www.ft.com/con
 * 2016 December 10. [DeepMind cofounder: Being in London was key to our success](http://uk.businessinsider.com/deepmind-cofounder-london-success-google-2016-12). *Business Insider UK*.
 * 2016 November 9. [Oxford and Cambridge are losing AI researchers to DeepMind](http://uk.businessinsider.com/oxbridge-ai-researchers-to-deepmind-2016-11). *Business Insider UK*.
 * 2016 October 5. [Nick Bostrom: London's DeepMind is winning the global race to develop human-level artificial intelligence](http://www.businessinsider.com/nick-bostrom-deepmind-is-winning-the-ai-race-2016-10). *Business Insider UK*.
+* 2016 August 4. [Who Should Control Our Thinking Machines?](https://www.bloomberg.com/features/2016-demis-hassabis-interview-issue/). *Bloomberg Businessweek*.
 * 2016 March 30. [What it takes to work at Google DeepMind — a London startup no one has ever left](http://www.businessinsider.com/heres-what-it-takes-to-work-at-google-deepmind-an-ai-lab-that-no-one-has-ever-left-2016-3). *Business Insider UK*.
 * 2016 February 16. [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 * 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*.
