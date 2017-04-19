@@ -33,6 +33,14 @@ A *meta* neural network can operate on the weights and topology of an underlying
 
 The topology of a neural network can also change in the course of learning.
 
+### 1.4 Neural Interface and Modules
+
+* The architecture needs to be independent enough to allow unlocked learning, so that modules can learn autonomously while communicating with other modules via cleverly designed interface;
+* Multi-agent learning where each agent is considered a module and their means of communication the interface; and
+* Stable input and output interfaces for interactions with the environment.
+
+When the communication between neural networks takes the form of more explicit data such as language or image, this problem can include standard topics such as NLP and generative models.
+
 ## 2. Unsupervised Learning
 
 In the more likely case that update rules are motivated by optimization, the ability of unsupervised learning requires the objectives of optimization to be relatively stable and likely intrinsic.
@@ -57,56 +65,46 @@ A general AI system can learn new tasks while largely retaining old knowledge.
 
 Training and testing phases should not be completely separate and can happen concurrently. 
 
-## 4. Few-Shot Learning
-
-The system can easily generalize. Its encoded knowledge and continual learning ability allow it to learn new behaviors from much fewer data than today's narrow AI systems.
-
-## 5. Hierarchical Learning
+## 4. Hierarchical Learning
 
 The ability to learn hierarchical structures in the data and use them for abstract planning and reasoning, sometimes in long time horizon. Hierarchies in network architeture are likely necessary.
 
-### 5.1 Deep Representation Learning
+### 4.1 Deep Representation Learning
 
 Build a hierarchy of feature representations that are useful for one or more tasks.
 
 **Concept learning** focuses on meaningful abstractions of data that are embedded in the representations
 
-## 6. Neural Interface and Modules
+## 5. Few-Shot Learning
 
-* The architecture needs to be independent enough to allow unlocked learning, so that modules can learn autonomously while communicating with other modules via cleverly designed interface;
-* Multi-agent learning where each agent is considered a module and their means of communication the interface; and
-* Stable input and output interfaces for interactions with the environment.
+The system can easily generalize. Its encoded knowledge and continual learning ability allow it to learn new behaviors from much fewer data than today's narrow AI systems.
 
-### 6.1 Communication
+## 6. Basic Cognitive Functions
 
-When the communication between neural networks takes the form of more explicit data such as language or image, this problem can include standard topics such as NLP and generative models.
-
-## 7. Basic Cognitive Functions
-
-### 7.1 Memory
+### 6.1 Memory
 
 Memory can be a very useful component of the learning architecture and is often times not in the form neural networks, which are not particularly good at recording data.
 
-#### 7.1.1 Episodic and long-term memory
+#### 6.1.1 Episodic and long-term memory
 
-#### 7.1.2 Temporary memory that facilitates learning e.g. used for experience replay
+#### 6.1.2 Temporary memory that facilitates learning e.g. used for experience replay
 
-### 7.2 Attention
+### 6.2 Attention
 
 Selectively attend to the part of data that are important for the current context in which the system is operating.
 
-### 7.3 Reasoning
+### 6.3 Reasoning
 
 The ability to reason in abstract terms is one way of hierarchical thinking.
 
-## 8. Language Grounding
+## 7. Language Grounding
 
 The system's understanding of language should be grounded to its representation of common sense knowledge, not merely finding patterns in texts. Language can be considered as the interface between neural network agents who need to communicate.
 
-## 9. World Model
+## 8. World Model
 
 The learning system should contain a vast amount of knowledge that forms the basis of "common sense", which can be the result of continual learning.
 
 ## References
 
-* 2017 February 9, Demis Hassabis. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *[BAI 2017](https://futureoflife.org/bai-2017/)*, (YouTube video)24:40-25:10.
+* 2017 February 9, Demis Hassabis. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *[BAI 2017](https://futureoflife.org/bai-2017/)*, 24:40-25:10 (YouTube video).
