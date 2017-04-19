@@ -21,29 +21,32 @@ Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) ha
 
 AGI technology could represent the greatest change in the history of life on Earth. We can take steps to ensure that it is [safe and beneficial](http://realai.org/safety/).
 
-## Research
-
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
-Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [symbol grounding](http://realai.org/symbol-grounding/), [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
+## Research
+
+The most crucial ability of an intelligent system is the ability of learning. To achieve AGI, it is widely believed that several objectives need to be accomplished:
+
+* [Multi-Task Learning](http://realai.org/multi-task-learning/): the systen can learn multiple tasks, continuously or perhaps throughout its life of operation, and transfer knowledge learned from some tasks to others.
+* [Hierarchical Learning](http://realai.org/hierarchical-learning/): the system can understand data in a hierarchical way, including learning useful abstract concepts.
+* [Meta-Learning](http://realai.org/meta-learning/): the system can improve its own learning method by learning how to learn.
+* Unsupervised Learning: supervision should not be necessary as the system learns autonomously, often driven by intrinsic motivations such as [prediction](http://realai.org/predictive-learning/).
+
+As a result, the system should have the ability of reasoning, attention, and memory, build an internal world model, and understand language in a way that is [grounded](http://realai.org/symbol-grounding/) in this model.
+
+Since 2012, deep learning ([Goodfellow et al., 2016](https://mitpress.mit.edu/books/deep-learning); [LeCun et al., 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html); [Schmidhuber 2014](https://arxiv.org/abs/1404.7828)) has achieved phenomenal success or shown great potential in many areas, e.g., vision, language, autonomous driving, [program induction](http://realai.org/program-induction/), [automated theorem proving](http://realai.org/automated-theorem-proving/), and [games](http://realai.org/games/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, many systems have already been [implemented](http://realai.org/deep-learning-implementation/) in large-scale.
 
 Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
 
-### Learning Architecture
+### Deep Learning
 
-A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/). Recently, deep learning has made significant progress in many areas of machine learning, including:
-
-* [Hierarchical learning](http://realai.org/hierarchical-learning/)
-* [Imitation Learning](http://realai.org/imitation-learning/)
-* [Meta-Learning](http://realai.org/meta-learning/)
-* [Multi-Task Learning](http://realai.org/multi-task-learning/)
-* [Predictive Learning](http://realai.org/predictive-learning/)
+A deep-learning architecture is a large and complex [network architecture](http://realai.org/network-architecture/) whose dynamics follow [learning rules](http://realai.org/learning-rules). In the architecture, there can be one or more neural networks, an agent, or [multiple agents](http://realai.org/multi-agent-learning/). Their learning can be cooperative or [adversarial](http://realai.org/adversarial-learning/). The neural networks are usually deep and hierarchical, sometimes [augmented with memory](http://realai.org/memory-augmented-neural-networks/), and can be automatically designed using [architecture search](http://realai.org/architecture-search/). Deep learning techniques have been widely applied in reinforcement learning to achieve many remarkable milestones in AI.
 
 ### Reinforcement Learning
 
 In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sutton/book/the-book-2nd.html)), agents learn to maximize numerical rewards provided by an environment that is influenced by the agents' actions. Sophisticated [platforms](http://realai.org/reinforcement-learning-platforms/) have been built to simulate this process. The agents can learn to explicitly build models of their environment, which they then use for planning. This type of learning is referred to as model-based, as opposed to the simpler [model-free algorithms](http://realai.org/model-free-rl-algorithms) where agents learn actions directly. When reward signals are sparse, learning is often helped by giving the agents [auxiliary tasks](http://realai.org/auxiliary-tasks/) that are believed to be helpful for the completion of their original task. Some auxiliary tasks depend so little on the specifics of the original task that they effectively become the agents' [intrinsic motivations](http://realai.org/intrinsic-motivation).
 
-Many general machine learning techniques mentioned in the previous section can be directly applied to the reinforcement learning setting. [Prediction](http://realai.org/predictive-learning/) is a popular approach to intrinsic motivation; in [meta-learning](http://realai.org/meta-learning/), agents learn to reinforcment-learn [multiple tasks](http://realai.org/multi-task-learning/); [hierarchical learning](http://realai.org/hierarchical-learning/) is useful in reducing the space of agents' actions; and when it is not clear what the rewards should be, it is possible for the agents to infer the reward function from demonstrations, using an imitation learning method called [inverse reinforcement learning](http://realai.org/imitation-learning/#inverse-reinforcement-learning).
+Many general machine learning techniques mentioned in the previous section can be directly applied to the reinforcement learning setting. [Prediction](http://realai.org/predictive-learning/) is a popular approach to intrinsic motivation; in [meta-learning](http://realai.org/meta-learning/), agents learn to reinforcment-learn [multiple tasks](http://realai.org/multi-task-learning/); [hierarchical learning](http://realai.org/hierarchical-learning/) is useful in reducing the space of agents' actions; and when it is not clear what the rewards should be, it is possible for the agents to infer the reward function from demonstrations, using an [imitation learning](http://realai.org/imitation-learning/) method called inverse reinforcement learning.
 
 ## References
 
