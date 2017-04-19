@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 April 18, Piotr Bojanowski and Armand Joulin. [Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310). *arXiv:1704.05310*.
 * 2017 March 22, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.
 * 2017 March 20, Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. [Mask R-CNN](https://arxiv.org/abs/1703.06870). *arXiv:1703.06870*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
