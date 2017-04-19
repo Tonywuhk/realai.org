@@ -15,11 +15,12 @@ permalink: /sitemap/
 
 ### Learning Objectives
 
+* Unsupervised Learning:
+  * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+    * [Predictive Learning](http://realai.org/predictive-learning/)
 * [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning
 * [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
 * [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
-* Unsupervised Learning: [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
-* [Predictive Learning](http://realai.org/predictive-learning/)
     
 ### Learning Outcomes
 
