@@ -3,11 +3,17 @@ permalink: /network-architecture/
 ---
 # Network Architecture
 
-[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations.
+## Conditional Computation
+
+[Shazeer et al. (2017)](https://arxiv.org/abs/1701.06538) introduced a Sparsely-Gated Mixture-of-Experts (MoE) layer where each sample only activates a sparse subset of many expert networks, determined by a gating network. The layer is embedded in a larger architecture that is overall trainable by backpropagation.
 
 ## Evolutionary Algorithms
 
 In an experiment evolving networks to produce patterns, [Huizinga et al. (2017)](https://arxiv.org/abs/1704.05143) showed that network weights encoded dimensions of image variations that are sensible to humans, possibly due to the diversity of environmental selection.
+
+## Deep Feedforward Networks
+
+[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations.
 
 ## References
 
