@@ -13,14 +13,22 @@ permalink: /sitemap/
 
 ## Research ([Home](http://realai.org))
 
-### General Principles
+### Learning Objectives
 
-* [Multi-Task Learning](http://realai.org/multi-task-learning/)
-* [Hierarchical Learning](http://realai.org/hierarchical-learning/)
-* [Meta-Learning](http://realai.org/meta-learning/)
+* [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning
+* [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
+* [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
+* Unsupervised Learning: [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
 * [Predictive Learning](http://realai.org/predictive-learning/)
-* [Imitation Learning](http://realai.org/imitation-learning/)
     
+### Learning Outcomes
+
+* [Symbol Grounding](http://realai.org/symbol-grounding/)
+* World Model
+* Reasoning
+* Attention
+* Memory
+
 ### Deep Learning
 
 * [Network Architecture](http://realai.org/network-architecture/)
@@ -29,6 +37,7 @@ permalink: /sitemap/
   * [Adversarial Learning](http://realai.org/adversarial-learning/)
   * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
 * [Learning Rules](http://realai.org/learning-rules)
+* Generative Models
   
 ### Reinforcement Learning
 
@@ -38,15 +47,8 @@ permalink: /sitemap/
   * [Exploration](http://realai.org/exploration/)
   * [Empowerment](http://realai.org/empowerment/)
 * [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+* [Imitation Learning](http://realai.org/imitation-learning/)
 * [Platforms](http://realai.org/reinforcement-learning-platforms/)
-
-### Cognitive Properties
-
-* [Symbol Grounding](http://realai.org/symbol-grounding/)
-* World Model
-* Reasoning
-* Attention
-* Memory
 
 ### [Neuroscience](http://realai.org/neuroscience/)
 
