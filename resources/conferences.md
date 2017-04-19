@@ -45,6 +45,7 @@ ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.ic
 ## Non-Academic
 
 * AI Frontiers: [2017](https://www.aifrontiers.com/2017)
+* AI with the Best: *[2017.04.29](https://ai.withthebest.com/)*
 * Code: *[2017.05.30](https://events.recode.net/events/code-conference-2017/)*, [2016](http://www.recode.net/code-conference-2016), [2015](http://www.recode.net/code-conference-2015)
 * DLD: [2017](http://www.dld-conference.com/DLD17/), [2016](http://www.dld-conference.com/DLD16/)
 * EmTech Digital: [2017](http://events.technologyreview.com/emtech/digital/17/), [2016](http://events.technologyreview.com/video/?event=emtech-digital&year=2016), [2015](http://events.technologyreview.com/video/?event=emtech-digital&year=2015)
