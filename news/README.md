@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 19. [PC classic StarCraft is now free](http://www.theverge.com/2017/4/19/15353282/download-starcraft-1-free-brood-war-blizzard). *The Verge*.
+* 2017 April 19. [Baidu Will Release a Free Operating System for Self-Driving Cars](https://www.technologyreview.com/s/604220/baidu-will-release-a-free-operating-system-for-self-driving-cars/). *MIT Technology Review*.
 * 2017 April 19. [Reinforcement Learning or Evolutionary Strategies? Nature has a solution: Both.](https://medium.com/@awjuliani/reinforcement-learning-or-evolutionary-strategies-nature-has-a-solution-both-8bc80db539b3). *Medium*.
 * 2017 April 18. [Jürgen Schmidhuber on the robot future​: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 April 14. [Learning to Love Intelligent Machines](https://www.wsj.com/articles/learning-to-love-intelligent-machines-1492174086). *Wall Street Journal*.
@@ -52,6 +54,7 @@ permalink: /news/
 * 2017 January 19. [Kristen Stewart (yes, that Kristen Stewart) just released a research paper on artificial intelligence](https://qz.com/889668/actress-kristen-stewart-yes-that-kristen-stewart-just-released-a-research-paper-on-artificial-intelligence/). *Quartz*.
 * 2017 January 17. [Engineering is the Bottleneck in (Deep Learning) Research](http://blog.dennybritz.com/2017/01/17/engineering-is-the-bottleneck-in-deep-learning-research/). *Denny's Blog*.
 * 2017 January 16. [AI Pioneer Wants to Build the Renaissance Machine of the Future](https://www.bloomberg.com/news/articles/2017-01-16/ai-pioneer-wants-to-build-the-renaissance-machine-of-the-future). *Bloomberg Technology*.
+* 2017 January 13. [Response to Cegłowski on superintelligence](https://intelligence.org/2017/01/13/response-to-ceglowski-on-superintelligence/). *Machine Intelligence Research Institute*.
 * 2017 January 13. [Microsoft acquires Maluuba, a startup focused on general artificial intelligence](https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/). *TechCrunch*.
 * 2017 January 13. [Microsoft acquires deep learning startup Maluuba; AI pioneer Yoshua Bengio to have advisory role](https://blogs.microsoft.com/blog/2017/01/13/microsoft-acquires-deep-learning-startup-maluuba-ai-pioneer-yoshua-bengio-advisory-role/). *Official Microsoft Blog*.
 * 2017 January 12. [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html). *Google Research Blog*.
