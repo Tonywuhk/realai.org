@@ -29,6 +29,10 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
 
+## Links
+
+* 80,000 Hours: [List of the most urgent global issues](https://80000hours.org/articles/cause-selection/). Updated 2017 March.
+
 ## Real AI
 
 Safe and beneficial intelligence is everywhere: trees release oxygen, food is grown in fields, and grid transmits electricity. These systems follow physical laws and their natural behavior, complex but not goal-driven, safely provides enormous benefits to human society. Our long-term vision is to build more such intelligence. A smart planet that automatically produces almost everything we need is a great place. Everyone will live well and prosper.
