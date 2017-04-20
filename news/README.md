@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 19. [Facebook is building brain-computer interfaces for typing and skin-hearing](https://techcrunch.com/2017/04/19/facebook-brain-interface/). *TechCrunch*.
 * 2017 April 19. [PC classic StarCraft is now free](http://www.theverge.com/2017/4/19/15353282/download-starcraft-1-free-brood-war-blizzard). *The Verge*.
 * 2017 April 19. [Baidu Will Release a Free Operating System for Self-Driving Cars](https://www.technologyreview.com/s/604220/baidu-will-release-a-free-operating-system-for-self-driving-cars/). *MIT Technology Review*.
 * 2017 April 19. [Reinforcement Learning or Evolutionary Strategies? Nature has a solution: Both.](https://medium.com/@awjuliani/reinforcement-learning-or-evolutionary-strategies-nature-has-a-solution-both-8bc80db539b3). *Medium*.
