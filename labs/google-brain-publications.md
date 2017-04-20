@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 April 19, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, and Honglak Lee. [Learning to Generate Long-term Future via Hierarchical Prediction](https://arxiv.org/abs/1704.05831). *arXiv:1704.05831*. [site](https://sites.google.com/a/umich.edu/rubenevillegas/hierch_vid).
 * 2017 April 17, Ardavan Saeedi, Matthew D. Hoffman, Stephen J. DiVerdi, Asma Ghandeharioun, Matthew J. Johnson, and Ryan P. Adams. [Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models](https://arxiv.org/abs/1704.04997). *arXiv:1704.04997*.
 * 2017 April 11, David Ha and Douglas Eck. [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477). *arXiv:1704.03477*.
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
