@@ -8,3 +8,4 @@ permalink: /neuroscience/
 * 2017 February 24, Sara Reardon. [A giant neuron found wrapped around entire mouse brain](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539). *Nature* 543, 14-15.
 * 2016 September 3, Jason J. Moore1, Pascal M. Ravassard, David Ho, Lavanya Acharya, Ashley L. Kees, Cliff Vuong, and Mayank R. Mehta. [Dynamics of cortical dendritic membrane potential and spikes in freely behaving rats](http://science.sciencemag.org/content/early/2017/03/08/science.aaj1497). *Science*.
 * 2016 August 11, Haiguang Wen, Junxing Shi, Yizhen Zhang, Kun-Han Lu, and Zhongming Liu. [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://arxiv.org/abs/1608.03425). *arXiv:1608.03425*.
+* 2016 May 26, Eric Jonas and Konrad Kording. [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). *bioRxiv:055624*.
