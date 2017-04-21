@@ -49,6 +49,7 @@ permalink: /news/
 * 2017 March 16. [The Mobile Internet Is Over. Baidu Goes All In on AI](https://www.bloomberg.com/news/articles/2017-03-16/the-mobile-internet-is-over-baidu-goes-all-in-on-ai). *Bloomberg Businessweek*.
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
+* 2017 February 27. [Japanese Billionaire is creating a $100 billion investment fund to be a leading developer of AI for Kurzweil’s Technological Singularity](http://www.nextbigfuture.com/2017/02/japanese-billionaire-is-creating-100.html). *nextBIGfuture*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 February 9. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *YouTube*
 * 2017 January 27. [Partnership on AI Update](https://www.partnershiponai.org/2017/01/partnership-ai-update/). *Partnership on AI*.
