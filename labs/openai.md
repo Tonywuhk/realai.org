@@ -57,6 +57,7 @@ In July 2015, over a dinner in Menlo Park, Elon Musk, Sam Altman, Greg Brockman,
 * 2016 November 15. [OpenAI and Microsoft](https://blog.openai.com/openai-and-microsoft/). *OpenAI Blog*.
 * 2016 August 16. [Team Update](https://blog.openai.com/team-update-august/). *OpenAI Blog*.
 * 2016 June 20. [OpenAI Technical Goals](https://blog.openai.com/openai-technical-goals/). *OpenAI Blog*.
+* 2016 May 25. [Team Update](https://blog.openai.com/team-update/). *OpenAI Blog*.
 * 2016 May 3. [My Path to OpenAI](https://blog.gregbrockman.com/my-path-to-openai). *Greg Brockman*.
 * 2016 April 27. [Inside OpenAI, Elon Musk’s Wild Plan to Set Artificial Intelligence Free](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/). *Wired*.
 * 2016 March 31. [Team++](https://blog.openai.com/team-plus-plus/). *OpenAI Blog*.
