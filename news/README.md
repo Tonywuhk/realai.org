@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 21. [The mind in the machine: Demis Hassabis on artificial intelligence](https://www.ft.com/content/048f418c-2487-11e7-a34a-538b4cb30025). *Financial Times*.
 * 2017 April 20. [Elon Musk Lays Out Plans to Meld Brains and Computers](https://www.wsj.com/articles/elon-musk-lays-out-plans-to-meld-brains-and-computers-1492738741). *Wall Street Journal*.
 * 2017 April 20. [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html). *Wait But Why*.
 * 2017 April 20. [商汤科技获赛领资本6000万美元投资，领跑人工智能布局](http://www.chinanews.com/business/2017/04-20/8204266.shtml). *China News Service*.
