@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 23. [The long game towards understanding dialog](https://research.fb.com/the-long-game-towards-understanding-dialog/). *Facebook Research*.
 * 2017 April 22. [With Neuralink, Elon Musk Promises Human-to-Human Telepathy. Don’t Believe It.](https://www.technologyreview.com/s/604254/with-neuralink-elon-musk-promises-human-to-human-telepathy-dont-believe-it/). *MIT Technology Review*.
 * 2017 April 21. [The mind in the machine: Demis Hassabis on artificial intelligence](https://www.ft.com/content/048f418c-2487-11e7-a34a-538b4cb30025). *Financial Times*.
 * 2017 April 20. [Elon Musk Lays Out Plans to Meld Brains and Computers](https://www.wsj.com/articles/elon-musk-lays-out-plans-to-meld-brains-and-computers-1492738741). *Wall Street Journal*.
