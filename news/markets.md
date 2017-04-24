@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 April 24. [Risk Is Back On After French Election; Euro Jumps: Markets Wrap](https://www.bloomberg.com/news/articles/2017-04-23/risk-is-back-on-after-french-election-euro-jumps-markets-wrap). *Bloomberg Markets*.
 * 2017 April 18. [Apple Readies iPhone Overhaul for Smartphone’s 10th Anniversary](https://www.bloomberg.com/news/articles/2017-04-18/apple-readies-iphone-overhaul-for-smartphone-s-10th-anniversary). *Bloomberg Technology*.
 * 2017 April 18. [Pound soars and FTSE 100 tumbles after election announcement](http://www.bbc.com/news/business-39627859). *BBC News*.
 * 2017 January 30. [Google has a higher antitrust risk under Trump because laws are 'rather vague'](http://www.cnbc.com/2017/01/30/google-antitrust-concerns-under-trump.html). *CNBC*.
