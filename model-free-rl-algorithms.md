@@ -71,7 +71,7 @@ $$
   A(s_t, a_t; \theta, \theta_v) = r_t + \gamma r_{t+1} + ... + \gamma^{n-1} r_{t+n-1} + \gamma^n V(s_{t+n}; \theta_v) - V(s_t; \theta_v),
 $$
 
-in the aynchronous advantage actor-critic (A3C) algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
+in the asynchronous advantage actor-critic (A3C) algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
 
 $$
   A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta log \pi(a_t | s_t; \theta)
@@ -82,6 +82,8 @@ augmented by an entropy regularization term with respect to the policy parameter
 [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
 [Gruslys et al. (2017)](https://arxiv.org/abs/1704.04651) proposed the *Reactor* actor-critic architecture in which the critic was trained by the Retrace algorithm and the actor by a novel \\(\beta\\)-leave-one-out policy gradient estimate. It used memory replay and multi-step returns.
+
+[Schulman et al. (2017)](https://arxiv.org/abs/1704.06440) showed that entropy-regularized Q-learning is exactly equivalent to a policy gradient method.
 
 ## References
 
