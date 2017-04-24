@@ -18,7 +18,13 @@ $$
   Q^\pi (s,a) = \mathbb{E}[R_0 | S_0=s, A_0=a, \pi]
 $$
 
-is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The true \\(Q^\*(s, a)\\) is often too complex for interesting problems, so in practice we often learn a parameterized version \\(Q(s, a; \theta)\\).
+is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). Similarly, the *state-value function*
+
+$$
+  V^\pi (s) = \mathbb{E}[R_0 | S_0=s, \pi],
+$$
+
+and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
 
 ## Value Based Reinforcement Learning Algorithms
 
@@ -53,7 +59,14 @@ was used to update the network.
 
 ## Policy Based Reinforcement Learning Algorithms
 
-Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(s\_t; \theta)\\). [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
+Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(a\_t \| s\_t; \theta)\\), sometimes with the help of learning a value function \\(V(s; \theta_v)\\). In the standard REINFORCE with baseline algorithm, the policy parameters \\(\theta\\) are often updated in the direction of 
+
+$$
+  (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta log \pi(a_t | s_t; \theta).
+$$
+
+
+[Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
 [Gruslys et al. (2017)](https://arxiv.org/abs/1704.04651) proposed the *Reactor* actor-critic architecture in which the critic was trained by the Retrace algorithm and the actor by a novel \\(\beta\\)-leave-one-out policy gradient estimate. It used memory replay and multi-step returns.
 
