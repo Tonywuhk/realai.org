@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 April 22. [With Neuralink, Elon Musk Promises Human-to-Human Telepathy. Don’t Believe It.](https://www.technologyreview.com/s/604254/with-neuralink-elon-musk-promises-human-to-human-telepathy-dont-believe-it/). *MIT Technology Review*. ([News](http://realai.org/news/))
 * 2017 April 18, Jürgen Schmidhuber says artificial intelligence will surpass humans’ in 2050. Source: [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*. ([Timing](http://realai.org/timing/))
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [RL Algorithms](http://realai.org/model-free-rl-algorithms/))
 * 2017 April 12, Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, and Audrunas Gruslys. [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/abs/1704.03732). *arXiv:1704.03732*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [RL Algorithms](http://realai.org/model-free-rl-algorithms/))
