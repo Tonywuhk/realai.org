@@ -6,7 +6,7 @@ mathjax: true
 
 A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}\_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}\_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
-At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The total accumulated rewards from time \\(t\\) is
+At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The total accumulated reward from time \\(t\\) is
 
 $$
   R_t = r_t + \gamma r_{t+1} + \gamma^2 r_{t+2} + ...
@@ -62,9 +62,22 @@ was used to update the network.
 Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(a\_t \| s\_t; \theta)\\), sometimes with the help of learning a value function \\(V(s; \theta_v)\\). In the standard REINFORCE with baseline algorithm, the policy parameters \\(\theta\\) are often updated in the direction of 
 
 $$
-  (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta log \pi(a_t | s_t; \theta).
+  (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta log \pi(a_t | s_t; \theta),
 $$
 
+and \\(V(s\_t; \theta_v)\\) learns the target \\(R\_t\\). In actor-critic methods, the full accumulated reward \\(R\_t\\) is replaced by a target involving state values of subsequent states. Define the \\(n\\)-step *advantage function*
+
+$$
+  A(s_t, a_t; \theta, \theta_v) = r_t + \gamma r_{t+1} + ... + \gamma^{n-1} r_{t+n-1} + \gamma^n V(s_{t+n}; \theta_v) - V(s_t; \theta_v),
+$$
+
+in the aynchronous advantage actor-critic (A3C) algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
+
+$$
+  A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta log \pi(a_t | s_t; \theta)
+$$
+
+augmented by an entropy regularization term with respect to the policy parameters.
 
 [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
