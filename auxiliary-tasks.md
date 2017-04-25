@@ -3,6 +3,8 @@ permalink: /auxiliary-tasks/
 ---
 # Auxiliary tasks
 
+[Jaderberg & Mnih & Czarnecki et al. (2016)](https://arxiv.org/abs/1611.05397) introduced the **UNREAL** agent that optimizes the combined loss function of reinforcement learning and auxiliary control and reward tasks. The agent significantly outperformed the previous state-of-the-art on Atari. [Shelhamer et al. (2016)](https://arxiv.org/abs/1612.07307) showed that self-supervised pre-training on auxiliary losses also improves reinforcment learning.
+
 ## References
 
 * 2016 December 21, Evan Shelhamer, Parsa Mahmoudieh, Max Argus, and Trevor Darrell. [Loss is its own Reward: Self-Supervision for Reinforcement Learning](https://arxiv.org/abs/1612.07307). *arXiv:1612.07307*.
