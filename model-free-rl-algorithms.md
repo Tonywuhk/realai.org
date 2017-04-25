@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
 
-A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow \mathbb{R}\_+\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow \mathbb{R}\_+\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
+A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow [0,1]\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow [0,1]\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
 
 At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The total accumulated reward from time \\(t\\) is
 
@@ -24,7 +24,7 @@ $$
   V^\pi (s) = \mathbb{E}[R_0 | S_0=s, \pi],
 $$
 
-and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
+and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
 
 ## Value Based Reinforcement Learning Algorithms
 
@@ -65,13 +65,13 @@ $$
   (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta log \pi(a_t | s_t; \theta),
 $$
 
-and \\(V(s\_t; \theta_v)\\) learns the target \\(R\_t\\). In actor-critic methods, the full accumulated reward \\(R\_t\\) is replaced by a target involving state values of subsequent states. Define the \\(n\\)-step *advantage function*
+and \\(V(s\_t; \theta_v)\\) learns the target \\(R\_t\\). In actor-critic methods, the full accumulated reward \\(R\_t\\) is replaced by a target involving state values of subsequent states. Define
 
 $$
   A(s_t, a_t; \theta, \theta_v) = r_t + \gamma r_{t+1} + ... + \gamma^{n-1} r_{t+n-1} + \gamma^n V(s_{t+n}; \theta_v) - V(s_t; \theta_v),
 $$
 
-in the asynchronous advantage actor-critic (A3C) algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
+an \\(n\\)-step estimate of the advantage function. In the asynchronous **advantage actor-critic (A3C)** algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
 
 $$
   A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta log \pi(a_t | s_t; \theta)
