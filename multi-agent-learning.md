@@ -13,6 +13,8 @@ Language can emerge as a means for agents to collaborate, communicating in discr
 
 [Seijen et al. (2016)](https://arxiv.org/abs/1612.05159) allowed communications between agents that are organized in a hierarchical way.
 
+To interpret agents' learned messages, [Andreas et al. (2017)](https://arxiv.org/abs/1704.06960) proposed a method to match agent language with natural language by minimizing the difference of the beliefs induced by these two languages respectively.
+
 Symbolic communication between neural networks can also be learned within an agent, as proposed in [deep symbolic reinforcement learning](https://arxiv.org/abs/1609.05518).
 
 ## Reinforcement Learning
@@ -21,6 +23,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## References
 
+* 2017 April 23, Jacob Andreas, Anca Dragan, and Dan Klein. [Translating Neuralese](https://arxiv.org/abs/1704.06960). *arXiv:1704.06960*. [code](https://github.com/jacobandreas/neuralese).
 * 2017 April 3, Romain Laroche, Mehdi Fatemi, Joshua Romoff, and Harm van Seijen. [Multi-Advisor Reinforcement Learning](https://arxiv.org/abs/1704.00756). *arXiv:1704.00756*.
 * 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
