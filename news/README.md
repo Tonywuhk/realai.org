@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 24. [The Race To Build An AI Chip For Everything Just Got Real](https://www.wired.com/2017/04/race-make-ai-chips-everything-heating-fast/). *Wired*.
 * 2017 April 24. [No Longer a Dream: Silicon Valley Takes On the Flying Car](https://www.nytimes.com/2017/04/24/technology/flying-car-technology.html). *New York Times*.
 * 2017 April 24. [Will Self-Driving Cars Be Better Drivers If They Can Chat with Each Other?](https://www.technologyreview.com/s/604258/will-self-driving-cars-be-better-drivers-if-they-can-chat-with-each-other/). *MIT Technology Review*.
 * 2017 April 23. [The long game towards understanding dialog](https://research.fb.com/the-long-game-towards-understanding-dialog/). *Facebook Research*.
