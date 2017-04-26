@@ -10,7 +10,6 @@ permalink: /resources/conferences/
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
-|            | 2017/04/24 - 26    | Toulon, France       | [ICLR 2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
 | 2017/05/19 | 2017/12/04 - 09    | Long Beach, CA       | [NIPS 2017](https://nips.cc/Conferences/2017)
 | 2017/06/28 | 2017/11/13 - 15    | Mountain View, CA    | [CoRL 2017](http://www.robot-learning.org/)
 |            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
@@ -21,8 +20,11 @@ permalink: /resources/conferences/
 |            | 2017/09/07 - 11    | Copenhagen, Denmark  | [EMNLP 2017](http://emnlp2017.net/)
 |            | 2018/02/04 - 10    | New Orleans, LA      | [AAAI 2018](http://www.aaai.org/Conferences/AAAI/aaai18.php)
 |            | 2017/03/26 - 30    | Obergurgl, Austria   | [AITP 2017](http://aitp-conference.org/2017/)
+|            | 2017/04/24 - 26    | Toulon, France       | [ICLR 2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
            
 ### Past Meetings
+
+ICLR: [2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1), [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
 AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
 
@@ -39,8 +41,6 @@ ICML: [2016](http://icml.cc/2016/), [2015](http://icml.cc/2015/), [2014](http://
 ACL: [2016](http://acl2016.org/), [2015](http://acl2015.org/), [2014](http://acl2014.org/), [2013](http://acl2013.org/site/), [2012](http://mirror.aclweb.org/acl2012/)
 
 CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), [2014](http://cvpr2014.thecvf.com/), [2013](http://cvpr2013.thecvf.com/), [2012](http://tab.computer.org/pamitc/archive/cvpr2012/)
-
-ICLR: [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
 ## Non-Academic
 
