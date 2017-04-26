@@ -6,6 +6,7 @@ permalink: /policies/
 
 ## Canada
 
+* 2017 April 24. [Ontario to roll out basic income in three cities](http://www.theglobeandmail.com/news/national/what-is-basic-income-and-who-qualifies/article34795127/). *The Globe and Mail*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
 * 2017 March 22. [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html). *Canada NewsWire*.
 * 2017 January 7. [Artificial intelligence is the future, and Canada can seize it](http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/). *The Globe and Mail*.
