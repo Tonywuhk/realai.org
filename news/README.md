@@ -4,12 +4,14 @@ permalink: /news/
 # News
 
 * 2017 April 26. [Police: Drunk Man Knocked Down 300-Pound Robot in Mountain View](http://abc7news.com/technology/police-say-drunk-man-knocked-down-robot-in-mountain-view/1915713/). *ABC7 News*.
+* 2017 April 25. [Google's Waymo just launched its self-driving car service in Phoenix](http://www.vox.com/new-money/2017/4/25/15419728/google-waymo-phoenix-launch). *Vox*.
 * 2017 April 24. [The Race To Build An AI Chip For Everything Just Got Real](https://www.wired.com/2017/04/race-make-ai-chips-everything-heating-fast/). *Wired*.
 * 2017 April 24. [No Longer a Dream: Silicon Valley Takes On the Flying Car](https://www.nytimes.com/2017/04/24/technology/flying-car-technology.html). *New York Times*.
 * 2017 April 24. [Will Self-Driving Cars Be Better Drivers If They Can Chat with Each Other?](https://www.technologyreview.com/s/604258/will-self-driving-cars-be-better-drivers-if-they-can-chat-with-each-other/). *MIT Technology Review*.
 * 2017 April 23. [The long game towards understanding dialog](https://research.fb.com/the-long-game-towards-understanding-dialog/). *Facebook Research*.
 * 2017 April 22. [With Neuralink, Elon Musk Promises Human-to-Human Telepathy. Don’t Believe It.](https://www.technologyreview.com/s/604254/with-neuralink-elon-musk-promises-human-to-human-telepathy-dont-believe-it/). *MIT Technology Review*.
 * 2017 April 21. [The mind in the machine: Demis Hassabis on artificial intelligence](https://www.ft.com/content/048f418c-2487-11e7-a34a-538b4cb30025). *Financial Times*.
+* 2017 April 20. [IBM to open an AI lab in Montreal to better collaborate with MILA](http://nouvelles.umontreal.ca/en/article/2017/04/20/ibm-to-open-an-ai-lab-in-montreal-to-better-collaborate-with-mila/). *U de M Nouvelles*.
 * 2017 April 20. [Elon Musk Lays Out Plans to Meld Brains and Computers](https://www.wsj.com/articles/elon-musk-lays-out-plans-to-meld-brains-and-computers-1492738741). *Wall Street Journal*.
 * 2017 April 20. [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html). *Wait But Why*.
 * 2017 April 20. [商汤科技获赛领资本6000万美元投资，领跑人工智能布局](http://www.chinanews.com/business/2017/04-20/8204266.shtml). *China News Service*.
