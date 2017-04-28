@@ -5,7 +5,10 @@ permalink: /sitemap/
 
 ## AI and Society ([Home](http://realai.org/))
 
-* [Safety](http://realai.org/safety/): [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/) (blog)
+* [Safety](http://realai.org/safety/)
+  * Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
+  * [Effective Altruism](http://realai.org/safety/effective-altruism/)
+  * [Organizations](http://realai.org/safety/organizations/)
 * [Progress](http://realai.org/progress/)
 * [Roadmaps](http://realai.org/roadmaps/)
 * [Timing](http://realai.org/timing/)
