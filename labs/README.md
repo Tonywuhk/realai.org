@@ -51,14 +51,9 @@ permalink: /labs/
   * [Statistical Machine Learning Group](http://csml.stats.ox.ac.uk/learning/): [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/)
 * University of Cambridge [Machine Learning Group](http://mlg.eng.cam.ac.uk/): [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
 
-## Safety
+## Links
 
-* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/): [Publications](http://www.fhi.ox.ac.uk/publications/), [Team](https://www.fhi.ox.ac.uk/about/the-team/)
-* [Machine Intelligence Research Institute](https://intelligence.org/): [Publications](https://intelligence.org/all-publications/), [Team](https://intelligence.org/team/)
-* [Future of Life Institute](https://futureoflife.org/)
-* [UC Berkeley Center for Human-Compatible AI](http://humancompatible.ai/)
-* [Center for the Study of Existential Risk](http://cser.org/)
-* [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
+* [AI safety organizations](http://realai.org/safety/organizations/)
 
 ## News Archive
 
