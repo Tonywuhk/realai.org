@@ -3,6 +3,8 @@ permalink: /safety/organizations/
 ---
 # Organizations
 
+Many organizations that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/).
+
 ##### [Future of Humanity Institute](https://www.fhi.ox.ac.uk/):
 
 * [Publications](http://www.fhi.ox.ac.uk/publications/)
