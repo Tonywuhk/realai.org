@@ -3,7 +3,7 @@ permalink: /safety/
 ---
 # Safety
 
-On this page, we consider how to ensure that the AI systems we develop will benefit the whole world.
+On this page, we consider how to ensure that the AI systems we develop will benefit the whole world. The topic of AI safety has attracted the attention from many [organizations](http://realai.org/safety/organizations/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
 
 ## News
 
