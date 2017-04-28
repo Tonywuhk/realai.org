@@ -3,6 +3,9 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 April 27. [Big market day tomorrow: Nasdaq futures jump after hours on Amazon, Alphabet earnings](http://www.cnbc.com/2017/04/27/nasdaq-100-futures-surge-after-hours-on-amazon-alphabet-earnings.html). *CNBC*.
+* 2017 April 27. [Alphabet Announces First Quarter 2017 Results](https://abc.xyz/investor/news/earnings/2017/Q1_alphabet_earnings/). *Alphabet Investor Relations*.
+* 2017 April 27. [Amazon.com Announces First Quarter Sales up 23% to $35.7 Billion](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2266657). *Amazon.com*.
 * 2017 April 24. [Risk Is Back On After French Election; Euro Jumps: Markets Wrap](https://www.bloomberg.com/news/articles/2017-04-23/risk-is-back-on-after-french-election-euro-jumps-markets-wrap). *Bloomberg Markets*.
 * 2017 April 18. [Apple Readies iPhone Overhaul for Smartphone’s 10th Anniversary](https://www.bloomberg.com/news/articles/2017-04-18/apple-readies-iphone-overhaul-for-smartphone-s-10th-anniversary). *Bloomberg Technology*.
 * 2017 April 18. [Pound soars and FTSE 100 tumbles after election announcement](http://www.bbc.com/news/business-39627859). *BBC News*.
