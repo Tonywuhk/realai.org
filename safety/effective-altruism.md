@@ -13,7 +13,7 @@ Inspired by the ideas of ethicists Peter and Thomas Pogge, [Toby Ord](http://www
 
 80,000 Hours ([about](https://80000hours.org/about/)) was officially launched at Oxford in November 2011, after Ben and Will MacAskill did their own research on what to do with their own careers. It moved the focus in Oxford away from just charity and onto ethical life-optimisation more generally.
 
-In March 2013, Peter filmed [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism), a TED talk that has since attracted 1.5 million views. During the same year, Charlie Bresler, formerly president of The Men’s Wearhouse, provided funding to turn the organization The Life You Can Save ([about](https://www.thelifeyoucansave.org/About-Us)) into a registered 501c3 charity.
+In March 2013, Peter filmed [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism), a TED talk that has since attracted 1.5 million views. During the same year, Charlie Bresler, formerly president of The Men’s Wearhouse, provided funding to turn the organization [The Life You Can Save](https://www.thelifeyoucansave.org/) ([about](https://www.thelifeyoucansave.org/About-Us)) into a registered 501c3 charity. Its mission is to change the culture of giving in affluent countries while dramatically raising annual donations to highly impactful nonprofits that reduce suffering and premature death for people living in extreme poverty. Artificial intelligence is not currently among the [causes](https://www.thelifeyoucansave.org/Causes) they support.
 
 ## Select List of Organizations
 
@@ -73,16 +73,12 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 [.impact](http://dotimpact.im/) is the home of independent effective altruist projects around the world. It is an open community with several active teams and has sponsored many [focus](http://dotimpact.im/focusprojects/projects.html) and non-focus projects, including:
 
 * [Effective Altruism Forum](http://effective-altruism.com/) ([project](http://dotimpact.im/focusprojects/forum.html)) is a community blog built using the LessWrong codebase with a new design.
+  * Note: [Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
+
 * [Effective Altruism Hub](https://eahub.org/) ([project](http://dotimpact.im/focusprojects/hub.html)) hosts and points to a range of resources and projects for effective altruists.
 * [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) contains several useful links:
   * [Organizations relevant to EA](http://wiki.effectivealtruismhub.com/index.php?title=Organizations_relevant_to_EA)
   * [List of EA discussion venues](http://wiki.effectivealtruismhub.com/index.php?title=List_of_EA_discussion_venues)
-
-### More Organizations Relevant to EA
-
-* The mission of [The Life You Can Save](https://www.thelifeyoucansave.org/) is to change the culture of giving in affluent countries while dramatically raising annual donations to highly impactful nonprofits that reduce suffering and premature death for people living in extreme poverty.
-* [Charity Science](http://www.charityscience.com/) looks at the science and advocate for the most evidence-based and cost-effective charities.
-* [Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
 
 ## Sources
 
