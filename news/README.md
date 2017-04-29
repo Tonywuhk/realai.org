@@ -3,7 +3,12 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 28. [Tencent to open AI research center in Seattle](https://techcrunch.com/2017/04/28/tencent-to-open-ai-research-center-in-seattle/). *TechCrunch*.
+* 2017 April 28. [China's ride-hailing giant Didi raises $5.5 billion, valuing it at $50 billion](http://www.cnbc.com/2017/04/28/didi-chuxing-raises-funding-round-valuation-china.html). *CNBC*.
+* 2017 April 28. [Finding Solace in Defeat by Artificial Intelligence](https://www.technologyreview.com/s/604273/finding-solace-in-defeat-by-artificial-intelligence/?set=604287). *MIT Technology Review*.
+* 2017 April 28. [Meet the People Who Train the Robots (to Do Their Own Jobs)](https://www.nytimes.com/2017/04/28/technology/meet-the-people-who-train-the-robots-to-do-their-own-jobs.html). *New York Times*.
 * 2017 April 26. [Police: Drunk Man Knocked Down 300-Pound Robot in Mountain View](http://abc7news.com/technology/police-say-drunk-man-knocked-down-robot-in-mountain-view/1915713/). *ABC7 News*.
+* 2017 April 25. [Lyrebird can clone anyone's voice in 60 seconds](http://www.techspot.com/news/69090-lyrebird-can-clone-anyone-voice-60-seconds.html). *TechSpot*.
 * 2017 April 25. [Google's Waymo just launched its self-driving car service in Phoenix](http://www.vox.com/new-money/2017/4/25/15419728/google-waymo-phoenix-launch). *Vox*.
 * 2017 April 24. [Why are we reluctant to trust robots?](https://www.theguardian.com/science/head-quarters/2017/apr/24/why-are-we-reluctant-to-trust-robots). *The Guardian*.
 * 2017 April 24. [The Race To Build An AI Chip For Everything Just Got Real](https://www.wired.com/2017/04/race-make-ai-chips-everything-heating-fast/). *Wired*.
