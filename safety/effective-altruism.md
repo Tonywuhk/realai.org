@@ -3,7 +3,7 @@ permalink: /safety/effective-altruism/
 ---
 # Effective Altruism
 
-Effective altruism (EA), as currently ([28 April 2017](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)) understood by the Centre for Effective Altruism, "is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis." As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
+Effective altruism (EA), as currently (28 April 2017) [understood](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/) by the Centre for Effective Altruism, "is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis." As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
 
 ## History
 
@@ -74,7 +74,6 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 
 * [Effective Altruism Forum](http://effective-altruism.com/) ([project](http://dotimpact.im/focusprojects/forum.html)) is a community blog built using the LessWrong codebase with a new design.
   * Note: [Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
-
 * [Effective Altruism Hub](https://eahub.org/) ([project](http://dotimpact.im/focusprojects/hub.html)) hosts and points to a range of resources and projects for effective altruists.
 * [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) contains several useful links:
   * [Organizations relevant to EA](http://wiki.effectivealtruismhub.com/index.php?title=Organizations_relevant_to_EA)
