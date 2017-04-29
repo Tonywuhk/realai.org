@@ -48,11 +48,30 @@ In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk
 * [Sentience Politics](http://sentience-politics.org/) is an anti-speciesist think tank that strives towards a society that reflects the interests of all sentient beings, regardless of their species.
 * The *outreach* program is designed to spread EA to a wider audience. EAF is currently working to popularize EA within the German-speaking world through local groups in several cities by hosting regular lectures, discussion events, networking meetups, workshops, and panel discussions.
 
+### Givewell, Good Ventures and the Open Philanthropy Project
+
+[GiveWell](http://www.givewell.org/) is a public charity whose mission is to find outstanding giving opportunities through in-depth analysis. [Good Ventures](http://www.goodventures.org/) is a philanthropic foundation whose mission is to help humanity thrive. The two organizations share some core values and work closely together under the [Open Philanthropy Project](http://www.openphilanthropy.org/), whose mission is to learn how to give as effectively as they can and share their findings openly so that anyone can build on their work.
+
+#### GiveWell
+
+Holden Karnofsky and Elie Hassenfeld founded GiveWell in mid-2007. Its current [board of directors](http://www.givewell.org/about/people#Board) include Cari Tuna (President of Good Ventures) and Julia Wise (Community Liaison at the Centre for Effective Altruism).
+
+#### Good Ventures
+
+Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana) and Cari Tuna in 2011, who have pledged to give the majority of their wealth to charity. It comprises Good Ventures (a public charity), Good Ventures Foundation (a private foundation) and Good Ventures LLC (a for-profit impact investment firm) which donates its net earnings to the Good Ventures Foundation. Cari and Dustin sit on the [boards](http://www.goodventures.org/about-us/governance) of these entities.
+
+#### Open Philanthropy Project
+
+[Team](http://www.openphilanthropy.org/about/team) members include:
+
+* [Cari Tuna](http://www.openphilanthropy.org/about/team/cari-tuna), President.
+* [Holden Karnofsky](http://www.openphilanthropy.org/about/team/holden-karnofsky), Executive Director. He also sits on the board of [OpenAI](http://realai.org/labs/openai).
+* [Elie Hassenfeld](http://www.openphilanthropy.org/about/team/elie-hassenfeld), Managing Director.
+* [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
+* [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
+
 ### Effective Giving
 
-* [GiveWell](http://www.givewell.org/) is a nonprofit dedicated to finding outstanding giving opportunities through in-depth analysis.
-* The [Open Philanthropy Project](http://www.openphilanthropy.org/)’s mission is to give as effectively as we can and share our findings openly so that anyone can build on our work.
-* [Good Ventures](http://www.goodventures.org/) is a philanthropic foundation whose mission is to help humanity thrive.
 * The mission of [The Life You Can Save](https://www.thelifeyoucansave.org/) is to change the culture of giving in affluent countries while dramatically raising annual donations to highly impactful nonprofits that reduce suffering and premature death for people living in extreme poverty.
 * [Charity Science](http://www.charityscience.com/) looks at the science and advocate for the most evidence-based and cost-effective charities.
 
@@ -63,4 +82,6 @@ In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk
 ## Sources
 
 * Some [effective altruism organizations](https://www.effectivealtruism.org/get-involved/) recommended by [effectivealtruism.org](https://www.effectivealtruism.org/).
+* 2016 May 17. [Policy on Working Arrangement Between GiveWell and Good Ventures](http://www.givewell.org/about/official-records/gw-gv-working-arrangement-policy). *GiveWell Official Records*.
+* 2014 August 20, Holden Karnofsky. [Open Philanthropy Project (formerly GiveWell Labs)](http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/). *The GiveWell Blog*.
 * 2014 March 11, William MacAskill. [The history of the term 'effective altruism'](http://effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/). *Effective Altruism Forum*.
