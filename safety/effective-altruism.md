@@ -21,10 +21,11 @@ Below is a non-exhaustive list of organizations that are related to effetive alt
 
 ### Effective Altruism Community
 
-* [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) is a registered charity in England and Wales (Charity Number 1149828) and a registered 501(c)(3) Exempt Organization in the USA (EIN 47-1988398) that helps to grow and maintain the effective altruism movement.
+* [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) is a registered charity in England and Wales (Charity Number [1149828](http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber=1149828&SubsidiaryNumber=0)) and a registered 501(c)(3) Exempt Organization in the USA (EIN 47-1988398) that helps to grow and maintain the effective altruism movement. In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk/Accounts/Ends28/0001149828_AC_20160630_E_C.pdf), total income was £3,507,482 and total expenditure was £2,307,898. It has 15 employees and 25 volunteers, operates the Internet portal [effectivealtruism.org](https://www.effectivealtruism.org/) and runs the following projects:
   * [Giving What We Can](https://www.givingwhatwecan.org/) is part of the Centre for Effective Altruism. It is a community of effective givers that inspire people to donate significantly and as effectively as possible.
     * [Team](https://www.givingwhatwecan.org/about-us/team/): Toby Ord (Founder), William MacAskill (Co-Founder and Vice President)
   * [80,000 Hours](https://80000hours.org/) is part of the Centre for Effective Altruism and works closely with the non-profit evaluator Giving What We Can. It provides careers advice service for talented young people to help them have a high social impact.
+  * [The Global Priorities Project](http://globalprioritiesproject.org/) is a collaboration with the Future of Humanity Institute. They offer guidance to organisations and individuals on the problem of prioritisation.
 * [Stiftung für Effektiven Altruismus](https://ea-stiftung.org/) ([Effective Altruism Foundation](https://ea-foundation.org/)) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible.
 
 ### Effective Giving
