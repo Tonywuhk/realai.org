@@ -3,7 +3,7 @@ permalink: /safety/effective-altruism/
 ---
 # Effective Altruism
 
-Effective altruism, as currently ([28 April 2017](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)) understood by the Centre for Effective Altruism, "is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis." As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
+Effective altruism (EA), as currently ([28 April 2017](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)) understood by the Centre for Effective Altruism, "is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis." As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
 
 ## History
 
@@ -39,9 +39,14 @@ The domain name of the forum [effective-altruism.com](http://effective-altruism.
 
 In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk/Accounts/Ends28/0001149828_AC_20160630_E_C.pdf), total income was £3,507,482 and total expenditure was £2,307,898. 
 
-### Effective Altruism Community
+### Effective Altruism Foundation
 
-* [Stiftung für Effektiven Altruismus](https://ea-stiftung.org/) ([Effective Altruism Foundation](https://ea-foundation.org/)) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible.
+[Stiftung für Effektiven Altruismus](https://ea-stiftung.org/) ([Effective Altruism Foundation](https://ea-foundation.org/), aka EAF) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible. EAF was founded in August of 2015 in Basel, Switzerland. Its co-executive directors are Tobias Pulver and Ruairí Donnelly. It has the equivalent of 24 full-time [employees](https://ea-foundation.org/team/) working on the following projects:
+
+* [Raising for Effective Giving](https://reg-charity.org/) is a "meta-charity" that brings together high-earning professionals who want to maximize their positive impact on the world.
+* [Foundational Research Institute](https://foundational-research.org/)'s mission is to identify cooperative and effective strategies to reduce involuntary suffering.  
+* [Sentience Politics](http://sentience-politics.org/) is an anti-speciesist think tank that strives towards a society that reflects the interests of all sentient beings, regardless of their species.
+* The *outreach* program is designed to spread EA to a wider audience. EAF is currently working to popularize EA within the German-speaking world through local groups in several cities by hosting regular lectures, discussion events, networking meetups, workshops, and panel discussions.
 
 ### Effective Giving
 
