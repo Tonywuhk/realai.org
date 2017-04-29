@@ -16,8 +16,10 @@ permalink: /labs/
 * [Microsoft Maluuba](http://www.maluuba.com/): [Publications](http://www.maluuba.com/publications)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/) ([Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/))
 * Baidu Research:
-  * [Institute of Deep Learning](http://idl.baidu.com/)： [Team](http://idl.baidu.com/IDL-team.html) (Wei Xu)
+  * [Institute of Deep Learning](http://idl.baidu.com/)： [Team](http://idl.baidu.com/IDL-team.html) (徐伟)
   * [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
+* [Tencent AI Lab](http://ai.tencent.com/ailab/):
+  * Seattle (俞栋)
 * [Twitter Cortex](https://cortex.twitter.com/)
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Vicarious](http://www.vicarious.com/)
