@@ -7,7 +7,7 @@ Effective altruism (EA), as currently ([28 April 2017](https://www.centreforeffe
 
 ## History
 
-[Peter Singer](http://www.petersinger.info/)([Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer); [Twitter](https://twitter.com/PeterSinger)), an influential contemporary philosopher, published [The Life You Can Save: Acting Now To End World Poverty](https://www.amazon.com/gp/product/0812981561/) in March 2009 that advocated smarter giving in philanthropy.
+[Peter Singer](http://www.petersinger.info/) ([Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer); [Twitter](https://twitter.com/PeterSinger)), an influential contemporary philosopher, published [The Life You Can Save: Acting Now To End World Poverty](https://www.amazon.com/gp/product/0812981561/) in March 2009 that advocated smarter giving in philanthropy.
 
 Inspired by the ideas of ethicists Peter and Thomas Pogge, [Toby Ord](http://www.tobyord.com/) decided in 2009 to commit a large proportion of his income to charities that effectively alleviate poverty in the developing world. In November, he and [Will MacAskill](http://www.williammacaskill.com/) ([Wikipedia](https://en.wikipedia.org/wiki/William_MacAskill); [Twitter](https://twitter.com/willmacaskill)) launched Giving What We Can ([history](https://www.givingwhatwecan.org/about-us/history/)), an international organization of people who would donate a significant proportion of their income to cost-effective charities.
 
@@ -30,7 +30,7 @@ Below is a non-exhaustive list of organizations that are related to effetive alt
 
 It has 15 employees and 25 volunteers, operates the Internet portal [effectivealtruism.org](https://www.effectivealtruism.org/) and runs the following projects:
 
-* [Giving What We Can](https://www.givingwhatwecan.org/) is part of the Centre for Effective Altruism. It is a community of effective givers that inspire people to donate significantly and as effectively as possible.
+* [Giving What We Can](https://www.givingwhatwecan.org/) is part of the Centre for Effective Altruism. It is a community of effective [givers](https://www.givingwhatwecan.org/about-us/members/) that inspire people to donate significantly and as effectively as possible.
   * [Team](https://www.givingwhatwecan.org/about-us/team/): Toby Ord (Founder), William MacAskill (Co-Founder and Vice President)
 * [80,000 Hours](https://80000hours.org/) is part of the Centre for Effective Altruism and works closely with the non-profit evaluator Giving What We Can. It provides careers advice service for talented young people to help them have a high social impact.
 * [The Global Priorities Project](http://globalprioritiesproject.org/) is a collaboration with the Future of Humanity Institute. They offer guidance to organisations and individuals on the problem of prioritisation.
@@ -70,18 +70,16 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
 * [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
 
-### Effective Giving
+### More Organizations Relevant to EA
 
 * The mission of [The Life You Can Save](https://www.thelifeyoucansave.org/) is to change the culture of giving in affluent countries while dramatically raising annual donations to highly impactful nonprofits that reduce suffering and premature death for people living in extreme poverty.
 * [Charity Science](http://www.charityscience.com/) looks at the science and advocate for the most evidence-based and cost-effective charities.
-
-### Rationality
-
-[Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
+* [.impact](http://dotimpact.im/) is the home of independent effective altruist projects around the world. We’re an open community of people working on these which anyone can join, with several active teams.
+* [Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
 
 ## Sources
 
-* Some [effective altruism organizations](https://www.effectivealtruism.org/get-involved/) recommended by [effectivealtruism.org](https://www.effectivealtruism.org/).
+* Some [effective altruism organizations](https://www.effectivealtruism.org/get-involved/) recommended by effectivealtruism.org.
 * 2016 May 17. [Policy on Working Arrangement Between GiveWell and Good Ventures](http://www.givewell.org/about/official-records/gw-gv-working-arrangement-policy). *GiveWell Official Records*.
 * 2014 August 20, Holden Karnofsky. [Open Philanthropy Project (formerly GiveWell Labs)](http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/). *The GiveWell Blog*.
 * 2014 March 11, William MacAskill. [The history of the term 'effective altruism'](http://effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/). *Effective Altruism Forum*.
