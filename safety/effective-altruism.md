@@ -35,8 +35,6 @@ It has 15 employees and 25 volunteers, operates the Internet portal [effectiveal
 * [80,000 Hours](https://80000hours.org/) is part of the Centre for Effective Altruism and works closely with the non-profit evaluator Giving What We Can. It provides careers advice service for talented young people to help them have a high social impact.
 * [The Global Priorities Project](http://globalprioritiesproject.org/) is a collaboration with the Future of Humanity Institute. They offer guidance to organisations and individuals on the problem of prioritisation.
 
-The domain name of the forum [effective-altruism.com](http://effective-altruism.com/) is registered under William Crouch (William MacAskill's former name).
-
 In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk/Accounts/Ends28/0001149828_AC_20160630_E_C.pdf), total income was £3,507,482 and total expenditure was £2,307,898. 
 
 ### Effective Altruism Foundation
@@ -70,11 +68,20 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
 * [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
 
+### .Impact
+
+[.impact](http://dotimpact.im/) is the home of independent effective altruist projects around the world. It is an open community with several active teams and has sponsored many [focus](http://dotimpact.im/focusprojects/projects.html) and non-focus projects, including:
+
+* [Effective Altruism Forum](http://effective-altruism.com/) ([project](http://dotimpact.im/focusprojects/forum.html)) is a community blog built using the LessWrong codebase with a new design.
+* [Effective Altruism Hub](https://eahub.org/) ([project](http://dotimpact.im/focusprojects/hub.html)) hosts and points to a range of resources and projects for effective altruists.
+* [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) contains several useful links:
+  * [Organizations relevant to EA](http://wiki.effectivealtruismhub.com/index.php?title=Organizations_relevant_to_EA)
+  * [List of EA discussion venues](http://wiki.effectivealtruismhub.com/index.php?title=List_of_EA_discussion_venues)
+
 ### More Organizations Relevant to EA
 
 * The mission of [The Life You Can Save](https://www.thelifeyoucansave.org/) is to change the culture of giving in affluent countries while dramatically raising annual donations to highly impactful nonprofits that reduce suffering and premature death for people living in extreme poverty.
 * [Charity Science](http://www.charityscience.com/) looks at the science and advocate for the most evidence-based and cost-effective charities.
-* [.impact](http://dotimpact.im/) is the home of independent effective altruist projects around the world. We’re an open community of people working on these which anyone can join, with several active teams.
 * [Less Wrong](http://lesswrong.com/) is a community blog devoted to refining the art of human rationality. It [claims](http://lesswrong.com/about/) that the Effective Altruism movement spun off from its community. It has an active [discussion board](http://lesswrong.com/r/discussion/new/) on which some posts are [promoted](http://lesswrong.com/promoted/). 
 
 ## Sources
