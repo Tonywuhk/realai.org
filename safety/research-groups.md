@@ -7,10 +7,14 @@ Many research groups that work on AI safety are connected with [effective altrui
 
 ##### Machine Intelligence Research Institute
 
-The [Machine Intelligence Research Institute](https://intelligence.org/) is a research nonprofit studying the mathematical underpinnings of intelligent behavior.
+The [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI) is a research nonprofit studying the mathematical underpinnings of intelligent behavior.
 
 * [Publications](https://intelligence.org/all-publications/)
 * [Team](https://intelligence.org/team/)
+
+MIRI was founded in 2000 and was known as the Singularity Institute for Artificial Intelligence. It agreed to change name following Singularity University's [acquisition](http://singularityu.org/2012/12/09/singularity-university-acquires-the-singularity-summit/) of the Singularity Summit in December 2012, and [became](https://intelligence.org/2013/01/30/we-are-now-the-machine-intelligence-research-institute-miri/) MIRI the following January.
+
+[Luke Muehlhauser](http://lukemuehlhauser.com/) became MIRI's Executive Director in 2011, and [left](https://intelligence.org/2015/05/06/a-fond-farewell-and-a-new-executive-director/) on 6 May 2015 to accept a research postion at [GiveWell](http://realai.org/safety/effective-altruism/#givewell-good-ventures-and-the-open-philanthropy-project). [Nate Soares](http://so8r.es/) has been MIRI's Executive Director since then.
 
 ##### [Future of Humanity Institute](https://www.fhi.ox.ac.uk/):
 
