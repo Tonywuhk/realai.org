@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 April 30. [Swedish Startup Uses AI to Figure Out What Dolphins Talk About](https://www.bloomberg.com/news/articles/2017-04-26/swedish-startup-uses-ai-to-figure-out-what-dolphins-talk-about). *Bloomberg Technology*.
+* 2017 April 28. [Viewpoint: Is inequality about to get unimaginably worse?](http://www.bbc.com/news/world-39706765). *BBC*.
 * 2017 April 28. [Tencent to open AI research center in Seattle](https://techcrunch.com/2017/04/28/tencent-to-open-ai-research-center-in-seattle/). *TechCrunch*.
 * 2017 April 28. [China's ride-hailing giant Didi raises $5.5 billion, valuing it at $50 billion](http://www.cnbc.com/2017/04/28/didi-chuxing-raises-funding-round-valuation-china.html). *CNBC*.
 * 2017 April 28. [Finding Solace in Defeat by Artificial Intelligence](https://www.technologyreview.com/s/604273/finding-solace-in-defeat-by-artificial-intelligence/?set=604287). *MIT Technology Review*.
