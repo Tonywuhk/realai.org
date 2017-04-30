@@ -17,7 +17,7 @@ In March 2013, Peter filmed [The Why and How of Effective Altruism](https://www.
 
 ## Select List of Organizations
 
-Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety organizations](http://realai.org/safety/organizations/).
+Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety research groups](http://realai.org/safety/research-groups/).
 
 ### Centre for Effective Altruism
 
