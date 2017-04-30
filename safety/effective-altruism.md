@@ -19,6 +19,8 @@ In March 2013, Peter filmed [The Why and How of Effective Altruism](https://www.
 
 The [Machine Intelligence Research Institute](http://realai.org/safety/research-groups/#machine-intelligence-research-institute) was founded in 2000 on the premise that creating Friendly AI might be a particularly efficient way to do as much good as possible. Its then Executive Director, Luke Muehlhauser, [argued](https://intelligence.org/2013/06/05/friendly-ai-research-as-effective-altruism/) on 5 June 2013 that Friendly AI research is EA. His argument focused on the reduction of existential risk, not the benefits such AIs could potentially produce.
 
+Using a [framework](https://80000hours.org/articles/problem-framework/) to compare different global problems in terms of impact, 80,000 Hours produced a [list](https://80000hours.org/articles/cause-selection/) of global problems. As of March 2017, [risks from artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranked on top, and other problems on the list, such as global priorities research, biosecurity, world health, and climate change, can clearly use a lot of help from safe and beneficial AI.
+
 ## Select List of Organizations
 
 Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety research groups](http://realai.org/safety/research-groups/).
