@@ -67,6 +67,7 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Elie Hassenfeld](http://www.openphilanthropy.org/about/team/elie-hassenfeld), Managing Director.
 * [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
 * [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
+* [Luke Muehlhauser](http://www.openphilanthropy.org/about/team/luke-muehlhauser), Research Analyst. He was previously the Executive Director of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
 
 ### .Impact
 
