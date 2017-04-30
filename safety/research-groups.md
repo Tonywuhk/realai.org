@@ -1,19 +1,21 @@
 ---
-permalink: /safety/organizations/
+permalink: /safety/research-groups/
 ---
-# Organizations
+# AI Safety Research Groups
 
-Many organizations that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/).
+Many research groups that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/).
+
+##### Machine Intelligence Research Institute
+
+The [Machine Intelligence Research Institute](https://intelligence.org/) is a research nonprofit studying the mathematical underpinnings of intelligent behavior.
+
+* [Publications](https://intelligence.org/all-publications/)
+* [Team](https://intelligence.org/team/)
 
 ##### [Future of Humanity Institute](https://www.fhi.ox.ac.uk/):
 
 * [Publications](http://www.fhi.ox.ac.uk/publications/)
 * [Team](https://www.fhi.ox.ac.uk/about/the-team/)
-
-##### [Machine Intelligence Research Institute](https://intelligence.org/)
-
-* [Publications](https://intelligence.org/all-publications/)
-* [Team](https://intelligence.org/team/)
 
 ##### [Future of Life Institute](https://futureoflife.org/)
 
