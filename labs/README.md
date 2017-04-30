@@ -55,7 +55,7 @@ permalink: /labs/
 
 ## Links
 
-* [AI safety organizations](http://realai.org/safety/organizations/)
+* [AI safety research groups](http://realai.org/safety/research-groups/)
 
 ## News Archive
 
