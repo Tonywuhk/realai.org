@@ -13,6 +13,10 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2014 September 3, *Oxford University Press*, [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111). Nick Bostrom.
 * 2004, September 9, *Time Books*, [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). Jeff Hawkins.
 
+### Introductory Posts
+
+* 2017 April 30. [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html). Piotr Migdał.
+
 ### Basic Computer Science
 
 * 2017 Winter, *Stanford University*, [MS&E 338: Reinforcement Learning](https://web.stanford.edu/class/msande338/). Benjamin Van Roy.
