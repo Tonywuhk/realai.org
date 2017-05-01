@@ -38,3 +38,7 @@ CFAR was spun off from MIRI in 2012, with which it still shares an office. Its c
 ##### [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
 
 ##### [Foundational Research Institute](https://foundational-research.org/)
+
+## References
+
+* 2016 December 13, Ben Henry. [2017 AI Risk Literature Review and Charity Comparison](http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/). *Effective Altruism Forum*.
