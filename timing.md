@@ -7,6 +7,7 @@ A list of reports *related to* when general AI will be created, in reverse chron
 
 ## News
 
+* 2017 April 30, Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*.
 * 2017 April 18, Jürgen Schmidhuber says artificial intelligence will surpass humans’ in 2050. Source: [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 March 29, Geoff Hinton predicted that reasoning and few-shot learning may come **later than 2027**. Source: [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly*.
 * 2017 March 17. DeepMind hopes to publish six more papers in Nature or Science within the next year, according to [Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0).
