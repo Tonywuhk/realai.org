@@ -54,7 +54,7 @@ In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk
 
 ### Givewell, Good Ventures and the Open Philanthropy Project
 
-[GiveWell](http://www.givewell.org/) is a public charity whose mission is to find outstanding giving opportunities through in-depth analysis. [Good Ventures](http://www.goodventures.org/) is a philanthropic foundation whose mission is to help humanity thrive. The two organizations share some core values and work closely together under the [Open Philanthropy Project](http://www.openphilanthropy.org/), whose mission is to learn how to give as effectively as they can and share their findings openly so that anyone can build on their work.
+[GiveWell](http://www.givewell.org/) is a public charity whose mission is to find outstanding giving opportunities through in-depth analysis. [Good Ventures](http://www.goodventures.org/) is a philanthropic foundation whose mission is to help humanity thrive. The two organizations share some core values and work closely together under the [Open Philanthropy Project](http://www.openphilanthropy.org/) (OPP), whose mission is to learn how to give as effectively as they can and share their findings openly so that anyone can build on their work.
 
 #### GiveWell
 
@@ -74,6 +74,12 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
 * [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
 * [Luke Muehlhauser](http://www.openphilanthropy.org/about/team/luke-muehlhauser), Research Analyst. He was previously the Executive Director of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
+* [Helen Toner](http://www.openphilanthropy.org/about/team/helen-toner), Senior Research Analyst.
+
+Disclosures in OPP's [Grants Database](http://www.openphilanthropy.org/giving/grants) suggest that there are likely close relationships between the staff members of OPP and its grantees:
+
+* [2016 August](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support#Relationship_disclosures): Helen lives in the same house as Nate Soares, Executive Director of MIRI, who also lives in the same house as Paul Christiano, one of OPP's technical advisors.
+* [2017 March](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support#Relationship_disclosures): Holden lives in the same house as Dario Amodei and Paul Christiano, both OPP's technical advisors.
 
 ### .Impact
 
