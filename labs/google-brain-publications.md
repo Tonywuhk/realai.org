@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 April 23, Pierre Sermanet, Corey Lynch, Jasmine Hsu, and Sergey Levine. [Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation](https://arxiv.org/abs/1704.06888). *arXiv:1704.06888*.
 * 2017 April 23, Adams Wei Yu, Hongrae Lee, and Quoc V. Le. [Learning to Skim Text](https://arxiv.org/abs/1704.06877). *arXiv:1704.06877*.
 * 2017 April 19, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, and Honglak Lee. [Learning to Generate Long-term Future via Hierarchical Prediction](https://arxiv.org/abs/1704.05831). *arXiv:1704.05831*. [site](https://sites.google.com/a/umich.edu/rubenevillegas/hierch_vid).
 * 2017 April 17, Ardavan Saeedi, Matthew D. Hoffman, Stephen J. DiVerdi, Asma Ghandeharioun, Matthew J. Johnson, and Ryan P. Adams. [Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models](https://arxiv.org/abs/1704.04997). *arXiv:1704.04997*.
