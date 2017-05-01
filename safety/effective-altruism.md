@@ -76,10 +76,10 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Luke Muehlhauser](http://www.openphilanthropy.org/about/team/luke-muehlhauser), Research Analyst. He was previously the Executive Director of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
 * [Helen Toner](http://www.openphilanthropy.org/about/team/helen-toner), Senior Research Analyst.
 
-Disclosures in OPP's [Grants Database](http://www.openphilanthropy.org/giving/grants) suggest that there are likely close relationships between the staff members of OPP and its grantees:
+Disclosures in OPP's [Grants Database](http://www.openphilanthropy.org/giving/grants) suggest that there are likely close relationships between the staff members of OPP and its grantees, possibly due to involvement in the EA community. Below are two examples where staff members share the same house:
 
-* [2016 August](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support#Relationship_disclosures): Helen lives in the same house as Nate Soares, Executive Director of MIRI, who also lives in the same house as Paul Christiano, one of OPP's technical advisors.
-* [2017 March](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support#Relationship_disclosures): Holden lives in the same house as Dario Amodei and Paul Christiano, both OPP's technical advisors.
+* [2016 August](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support#Relationship_disclosures). Helen lives in the same house as Nate Soares, Executive Director of MIRI, who also lives in the same house as Paul Christiano, one of OPP's technical advisors.
+* [2017 March](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support#Relationship_disclosures). Holden lives in the same house as Dario Amodei and Paul Christiano, both OPP's technical advisors.
 
 ### .Impact
 
