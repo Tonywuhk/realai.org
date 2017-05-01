@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 April 30, Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*. ([Timing](http://realai.org/timing/))
 * 2017 April 22. [With Neuralink, Elon Musk Promises Human-to-Human Telepathy. Don’t Believe It.](https://www.technologyreview.com/s/604254/with-neuralink-elon-musk-promises-human-to-human-telepathy-dont-believe-it/). *MIT Technology Review*. ([News](http://realai.org/news/))
 * 2017 April 18, Jürgen Schmidhuber says artificial intelligence will surpass humans’ in 2050. Source: [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*. ([Timing](http://realai.org/timing/))
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [RL Algorithms](http://realai.org/model-free-rl-algorithms/))
