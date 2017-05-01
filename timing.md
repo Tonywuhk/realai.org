@@ -20,9 +20,10 @@ A list of reports *related to* when general AI will be created, in reverse chron
 * 2016 February 16, Demis Hassabis: decades away from general intelligence. Source: [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 * 2015 May 21, Geoff Hinton: common sense in **2025**. Source: [Google a step closer to developing machines with human-like intelligence](https://www.theguardian.com/science/2015/may/21/google-a-step-closer-to-developing-machines-with-human-like-intelligence). *The Guardian*.
 
-## Research
+## Research & Analysis
 
 * 2014, Survey: high-level machine intelligence in **2040** (median). Source: Vincent C. Müller and Nick Bostrom. [Future Progress in Artificial Intelligence: A Survey of Expert Opinion](http://www.nickbostrom.com/papers/survey.pdf). *Fundamental Issues of Artificial Intelligence*.
+* 2013 May 15, Luke Muehlhauser. [When Will AI Be Created?](https://intelligence.org/2013/05/15/when-will-ai-be-created/). *Machine Intelligence Research Institute*.
 
 ## Links
 
