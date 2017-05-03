@@ -3,7 +3,7 @@ permalink: /safety/effective-altruism/
 ---
 # Effective Altruism
 
-Effective altruism (EA), as currently (28 April 2017) [understood](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/) by the Centre for Effective Altruism, "is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis" ([MacAskill, 2017](http://commons.pacificu.edu/eip/vol18/iss1/1/)). As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
+Effective altruism (EA) is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis ([Centre for Effective Altruism, 2017](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)). This definition is echoed in, among others, [Wikipedia (2017)](https://en.wikipedia.org/wiki/Effective_altruism), [MacAskill (2017)](http://commons.pacificu.edu/eip/vol18/iss1/1/), and [Singer (2015)](https://www.amazon.com/Most-Good-You-Can-Effective/dp/0300180276/). As explained in an 80,000 Hours [blog post](https://80000hours.org/2012/03/what-is-an-effective-altruist/) on 5 March 2012, shortly after the term was fixed, altruism means helping others, and instead of just doing what feels right, effective altruists pause a moment and think about what will work best, and then do it.
 
 ## History
 
@@ -94,7 +94,10 @@ Disclosures in OPP's [Grants Database](http://www.openphilanthropy.org/giving/gr
 ## Sources
 
 * Some [effective altruism organizations](https://www.effectivealtruism.org/get-involved/) recommended by effectivealtruism.org.
+* 2017 May 3 (accessed online), Centre for Effective Altruism. [What is effective altruism?](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)
+* 2017 May 3 (accessed online), Wikipedia. [Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism).
 * 2017 January 31, William MacAskill. [Effective Altruism: Introduction](http://commons.pacificu.edu/eip/vol18/iss1/1/). *Essays in Philosophy*, 18(1):1-5.
 * 2016 May 17. [Policy on Working Arrangement Between GiveWell and Good Ventures](http://www.givewell.org/about/official-records/gw-gv-working-arrangement-policy). *GiveWell Official Records*.
+* 2015 April 7, Peter Singer. [The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically](https://www.amazon.com/Most-Good-You-Can-Effective/dp/0300180276/). *Yale University Press*.
 * 2014 August 20, Holden Karnofsky. [Open Philanthropy Project (formerly GiveWell Labs)](http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/). *The GiveWell Blog*.
 * 2014 March 11, William MacAskill. [The history of the term 'effective altruism'](http://effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/). *Effective Altruism Forum*.
