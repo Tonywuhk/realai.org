@@ -20,6 +20,10 @@ permalink: /policies/
 
 * 2017 February 16. [European parliament calls for robot law, rejects robot tax](http://www.reuters.com/article/us-europe-robots-lawmaking-idUSKBN15V2KM). *Reuters*.
 
+## Singapore
+
+* 2017 May 3. [Singapore to invest over $100 million in A.I. in next five years in smart nation, innovation hub push](http://www.cnbc.com/2017/05/03/singapores-national-research-foundation-to-invest-150-million-dollars-in-ai.html). *CNBC*.
+
 ## United Kingdom
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
