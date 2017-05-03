@@ -3,6 +3,8 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 May 3. [Facebook shares dip from high as investors fret over costs, future profit](http://www.reuters.com/article/us-facebook-results-idUSKBN17Z2GY). *Reuters*.
+* 2017 May 3. [Fed Keeps Rates on Hold as Slowdown in Growth Seen Temporary](https://www.bloomberg.com/news/articles/2017-05-03/fed-refrains-from-rate-hike-while-maintaining-sunny-outlook). *Bloomberg Markets*.
 * 2017 May 2. [Apple Sells Fewer iPhones in Last Quarter, Shares Slide](https://www.bloomberg.com/news/articles/2017-05-02/apple-sells-fewer-iphones-in-latest-quarter-as-consumers-wait). *Bloomberg Technology*.
 * 2017 May 2. [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2017/05/apple-reports-second-quarter-results/). *Apple Newsroom*.
 * 2017 May 2. [AMD’s stock plunges to biggest loss in over 12 years](http://www.marketwatch.com/story/amds-stock-plunges-toward-biggest-loss-in-over-12-years-2017-05-02). *MarketWatch*.
@@ -21,3 +23,5 @@ permalink: /news/markets/
 * 2016 November 11. [Nvidia Stock Soars To Record High On 'Blowout' Earnings, Raised Guidance](http://www.investors.com/stock-lists/sector-leaders/nvidia-stock-soars-on-q3-beat-and-raise/). *Investor's Business Daily*.
 * 2016 June 13. [Microsoft Pays $26 Billion for LinkedIn in Biggest Deal Yet](https://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9). *Bloomberg*.
 * 2015 July 16. [Google Spikes 8% After Reporting Better-Than-Expected Q2 EPS Of $6.99](https://techcrunch.com/2015/07/16/google-q2-2015-earnings/). *TechCrunch*.
+
+AI News: [2017](http://realai.org/news/), [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
