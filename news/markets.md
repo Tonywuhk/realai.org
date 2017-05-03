@@ -20,3 +20,4 @@ permalink: /news/markets/
 * 2016 November 15. [Trump Tech Meltdown Hits Fourth Day With Amazon Cut by $35 Billion](https://www.bloomberg.com/news/articles/2016-11-14/trump-tech-meltdown-hits-fourth-day-as-amazon-cut-by-35-billion). *Bloomberg*.
 * 2016 November 11. [Nvidia Stock Soars To Record High On 'Blowout' Earnings, Raised Guidance](http://www.investors.com/stock-lists/sector-leaders/nvidia-stock-soars-on-q3-beat-and-raise/). *Investor's Business Daily*.
 * 2016 June 13. [Microsoft Pays $26 Billion for LinkedIn in Biggest Deal Yet](https://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9). *Bloomberg*.
+* 2015 July 16. [Google Spikes 8% After Reporting Better-Than-Expected Q2 EPS Of $6.99](https://techcrunch.com/2015/07/16/google-q2-2015-earnings/). *TechCrunch*.
