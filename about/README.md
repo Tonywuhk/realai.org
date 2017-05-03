@@ -5,7 +5,7 @@ permalink: /about/
 
 Many of today’s problems, such as poverty, disease, and climate change, can be solved by artificial general intelligence (AGI). Real AI's mission is to ensure that humanity has a bright future with [safe and beneficial](http://realai.org/safety/) AGI. On a smart planet that automatically produces goods and services, everyone lives well and prosper. We do our best to turn this vision into reality.
 
-We are based in Hong Kong and are not driven by profit. Our long-term plan is to develop altruistic intelligence, a system that [does the most good it can](http://realai.org/safety/effective-altruism/). Limited by resources, we currently focus on monitoring worldwide development in the field of AI. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
+We are based in Hong Kong and are not driven by profit. We adopt the principles of [effective altruism](http://realai.org/safety/effective-altruism/), and plan to develop altruistic intelligence, an AI that does the most good it can. Limited by resources, we currently focus on monitoring worldwide development in the field of AI. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
 
 | Company Information      | As of April 2017                       |
 | ------------------------ | -------------------------------------- |
