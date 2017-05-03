@@ -6,7 +6,9 @@ permalink: /news/markets/
 * 2017 May 2. [Apple Sells Fewer iPhones in Last Quarter, Shares Slide](https://www.bloomberg.com/news/articles/2017-05-02/apple-sells-fewer-iphones-in-latest-quarter-as-consumers-wait). *Bloomberg Technology*.
 * 2017 May 2. [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2017/05/apple-reports-second-quarter-results/). *Apple Newsroom*.
 * 2017 May 2. [AMD’s stock plunges to biggest loss in over 12 years](http://www.marketwatch.com/story/amds-stock-plunges-toward-biggest-loss-in-over-12-years-2017-05-02). *MarketWatch*.
+* 2017 April 28. [Wall Street slips on weak GDP data, but indexes rise in April](http://www.reuters.com/article/us-usa-stocks-idUSKBN17U1NH). *Reuters*.
 * 2017 April 27. [Big market day tomorrow: Nasdaq futures jump after hours on Amazon, Alphabet earnings](http://www.cnbc.com/2017/04/27/nasdaq-100-futures-surge-after-hours-on-amazon-alphabet-earnings.html). *CNBC*.
+* 2017 April 27. [2016 Founders’ Letter: A is for Alphabet](https://abc.xyz/investor/founders-letters/2016/index.html). *Alphabet Investor Relations*.
 * 2017 April 27. [Alphabet Announces First Quarter 2017 Results](https://abc.xyz/investor/news/earnings/2017/Q1_alphabet_earnings/). *Alphabet Investor Relations*.
 * 2017 April 27. [Amazon.com Announces First Quarter Sales up 23% to $35.7 Billion](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2266657). *Amazon.com*.
 * 2017 April 27. [Earnings Release FY17 Q3: Microsoft Cloud Strength Highlights Third Quarter Results](https://www.microsoft.com/en-us/Investor/earnings/FY-2017-Q3/press-release-webcast). *Microsoft Investor Relations*.
