@@ -15,7 +15,7 @@ We are based in Hong Kong and are not driven by profit. Our long-term plan is to
 | Date of Incorporation    | 19 December 2016                       |
 | Director                 | [Jonathan Yan](mailto:jyan@realai.org) |
 
-Real AI is currently supported by donations. Our bank account number is 390-693182-883, [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12). Please note that we are **not**, and do not intend to be, a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong.
+Real AI is currently supported by donations. Our bank account number is 390-693182-883, [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12). Please note that we are **not**, and do not intend to be, a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong. We plan to include in our Articles of Association clauses that state precisely and clearly our objectives, and do not expect to pay any dividends in the foreseeable future.
 
 | Date of Donation | Donor                                                               | Amount         |
 | ---------------- | ------------------------------------------------------------------- | -------------- |
