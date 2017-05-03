@@ -5,7 +5,7 @@ permalink: /about/
 
 Many of today’s problems, such as poverty, disease, and climate change, can be solved by artificial general intelligence (AGI). Real AI's mission is to ensure that humanity has a bright future with [safe and beneficial](http://realai.org/safety/) AGI. On a smart planet that automatically produces goods and services, everyone lives well and prosper. We do our best to turn this vision into reality.
 
-We are based in Hong Kong and are not for profit. Our long-term plan is to conduct original research, but limited by resources, we currently focus on monitoring worldwide development in the field of AI. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us. We are currently in urgent need of help on nonprofit administration and governance.
+We are based in Hong Kong and are not driven by profit. Our long-term plan is to develop altruistic intelligence, a system that [does the most good it can](http://realai.org/safety/effective-altruism/). Limited by resources, we currently focus on monitoring worldwide development in the field of AI. Please contact [hr@realai.org](mailto:hr@realai.org) if you're interested in working with us.
 
 | Company Information      | As of April 2017                       |
 | ------------------------ | -------------------------------------- |
@@ -15,7 +15,7 @@ We are based in Hong Kong and are not for profit. Our long-term plan is to condu
 | Date of Incorporation    | 19 December 2016                       |
 | Director                 | [Jonathan Yan](mailto:jyan@realai.org) |
 
-Real AI is supported by donations. Our bank account number is 390-693182-883, [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12). Please note that we have **not** yet established ourselves as a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong.
+Real AI is currently supported by donations. Our bank account number is 390-693182-883, [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12). Please note that we are **not**, and do not intend to be, a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong.
 
 | Date of Donation | Donor                                                               | Amount         |
 | ---------------- | ------------------------------------------------------------------- | -------------- |
