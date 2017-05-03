@@ -43,27 +43,27 @@ Long version: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/
 
 ##### What are the goals of your AI systems?
 
-We do not plan to build goal-driven AI systems. Our AIs are complex systems whose behaviors are dictated by the laws of physics, not the optimization of specific goals. We just need the systems to behave nicely.
+We do not plan to build goal-driven AI systems. Our AIs are complex systems whose behavior is dictated by the laws of physics, not the optimization of specific goals. We’d like our AIs to benefit humanity, and when technically feasible, adopt [effective altruism](http://realai.org/safety/effective-altruism) to do as much good as they can. This is not a clearly and precisely defined goal, but rather a general description of our AIs’ desired behavior.
 
-##### How do you ensure the behaviors of your AI systems are aligned with the interests of their operators?
+##### How do you ensure that the behavior of your AI systems is aligned with the interests of their operators?
 
-We don't do that. We aim to develop AI systems whose behaviors are aligned with human values and ethics, which not all operators understand properly. Sometimes not obeying the command of its operators is the right thing to do, and a safe and beneficial AI system must learn how to make that choice.
+We don't do that. We aim to develop AI systems whose behavior is aligned with human values and ethics, which not all operators understand properly. Sometimes not obeying the command of its operators is the right thing to do, and a safe and beneficial AI system must learn how to make that choice.
 
 ##### How do you specify human values and ethics to your AI systems?
 
-Intelligent systems do not have to understand human values or ethics to be safe and beneficial, as in many real world scenarios. But if necessary, our AI systems will learn by themselves to ensure that their behaviors are aligned with human interests. For example, if an intelligent system is asked a moral question, then it most likely will need to learn human values before it can provide a good answer.
+Intelligent systems do not have to understand human values or ethics to be safe and beneficial, as in many real world scenarios. But if necessary, our AI systems will learn by themselves to ensure that their behavior is aligned with human interests. For example, if an intelligent system is asked a moral question, then it most likely will need to learn human values before it can provide a good answer.
 
 ##### Why don't you try to come up with a precise description of human values and ethics?
 
 Because human values and ethics are deeply embedded in human brains, which contain a lot more information than what can be practically codified. A short descriptive text is only meaningful when it is understood together with a vast amount of background knowledge. When interpreted literally in isolation, it can be easily distorted.
 
-##### Why would your AI systems have beneficial behaviors?
+##### Why would your AI systems have beneficial behavior?
 
-Because we won't build systems that are not beneficial. Our research is completely open to the public and we will revise our methods when there are any concerns. Both development and monitoring efforts can potentially involve advanced AI systems too. Eventually, only paths leading to benefical AI will be pursued. Beneficial behaviors will be the result of human selection, just like "survival of the fittest" from Darwin's theory of evolution.
+Because we won't build systems that are not beneficial. Our research is completely open to the public and we will revise our methods when there are any concerns. Both development and monitoring efforts can potentially involve advanced AI systems too. Eventually, only paths leading to benefical AI will be pursued. Beneficial behavior will be the result of human selection, just like "survival of the fittest" from Darwin's theory of evolution.
 
 ##### Will AI systems self-modify?
 
-Yes, self-modification is a common intelligent behaviour. Just like people study and exercise, intelligent AI systems self-modify when they anticipate safe and beneficial outcomes.
+Yes, self-modification is a common intelligent behavior. Just like people study and exercise, intelligent AI systems self-modify when they anticipate safe and beneficial outcomes.
 
 ##### How can AI systems recognize when they are not operating normally?
 
