@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 3. [This ostrich robot doesn't need to think to run](https://www.engadget.com/2017/05/03/this-ostrich-robot-doesnt-need-to-think-to-run/). *Engadget*.
+* 2017 May 2. [The Quantum Thermodynamics Revolution](https://www.quantamagazine.org/quantum-thermodynamics-revolution/). *Quanta Magazine*.
 * 2017 April 30. [Swedish Startup Uses AI to Figure Out What Dolphins Talk About](https://www.bloomberg.com/news/articles/2017-04-26/swedish-startup-uses-ai-to-figure-out-what-dolphins-talk-about). *Bloomberg Technology*.
 * 2017 April 28. [Viewpoint: Is inequality about to get unimaginably worse?](http://www.bbc.com/news/world-39706765). *BBC*.
 * 2017 April 28. [Tencent to open AI research center in Seattle](https://techcrunch.com/2017/04/28/tencent-to-open-ai-research-center-in-seattle/). *TechCrunch*.
@@ -89,4 +91,4 @@ permalink: /news/
 * 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
 * 2017 January 2. [Summary of NIPS 2016](http://blog.evjang.com/2017/01/nips2016.html). *Eric Jang*.
 
-Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
+Older news: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/) \| [Markets](http://realai.org/news/markets/)
