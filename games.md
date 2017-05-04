@@ -16,7 +16,7 @@ The [StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/
 
 ## Poker
 
-Texas Hold'em Poker is a family of games that exhibit imperfect information, where players do not have full knowledge of past events. [Bowling et al. (2015)](http://science.sciencemag.org/content/347/6218/145) essentially weakly solved the heads-up limit version of the game. Using deep learning, [Moravčík & Schmid et al. (2017)](https://arxiv.org/abs/1701.01724) built a system that defeated professional players in the heads-up no-limit version.
+Texas Hold'em Poker is a family of games that exhibit imperfect information, where players do not have full knowledge of past events. [Bowling et al. (2015)](http://science.sciencemag.org/content/347/6218/145) essentially weakly solved the heads-up limit version of the game. Using deep learning, [Moravčík & Schmid et al. (2017)](https://arxiv.org/abs/1701.01724) built a system that defeated professional players in the heads-up no-limit version. One of its co-authors, Michael Bowling, estimated in a [tweet](https://twitter.com/MichaelHBowling/status/838426697817067520) on 6 March 2017 that computer will beat pros at multi-player level in "a couple years".
 
 ## Go
 
