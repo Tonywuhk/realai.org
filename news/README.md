@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 3. [TensorFlow > Performance > Benchmarks](https://www.tensorflow.org/performance/benchmarks). *tensorflow.org*.
 * 2017 May 3. [This ostrich robot doesn't need to think to run](https://www.engadget.com/2017/05/03/this-ostrich-robot-doesnt-need-to-think-to-run/). *Engadget*.
 * 2017 May 2. [The Quantum Thermodynamics Revolution](https://www.quantamagazine.org/quantum-thermodynamics-revolution/). *Quanta Magazine*.
 * 2017 April 30. [Swedish Startup Uses AI to Figure Out What Dolphins Talk About](https://www.bloomberg.com/news/articles/2017-04-26/swedish-startup-uses-ai-to-figure-out-what-dolphins-talk-about). *Bloomberg Technology*.
@@ -31,7 +32,8 @@ permalink: /news/
 * 2017 April 19. [PC classic StarCraft is now free](http://www.theverge.com/2017/4/19/15353282/download-starcraft-1-free-brood-war-blizzard). *The Verge*.
 * 2017 April 19. [Baidu Will Release a Free Operating System for Self-Driving Cars](https://www.technologyreview.com/s/604220/baidu-will-release-a-free-operating-system-for-self-driving-cars/). *MIT Technology Review*.
 * 2017 April 19. [Reinforcement Learning or Evolutionary Strategies? Nature has a solution: Both.](https://medium.com/@awjuliani/reinforcement-learning-or-evolutionary-strategies-nature-has-a-solution-both-8bc80db539b3). *Medium*.
-* 2017 April 18. [Jürgen Schmidhuber on the robot future​: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
+* 2017 April 18. [NVIDIA and Facebook Team Up to Supercharge Caffe2 Deep Learning Framework](https://blogs.nvidia.com/blog/2017/04/18/caffe2/). *nvidia.com*.
+* 2017 April 18. [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 April 14. [Learning to Love Intelligent Machines](https://www.wsj.com/articles/learning-to-love-intelligent-machines-1492174086). *Wall Street Journal*.
 * 2017 April 14. [That's quite a shot! Russian humanoid set for space learns how to shoot a gun with BOTH hands](http://www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns-shoot-gun-hands.html). *Daily Mail*.
 * 2017 April 14. [Apple granted autonomous car testing permit in California](http://www.foxnews.com/auto/2017/04/14/apple-granted-autonomous-car-testing-permit-in-california.html). *Fox News*.
