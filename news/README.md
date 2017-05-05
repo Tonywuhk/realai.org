@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 4. [Affordable driverless cars: How Bosch is quietly stepping up its AI drive with new lab](http://www.zdnet.com/article/affordable-driverless-cars-how-bosch-is-quietly-stepping-up-its-ai-drive-with-new-lab/). *ZDNet*.
 * 2017 May 3. [TensorFlow > Performance > Benchmarks](https://www.tensorflow.org/performance/benchmarks). *tensorflow.org*.
 * 2017 May 3. [This ostrich robot doesn't need to think to run](https://www.engadget.com/2017/05/03/this-ostrich-robot-doesnt-need-to-think-to-run/). *Engadget*.
 * 2017 May 2. [The Quantum Thermodynamics Revolution](https://www.quantamagazine.org/quantum-thermodynamics-revolution/). *Quanta Magazine*.
