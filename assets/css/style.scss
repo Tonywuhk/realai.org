@@ -11,6 +11,18 @@ body {
   background: #f2f2f2;
 }
 
+ol {
+  list-style: upper-roman;
+}
+
+ol ol {
+  list-style: decimal;
+}
+
+ol ol ol {
+  list-style: lower-roman;
+}
+
 #header_wrap {
   background: #3d85c6;
 }
