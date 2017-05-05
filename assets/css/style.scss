@@ -13,19 +13,16 @@ body {
 
 ol {
   list-style: upper-roman;
-  font-size: 24px;
   font-weight: bold;
 }
 
 ol ol {
   list-style: decimal;
-  font-size: 21px;
   font-weight: normal;
 }
 
 ol ol ol {
   list-style: lower-roman;
-  font-size: 18px;
 }
 
 #header_wrap {
