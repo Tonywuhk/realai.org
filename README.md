@@ -13,6 +13,11 @@ mathjax: true
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [RL Algorithms](http://realai.org/model-free-rl-algorithms/))
 * 2017 April 12, Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, and Audrunas Gruslys. [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/abs/1704.03732). *arXiv:1704.03732*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [RL Algorithms](http://realai.org/model-free-rl-algorithms/))
 
+## What's Next
+
+* 2017 May 19. [NIPS 2017](https://nips.cc/Conferences/2017) paper submission deadline. ([Call for Papers](https://nips.cc/Conferences/2017/CallForPapers))
+* 2017 May 23-27. The Future of Go Summit will be held in Wuzhen, China. ([DeepMind Blog](https://deepmind.com/blog/exploring-mysteries-alphago/))
+
 ## AI and Society
 
 Rapid [progress](http://realai.org/progress/) in artificial intelligence (AI) has raised the prospect that machines will [one day](http://realai.org/timing/) surpass humans in intelligence. Countries around the world have [policies](http://realai.org/policies/) in place to support AI research and development, [research groups](http://realai.org/labs/) are given a lot of resources, and many experts have already published [roadmaps](http://realai.org/roadmaps/) towards building artificial general intelligence (AGI).
