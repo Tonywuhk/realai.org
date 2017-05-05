@@ -5,6 +5,7 @@ permalink: /resources/demos/
 
 ## Audio
 
+* 2017 April 24. [Politicians discussing about Lyrebird](https://soundcloud.com/user-535691776/dialog) (hosted on SoundCloud). *[Lyrebird Demo](https://lyrebird.ai/demo)*.
 * 2017 April 12. [Sound examples and additional information](http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/) from "[A Neural Parametric Singing Synthesizer](https://arxiv.org/abs/1704.03809)".
 * 2017 March 29. Audio [samples](https://google.github.io/tacotron/) from "[Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135)".
 * 2016 December 22. [SampleRNN](https://soundcloud.com/samplernn): An Unconditional End-to-End Neural Audio Generation Model. [arXiv](https://arxiv.org/abs/1612.07837).
