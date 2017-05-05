@@ -24,9 +24,9 @@ mathjax: true
 
 2. AI and Society
     1. [Safety](http://realai.org/safety/)
-        * Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
-        * [Effective Altruism](http://realai.org/safety/effective-altruism/)
-        * [Research Groups](http://realai.org/safety/research-groups/)
+        1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
+        2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
+        3. [Research Groups](http://realai.org/safety/research-groups/)
     2. [Progress](http://realai.org/progress/)
     3. [Roadmaps](http://realai.org/roadmaps/)
     4. [Timing](http://realai.org/timing/)
@@ -41,44 +41,44 @@ mathjax: true
 
 4. Research
     1. Learning Objectives
-        * Unsupervised Learning:
+        1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
                 * [Predictive Learning](http://realai.org/predictive-learning/)
-        * [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning
-        * [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
-        * [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
+        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning
+        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
+        4. [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
     2. Learning Outcomes
-        * [Symbol Grounding](http://realai.org/symbol-grounding/)
-        * World Model
-        * Reasoning
-        * Attention
-        * Memory
+        1. [Symbol Grounding](http://realai.org/symbol-grounding/)
+        2. World Model
+        3. Reasoning
+        4. Attention
+        5. Memory
     3. Deep Learning
-        * [Network Architecture](http://realai.org/network-architecture/)
+        1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
             * [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
             * [Adversarial Learning](http://realai.org/adversarial-learning/)
             * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
-        * [Learning Rules](http://realai.org/learning-rules/)
-        * Generative Models
+        2. [Learning Rules](http://realai.org/learning-rules/)
+        3. Generative Models
     4. Reinforcement Learning
-        * [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
-        * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+        1. [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
+        2. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Prediction](http://realai.org/predictive-learning/)
             * [Exploration](http://realai.org/exploration/)
             * [Empowerment](http://realai.org/empowerment/)
-        * [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-        * [Imitation Learning](http://realai.org/imitation-learning/)
-        * [Platforms](http://realai.org/reinforcement-learning-platforms/)
+        3. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+        4. [Imitation Learning](http://realai.org/imitation-learning/)
+        5. [Platforms](http://realai.org/reinforcement-learning-platforms/)
     5. [Neuroscience](http://realai.org/neuroscience/)
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
-        * [Vision](http://realai.org/computer-vision/)
-        * Language: [Program Induction](http://realai.org/program-induction/)
-        * Robotics: Autonomous Driving
-        * [Games](http://realai.org/games/)
-        * [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
+        1. [Vision](http://realai.org/computer-vision/)
+        2. Language: [Program Induction](http://realai.org/program-induction/)
+        3. Robotics: Autonomous Driving
+        4. [Games](http://realai.org/games/)
+        5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
     8. Theory
-        * [Deep Learning Theory](http://realai.org/deep-learning-theory/)
+        1. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
     9. Implementation
-        * [Deep Learning Implementation](http://realai.org/deep-learning-implementation/)
+        1. [Deep Learning Implementation](http://realai.org/deep-learning-implementation/)
