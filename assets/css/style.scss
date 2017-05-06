@@ -59,10 +59,20 @@ table {
 body {
   background: #f2f2f2;
   box-sizing: border-box;
-  color:#373737;
+  color: #373737;
   font-family: Calibri, sans-serif;
   font-size: 16px;
   line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
 }
 
 /*******************************************************************************
@@ -76,17 +86,8 @@ License: CC0 https://github.com/pages-themes/slate/blob/master/LICENSE
 Theme Styles
 *******************************************************************************/
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   margin: 10px 0;
-  font-weight: 700;
-  color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
-  letter-spacing: -1px;
-}
-
-h1 {
-  font-size: 36px;
-  font-weight: 700;
 }
 
 h2 {
