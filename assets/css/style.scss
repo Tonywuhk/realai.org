@@ -1,6 +1,8 @@
 ---
 ---
 
+/* BEGIN: Meyerweb CSS Reset Tool */
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -50,6 +52,19 @@ table {
 	border-spacing: 0;
 }
 
+/* END: Meyerweb CSS Reset Tool */
+
+/* Real AI Theme */
+
+body {
+  background: #f2f2f2;
+  box-sizing: border-box;
+  color:#373737;
+  font-family: Calibri, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
 /*******************************************************************************
 ********************************************************************************
 Below contains a block of code copied from
@@ -60,16 +75,6 @@ License: CC0 https://github.com/pages-themes/slate/blob/master/LICENSE
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
-
-body {
-  box-sizing: border-box;
-  color:#373737;
-  background: #212121;
-  font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-}
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
@@ -454,10 +459,6 @@ https://github.com/pages-themes/slate/blob/master/_sass/jekyll-theme-slate.scss
 
 .inner {
   max-width: 960px;
-}
-
-body {
-  background: #f2f2f2;
 }
 
 ol {
