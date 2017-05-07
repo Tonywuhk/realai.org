@@ -33,3 +33,4 @@ permalink: /resources/
 * Machine Learning Camp [Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp).
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) on Reddit.
+* [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).
