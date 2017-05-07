@@ -84,6 +84,39 @@ h2 {
   font-size: 32px;
 }
 
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+hr {
+	border: none;
+	border-bottom: 1px dashed #d3d3d3;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+footer p {
+  color: #373737;
+  font-size: 10px;
+	margin: 5px 0 0;
+	text-align: justify;
+}
+
 /*******************************************************************************
 ********************************************************************************
 Below contains a block of code copied from
@@ -94,30 +127,6 @@ License: CC0 https://github.com/pages-themes/slate/blob/master/LICENSE
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
-
-h3 {
-  font-size: 24px;
-}
-
-h4 {
-  font-size: 21px;
-}
-
-h5 {
-  font-size: 18px;
-}
-
-h6 {
-  font-size: 16px;
-}
-
-p {
-  margin: 10px 0 15px 0;
-}
-
-footer p {
-  color: #f2f2f2;
-}
 
 a {
   text-decoration: none;
@@ -245,13 +254,6 @@ dl dd {
 dl p {
   padding-left: 20px;
   font-style: italic;
-}
-
-hr {
-  height: 1px;
-  margin-bottom: 5px;
-  border: none;
-  background: url('../images/bg_hr.png') repeat-x center;
 }
 
 table {
@@ -578,10 +580,4 @@ nav a {
   position: absolute;
   right: 4px;
   color: #fff;
-}
-
-#disclaimer {
-  color: black;
-  text-align: justify;
-  font-size: 10px;
 }
