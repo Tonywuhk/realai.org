@@ -28,6 +28,8 @@ permalink: /policies/
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
 
+## United States
+* 2017 May 5. [America’s ‘Miracle Machine’ is in desperate need of, well, a miracle](https://www.washingtonpost.com/opinions/americas-miracle-machine-is-in-desperate-need-of-well-a-miracle/2017/05/05/daafbe6a-30e7-11e7-9534-00e4656c22aa_story.html). *Washinton Post*.
 # Research
 
 * 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
