@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 6. [One reason more software engineers are heading to Toronto: Trump](http://www.cnbc.com/2017/05/05/vector-institute-ai-engineers-to-head-to-toronto-because-of-trump.html). *CNBC*.
 * 2017 May 6. [Warren Buffett Says Artificial Intelligence Will ‘Hurt’ Berkshire Hathaway’s Business](http://fortune.com/2017/05/06/warren-buffett-berkshire-hathaway-ai-self-driving-car/). *Fortune Finance*.
 * 2017 May 6. [Jeff Bezos explains Amazon’s artificial intelligence and machine learning strategy](https://www.geekwire.com/2017/jeff-bezos-explains-amazons-artificial-intelligence-machine-learning-strategy/). *GeekWire*.
 * 2017 May 4. [百度17年来首改公司使命 向人工智能转型](https://xw.qq.com/tech/20170504031203/TEC2017050403120303). *Tencent Technology*.
