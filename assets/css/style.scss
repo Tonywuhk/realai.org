@@ -1,9 +1,10 @@
 ---
 ---
 
-/* BEGIN: Meyerweb CSS Reset Tool */
+/* BEGIN: Meyerweb CSS Reset */
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* Adapted from:
+   http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -14,7 +15,7 @@ a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
-dl, dt, dd, ol, ul, li,
+ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
@@ -115,6 +116,34 @@ footer p {
   font-size: 10px;
   margin: 5px 0 0;
   text-align: justify;
+}
+
+ul, ol {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: disc;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+
+ol {
+  font-variant: small-caps;
+  font-weight: bold;
+  list-style: upper-roman;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+
+ol ol {
+  list-style: decimal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+ol ol ol {
+  list-style: lower-roman;
 }
 
 /*******************************************************************************
@@ -223,37 +252,6 @@ blockquote {
   margin-bottom: 20px;
   padding: 0 0 0 20px;
   border-left: 3px solid #bbb;
-}
-
-
-ul, ol, dl {
-  margin-bottom: 15px
-}
-
-ul {
-  list-style-position: inside;
-  list-style: disc;
-  padding-left: 20px;
-}
-
-ol {
-  list-style-position: inside;
-  list-style: decimal;
-  padding-left: 20px;
-}
-
-dl dt {
-  font-weight: bold;
-}
-
-dl dd {
-  padding-left: 20px;
-  font-style: italic;
-}
-
-dl p {
-  padding-left: 20px;
-  font-style: italic;
 }
 
 table {
@@ -391,8 +389,6 @@ Full-Width Styles
   background: #212121;
 }
 
-
-
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -463,20 +459,6 @@ https://github.com/pages-themes/slate/blob/master/_sass/jekyll-theme-slate.scss
   max-width: 960px;
 }
 
-ol {
-  list-style: upper-roman;
-  font-weight: bold;
-}
-
-ol ol {
-  list-style: decimal;
-  font-weight: normal;
-}
-
-ol ol ol {
-  list-style: lower-roman;
-}
-
 #header_wrap {
   background: #3d85c6;
 }
@@ -488,7 +470,7 @@ ol ol ol {
 
 #search_box {
   position: absolute;
-  top: 11px;
+  top: 10px;
   right: 85px;
   width: 160px;
 
