@@ -32,14 +32,7 @@ mathjax: true
     4. [Timing](http://realai.org/timing/)
     5. [Policies](http://realai.org/policies/)
 
-3. Industry [Labs](http://realai.org/labs/)
-    1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
-    2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
-    3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)
-    4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
-    5. [Vector Institute](http://realai.org/labs/vector-institute/)
-
-4. Research
+3. Research
     1. Learning Objectives
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
@@ -82,3 +75,25 @@ mathjax: true
         1. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
     9. Implementation
         1. [Deep Learning Implementation](http://realai.org/deep-learning-implementation/)
+
+## Apendix
+
+1. Industry [Labs](http://realai.org/labs/)
+    1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
+    2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
+    3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)
+    4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
+    5. [Vector Institute](http://realai.org/labs/vector-institute/)
+
+2. [News](http://realai.org/news/) (2017)
+    1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
+    2. [Markets](http://realai.org/news/markets/)
+
+3. [Resources](http://realai.org/resources/) (Blogs; Links)
+    1. [Curriculum](http://realai.org/resources/curriculum/)
+    2. [Conferences](http://realai.org/resources/conferences/)
+    3. [Demos](http://realai.org/resources/demos/)
+    4. [Open Source Projects](http://realai.org/resources/open-source-projects/)
+    5. [For Fun](http://realai.org/resources/for-fun/)
+
+4. [About](http://realai.org/about/) Real AI
