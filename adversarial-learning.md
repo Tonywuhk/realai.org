@@ -3,11 +3,16 @@ permalink: /adversarial-learning/
 ---
 # Adversarial Learning
 
+## Adversarial Training Examples
+
+[Koh & Liang (2017)](https://arxiv.org/abs/1703.04730) demonstrated that modern neural networks are vunerable to adversarial *training-set* attacks. They successfully flipped the classification output of an Inception network by making a visually-indistinguishable small change to just 1 training image.
+
 ## References
 
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
 * 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
   * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
+* 2017 March 14, Pang Wei Koh and Percy Liang. [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730). *arXiv:1703.04730*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
 * 2017 January 26, Martin Arjovsky, Soumith Chintala, and Léon Bottou. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv:1701.07875*.
 * 2017 January 23, Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, and Dan Jurafsky. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547). *arXiv:1701.06547*. [code](https://github.com/jiweil/Neural-Dialogue-Generation)
