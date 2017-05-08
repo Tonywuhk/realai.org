@@ -50,10 +50,10 @@ mathjax: true
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
             * [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-            * [Adversarial Learning](http://realai.org/adversarial-learning/)
             * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
         2. [Learning Rules](http://realai.org/learning-rules/)
-        3. Generative Models
+        3. [Adversarial Learning](http://realai.org/adversarial-learning/)
+        4. Generative Models
     4. Reinforcement Learning
         1. [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
         2. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
