@@ -20,6 +20,7 @@ permalink: /roadmaps/
 ### Others
 
 * 2017 April 5, Clément Moulin-Frier, Jordi-Ysard Puigbò, Xerxes D. Arsiwalla, Martì Sanchez-Fibla, and Paul F. M. J. Verschure. [Embodied Artificial Intelligence through Distributed Adaptive Control: An Integrated Framework](https://arxiv.org/abs/1704.01407). *arXiv:1704.01407*.
+* 2017 February 23. Alphabet's Schmidt and Page believe that simple algorithms can scale to reproduce human abilities. *[YouTube](https://www.youtube.com/watch?v=-UViiNq-dxk)*, 6:00-8:00.
 * 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
 * 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
 * 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
