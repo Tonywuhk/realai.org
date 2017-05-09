@@ -23,6 +23,7 @@ permalink: /roadmaps/
 * 2017 February 23. Alphabet's Schmidt and Page believe that simple algorithms can scale to reproduce human abilities. *[YouTube](https://www.youtube.com/watch?v=-UViiNq-dxk)*, 6:00-8:00.
 * 2017 January 7, Yann LeCun. [A Path to AI](https://futureoflife.org/wp-content/uploads/2017/01/Yann-LeCun.pdf). *Beneficial AI 2017.*
 * 2017 January 6, Yoshua Bengio. [Creating Human-Level AI](https://futureoflife.org/wp-content/uploads/2017/01/Yoshua-Bengio.pdf). *Beneficial AI 2017.*
+* 2016 October 24, Douwe Kiela, Luana Bulat, Anita L. Vero, and Stephen Clark. [Virtual Embodiment: A Scalable Long-Term Strategy for Artificial Intelligence Research](https://arxiv.org/abs/1610.07432). *arXiv:1610.07432*.
 * 2016 October 12, Jon Gauthier and Igor Mordatch. [A Paradigm for Situated and Goal-Driven Language Learning](https://arxiv.org/abs/1610.03585). *arXiv:1610.03585*.
 * 2016 July 29, Emmanuel Dupoux. [Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner](https://arxiv.org/abs/1607.08723). *arXiv:1607.08723*.
 * 2016 April 1, Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289). *arXiv:1604.00289*.
