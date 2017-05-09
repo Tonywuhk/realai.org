@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 9. [Amazon officially unveils touchscreen Echo Show](https://www.theverge.com/circuitbreaker/2017/5/9/15590978/amazon-echo-show-touchscreen-price-release-date). *The Verge*.
 * 2017 May 8. [Transforming transportation in Toronto](https://newsroom.uber.com/atg-toronto/). *Uber Newsroom*.
 * 2017 May 8. [Get ready for Cortana-powered Amazon Echo clones](https://venturebeat.com/2017/05/08/get-ready-for-cortana-powered-amazon-echo-clones/). *VencutreBeat*.
 * 2017 May 8. [NVIDIA Paves Path to AI Cities with Metropolis Edge-to-Cloud Platform for Video Analytics](http://nvidianews.nvidia.com/news/nvidia-paves-path-to-ai-cities-with-metropolis-edge-to-cloud-platform-for-video-analytics). *Nvidia Newsroom*.
