@@ -7,9 +7,12 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 May 5, Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364). *arXiv:1705.02364*.
 * 2017 April 28, Cisse Moustapha, Bojanowski Piotr, Grave Edouard, Dauphin Yann, and Usunier Nicolas. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
 * 2017 April 24, Georgia Gkioxari, Ross Girshick, Piotr Dollár, and Kaiming He. [Detecting and Recognizing Human-Object Interactions](https://arxiv.org/abs/1704.07333). *arXiv:1704.07333*.
 * 2017 April 18, Piotr Bojanowski and Armand Joulin. [Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310). *arXiv:1704.05310*.
+* 2017 April 13, Holger Schwenk, Ke Tran, Orhan Firat, and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
+* 2017 April 28, Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051). *arXiv:1704.00051*.
 * 2017 March 22, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.
 * 2017 March 20, Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. [Mask R-CNN](https://arxiv.org/abs/1703.06870). *arXiv:1703.06870*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
@@ -50,6 +53,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 November 16, Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He. [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431). *arXiv:1611.05431*.
 * 2016 November 6, Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, and Riccardo Zecchina. [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838). *arXiv:1611.01838*.
 * 2016 November 1, Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala, Timothée Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier. [TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games](https://arxiv.org/abs/1611.00625). *arXiv:1611.00625*.
+* 2016 October 24, Douwe Kiela, Luana Bulat, Anita L. Vero, and Stephen Clark. [Virtual Embodiment: A Scalable Long-Term Strategy for Artificial Intelligence Research](https://arxiv.org/abs/1610.07432). *arXiv:1610.07432*.
 * 2016 September 21, Alexandre Sablayrolles, Matthijs Douze, Hervé Jégou, and Nicolas Usunier. [How should we evaluate supervised hashing?](https://arxiv.org/abs/1609.06753). *arXiv:1609.06753*.
 * 2016 September 14, Edouard Grave, Armand Joulin, Moustapha Cissé, David Grangier, and Hervé Jégou. [Efficient softmax approximation for GPUs](https://arxiv.org/abs/1609.04309). *arXiv:1609.04309*.
 * 2016 September 11, Ronan Collobert, Christian Puhrsch, and Gabriel Synnaeve. [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://arxiv.org/abs/1609.03193). *arXiv:1609.03193*.
