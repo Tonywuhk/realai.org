@@ -57,6 +57,7 @@ mathjax: true
         4. Generative Models
     4. Reinforcement Learning
         1. [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
+        2. [Planning](http://realai.org/planning/)
         2. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Prediction](http://realai.org/predictive-learning/)
             * [Exploration](http://realai.org/exploration/)
