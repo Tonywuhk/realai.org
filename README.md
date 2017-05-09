@@ -31,6 +31,7 @@ mathjax: true
     3. [Roadmaps](http://realai.org/roadmaps/)
     4. [Timing](http://realai.org/timing/)
     5. [Policies](http://realai.org/policies/)
+    6. [Impacts](http://realai.org/impacts/)
 
 3. Research
     1. Learning Objectives
