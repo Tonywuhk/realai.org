@@ -3,6 +3,9 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 8. [Alphabet's Sidewalk Labs Eyes Toronto for Its Digital City](https://www.bloomberg.com/news/articles/2017-05-08/alphabet-s-sidewalk-labs-eyes-toronto-for-its-digital-city). *Bloomberg Technology*.
+* 2017 May 8. [AI startup Neurala claims major breakthrough in deep learning](https://siliconangle.com/blog/2017/05/08/ai-startup-neurala-claims-major-breakthrough-deep-learning/). *SiliconANGLE*.
+* 2017 May 6. [Why aren’t robots boosting economic productivity?](http://www.bostonglobe.com/business/2017/05/05/why-aren-robots-boosting-economic-productivity/GnrAb7Lx1HCtrjMiD1KY5J/story.html). *Boston Globe*.
 * 2017 May 6. [One reason more software engineers are heading to Toronto: Trump](http://www.cnbc.com/2017/05/05/vector-institute-ai-engineers-to-head-to-toronto-because-of-trump.html). *CNBC*.
 * 2017 May 6. [Warren Buffett Says Artificial Intelligence Will ‘Hurt’ Berkshire Hathaway’s Business](http://fortune.com/2017/05/06/warren-buffett-berkshire-hathaway-ai-self-driving-car/). *Fortune Finance*.
 * 2017 May 6. [Jeff Bezos explains Amazon’s artificial intelligence and machine learning strategy](https://www.geekwire.com/2017/jeff-bezos-explains-amazons-artificial-intelligence-machine-learning-strategy/). *GeekWire*.
