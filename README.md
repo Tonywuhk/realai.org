@@ -84,7 +84,7 @@ mathjax: true
 
 ## Apendix
 
-1. Industry [Labs](http://realai.org/labs/)
+1. [Research Groups](http://realai.org/labs/)
     1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
     2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
     3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)
