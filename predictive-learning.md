@@ -7,7 +7,9 @@ Predictive learning is machine learning with an objective of predicting future d
 
 ## Video Prediction
 
-A general framework for video prediction is to learn a representation of an input video sequence, which can be transformed (or copied) into a new representation to be decoded into a future video sequence. [Srivastava et al. (2015)](https://arxiv.org/abs/1502.04681) used multilayer LSTM networks to predict future sequences of image patches and high-level “percepts” of video frames extracted using a pretrained convolutional net. [Mathieu et al. (2015)](https://arxiv.org/abs/1511.05440) proposed adversarial and image gradient difference losses, then used a multi-scale convolutional network to generate sharper future images. Inspired by the "predictive coding" [(Rao & Ballard, 1999)](http://www.nature.com/neuro/journal/v2/n1/abs/nn0199_79.html) concept from neuroscience, [Lotter et al. (2016)](https://arxiv.org/abs/1605.08104) built a multi-layer network where each layer made local predictions and only forwarded deviations from those predictions to subsequent layers.
+A general framework for video prediction is to learn a representation of an input video sequence, which can be transformed (or copied) into a new representation to be decoded into a future video sequence. [Srivastava et al. (2015)](https://arxiv.org/abs/1502.04681) used multilayer LSTM networks to predict future sequences of image patches and high-level “percepts” of video frames extracted using a pretrained convolutional net. [Mathieu et al. (2015)](https://arxiv.org/abs/1511.05440) proposed adversarial and image gradient difference losses, then used a multi-scale convolutional network to generate sharper future images. A similar multi-scale architecture is used in [Neverova & Luc et al. (2017)](https://arxiv.org/abs/1703.07684) to predict segmentation maps from earlier semantically segmented video frames, and substantially better results are achieved in the Cityscapes dataset.
+
+Inspired by the "predictive coding" [(Rao & Ballard, 1999)](http://www.nature.com/neuro/journal/v2/n1/abs/nn0199_79.html) concept from neuroscience, [Lotter et al. (2016)](https://arxiv.org/abs/1605.08104) built a multi-layer network where each layer made local predictions and only forwarded deviations from those predictions to subsequent layers.
 
 ### Action-Conditional Prediction
 
@@ -17,6 +19,7 @@ Many environments change in response to the actions of agents. [Oh et al. (2015)
 
 * 2017 April 7, Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, and Shakir Mohamed. [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254). *arXiv:1704.02254*.
 * 2017 April 5, Alec Radford, Rafal Jozefowicz, and Ilya Sutskever. [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444). *arXiv:1704.01444*.
+* 2017 March 28, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.
 * 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
 * 2016 October 31, Eder Santana, Matthew Emigh, Pablo Zegers, and Jose C Principe. [Exploiting Spatio-Temporal Structure with Recurrent Winner-Take-All Networks](https://arxiv.org/abs/1611.00050). *arXiv:1611.00050*.
