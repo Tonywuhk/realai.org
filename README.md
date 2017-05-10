@@ -91,12 +91,13 @@ mathjax: true
     4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
     5. [Vector Institute](http://realai.org/labs/vector-institute/)
 
-2. Companies
+2. [Companies](http://realai.org/companies/)
     1. Alphabet
     2. Facebook
     3. Amazon.com
     4. Apple
     5. Microsoft
+    8. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
 
 3. Global [Macro](http://realai.org/macro/)
 
