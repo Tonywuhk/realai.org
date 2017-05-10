@@ -27,14 +27,15 @@ mathjax: true
         1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Research Groups](http://realai.org/safety/research-groups/)
-    2. [Progress](http://realai.org/progress/)
-    3. [Roadmaps](http://realai.org/roadmaps/)
-    4. [Timing](http://realai.org/timing/)
-    5. [Policies](http://realai.org/policies/)
-    6. [Impacts](http://realai.org/impacts/)
-    7. [Philosophy](http://realai.org/philosophy/)
+    2. [Impacts](http://realai.org/impacts/)
+    3. [Progress](http://realai.org/progress/)
+    4. [Roadmaps](http://realai.org/roadmaps/)
+    5. [Timing](http://realai.org/timing/)
+    6. [Policies](http://realai.org/policies/)
 
-3. Research
+3. [Philosophy](http://realai.org/philosophy/) of Intelligence
+
+4. Research
     1. Learning Objectives
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
@@ -78,6 +79,8 @@ mathjax: true
         1. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
     9. Implementation
         1. [Deep Learning Implementation](http://realai.org/deep-learning-implementation/)
+        
+5. Applications
 
 ## Apendix
 
@@ -88,15 +91,15 @@ mathjax: true
     4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
     5. [Vector Institute](http://realai.org/labs/vector-institute/)
 
-2. Global [Macro](http://realai.org/macro/)
-
-3. Companies
+2. Companies
     1. Alphabet
     2. Facebook
     3. Amazon.com
     4. Apple
     5. Microsoft
-    
+
+3. Global [Macro](http://realai.org/macro/)
+
 4. [News](http://realai.org/news/) (2017)
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
     2. [Markets](http://realai.org/news/markets/)
