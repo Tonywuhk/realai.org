@@ -11,7 +11,7 @@ A general framework for video prediction is to learn a representation of an inpu
 
 ### Action-Conditional Prediction
 
-Many environments change in response to the actions of agents. [Oh et al. (2015)](https://arxiv.org/abs/1507.08750) generated predictions of Atari game video frames that are both realistic and useful for control. Building on their work, [Chiappa et al. (2017)](https://arxiv.org/abs/1704.02254) developed alternative learning architectures and improved performance. [Santana & Hotz (2016)](https://arxiv.org/abs/1611.00050) built models to predict real world highway scenes for self-driving cars.
+Many environments change in response to the actions of agents. [Oh et al. (2015)](https://arxiv.org/abs/1507.08750) generated predictions of Atari game video frames that are both realistic and useful for control. Building on their work, [Chiappa et al. (2017)](https://arxiv.org/abs/1704.02254) developed alternative learning architectures and improved performance. [Santana & Hotz (2016)](https://arxiv.org/abs/1611.00050) built models to predict real world highway scenes for self-driving cars. In [Finn et al. (2016)](https://arxiv.org/abs/1605.07157), the distribution of pixel motions from the previous frame is modelled to achieve action-conditioned video prediction. The new frame is formed as a combination of multiple predictions in which pixels are constrained to move in a local region or to an affine image transformation from the previous frame.
 
 ## References
 
@@ -20,6 +20,7 @@ Many environments change in response to the actions of agents. [Oh et al. (2015)
 * 2016 December 28, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
 * 2016 November 6, Alexey Dosovitskiy and Vladlen Koltun. [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779). *arXiv:1611.01779*.
 * 2016 October 31, Eder Santana, Matthew Emigh, Pablo Zegers, and Jose C Principe. [Exploiting Spatio-Temporal Structure with Recurrent Winner-Take-All Networks](https://arxiv.org/abs/1611.00050). *arXiv:1611.00050*.
+* 2016 October 17, Chelsea Finn, Ian Goodfellow, and Sergey Levine. [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157). *arXiv:1605.07157*.
 * 2016 August 19, Micah Richert, Dimitry Fisher, Filip Piekniewski, Eugene M. Izhikevich, and Todd L. Hylton. [Fundamental principles of cortical computation: unsupervised learning with prediction, compression and feedback](https://arxiv.org/abs/1608.06277). *arXiv:1608.06277*. [code](https://github.com/braincorp/ASC).
 * 2016 August 3, Eder Santana and George Hotz. [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230). *arXiv:1608.01230*.
 * 2016 July 22, Filip Piekniewski, Patryk Laurent, Csaba Petre, Micah Richert, Dimitry Fisher, and Todd Hylton. [Unsupervised Learning from Continuous Video in a Scalable Predictive Recurrent Network](https://arxiv.org/abs/1607.06854). *arXiv:1607.06854*. [code](https://github.com/braincorp/PVM).
