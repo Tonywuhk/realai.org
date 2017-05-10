@@ -88,15 +88,24 @@ mathjax: true
     4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
     5. [Vector Institute](http://realai.org/labs/vector-institute/)
 
-2. [News](http://realai.org/news/) (2017)
+2. Global [Macro](http://realai.org/macro/)
+
+3. Companies
+    1. Alphabet
+    2. Facebook
+    3. Amazon.com
+    4. Apple
+    5. Microsoft
+    
+4. [News](http://realai.org/news/) (2017)
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
     2. [Markets](http://realai.org/news/markets/)
 
-3. [Resources](http://realai.org/resources/) (Blogs; Links)
+5. [Resources](http://realai.org/resources/) (Blogs; Links)
     1. [Curriculum](http://realai.org/resources/curriculum/)
     2. [Conferences](http://realai.org/resources/conferences/)
     3. [Demos](http://realai.org/resources/demos/)
     4. [Open Source Projects](http://realai.org/resources/open-source-projects/)
     5. [For Fun](http://realai.org/resources/for-fun/)
 
-4. [About](http://realai.org/about/) Real AI
+6. [About](http://realai.org/about/) Real AI
