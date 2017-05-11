@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 May 9, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, Matt Botvinick, and Nando de Freitas. [Learning to learn without gradient descent by gradient descent](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2017 May 7, Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, and Peter W. Battaglia. [Metacontrol for Adaptive Imagination-Based Optimization](https://arxiv.org/abs/1705.02670). *arXiv:1705.02670*.
 * 2017 April 23, Kartik Goyal, Chris Dyer, and Taylor Berg-Kirkpatrick. [Differentiable Scheduled Sampling for Credit Assignment](https://arxiv.org/abs/1704.06970). *arXiv:1704.06970*.
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*.
@@ -63,7 +64,6 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
   * 2016 March 4. [modified version](https://openreview.net/forum?id=SJ6yPD5xg). *OpenReview*.
   * 2016 December 10, Kosuke Miyoshi. [replication using TensorFlow and DeepMind Lab](https://github.com/miyosuda/unreal). *GitHub*.
 * 2016 November 16, Joon Son Chung, Andrew Senior, Oriol Vinyals, and Andrew Zisserman. [Lip Reading Sentences in the Wild](https://arxiv.org/abs/1611.05358). *arXiv:1611.05358*.
-* 2016 November 11, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, and Nando de Freitas. [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
 * 2016 November 8, Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, and Tomas Kocisky. [The Neural Noisy Channel](https://arxiv.org/abs/1611.02554). *arXiv:1611.02554*.
