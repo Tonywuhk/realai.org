@@ -93,11 +93,21 @@ $$
   Q^{EC}(s_t, a_t) \leftarrow
     \begin{cases}
       R_t & \text{if } (s_t, a_t) \notin Q^{EC}, \\
-      max \{ Q^{EC}(s_t, a_t), R_t \} & \text{otherwise,}
+      \max \{ Q^{EC}(s_t, a_t), R_t \} & \text{otherwise,}
     \end{cases}
 $$
 
-and the \\(Q\\)-value for a novel state-action pair is approximated by the average of the existing \\(Q\\)-values of the k state-action pairs using the novel state’s k nearest neighbours.
+and the \\(Q\\)-value for a novel state-action pair is approximated by the average of the existing \\(Q\\)-values of the k state-action pairs using the novel state’s k nearest neighbours. A differentiable version of this episodic memory is described in [Pritzel et al. (2017)](https://arxiv.org/abs/1703.01988). For each possible action, a *differentiable neural dictionary* (DND) is a dictionary of key-value pairs, where the key \\(h\\) is a representation of the agent’s observation in state \\(s\\),
+
+$$
+  Q(h) \leftarrow
+    \begin{cases}
+      Q^{(N)}(s, a) & \text{if } h \notin Q, \\
+      Q(h) + \alpha(Q^{(N)}(s, a) - Q(h)) & \text{otherwise,}
+    \end{cases}
+$$
+
+where the learning rate \\(\alpha\\) could have a high value. State representations are obtained from a convolutional embedding network. The network’s parameters and the keys and values used in DND are learned by matching \\(Q\\) and \\(Q^{(N)}\\).
 
 ## References
 
@@ -105,6 +115,7 @@ and the \\(Q\\)-value for a novel state-action pair is approximated by the avera
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*.
 * 2017 April 12, Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, and Audrunas Gruslys. [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/abs/1704.03732). *arXiv:1704.03732*.
 * 2017 April 10, Ivaylo Popov, Nicolas Heess, Timothy Lillicrap, Roland Hafner, Gabriel Barth-Maron, Matej Vecerik, Thomas Lampe, Yuval Tassa, Tom Erez, and Martin Riedmiller. [Data-efficient Deep Reinforcement Learning for Dexterous Manipulation](https://arxiv.org/abs/1704.03073). *arXiv:1704.03073*.
+* 2017 March 6, Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell. [Neural Episodic Control](https://arxiv.org/abs/1703.01988). *arXiv:1703.01988*.
 * 2017 February 28, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). *arXiv:1702.08892*.
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
