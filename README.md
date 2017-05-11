@@ -71,7 +71,7 @@ mathjax: true
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
         1. [Vision](http://realai.org/computer-vision/)
-        2. Language: [Program Induction](http://realai.org/program-induction/)
+        2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
         3. Robotics: Autonomous Driving
         4. [Games](http://realai.org/games/)
         5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
