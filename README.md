@@ -82,6 +82,8 @@ mathjax: true
         
 5. Applications
 
+6. [Conclusion](http://realai.org/conclusion/)
+
 ## Apendix
 
 1. [Research Groups](http://realai.org/labs/)
