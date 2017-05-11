@@ -1,5 +1,5 @@
 ---
-permalink: /realai/conclusion/
+permalink: /conclusion/
 ---
 # Conclusion
 
