@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 May 10. [Snap misses on Q1 earnings, stock craters 20%](http://www.businessinsider.com/snap-q1-earnings-results-2017-5). *Business Insider*.
 * 2017 May 9. [Nvidia is unstoppable—until somebody invents a better AI chip](https://qz.com/979846/nvidia-nvda-is-unstoppable-until-somebody-invents-a-better-ai-chip/). *Quartz*.
 * 2017 May 3. [Facebook shares dip from high as investors fret over costs, future profit](http://www.reuters.com/article/us-facebook-results-idUSKBN17Z2GY). *Reuters*.
 * 2017 May 3. [Fed Keeps Rates on Hold as Slowdown in Growth Seen Temporary](https://www.bloomberg.com/news/articles/2017-05-03/fed-refrains-from-rate-hike-while-maintaining-sunny-outlook). *Bloomberg Markets*.
