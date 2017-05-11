@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 May 10, Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, and Ross Girshick. [Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633). *arXiv:1705.03633*.
 * 2017 May 8, Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin. [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122). *arXiv:1705.03122*.
 * 2017 May 5, Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364). *arXiv:1705.02364*.
 * 2017 April 28, Cisse Moustapha, Bojanowski Piotr, Grave Edouard, Dauphin Yann, and Usunier Nicolas. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
@@ -14,6 +15,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 April 18, Piotr Bojanowski and Armand Joulin. [Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310). *arXiv:1704.05310*.
 * 2017 April 13, Holger Schwenk, Ke Tran, Orhan Firat, and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
 * 2017 April 28, Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051). *arXiv:1704.00051*.
+* 2017 March 29, Gao Huang, Danlu Chen, Tianhong Li, Felix Wu, Laurens van der Maaten, and Kilian Q. Weinberger. [Multi-Scale Dense Convolutional Networks for Efficient Prediction](https://arxiv.org/abs/1703.09844). *arXiv:1703.09844*.
+* 2017 March 27, Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, Angeliki Lazaridou, Klemen Simonic, and Tomas Mikolov. [CommAI: Evaluating the first steps towards a useful general AI](https://arxiv.org/abs/1701.08954). *arXiv:1701.08954*.
 * 2017 March 22, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.
 * 2017 March 20, Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. [Mask R-CNN](https://arxiv.org/abs/1703.06870). *arXiv:1703.06870*.
 * 2017 March 20, Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585). *arXiv:1703.06585*.
@@ -31,6 +34,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2016
 
+* 2016 December 29, Ang Li, Allan Jabri, Armand Joulin, and Laurens van der Maaten. [Learning Visual N-Grams from Web Data](https://arxiv.org/abs/1612.09161). *arXiv:1612.09161*.
 * 2016 December 27, Huamin Li, Yuval Kluger, and Mark Tygert. [Randomized algorithms for distributed computation of principal component analysis and singular value decomposition](https://arxiv.org/abs/1612.08709). *arXiv:1612.08709*.
 * 2016 December 23, Yann N. Dauphin, Angela Fan, Michael Auli, and David Grangier. [Language Modeling with Gated Convolutional Networks](https://arxiv.org/abs/1612.08083). *arXiv:1612.08083*.
 * 2016 December 21, Angeliki Lazaridou, Alexander Peysakhovich, and Marco Baroni. [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182). *arXiv:1612.07182*.
@@ -44,6 +48,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 December 9, Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, and Serge Belongie. [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144). *arXiv:1612.03144*.
 * 2016 December 8, Xianming Liu, Amy Zhang, Tobias Tiecke, Andreas Gros, and Thomas S. Huang. [Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation](https://arxiv.org/abs/1612.02766). *arXiv:1612.02766*.
 * 2016 December 6, Amy Zhang, Xianming Liu, Tobias Tiecke, and Andreas Gros. [Population Density Estimation with Deconvolutional Neural	Networks](https://research.fb.com/publications/population-density-estimation-with-deconvolutional-neuralnetworks/). *Workshop on Large Scale Computer Vision at NIPS 2016*.
+* 2016 December 3, Gao Huang, Zhuang Liu, Kilian Q. Weinberger, and Laurens van der Maaten. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993). *arXiv:1608.06993*.
 * 2016 November 29, Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, and Jason Weston. [Dialogue Learning With Human-In-The-Loop](https://arxiv.org/abs/1611.09823). *arXiv:1611.09823*.
 * 2016 November 26, Z. Berkay Celik, David Lopez-Paz, and Patrick McDaniel. [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/abs/1611.08648). *arXiv:1611.08648*.
 * 2016 November 25, Pauline Luc, Camille Couprie, Soumith Chintala, and Jakob Verbeek. [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408). *arXiv:1611.08408*.
@@ -56,6 +61,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 November 16, Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He. [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431). *arXiv:1611.05431*.
 * 2016 November 6, Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, and Riccardo Zecchina. [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838). *arXiv:1611.01838*.
 * 2016 November 1, Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala, Timothée Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier. [TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games](https://arxiv.org/abs/1611.00625). *arXiv:1611.00625*.
+* 2016 October 27, Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, and Devi Parikh. [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468). *arXiv:1505.00468*.
 * 2016 October 26, Roman Novak, Michael Auli, and David Grangier. [Iterative Refinement for Machine Translation](https://arxiv.org/abs/1610.06602). *arXiv:1610.06602*.
 * 2016 October 24, Douwe Kiela, Luana Bulat, Anita L. Vero, and Stephen Clark. [Virtual Embodiment: A Scalable Long-Term Strategy for Artificial Intelligence Research](https://arxiv.org/abs/1610.07432). *arXiv:1610.07432*.
 * 2016 October 1, Gurvan L'Hostis, David Grangier, and Michael Auli. [Vocabulary Selection Strategies for Neural Machine Translation](https://arxiv.org/abs/1610.00072). *arXiv:1610.00072*.
@@ -66,7 +72,9 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 September 10, Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, and Soumith Chintala. [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](https://arxiv.org/abs/1609.02993). *arXiv:1609.02993*.
 * 2016 September 8, Neil Zeghidour, Gabriel Synnaeve, Nicolas Usunier, and Emmanuel Dupoux. [Joint Learning of Speaker and Phonetic Similarities with Siamese Networks](https://research.fb.com/publications/joint-learning-of-speaker-and-phonetic-similarities-with-siamese-networks/). *Interspeech 2016*.
 * 2016 September 7, Matthijs Douze, Hervé Jégou, and Florent Perronnin. [Polysemous codes](https://arxiv.org/abs/1609.01882). *arXiv:1609.01882*.
+* 2016 August 31, C. Lawrence Zitnick, Aishwarya Agrawal, Stanislaw Antol, Margaret Mitchell, Dhruv Batra, and Devi Parikh. [Measuring Machine Intelligence Through Visual Question Answering](https://arxiv.org/abs/1608.08716). *arXiv:1608.08716*.
 * 2016 August 16, Vladimir Vapnik and Rauf Izmailov. [Synergy of Monotonic Rules](http://jmlr.org/papers/v17/16-137.html). *Journal of Machine Learning Research*, 17(136):1-33.
+* 2016 July 26, Ishan Misra, C. Lawrence Zitnick, and Martial Hebert. [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/abs/1603.08561). *arXiv:1603.08561*.
 * 2016 July 25, Flavian Vasile, Elena Smirnova, and Alexis Conneau. [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation](https://arxiv.org/abs/1607.07326). *arXiv:1607.07326*.
 * 2016 July 15, Piotr Bojanowski, Edouard Grave, Armand Joulin, and Tomas Mikolov. [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606). *arXiv:1607.04606*.
 * 2016 July 6, Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov. [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759). *arXiv:1607.01759*.
@@ -74,6 +82,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 June 27, Allan Jabri, Armand Joulin, and Laurens van der Maaten. [Revisiting Visual Question Answering Baselines](https://arxiv.org/abs/1606.08390). *arXiv:1606.08390*.
 * 2016 June 24, Camille Jandot, Patrice Simard, Max Chickering, David Grangier, and Jina Suh. [Interactive Semantic Featuring for Text Classification](https://arxiv.org/abs/1606.07545). *arXiv:1606.07545*.
 * 2016 June 23, Du Tran, Maksim Bolonkin, Manohar Paluri, and Lorenzo Torresani. [ViCom: Benchmark and Methods for Video Comprehension](https://arxiv.org/abs/1606.07373). *arXiv:1606.07373*.
+* 2016 June 17, Abhishek Das, Harsh Agrawal, C. Lawrence Zitnick, Devi Parikh, and Dhruv Batra. [Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?](https://arxiv.org/abs/1606.05589). *arXiv:1606.05589*.
 * 2016 June 15, Léon Bottou, Frank E. Curtis, and Jorge Nocedal. [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838). *arXiv:1606.04838*.
 * 2016 June 9, Alexander Miller, Adam Fisch, Jesse Dodge, Amir-Hossein Karimi, Antoine Bordes, and Jason Weston. [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126). *arXiv:1606.03126*.
 * 2016 June 9, Bharath Hariharan and Ross Girshick. [Low-shot Visual Recognition by Shrinking and Hallucinating Features](https://arxiv.org/abs/1606.02819). *arXiv:1606.02819*.
@@ -82,11 +91,16 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 May 25, Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. [Learning Multiagent Communication with Backpropagation](https://arxiv.org/abs/1605.07736). *arXiv:1605.07736*.
 * 2016 May 24, Antoine Bordes, Y-Lan Boureau, and Jason Weston. [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). *arXiv:1605.07683*.
 * 2016 May 9,  The Theano Development Team. [Theano: A Python framework for fast computation of mathematical expressions](https://arxiv.org/abs/1605.02688). *arXiv:1605.02688*.
+* 2016 May 5, Arjun Chandrasekaran, Ashwin K. Vijayakumar, Stanislaw Antol, Mohit Bansal, Dhruv Batra, C. Lawrence Zitnick, and Devi Parikh. [We Are Humor Beings: Understanding and Predicting Visual Humor](https://arxiv.org/abs/1512.04407). *arXiv:1512.04407*.
 * 2016 April 29, Jiajun Wu, Tianfan Xue, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba, and William T. Freeman. [Single Image 3D Interpreter Network](https://arxiv.org/abs/1604.08685). *arXiv:1604.08685*.
 * 2016 Aprial 13, Sumit Chopra, Michael Auli, and Alexander M. Rush. [Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](https://research.fb.com/publications/abstractive-summarization-with-attentive-rnn-naacl-2016/). *NAACL 2016*.
+* 2016 April 13,  Ting-Hao,  Huang, Francis Ferraro, Nasrin Mostafazadeh, Ishan Misra, Aishwarya Agrawal, Jacob Devlin, Ross Girshick, Xiaodong He, Pushmeet Kohli, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, Lucy Vanderwende, Michel Galley, and Margaret Mitchell [Visual Storytelling](https://arxiv.org/abs/1604.03968). *arXiv:1604.03968*.
+* 2016 April 12, Abhinav Shrivastava, Abhinav Gupta, and Ross Girshick. [Training Region-based Object Detectors with Online Hard Example Mining](https://arxiv.org/abs/1604.03540). *arXiv:1604.03540*.
+* 2016 April 12, Ishan Misra, C. Lawrence Zitnick, Margaret Mitchell, and Ross Girshick. [Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/abs/1512.06974). *arXiv:1512.06974*.
 * 2016 April 7, Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O. Pinheiro, Sam Gross, Soumith Chintala, and Piotr Dollár. [A MultiPath Network for Object Detection](https://arxiv.org/abs/1604.02135). *arXiv:1604.02135*.
 * 2016 March 29, Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollàr. [Learning to Refine Object Segments](https://arxiv.org/abs/1603.08695). *arXiv:1603.08695*.
 * 2016 March 24, Remi Lebret, David Grangier, and Michael Auli. [Neural Text Generation from Structured Data with Application to the Biography Domain](https://arxiv.org/abs/1603.07771). *arXiv:1603.07771*.
+* 2016 March 15, Wenjie Pei, David M. J. Tax, and Laurens van der Maaten. [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/abs/1603.04713). *arXiv:1603.04713*.
 * 2016 March 3, Adam Lerer, Sam Gross, and Rob Fergus. [Learning Physical Intuition of Block Towers by Example](https://arxiv.org/abs/1603.01312). *arXiv:1603.01312*.
 * 2016 February 22, Mikael Henaff, Arthur Szlam, and Yann LeCun. [Orthogonal RNNs and Long-Memory Tasks](https://arxiv.org/abs/1602.06662). *arXiv:1602.06662*.
 * 2016 February 9, Ilya Tolstikhin and David Lopez-Paz. [Minimax Lower Bounds for Realizable Transductive Classification](https://arxiv.org/abs/1602.03027). *arXiv:1602.03027*.
@@ -95,6 +109,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 ## 2015
 
 * 2015 December 15, Welin Chen, David Grangier, and Michael Auli. [Strategies for Training Large Vocabulary Neural Language Models](https://arxiv.org/abs/1512.04906). *arXiv:1512.04906*.
+* 2015 December 14, Sean Bell, C. Lawrence Zitnick, Kavita Bala, and Ross Girshick. [Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](https://arxiv.org/abs/1512.04143). *arXiv:1512.04143*.
 * 2015 December 7, Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. [Simple Baseline for Visual Question Answering](https://arxiv.org/abs/1512.02167). *arXiv:1512.02167*.
 * 2015 November 25, Tomas Mikolov, Armand Joulin, and Marco Baroni. [A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130). *arXiv:1511.08130*.
 * 2015 November 23, Sainbayar Sukhbaatar, Arthur Szlam, Gabriel Synnaeve, Soumith Chintala, and Rob Fergus. [MazeBase: A Sandbox for Learning from Games](https://arxiv.org/abs/1511.07401). *arXiv:1511.07401*.
