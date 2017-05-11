@@ -15,6 +15,7 @@ permalink: /resources/
 * [inFERENCe](http://www.inference.vc/), posts on machine learning, statistics, opinions on things Ferenc's reading in the space.
 * Eric [Jang](http://blog.evjang.com/), technology, A.I., careers.
 * Andrej [Karpathy](http://karpathy.github.io/) blog.
+* The [Morning Paper](https://blog.acolyer.org/) covers an interesting/influential/important paper from the world of CS every weekday morning, as selected by [Adrian Colye](https://twitter.com/adriancolyer).
 * The [Neural Perspective](https://theneuralperspective.com/) is all about simplifying and democratizing deep learning concepts and applications.
 * [Piekniewski's](http://blog.piekniewski.info/) blog on limits of deep learning and where to go next with AI.
 * Sebastian [Ruder](http://sebastianruder.com/) blogs about Machine Learning, Deep Learning, NLP, and startups.
