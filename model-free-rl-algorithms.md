@@ -18,13 +18,19 @@ $$
   Q^\pi (s,a) = \mathbb{E}[R_0 | S_0=s, A_0=a, \pi]
 $$
 
-is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). Similarly, the *state-value function*
+is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The \\(n\\)-step \\(Q\\)-value is defined as
+
+$$
+  Q^(n) (s,a) = r_t + \gamma r_{t+1} + ... + \gamma^{N-1} r_{t+N-1} + \gamma^n \max_{a'} Q(s_{t+N}, a').
+$$
+
+Similarly, the *state-value function*
 
 $$
   V^\pi (s) = \mathbb{E}[R_0 | S_0=s, \pi],
 $$
 
-and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
+and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* is defined as \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
 
 ## Value Based Reinforcement Learning Algorithms
 
