@@ -21,7 +21,7 @@ $$
 is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The \\(n\\)-step \\(Q\\)-value is defined as
 
 $$
-  Q^(n) (s,a) = r_t + \gamma r_{t+1} + ... + \gamma^{N-1} r_{t+N-1} + \gamma^n \max_{a'} Q(s_{t+N}, a').
+  Q^{(n)} (s,a) = r_t + \gamma r_{t+1} + ... + \gamma^{N-1} r_{t+N-1} + \gamma^n \max_{a'} Q(s_{t+N}, a').
 $$
 
 Similarly, the *state-value function*
@@ -68,7 +68,7 @@ was used to update the network.
 Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(a\_t \| s\_t; \theta)\\), sometimes with the help of learning a value function \\(V(s; \theta_v)\\). In the standard REINFORCE with baseline algorithm, the policy parameters \\(\theta\\) are often updated in the direction of 
 
 $$
-  (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta log \pi(a_t | s_t; \theta),
+  (R_t - V(s_t; \theta_v)) \cdot \nabla_\theta \log \pi(a_t | s_t; \theta),
 $$
 
 and \\(V(s\_t; \theta_v)\\) learns the target \\(R\_t\\). In actor-critic methods, the full accumulated reward \\(R\_t\\) is replaced by a target involving state values of subsequent states. Define
@@ -80,7 +80,7 @@ $$
 an \\(n\\)-step estimate of the advantage function. In the asynchronous **advantage actor-critic (A3C)** algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
 
 $$
-  A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta log \pi(a_t | s_t; \theta)
+  A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta \log \pi(a_t | s_t; \theta)
 $$
 
 augmented by the gradient of an entropy regularization term with respect to the policy parameters.
