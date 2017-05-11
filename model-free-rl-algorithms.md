@@ -77,13 +77,27 @@ $$
   A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta log \pi(a_t | s_t; \theta)
 $$
 
-augmented by an entropy regularization term with respect to the policy parameters.
+augmented by the gradient of an entropy regularization term with respect to the policy parameters.
 
 [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 
 [Gruslys et al. (2017)](https://arxiv.org/abs/1704.04651) proposed the *Reactor* actor-critic architecture in which the critic was trained by the Retrace algorithm and the actor by a novel \\(\beta\\)-leave-one-out policy gradient estimate. It used memory replay and multi-step returns.
 
 [Schulman et al. (2017)](https://arxiv.org/abs/1704.06440) showed that entropy-regularized Q-learning is exactly equivalent to a policy gradient method.
+
+## Episodic Control
+
+Gradient-based learning is generally very slow and consumes a lot of data. When data is limited, agents can use episodic memory to remember past experiences, and quickly learn suboptimal policies that perform reasonably well. In [Blundell et al. (2016)](https://arxiv.org/abs/1606.04460), the maximum cumulative reward for each state-action pair is maintained in the memory:
+
+$$
+  Q^{EC}(s_t, a_t) \leftarrow
+    \begin{cases}
+      R_t & \text{if } (s_t, a_t) \notin Q^{EC}, \\
+      max \{ Q^{EC}(s_t, a_t), R_t \} & \text{otherwise,}
+    \end{cases}
+$$
+
+and the \\(Q\\)-value for a novel state-action pair is approximated by the average of the existing \\(Q\\)-values of the k state-action pairs using the novel state’s k nearest neighbours.
 
 ## References
 
@@ -95,6 +109,7 @@ augmented by an entropy regularization term with respect to the policy parameter
 * 2017 February 27, Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, and Sergey Levine. [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). *arXiv:1702.08165*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
 * 2016 November 3, Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, and Nando de Freitas. [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224). *arXiv:1611.01224*.
+* 2016 June 14, Charles Blundell, Benigno Uria, Alexander Pritzel, Yazhe Li, Avraham Ruderman, Joel Z Leibo, Jack Rae, Daan Wierstra, and Demis Hassabis. [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460). *arXiv:1606.04460*.
 * 2016 June 8, Rémi Munos, Tom Stepleton, Anna Harutyunyan, and Marc G. Bellemare. [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647). *arXiv:1606.02647*.
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
 * 2015 September 22, Hado van Hasselt, Arthur Guez, and David Silver. [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461). *arXiv:1509.06461*.
