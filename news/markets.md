@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 May 11. [Traders Ask What Will Rouse Markets When Trump and Twitter Can't](https://www.bloomberg.com/news/articles/2017-05-11/traders-ask-what-will-rouse-markets-when-trump-and-twitter-can-t). *Bloomberg Markets*.
 * 2017 May 10. [Snap misses on Q1 earnings, stock craters 20%](http://www.businessinsider.com/snap-q1-earnings-results-2017-5). *Business Insider*.
 * 2017 May 9. [Nvidia is unstoppable—until somebody invents a better AI chip](https://qz.com/979846/nvidia-nvda-is-unstoppable-until-somebody-invents-a-better-ai-chip/). *Quartz*.
 * 2017 May 3. [Facebook shares dip from high as investors fret over costs, future profit](http://www.reuters.com/article/us-facebook-results-idUSKBN17Z2GY). *Reuters*.
