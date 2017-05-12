@@ -35,7 +35,9 @@ CFAR was spun off from MIRI in 2012, with which it still shares an office. Its c
 
 ##### [Center for the Study of Existential Risk](http://cser.org/)
 
-##### [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/)
+##### Leverhulme Center for the Future of Intelligence
+
+The [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) was [launched](http://www.cam.ac.uk/research/news/the-future-of-intelligence-cambridge-university-launches-new-centre-to-study-ai-and-the-future-of) in December 2015 by the University of Cambridge, where it is also based at. It is funded by a £10 million grant from the [Leverhulme Trust](https://www.leverhulme.ac.uk/), and has a clear practical goal, "to work together to ensure that we humans make the best of the opportunities of artificial intelligence as it develops over coming decades." It runs a series of [projects](http://www.lcfi.ac.uk/projects/) on the nature and impact of AI. [Demis Hassabis](http://lcfi.ac.uk/about/people/demis-hassabis/), co-founder and CEO of DeepMind, currently sits on CFI's [international advisory board](http://lcfi.ac.uk/about/people/).
 
 ##### [Foundational Research Institute](https://foundational-research.org/)
 
