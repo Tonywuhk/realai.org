@@ -7,7 +7,7 @@ The capability of inducing programs is a key to solving AI.
 
 [Neelakantan et al. (2015)](https://arxiv.org/abs/1511.04834) proposed *Neural Programmer*, a neural network augmented with discrete operations that can be trained end-to-end. The model performed well on a synthetic dataset, and was enhanced in [Neelakantan et al. (2016)](https://arxiv.org/abs/1611.08945) to map natural language queries to executable programs on a database.
 
-[Ling et al. (2017)](https://arxiv.org/abs/1705.04146) built a model to generate human-readable answer *rationales* that led to correct answers to algebraic word problems. Frequently used math operations such as 'Log' and 'Sine' are provided to the model. They combined techniques from sequence to sequence framework, program generation, and made use of pointer networks to attend to input and output tokens stored in memory.
+[Ling et al. (2017)](https://arxiv.org/abs/1705.04146) built a model to generate human-readable answer *rationales* that led to correct answers to algebraic word problems. Frequently used math operations such as `Log` and `Sine` are provided to the model. They combined techniques from sequence to sequence framework, program generation, and made use of pointer networks to attend to input and output tokens stored in memory.
 
 ## References
 
