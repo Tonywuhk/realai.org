@@ -11,6 +11,7 @@ permalink: /resources/conferences/
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
 | 2017/05/19 | 2017/12/04 - 09    | Long Beach, CA       | [NIPS 2017](https://nips.cc/Conferences/2017)
+| 2017/05/26 | 2017/09/06 - 08    | New York, NY         | [CCN 2017](http://ccneuro.org/)
 | 2017/06/28 | 2017/11/13 - 15    | Mountain View, CA    | [CoRL 2017](http://www.robot-learning.org/)
 |            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
 |            | 2017/07/30 - 08/04 | Vancouver, Canada    | [ACL 2017](http://acl2017.org/)
@@ -45,7 +46,7 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 ## Non-Academic
 
 * AI Frontiers: [2017](https://www.aifrontiers.com/2017)
-* AI with the Best: *[2017.04.29](https://ai.withthebest.com/)*
+* AI with the Best: [2017](https://ai.withthebest.com/)
 * Code: *[2017.05.30](https://events.recode.net/events/code-conference-2017/)*, [2016](http://www.recode.net/code-conference-2016), [2015](http://www.recode.net/code-conference-2015)
 * DLD: [2017](http://www.dld-conference.com/DLD17/), [2016](http://www.dld-conference.com/DLD16/)
 * EmTech Digital: [2017](http://events.technologyreview.com/emtech/digital/17/), [2016](http://events.technologyreview.com/video/?event=emtech-digital&year=2016), [2015](http://events.technologyreview.com/video/?event=emtech-digital&year=2015)
