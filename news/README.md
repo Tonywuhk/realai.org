@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 11. [Internet founder speaks out on AI fear, the singularity, and beautiful robots](https://www.businessesgrow.com/2017/05/11/internet-founder/). *Schaefer Marketing Solutions*.
 * 2017 May 9. [Nvidia aims to train 100,000 developers in deep learning, AI technologies](http://www.zdnet.com/article/nvidia-aims-to-train-100000-developers-in-deep-learning-ai-technologies/). *ZDNet*.
 * 2017 May 9. [Using Deep Learning at Scale in Twitter’s Timelines](https://blog.twitter.com/2017/using-deep-learning-at-scale-in-twitter-s-timelines). *Twitter Blog*.
 * 2017 May 9. [Amazon officially unveils touchscreen Echo Show](https://www.theverge.com/circuitbreaker/2017/5/9/15590978/amazon-echo-show-touchscreen-price-release-date). *The Verge*.
