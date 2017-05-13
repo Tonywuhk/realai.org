@@ -9,7 +9,9 @@ A standard deep neural network can learn very different visual domains simultane
 
 Continual learning focuses on an agent's ability to learn new tasks without forgeting old ones. Skills learned from old tasks may or may not transfer to new tasks, but must be largely retained. One approach is to penalize learning for weights that are important for remembering old tasks. Importance measures of weights can be computed online ([Zenke & Poole & Ganguli, 2017](https://arxiv.org/abs/1703.04200)). The elastic weight consolidation (EWC) ([Kirkpatrick et al, 2016](https://arxiv.org/abs/1612.00796)) method relies on computing the Fisher information metric at the end of each task.
 
-Another approach to prevent catastrophic forgetting is to design novel network architectures. PathNets ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) evolve the learning of a particular task towards a subset of parameters, then fix these parameters before moving on to the next task. In contrast, the progressive networks ([Rusu & Rabinowitz et al., 2016](https://arxiv.org/abs/1606.04671)) instantiate a new column for each new task being solved.
+Another approach to prevent catastrophic forgetting is to design novel network architectures. PathNets ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) evolve the learning of a particular task towards a subset of parameters, then fix these parameters before moving on to the next task.
+
+A more intuitive method is to add new components for adaption to new tasks. The progressive network ([Rusu & Rabinowitz et al., 2016](https://arxiv.org/abs/1606.04671)) instantiates a new column for each new task being solved. [Rosenfeld & Tsotsos (2017)](https://arxiv.org/abs/1705.04228) adds a controller to each convolutional layer in a trained neural network that mixes the filters in that layer to adapt to a new task. A new set of controllers is required for each new task.
 
 We also plan to review studies that focus on augmenting the input and output layers of a neural network to adapt to new tasks without forgeting the old ones.
 
@@ -21,6 +23,7 @@ Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a
 
 ## References
 
+* 2017 May 11, Amir Rosenfeld and John K. Tsotsos. [Incremental Learning Through Deep Adaptation](https://arxiv.org/abs/1705.04228). *arXiv:1705.04228*.
 * 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
 * 2017 March 13, Friedemann Zenke, Ben Poole, and Surya Ganguli. [Improved multitask learning through synaptic intelligence](https://arxiv.org/abs/1703.04200). *arXiv:1703.04200*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
