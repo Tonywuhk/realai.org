@@ -9,6 +9,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 ## 2017
 
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.
+* 2017 May 10, Tom Everitt, Victoria Krakovna, Laurent Orseau, Marcus Hutter, and Shane Legg. [Reinforcement Learning with Corrupted Reward Channel](http://www.tomeveritt.se/papers/IJCAI17-rewardcorruption.pdf). *To appear in IJCAI-17*.
 * 2017 May 9, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, Matt Botvinick, and Nando de Freitas. [Learning to learn without gradient descent by gradient descent](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2017 May 7, Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, and Peter W. Battaglia. [Metacontrol for Adaptive Imagination-Based Optimization](https://arxiv.org/abs/1705.02670). *arXiv:1705.02670*.
 * 2017 April 23, Kartik Goyal, Chris Dyer, and Taylor Berg-Kirkpatrick. [Differentiable Scheduled Sampling for Credit Assignment](https://arxiv.org/abs/1704.06970). *arXiv:1704.06970*.
