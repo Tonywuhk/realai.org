@@ -3,6 +3,10 @@ permalink: /resources/demos/
 ---
 # Demos
 
+## Overview
+
+* 2017 May 10, NVIDIA. [GTC 2017: "I Am AI" Opening in Keynote](https://www.youtube.com/watch?v=SUNPrR4o5ZA). *YouTube*.
+
 ## Audio
 
 * 2017 April 24. [Politicians discussing about Lyrebird](https://soundcloud.com/user-535691776/dialog) (hosted on SoundCloud). *[Lyrebird Demo](https://lyrebird.ai/demo)*.
