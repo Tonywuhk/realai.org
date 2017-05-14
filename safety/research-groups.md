@@ -3,11 +3,13 @@ permalink: /safety/research-groups/
 ---
 # AI Safety Research Groups
 
-Many research groups that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/).
+Many research groups that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/) (EA).
 
 ## Machine Intelligence Research Institute
 
-The [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI) is a research nonprofit studying the mathematical underpinnings of intelligent behavior. It has a [team](https://intelligence.org/team/) of staff, advisors, research associates, and board members. All MIRI [publications](https://intelligence.org/all-publications/) are available online.
+The [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI) is a nonprofit that does foundational mathematical research to ensure smarter-than-human AI has a positive impact. Its [mission](https://intelligence.org/about/) is to develop formal tools with the intent of making AI systems safer and more reliable. Based on its [background claims](https://intelligence.org/2015/07/24/four-background-claims/) that  advances in AI will be among the largest determiners of human welfare, MIRI [identifies with EA](https://intelligence.org/2015/08/28/ai-and-effective-altruism/).
+
+MIRI has a [team](https://intelligence.org/team/) of staff, advisors, research associates, and board members. All its [publications](https://intelligence.org/all-publications/) are available online. 
 
 ### History
 
