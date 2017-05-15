@@ -80,6 +80,7 @@ permalink: /news/
 * 2017 March 31. [OpenAI — General Support](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support). *Open Philanthropy*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
 * 2017 March 30. [Canada’s AI Moment](https://canada.googleblog.com/2017/03/canadas-ai-moment.html). *Google Official Canada Blog*.
+* 2017 March 28. [This Paralyzed Man Is Using a Neuroprosthetic to Move His Arm for the First Time in Years](https://www.technologyreview.com/s/603993/this-paralyzed-man-is-using-a-neuroprosthetic-to-move-his-arm-for-the-first-time-in-years/). *MIT Technology Review*.
 * 2017 March 28. [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly Media*.
 * 2017 March 28. [New institute aims to make Toronto an ‘intellectual centre’ of AI capability](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html). *Toronto Star*.
 * 2017 March 27. [Elon Musk's Billion-Dollar Crusade to Stop the A.I. Apocalypse](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x). *Vanity Fair*.
@@ -89,6 +90,7 @@ permalink: /news/
 * 2017 March 16. [The Mobile Internet Is Over. Baidu Goes All In on AI](https://www.bloomberg.com/news/articles/2017-03-16/the-mobile-internet-is-over-baidu-goes-all-in-on-ai). *Bloomberg Businessweek*.
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
+* 2017 March 13. [Intel buys driverless car technology firm Mobileye](http://www.bbc.com/news/business-39253422). *BBC*.
 * 2017 February 27. [Japanese Billionaire is creating a $100 billion investment fund to be a leading developer of AI for Kurzweil’s Technological Singularity](http://www.nextbigfuture.com/2017/02/japanese-billionaire-is-creating-100.html). *nextBIGfuture*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 February 9. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *YouTube*
