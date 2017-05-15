@@ -7,6 +7,7 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 
 ## News
 
+* 2017 May 15. [Teaching Robots Right From Wrong](https://www.1843magazine.com/features/teaching-robots-right-from-wrong). *1843 Magazine*.
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*.
 * 2017 March 31, The Open Philanthropy Project awarded a grant of $30 million in general support to OpenAI. [*Open Philanthropy*](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support).
 * 2017 January 5-8, The [Future of Life Institute](https://futureoflife.org/) brought together a group of AI researchers and thought leaders for the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference that developed [The Asilomar AI Principles](https://futureoflife.org/ai-principles/).
