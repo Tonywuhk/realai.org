@@ -3,15 +3,23 @@ permalink: /deep-learning-theory/
 ---
 # Deep Learning Theory
 
+* 2017 April 26, Shai Shalev-Shwartz, Ohad Shamir, and Shaked Shammah. [Failures of Gradient-Based Deep Learning](https://arxiv.org/abs/1703.07950). *arXiv:1703.07950*.
+
 ## Information Theory
 
 In the plane of the mutual information (MI) between input and representation and the MI between representation and output (called the Information Plane), [Schwartz-Ziv & Tishby (2017)](https://arxiv.org/abs/1703.00810) visualized SGD in two stages, error minimization and representation compression. The compression stage covers most training epochs and begins after training errors get small.
+
+## Loss Surface Geometry
+
+* 2017 April 21, Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, and Riccardo Zecchina. [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838). *arXiv:1611.01838*.
+* 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
+* 2017 February 9, Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, and Ping Tak Peter Tang. [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836). *arXiv:1609.04836*.
+* 2014 November 30, Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, and Yann LeCun. [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233). *arXiv:1412.0233*.
 
 ## Physics
 
 * 2017 April 5, Yoav Levine, David Yakira, Nadav Cohen, and Amnon Shashua. [Deep Learning and Quantum Physics : A Fundamental Bridge](https://arxiv.org/abs/1704.01552). *arXiv:1704.01552*.
 * 2016 August 29, Henry W. Lin and Max Tegmark. [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225). *arXiv:1608.08225*.
-* 2014 November 30, Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, and Yann LeCun. [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233). *arXiv:1412.0233*.
 
 ## Topology
 
