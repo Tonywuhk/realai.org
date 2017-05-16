@@ -32,6 +32,10 @@ $$
 
 and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* is defined as \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
 
+### Continuous Actions
+
+Estimating the \\(Q\\)-values is difficult when the actions can be continuous and high dimensional. [Metz et al. (2017)](https://arxiv.org/abs/1705.05035) proposed Sequential DQN (SDQN) that uses next-step prediction to model the \\(Q\\)-values and policies over discretized dimensions.
+
 ## Value Based Reinforcement Learning Algorithms
 
 In the **Deep Q-Network (DQN)** algorithm ([Mnih & Kavukcuoglu & Silver et al., 2015](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html)), we learn a target
@@ -117,6 +121,7 @@ where the learning rate \\(\alpha\\) could have a high value. State representati
 
 ## References
 
+* 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
 * 2017 April 21, John Schulman, Pieter Abbeel, and Xi Chen. [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440). *arXiv:1704.06440*.
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*.
 * 2017 April 12, Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, and Audrunas Gruslys. [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/abs/1704.03732). *arXiv:1704.03732*.
