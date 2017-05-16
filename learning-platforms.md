@@ -1,6 +1,5 @@
 ---
-permalink: /reinforcement-learning-platforms/
-title: Learning Platforms
+permalink: /learning-platforms/
 ---
 # Learning Platforms
 
@@ -9,6 +8,8 @@ A learning platform is an environment in which an agent can observe, act, and le
 Microsoft's [Aerial Informatics and Robotics Platform](https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/) is an open-source, high-fidelity physics and photo-realistic robot simulator.
 
 [OpenAI Gym](https://gym.openai.com/) supports teaching agents everything from walking to playing games like Pong or Go. OpenAI's [Universe](https://universe.openai.com/) is a software platform for measuring and training AI acrosss many games, websites and other applications.
+
+On 15 May 2017, Facebook [announced](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/) dialog research platform [ParlAI](https://github.com/facebookresearch/ParlAI) for training and testing dialog models across multiple tasks at once. Its first release included more than 20 public datasets covering question answering, sentence completion, goal-oriented dialog, chit-chat dialog and visual dialog.
 
 ## News
 
