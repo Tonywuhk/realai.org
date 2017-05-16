@@ -22,13 +22,31 @@ The content of this section is based on [Pathak et al. (2017)](https://arxiv.org
 
 A curious agent seeks to increase its own prediction error. Being intrinsically curious, the agent mainly cares about prediction error on the parts of observations that can affect itself. To accomplish that, the agent’s observations are transformed to a feature space representing only relevant information. Such a representation can be learned using a self-supervision task, where a neural network tries to predict the agent’s action given current and next observations.
 
-Mathematically, the agent’s goal is
+Mathematically, the agent’s goal is to
 
 $$
-  \min_{\theta_P, \theta_I, \theta_F} [ -\lambda \mathbb{E} [R_t] + (1-\beta) L_I(\hat{a}_t, a_t) + \beta L_F ],
+  \min_{\theta_P, \theta_I, \theta_F} \Big[ -\lambda \mathbb{E} [R_t] + (1-\beta) L_I(\hat{a}_t, a_t) + \beta L_F \Big],
 $$
 
-where the three terms are used for curiosity-driven exploration, learning intrinsically useful representations, and forward prediction.
+where the three terms are used for curiosity-driven exploration, learning intrinsically useful representations, and forward prediction. The first term captures both extrinsic and intrinsic rewards:
+
+$$
+\mathbb{E}[R_t] = \mathbb{E}_{\pi(s_t; \theta_P} [ \Sigma_t ( r^e_t + r^i_t ) ],
+$$
+
+where \\(\theta_P\\) parametrizes policy \\(\pi\\). Extrinsic rewards \\(r^e_t\\) can be very sparse. Intrinsic rewards
+
+$$
+r^i_t = \frac{\eta}{2} \| \hat{\phi}(s_{t+1} - \phi(s_{t+1}) \|_2^2,
+$$
+
+where \\(\eta > 0\\) is a scaling factor, and
+
+$$
+\hat{\phi}(s_{t+1}) = f(\phi(s_t), a_t; \theta_F)
+$$
+
+is the predicted representation of observation computed by a neural network with parameters \\(\theta_F\\).
 
 ## References
 
