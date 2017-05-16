@@ -32,10 +32,6 @@ $$
 
 and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* is defined as \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
 
-### Continuous Actions
-
-Estimating the \\(Q\\)-values is difficult when the actions can be continuous and high dimensional. [Metz et al. (2017)](https://arxiv.org/abs/1705.05035) proposed Sequential DQN (SDQN) that uses next-step prediction to model the \\(Q\\)-values and policies over discretized dimensions.
-
 ## Value Based Reinforcement Learning Algorithms
 
 In the **Deep Q-Network (DQN)** algorithm ([Mnih & Kavukcuoglu & Silver et al., 2015](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html)), we learn a target
@@ -66,6 +62,10 @@ In a setting where the agent has access to previous control data, [Hester et al.
 \end{equation}
 
 was used to update the network.
+
+### Continuous Actions
+
+Estimating the \\(Q\\)-values is difficult when the actions can be continuous and high dimensional. [Metz et al. (2017)](https://arxiv.org/abs/1705.05035) proposed Sequential DQN (SDQN) that uses next-step prediction to model the \\(Q\\)-values and policies over discretized dimensions.
 
 ## Policy Based Reinforcement Learning Algorithms
 
