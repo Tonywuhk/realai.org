@@ -57,6 +57,7 @@ mathjax: true
         2. [Learning Rules](http://realai.org/learning-rules/)
         3. [Adversarial Learning](http://realai.org/adversarial-learning/)
         4. Generative Models
+        5. [Platforms](http://realai.org/learning-platforms/)
     4. Reinforcement Learning
         1. [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
         2. [Planning](http://realai.org/planning/)
@@ -66,7 +67,6 @@ mathjax: true
             * [Empowerment](http://realai.org/empowerment/)
         3. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
         4. [Imitation Learning](http://realai.org/imitation-learning/)
-        5. [Platforms](http://realai.org/reinforcement-learning-platforms/)
     5. [Neuroscience](http://realai.org/neuroscience/)
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
