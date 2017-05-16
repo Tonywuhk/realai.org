@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 15. [AI Mines Hundreds of Thousands of News Articles Per Hour for Stock Tips](https://motherboard.vice.com/en_us/article/ai-mines-hundreds-of-thousands-of-news-articles-per-hour-for-stock-tips). *Motherboard*.
 * 2017 May 13. [Apple acquires AI company Lattice Data, a specialist in unstructured ‘dark data’, for $200M](https://techcrunch.com/2017/05/13/apple-acquires-ai-company-lattice-data-a-specialist-in-unstructured-dark-data/). *TechCrunch*.
 * 2017 May 11. [Internet founder speaks out on AI fear, the singularity, and beautiful robots](https://www.businessesgrow.com/2017/05/11/internet-founder/). *Schaefer Marketing Solutions*.
 * 2017 May 10. [Microsoft Maluuba is teaching machines to ask questions](https://techcrunch.com/2017/05/10/microsoft-maluuba-is-teaching-machines-to-ask-questions/). *TechCrunch*.
