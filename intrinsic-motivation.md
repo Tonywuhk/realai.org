@@ -25,28 +25,46 @@ A curious agent seeks to increase its own prediction error. Being intrinsically 
 Mathematically, the agent’s goal is to
 
 $$
-  \min_{\theta_P, \theta_I, \theta_F} \Big[ -\lambda \mathbb{E} [R_t] + (1-\beta) L_I(\hat{a}_t, a_t) + \beta L_F \Big],
+  \min_{\theta_P, \theta_I, \theta_F} \Big[ (1-\beta) L_I(\hat{a}_t, a_t) + \beta L_F -\lambda \mathbb{E} [R_t] \Big],
 $$
 
-where the three terms are used for curiosity-driven exploration, learning intrinsically useful representations, and forward prediction. The first term captures both extrinsic and intrinsic rewards:
+where the three terms are used for curiosity-driven exploration, learning intrinsically useful representations, and forward prediction.
+
+The first term \\(L_I\\) is the loss function between the actual action \\(a_t\\) and the predicted action
 
 $$
-\mathbb{E}[R_t] = \mathbb{E}_{\pi(s_t; \theta_P} [ \Sigma_t ( r^e_t + r^i_t ) ],
+\hat{a}_t = g( s_t, s_{t+1}; \theta_I),
 $$
 
-where \\(\theta_P\\) parametrizes policy \\(\pi\\). Extrinsic rewards \\(r^e_t\\) can be very sparse. Intrinsic rewards
+where the function \\(g\\) first encodes state \\(s_t\\) into a feature vector \\(\phi(s_t)\\), then maps consecutive features \\(\phi(s_t)\\) and \\(\phi(s_{t+1})\\) into \\(\hat{a}_t\\). Its parameters \\(\theta_I\\) are trained to optimize \\(L_I\\).
+
+The second term
 
 $$
-r^i_t = \frac{\eta}{2} \| \hat{\phi}(s_{t+1} - \phi(s_{t+1}) \|_2^2,
+L_F = \frac{1}{2} \| \hat{\phi}(s_{t+1}) - \phi(s_{t+1}) \|_2^2,
 $$
 
-where \\(\eta > 0\\) is a scaling factor, and
+is the learning target of \\(\theta_F\\), where
 
 $$
 \hat{\phi}(s_{t+1}) = f(\phi(s_t), a_t; \theta_F)
 $$
 
 is the predicted representation of observation computed by a neural network with parameters \\(\theta_F\\).
+
+The last term captures both extrinsic and intrinsic rewards:
+
+$$
+\mathbb{E}[R_t] = \mathbb{E}_{\pi(s_t; \theta_P)} [ \Sigma_t ( r^e_t + r^i_t ) ],
+$$
+
+where \\(\theta_P\\) parametrizes policy \\(\pi\\). Extrinsic rewards \\(r^e_t\\) can be very sparse. Intrinsic rewards
+
+$$
+r^i_t = \frac{\eta}{2} \| \hat{\phi}(s_{t+1}) - \phi(s_{t+1}) \|_2^2,
+$$
+
+where \\(\eta > 0\\) is a scaling factor.
 
 ## References
 
