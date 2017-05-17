@@ -9,6 +9,7 @@ permalink: /news/
 * 2017 May 15. [$100M for a new Quebec research cluster in AI](http://nouvelles.umontreal.ca/en/article/2017/05/15/100m-for-a-new-quebec-research-cluster-in-ai/). *U de M Nouvelles*.
 * 2017 May 15. [AI Mines Hundreds of Thousands of News Articles Per Hour for Stock Tips](https://motherboard.vice.com/en_us/article/ai-mines-hundreds-of-thousands-of-news-articles-per-hour-for-stock-tips). *Motherboard*.
 * 2017 May 13. [Apple acquires AI company Lattice Data, a specialist in unstructured ‘dark data’, for $200M](https://techcrunch.com/2017/05/13/apple-acquires-ai-company-lattice-data-a-specialist-in-unstructured-dark-data/). *TechCrunch*.
+* 2017 May 13. [Stop Name-calling and Distortions in AI Ethics Discussions](http://blog.sciencenet.cn/blog-3270119-1054734.html). *ScienceNet.cn*.
 * 2017 May 11. [Internet founder speaks out on AI fear, the singularity, and beautiful robots](https://www.businessesgrow.com/2017/05/11/internet-founder/). *Schaefer Marketing Solutions*.
 * 2017 May 10. [Microsoft Maluuba is teaching machines to ask questions](https://techcrunch.com/2017/05/10/microsoft-maluuba-is-teaching-machines-to-ask-questions/). *TechCrunch*.
 * 2017 May 9. [Nvidia aims to train 100,000 developers in deep learning, AI technologies](http://www.zdnet.com/article/nvidia-aims-to-train-100000-developers-in-deep-learning-ai-technologies/). *ZDNet*.
@@ -19,6 +20,7 @@ permalink: /news/
 * 2017 May 8. [NVIDIA Paves Path to AI Cities with Metropolis Edge-to-Cloud Platform for Video Analytics](http://nvidianews.nvidia.com/news/nvidia-paves-path-to-ai-cities-with-metropolis-edge-to-cloud-platform-for-video-analytics). *Nvidia Newsroom*.
 * 2017 May 8. [Alphabet's Sidewalk Labs Eyes Toronto for Its Digital City](https://www.bloomberg.com/news/articles/2017-05-08/alphabet-s-sidewalk-labs-eyes-toronto-for-its-digital-city). *Bloomberg Technology*.
 * 2017 May 8. [AI startup Neurala claims major breakthrough in deep learning](https://siliconangle.com/blog/2017/05/08/ai-startup-neurala-claims-major-breakthrough-deep-learning/). *SiliconANGLE*.
+* 2017 May 7. [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a). *Medium*.
 * 2017 May 6. [Why aren’t robots boosting economic productivity?](http://www.bostonglobe.com/business/2017/05/05/why-aren-robots-boosting-economic-productivity/GnrAb7Lx1HCtrjMiD1KY5J/story.html). *Boston Globe*.
 * 2017 May 6. [One reason more software engineers are heading to Toronto: Trump](http://www.cnbc.com/2017/05/05/vector-institute-ai-engineers-to-head-to-toronto-because-of-trump.html). *CNBC*.
 * 2017 May 6. [Warren Buffett Says Artificial Intelligence Will ‘Hurt’ Berkshire Hathaway’s Business](http://fortune.com/2017/05/06/warren-buffett-berkshire-hathaway-ai-self-driving-car/). *Fortune Finance*.
