@@ -11,6 +11,8 @@ Imitation learning is when a learning architecture is trained to mimic behaviors
 
 ## References
 
+* 2017 May 15, Kareem Amin, Nan Jiang, and Satinder Singh. [Repeated Inverse Reinforcement Learning for AI Safety](https://arxiv.org/abs/1705.05427). *arXiv:1705.05427*.
+* 2017 March 22, Yan Duan, Marcin Andrychowicz, Bradly C. Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, and Wojciech Zaremba. [One-Shot Imitation Learning](https://arxiv.org/abs/1703.07326). *arXiv:1703.07326*.
 * 2017 March 6, Bradly C. Stadie, Pieter Abbeel, and Ilya Sutskever. [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703). *arXiv:1703.01703*.
 * 2016 June 10, Jonathan Ho and Stefano Ermon. [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476). *arXiv:1606.03476*.
 * 2016 March 1, Chelsea Finn, Sergey Levine, and Pieter Abbeel. [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448). *arXiv:1603.00448*.
