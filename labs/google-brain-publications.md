@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 May 16, Dieterich Lawson, George Tucker, Chung-Cheng Chiu, Colin Raffel, Kevin Swersky, and Navdeep Jaitly. [Learning Hard Alignments with Variational Inference](https://arxiv.org/abs/1705.05524). *arXiv:1705.05524*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
 * 2017 May 9, Zbigniew Wojna, Alex Gorban, Dar-Shyang Lee, Kevin Murphy, Qian Yu, Yeqing Li, and Julian Ibarz. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/abs/1704.03549). *arXiv:1704.03549*.
 * 2017 May 5, Ming Sun, Anirudh Raju, George Tucker, Sankaran Panchapagesan, Gengshen Fu, Arindam Mandal, Spyros Matsoukas, Nikko Strom, and Shiv Vitaladevuni. [Max-Pooling Loss Training of Long Short-Term Memory Networks for Small-Footprint Keyword Spotting](https://arxiv.org/abs/1705.02411). *arXiv:1705.02411*.
