@@ -47,7 +47,7 @@ mathjax: true
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model
         3. Reasoning
-        4. Attention
+        4. [Attention](http://realai.org/attention/)
         5. Memory
     3. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
