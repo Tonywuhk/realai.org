@@ -11,6 +11,11 @@ Metamath is a formal math system started by Norman Megill in 1992, and has been 
 
 Metamath is built for extreme simplicity. It has only one rule, substitution, that replaces symbols with various expressions. Starting with the well-known Zermelo-Frankel set theory with choice, all of math (that most people care about) follows. The flipside of simplicity is long and tedious proofs. The proof of “2+2=4” is a theorem named [2p2e4](http://us.metamath.org/mpegif/2p2e4.html) that has 10 steps, all of which can be expanded further into more basic blocks such as [df-2](http://us.metamath.org/mpegif/df-2.html), the definition of “2”. All proof steps can be mechanically followed without any semantic understanding of math. This is better experienced when readers follow a proof with unfamiliar symbols, such as [aleph1re](http://us.metamath.org/mpegif/aleph1re.html), and can be really confusing when symbols in referenced theorems overlaps with those in the main proof ([id1](http://us.metamath.org/mpegif/id1.html)). [Metamath Proof Explorer Home Page](http://us.metamath.org/mpegif/mmset.html) is an excellent tutorial.
 
+## Resources
+
+* [Conferences](http://realai.org/resources/conferences/): AITP ([2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)), LPAR ([2017](http://easychair.org/smart-program/LPAR-21/LPAR-index.html)).
+* The [Deepmath](https://github.com/tensorflow/deepmath) project is a collaboration between Google Research and several universities that seeks to improve automated theorem proving using deep learning and other machine learning techniques.
+
 ## References
 
 * 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*. [code](https://github.com/tensorflow/deepmath/tree/master/deepmath/holstep_baselines). [site](http://cl-informatik.uibk.ac.at/cek/holstep/).
