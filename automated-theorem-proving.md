@@ -13,8 +13,8 @@ Metamath is built for extreme simplicity. It has only one rule, substitution, th
 
 ## References
 
-* 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*.
-* 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and Cezary Kaliszyk. [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
-* 2016 August 10, Daniel Whalen. [Holophrasm: a neural Automated Theorem Prover for higher-order logic](https://arxiv.org/abs/1608.02644). *arXiv:1608.02644*. [release](https://github.com/dwhalen/holophrasm/releases)
+* 2017 March 1, Cezary Kaliszyk, François Chollet, and Christian Szegedy. [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://arxiv.org/abs/1703.00426). *arXiv:1703.00426*. [code](https://github.com/tensorflow/deepmath/tree/master/deepmath). [site](http://cl-informatik.uibk.ac.at/cek/holstep/).
+* 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/). [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
+* 2016 August 10, Daniel Whalen. [Holophrasm: a neural Automated Theorem Prover for higher-order logic](https://arxiv.org/abs/1608.02644). *arXiv:1608.02644*. [code](https://github.com/dwhalen/holophrasm) ([release](https://github.com/dwhalen/holophrasm/releases)).
 * 2016 June 14, Alex A. Alemi, Francois Chollet, Niklas Een, Geoffrey Irving, Christian Szegedy, and Josef Urban. [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442). *arXiv:1606.04442*.
 * 2015 June 18, Mario Carneiro. [Conversion of HOL Light proofs into Metamath](https://arxiv.org/abs/1412.8091). *arXiv:1412.8091*.
