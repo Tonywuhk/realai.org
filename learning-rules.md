@@ -6,19 +6,19 @@ mathjax: true
 
 ## Gradient Descent
 
-[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including Momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad, Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (**SGD**) is
+[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including Momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (**SGD**) is
 
 $$
 \Delta \theta_t = -\alpha g_t,
 $$
 
-where \\(\alpha\\) is the learning rule. SGD is normally computed on a mini-batch of training examples. Define **momentum** as
+where \\(\alpha\\) is the learning rule. SGD is normally computed on a mini-batch of training examples. Define momentum as
 
 $$
 m_t = \gamma m_{t-1} + (1-\gamma) g_t
 $$
 
-for a momentum term \\(gamma\\) that is usually close to 1. The momentum rule
+for a momentum term \\(\gamma\\) that is usually close to 1. The **momentum** rule
 
 $$
 \Delta \theta_t = -\alpha m_t
@@ -27,16 +27,26 @@ $$
 allows parameter moves to be more persistent along past directions. In **Adagrad**, the SGD updates are adapted to individual parameters
 
 $$
-\Delta \theta_t = -\alpha g_t (G_t + \epsilon)^(-1/2)
+\Delta \theta_t = -\alpha g_t (G_t + \epsilon)^{-1/2}
 $$
 
-with the help of a very small positive real number \\(\episilon\\) to avoid division by zero. The accumulated gradients
+with the help of a very small positive real number \\(\epsilon\\) to avoid division by zero. The accumulated gradients
 
 $$
 G_t = G_{t-1} + g_t^2
 $$
 
-keeps growing during training, causing the size of parameter moves to decrease over time.
+keep growing during training, causing the size of parameter moves to decrease over time. This problem can be mitigated by using the moving average of squared gradients
+
+$$
+v_t = \beta_2 v_{t-1} + (1-\beta_2) g_t^2.
+$$
+
+In the **RMSprop** method,
+
+$$
+\Delta \theta_t = -\alpha g_t (v_t + \epsilon)^{-1/2}.
+$$
 
 ## Regularization
 
@@ -71,3 +81,4 @@ where \\(p(y_{1:T} \| \theta, x_{1:T})\\) is the likelihood of a sequence of len
 * 2015 February 14, Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [Towards Biologically Plausible Deep Learning](https://arxiv.org/abs/1502.04156). *arXiv:1502.04156*.
 * 2014 December 22, Diederik P. Kingma and Jimmy Ba. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.06980). *arXiv:1412.06980*.
 * 2012 December 22, Matthew D. Zeiler. [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701). *arXiv:1212.5701*.
+* 2011 July, John Duchi, Elad Hazan, and Yoram Singer. [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://jmlr.org/papers/v12/duchi11a.html). *Journal of Machine Learning Research*.
