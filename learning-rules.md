@@ -6,7 +6,11 @@ mathjax: true
 
 ## Gradient Descent
 
-[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including Momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad, Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)).
+[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including Momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad, Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (SGD) is
+
+$$
+\Delta \theta_t = -\alpha g_t.
+$$
 
 ## Regularization
 
