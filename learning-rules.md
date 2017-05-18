@@ -6,7 +6,7 @@ mathjax: true
 
 ## Gradient Descent
 
-[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including Momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (**SGD**) is
+[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (**SGD**) is
 
 $$
 \Delta \theta_t = -\alpha g_t,
@@ -15,10 +15,10 @@ $$
 where \\(\alpha\\) is the learning rule. SGD is normally computed on a mini-batch of training examples. Define momentum as
 
 $$
-m_t = \gamma m_{t-1} + (1-\gamma) g_t
+m_t = \beta_1 m_{t-1} + (1-\beta_1) g_t
 $$
 
-for a momentum term \\(\gamma\\) that is usually close to 1. The **momentum** rule
+for a momentum term \\(\beta_1\\) that is usually close to 1. The **momentum** rule
 
 $$
 \Delta \theta_t = -\alpha m_t
@@ -54,7 +54,11 @@ $$
 \Delta \theta_t = - g_t D_{t-1}^{1/2} (v_t + \epsilon)^{-1/2},
 $$
 
-where \\(D_t = \beta_1 D_{t-1} + (1-\beta_1) (\Delta \theta_t)^2\\).
+where \\(D_t = \gamma D_{t-1} + (1-\gamma) (\Delta \theta_t)^2\\). Using the bias-corrected versions of momentum \\(\hat{m}_t = m_t/(1-\beta_1^t)\\) and second moment \\(\hat{v}_t = v_t/(1-\beta_2^t)\\), the **Adam** combine the above elements and update the parameters by
+
+$$
+\Delta \theta_t = -\alpha \hat{m}_t (v_t^{-1/2} + \epsilon).
+$$
 
 ## Regularization
 
