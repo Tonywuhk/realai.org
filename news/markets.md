@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 May 18. [Brazil stocks set to crash on political scandal, dragging down hot emerging markets trade](http://www.cnbc.com/2017/05/18/this-brazil-stocks-etf-is-crashing-more-than-13-percent-on-an-emerging-political-scandal.html). *CNBC*.
 * 2017 May 17. [Global stocks, U.S. dollar sink as investors rethink 'Trump trade'](http://www.reuters.com/article/us-global-markets-idUSKCN18D01B). *Reuters*.
 * 2017 May 16. [Dollar Slide Worsens With U.S. Stocks Near Records: Markets Wrap](https://www.bloomberg.com/news/articles/2017-05-15/asia-stocks-set-to-rise-amid-u-s-record-oil-gain-markets-wrap). *Bloomberg Markets*.
 * 2017 May 16. [The tech sector is leaving the rest of the US economy in its dust](https://www.theverge.com/2017/5/16/15627198/tech-sector-stock-market-record-high). *The Verge*.
