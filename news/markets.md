@@ -3,8 +3,9 @@ permalink: /news/markets/
 ---
 # Markets
 
-* 2017 May 17. [Dow drops 250 points, S&P and Nasdaq fall 1% as Trump worries send shivers down Wall Street](http://www.cnbc.com/2017/05/17/us-markets.html). *CNBC*.
-* 2017 May 16. [Euro Soars Amid Trump Concerns; Oil Extends Gain: Markets Wrap](https://www.bloomberg.com/news/articles/2017-05-15/asia-stocks-set-to-rise-amid-u-s-record-oil-gain-markets-wrap). *Bloomberg Markets*.
+* 2017 May 17. [Global stocks, U.S. dollar sink as investors rethink 'Trump trade'](http://www.reuters.com/article/us-global-markets-idUSKCN18D01B). *Reuters*.
+* 2017 May 16. [Dollar Slide Worsens With U.S. Stocks Near Records: Markets Wrap](https://www.bloomberg.com/news/articles/2017-05-15/asia-stocks-set-to-rise-amid-u-s-record-oil-gain-markets-wrap). *Bloomberg Markets*.
+* 2017 May 16. [The tech sector is leaving the rest of the US economy in its dust](https://www.theverge.com/2017/5/16/15627198/tech-sector-stock-market-record-high). *The Verge*.
 * 2017 May 11. [Traders Ask What Will Rouse Markets When Trump and Twitter Can't](https://www.bloomberg.com/news/articles/2017-05-11/traders-ask-what-will-rouse-markets-when-trump-and-twitter-can-t). *Bloomberg Markets*.
 * 2017 May 10. [Snap misses on Q1 earnings, stock craters 20%](http://www.businessinsider.com/snap-q1-earnings-results-2017-5). *Business Insider*.
 * 2017 May 9. [Nvidia is unstoppable—until somebody invents a better AI chip](https://qz.com/979846/nvidia-nvda-is-unstoppable-until-somebody-invents-a-better-ai-chip/). *Quartz*.
