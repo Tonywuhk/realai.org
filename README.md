@@ -6,12 +6,12 @@ mathjax: true
 
 ## What's New
 
+* 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*. ([News](http://realai.org/news/), [Google](http://realai.org/companies/alphabet/#google))
 * 2017 May 15, Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363). *arXiv:1705.05363*. ([Intrinsic Motivation](http://realai.org/intrinsic-motivation))
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Program Induction](http://realai.org/program-induction/))
 * 2017 May 4. Members on Amazon's AI team gave estimates on AGI timing of around 2027. Source: [Twitter](https://twitter.com/katherinebailey/status/860188371888549888). *This item will be retracted when the twitter link expires.* ([Timing](http://realai.org/timing/))
 * 2017 April 30, Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*. ([Timing](http://realai.org/timing/); [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute))
 * 2017 April 22. [With Neuralink, Elon Musk Promises Human-to-Human Telepathy. Don’t Believe It.](https://www.technologyreview.com/s/604254/with-neuralink-elon-musk-promises-human-to-human-telepathy-dont-believe-it/). *MIT Technology Review*. ([News](http://realai.org/news/))
-* 2017 April 18, Jürgen Schmidhuber says artificial intelligence will surpass humans’ in 2050. Source: [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*. ([Timing](http://realai.org/timing/))
 
 ## What's Next
 
@@ -94,9 +94,9 @@ mathjax: true
     5. [Vector Institute](http://realai.org/labs/vector-institute/)
 
 2. [Companies](http://realai.org/companies/)
-    1. Alphabet
+    1. [Alphabet Inc.](http://realai.org/companies/alphabet/)
     2. Facebook
-    3. Amazon.com
+    3. [Amazon.com, Inc.](http://realai.org/companies/amazon/)
     4. Apple
     5. Microsoft
     8. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
