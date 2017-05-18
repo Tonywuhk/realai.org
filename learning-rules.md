@@ -6,13 +6,13 @@ mathjax: true
 
 ## Gradient Descent
 
-[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minized, then the core rule of stochastic gradient descent (**SGD**) is
+[Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minimized, then the core rule of stochastic gradient descent (**SGD**) is
 
 $$
 \Delta \theta_t = -\alpha g_t,
 $$
 
-where \\(\alpha\\) is the learning rule. SGD is normally computed on a mini-batch of training examples. Define momentum as
+where \\(\alpha\\) is the learning rate. SGD is normally computed on a mini-batch of training examples. Define momentum as
 
 $$
 m_t = \beta_1 m_{t-1} + (1-\beta_1) g_t
@@ -24,7 +24,7 @@ $$
 \Delta \theta_t = -\alpha m_t
 $$
 
-allows parameter moves to be more persistent along past directions. In **Adagrad**, the SGD updates are adapted to individual parameters
+allows parameter updates to be more persistent along past directions. In **Adagrad**, the SGD updates are adapted to individual parameters
 
 $$
 \Delta \theta_t = -\alpha g_t (G_t + \epsilon)^{-1/2}
@@ -36,7 +36,7 @@ $$
 G_t = G_{t-1} + g_t^2
 $$
 
-keep growing during training, causing the size of parameter moves to decrease over time. This problem can be mitigated by using the moving average of squared gradients
+keep growing during training, causing the size of parameter updates to decrease over time. This problem is mitigated by using the moving average of squared gradients
 
 $$
 v_t = \beta_2 v_{t-1} + (1-\beta_2) g_t^2.
@@ -54,7 +54,7 @@ $$
 \Delta \theta_t = - g_t D_{t-1}^{1/2} (v_t + \epsilon)^{-1/2},
 $$
 
-where \\(D_t = \gamma D_{t-1} + (1-\gamma) (\Delta \theta_t)^2\\). Using the bias-corrected versions of momentum \\(\hat{m}_t = m_t/(1-\beta_1^t)\\) and second moment \\(\hat{v}_t = v_t/(1-\beta_2^t)\\), the **Adam** combine the above elements and update the parameters by
+where \\(D_t = \gamma D_{t-1} + (1-\gamma) (\Delta \theta_t)^2\\). Using the bias-corrected versions of momentum \\(\hat{m}_t = m_t/(1-\beta_1^t)\\) and second moment \\(\hat{v}_t = v_t/(1-\beta_2^t)\\), the **Adam** method combines the above elements and updates the parameters by
 
 $$
 \Delta \theta_t = -\alpha \hat{m}_t (v_t^{-1/2} + \epsilon).
