@@ -48,6 +48,14 @@ $$
 \Delta \theta_t = -\alpha g_t (v_t + \epsilon)^{-1/2}.
 $$
 
+Replace the above learning rate by the moving average of parameter updates, we obtain the **Adadelta** method
+
+$$
+\Delta \theta_t = - g_t D_{t-1}^{1/2} (v_t + \epsilon)^{-1/2},
+$$
+
+where \\(D_t = \beta_1 D_{t-1} + (1-\beta_1) (\Delta \theta_t)^2\\).
+
 ## Regularization
 
 [Pereyra & Tucker et al. (2017)](https://arxiv.org/abs/1701.06548) found that label smoothing and confidence penalty improved model performances.
