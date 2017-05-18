@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*.
 * 2017 May 16. [Robots that Learn](https://blog.openai.com/robots-that-learn/). *OpenAI*.
 * 2017 May 16. [Partnership on AI Strengthens its Network of Partners and Announces First Initiatives](https://www.partnershiponai.org/2017/05/pai-announces-new-partners-and-initiatives/). *Partnership on AI*.
 * 2017 May 16. [百度以近12亿元剥离游戏业务 未来将聚焦人工智能](http://news.xinhuanet.com/finance/2017-05/16/c_129605464.htm). *XinhuaNet.com*.
