@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 18. [How Salesforce CEO Marc Benioff uses artificial intelligence to end internal politics at meetings](http://www.businessinsider.com/benioff-uses-ai-to-end-politics-at-staff-meetings-2017-5). *Business Insider*.
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*.
 * 2017 May 16. [Robots that Learn](https://blog.openai.com/robots-that-learn/). *OpenAI*.
 * 2017 May 16. [Partnership on AI Strengthens its Network of Partners and Announces First Initiatives](https://www.partnershiponai.org/2017/05/pai-announces-new-partners-and-initiatives/). *Partnership on AI*.
@@ -99,6 +100,7 @@ permalink: /news/
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
 * 2017 March 13. [Intel buys driverless car technology firm Mobileye](http://www.bbc.com/news/business-39253422). *BBC*.
+* 2017 March 9. [Facebook’s AI Chief: Machines Could Learn Common Sense from Video](https://www.technologyreview.com/s/603803/facebooks-ai-chief-machines-could-learn-common-sense-from-video/). *MIT Technology Review*.
 * 2017 February 27. [Japanese Billionaire is creating a $100 billion investment fund to be a leading developer of AI for Kurzweil’s Technological Singularity](http://www.nextbigfuture.com/2017/02/japanese-billionaire-is-creating-100.html). *nextBIGfuture*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 February 9. [Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc). *YouTube*
