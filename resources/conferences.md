@@ -10,7 +10,6 @@ permalink: /resources/conferences/
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
-| 2017/05/19 | 2017/12/04 - 09    | Long Beach, CA       | [NIPS 2017](https://nips.cc/Conferences/2017)
 | 2017/05/26 | 2017/09/06 - 08    | New York, NY         | [CCN 2017](http://ccneuro.org/)
 | 2017/06/28 | 2017/11/13 - 15    | Mountain View, CA    | [CoRL 2017](http://www.robot-learning.org/)
 |            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
@@ -19,6 +18,7 @@ permalink: /resources/conferences/
 |            | 2017/08/19 - 25    | Melbourne, Australia | [IJCAI 2017](http://ijcai-17.org/)
 |            | 2017/09/06 - 08    | New York, NY         | [CCN 2017](http://ccneuro.org/)
 |            | 2017/09/07 - 11    | Copenhagen, Denmark  | [EMNLP 2017](http://emnlp2017.net/)
+|            | 2017/12/04 - 09    | Long Beach, CA       | [NIPS 2017](https://nips.cc/Conferences/2017)
 |            | 2018/02/04 - 10    | New Orleans, LA      | [AAAI 2018](http://www.aaai.org/Conferences/AAAI/aaai18.php)
 |            | 2017/03/26 - 30    | Obergurgl, Austria   | [AITP 2017](http://aitp-conference.org/2017/)
 |            | 2017/04/24 - 26    | Toulon, France       | [ICLR 2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
@@ -52,8 +52,8 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 * EmTech Digital: [2017](http://events.technologyreview.com/emtech/digital/17/), [2016](http://events.technologyreview.com/video/?event=emtech-digital&year=2016), [2015](http://events.technologyreview.com/video/?event=emtech-digital&year=2015)
 * FLI: [Beneficial AI 2017](https://futureoflife.org/bai-2017/), [Puerto Rico 2015](https://futureoflife.org/2015/10/12/ai-safety-conference-in-puerto-rico/)
 * Future Labs AI Summit: [2017](http://futurelabs.nyc/events/ai-summit)
-* Future of Go Summit: [*2017.05.23*](https://en.wikipedia.org/wiki/Future_of_Go_Summit) ([announcement](https://deepmind.com/blog/exploring-mysteries-alphago/))
-* GMIS: [2017](http://gmis.jiqizhixin.com/)
+* Future of Go Summit: [*2017.05.23*](https://deepmind.com/research/alphago/alphago-china/)
+* GMIS: [*2017.05.27*](http://gmis.jiqizhixin.com/)
 * GPU Technology Conference: [2017](http://www.gputechconf.com/)
 * Scaled ML: [2017](http://scaledml.org/) ([slides](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)), [2016](http://scaledml.org/index2016.html)
 * World Summit AI: [*2017.10.11*](http://thesummitai.com/)
