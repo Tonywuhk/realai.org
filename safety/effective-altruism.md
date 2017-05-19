@@ -25,6 +25,8 @@ The [Machine Intelligence Research Institute](http://realai.org/safety/research-
 
 Using a [framework](https://80000hours.org/articles/problem-framework/) to compare different global problems in terms of impact, 80,000 Hours produced a [list](https://80000hours.org/articles/cause-selection/) of global problems. As of March 2017, [risks from artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranked on top, and other problems on the list, such as global priorities research, biosecurity, world health, and climate change, can clearly use a lot of help from safe and beneficial AI.
 
+In a [TED talk](https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people) recorded in April 2017, [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) proposed three principles to redefine AI, the first one is the principle of altruism.
+
 ## Select List of Organizations
 
 Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety research groups](http://realai.org/safety/research-groups/).
