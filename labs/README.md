@@ -19,9 +19,10 @@ permalink: /labs/
   * [Institute of Deep Learning](http://idl.baidu.com/)： [Team](http://idl.baidu.com/IDL-team.html) (徐伟)
   * [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
 * [Tencent AI Lab](http://ai.tencent.com/ailab/):
-  * Seattle (俞栋)
+  * Seattle (俞栋)
 * [Twitter Cortex](https://cortex.twitter.com/)
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
+* [Citadel](https://www.citadel.com/) ([邓力](https://www.microsoft.com/en-us/research/people/deng/))
 * [Vicarious](http://www.vicarious.com/)
 * [Element AI](https://www.elementai.com/research)
 * [GoodAI](https://www.goodai.com/)
@@ -37,7 +38,7 @@ permalink: /labs/
 
 ## Academia
 
-* UC [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/): [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
+* UC [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/): [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/)
 * New York University [Center for Data Science](http://cds.nyu.edu/): [Yann LeCun](http://yann.lecun.com/), [Kyunghyun Cho](http://www.kyunghyuncho.me/)
 * University of Toronto [Machine Learning](http://learning.cs.toronto.edu/): [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php)
 * Université de Montréal [MILA](https://mila.umontreal.ca/en/): [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/)
