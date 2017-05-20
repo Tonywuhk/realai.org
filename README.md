@@ -15,8 +15,7 @@ mathjax: true
 
 ## What's Next
 
-* 2017 May 19. [NIPS 2017](https://nips.cc/Conferences/2017) paper submission deadline. ([Call for Papers](https://nips.cc/Conferences/2017/CallForPapers))
-* 2017 May 23-27. The Future of Go Summit will be held in Wuzhen, China. ([DeepMind Blog](https://deepmind.com/blog/exploring-mysteries-alphago/))
+* 2017 May 23-27. The Future of Go Summit will be held in Wuzhen, China. ([DeepMind Page](https://deepmind.com/research/alphago/alphago-china/))
 
 ## Main Contents
 
