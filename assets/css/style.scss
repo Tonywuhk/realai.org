@@ -144,6 +144,10 @@ ol ol ol {
   list-style: lower-roman;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 /*******************************************************************************
 ********************************************************************************
 Below contains a block of code copied from
@@ -170,11 +174,6 @@ a {
   -o-transition: text-shadow 0.5s ease;
   -ms-transition: color 0.5s ease;
   -ms-transition: text-shadow 0.5s ease;
-}
-
-a:hover, a:focus {
-  text-decoration: underline;
-  font-weight:bold;
 }
 
 footer a {
