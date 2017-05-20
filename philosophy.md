@@ -14,7 +14,7 @@ Many systems operating inside an environment exhibit a certain degree of complex
 
 It is safe to expect that humans will always be considered intelligent, but no lesser systems appear safe as the capability of machine intelligence steadily improves.
 
-The scope of an AI system ranges from classical reinforcement learning agents that are individualistic with a stable boundary, to a distributed population of physical processes with a certain level of coordination. The latter end of the scope is explained more rigorously in [Weinbaum & Veitas (2015)](https://arxiv.org/abs/1505.06366). A distributed intelligence emerging from the Internet is called the [global brain](https://en.wikipedia.org/wiki/Global_brain) and is studied by [The Global Brain Institute](http://globalbraininstitute.org). The difference between open-ended and utility-based intelligence is discussed in Goertzel (2015), particularly its Section 9.
+The scope of an AI system ranges from classical reinforcement learning agents that are individualistic with a stable boundary, to a distributed population of physical processes with a certain level of coordination. The latter end of the scope is explained more rigorously in [Weinbaum & Veitas (2015)](https://arxiv.org/abs/1505.06366). A distributed intelligence emerging from the Internet is called the [global brain](https://en.wikipedia.org/wiki/Global_brain) and is studied by [The Global Brain Institute](http://globalbraininstitute.org). The difference between open-ended and utility-based intelligence is discussed in [Goertzel (2015)](http://jetpress.org/v25.2/goertzel.htm), particularly its Section 9.
 
 ## Consciousness
 
@@ -25,4 +25,5 @@ The scope of an AI system ranges from classical reinforcement learning agents th
 * 2017 May 18, Karl Friston. [The mathematics of mind-time](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference). *Aeon*.
 * 2017 May 8, Toby Pereira. [An Anthropic Argument against the Future Existence of Superintelligent Artificial Intelligence](https://arxiv.org/abs/1705.03078). *arXiv:1705.03078*.
 * 2016 January 28, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
+* 2015 November. Ben Goertzel. [Superintelligence: Fears, Promises and Potentials](http://jetpress.org/v25.2/goertzel.htm). *Journal of Evolution & Technology*, 24(2):55-87.
 * 2015 June 12, David Weinbaum and Viktoras Veitas. [Open Ended Intelligence: The individuation of Intelligent Agents](https://arxiv.org/abs/1505.06366). *arXiv:1505.06366*.
