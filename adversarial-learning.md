@@ -3,6 +3,10 @@ permalink: /adversarial-learning/
 ---
 # Adversarial Learning
 
+## Adversarial Examples
+
+Optical illusions are like adversarial examples for the human brain. Meiji University's [Koichi Sugihara](http://home.mims.meiji.ac.jp/~sugihara/Welcomee.html) has made quite a few stunning [3D illusions](https://twitter.com/machinepix/status/864543509486870528).
+
 ## Adversarial Training Examples
 
 [Koh & Liang (2017)](https://arxiv.org/abs/1703.04730) demonstrated that modern neural networks are vunerable to adversarial *training-set* attacks. They successfully flipped the classification output of an Inception network by making a visually-indistinguishable small change to just 1 training image.
