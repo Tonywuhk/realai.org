@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 20. [不品读这本诗集，你就根本不了解人工智能的文学素养！](http://www.pingwest.com/ai-collection-of-poems/). *PingWest*.
 * 2017 May 18. [How Salesforce CEO Marc Benioff uses artificial intelligence to end internal politics at meetings](http://www.businessinsider.com/benioff-uses-ai-to-end-politics-at-staff-meetings-2017-5). *Business Insider*.
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*.
 * 2017 May 16. [Robots that Learn](https://blog.openai.com/robots-that-learn/). *OpenAI*.
