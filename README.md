@@ -100,6 +100,9 @@ mathjax: true
     5. Microsoft
     8. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
 
+3. Organizations
+    1. [Partnership on AI](http://realai.org/orgs/pai/)
+    
 3. Global [Macro](http://realai.org/macro/)
 
 4. [News](http://realai.org/news/) (2017)
