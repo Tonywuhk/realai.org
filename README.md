@@ -35,11 +35,11 @@ mathjax: true
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 4. Research
-    1. Learning Objectives
+    1. Learning Methods
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
                 * [Predictive Learning](http://realai.org/predictive-learning/)
-        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning
+        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning, Curriculum Learning
         3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
         4. [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
     2. Learning Outcomes
