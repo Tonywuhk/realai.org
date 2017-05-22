@@ -21,9 +21,16 @@ Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a
 
 [Ruder (2017)](http://sebastianruder.com/transfer-learning/) discussed transfer learning in a blog post and highlighted this area as "machine learning's next frontier".
 
+## Curriculum Learning
+
+[Graves et a. (2017)](https://arxiv.org/abs/1704.03003) consider loss-driven and complexity-driven signals to reward learning progress, then use a nonstationary multi-armed bandit algorithm to automatically generate learning curriculum.
+
+### Adversarial 
+
 ## References
 
 * 2017 May 11, Amir Rosenfeld and John K. Tsotsos. [Incremental Learning Through Deep Adaptation](https://arxiv.org/abs/1705.04228). *arXiv:1705.04228*.
+* 2017 April 10, Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, and Koray Kavukcuoglu. [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003). *arXiv:1704.03003*.
 * 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
 * 2017 March 13, Friedemann Zenke, Ben Poole, and Surya Ganguli. [Improved multitask learning through synaptic intelligence](https://arxiv.org/abs/1703.04200). *arXiv:1703.04200*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
