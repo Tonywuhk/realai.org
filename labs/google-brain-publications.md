@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 May 18, Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, and Vincent Dumoulin. [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830). *arXiv:1705.06830*.
 * 2017 May 16, Dieterich Lawson, George Tucker, Chung-Cheng Chiu, Colin Raffel, Kevin Swersky, and Navdeep Jaitly. [Learning Hard Alignments with Variational Inference](https://arxiv.org/abs/1705.05524). *arXiv:1705.05524*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
 * 2017 May 9, Zbigniew Wojna, Alex Gorban, Dar-Shyang Lee, Kevin Murphy, Qian Yu, Yeqing Li, and Julian Ibarz. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/abs/1704.03549). *arXiv:1704.03549*.
@@ -26,9 +27,11 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 March 29, Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Jaitly, Zongheng Yang, Ying Xiao, Zhifeng Chen, Samy Bengio, Quoc Le, Yannis Agiomyrgiannakis, Rob Clark, and Rif A. Saurous. [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). *arXiv:1703.10135*.
 * 2017 March 26, Melody Y. Guan, Varun Gulshan, Andrew M. Dai, and Geoffrey E. Hinton. [Who Said What: Modeling Individual Labelers Improves Classification](https://arxiv.org/abs/1703.08774). *arXiv:1703.08774*.
 * 2017 March 24, Ron J. Weiss, Jan Chorowski, Navdeep Jaitly, Yonghui Wu, and Zhifeng Chen. [Sequence-to-Sequence Models Can Directly Transcribe Foreign Speech](https://arxiv.org/abs/1703.08581). *arXiv:1703.08581*.
+* 2017 March 24, Esteban Real, Jonathon Shlens, Stefano Mazzocchi, Xin Pan, and Vincent Vanhoucke. [YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video](https://arxiv.org/abs/1702.00824). *arXiv:1702.00824*.
 * 2017 March 22, Amit Daniely, Roy Frostig, Vineet Gupta, and Yoram Singer. [Random Features for Compositional Kernels](https://arxiv.org/abs/1703.07872). *arXiv:1703.07872*.
 * 2017 March 21, George Tucker, Andriy Mnih, Chris J. Maddison, and Jascha Sohl-Dickstein. [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370). *arXiv:1703.07370*.
 * 2017 March 16, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Arnaud Doucet, Andriy Mnih, and Yee Whye Teh. [Particle Value Functions](https://arxiv.org/abs/1703.05820). *arXiv:1703.05820*.
+* 2017 March 16, Xinchen Yan, Jimei Yang, Ersin Yumer, Yijie Guo, and Honglak Lee. [Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision](https://arxiv.org/abs/1612.00814). *arXiv:1612.00814*.
 * 2017 March 15, Laurent Dinh, Razvan Pascanu, Samy Bengio, and Yoshua Bengio. [Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/abs/1703.04933). *arXiv:1703.04933*.
 * 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 13, Michael Gygli, Mohammad Norouzi, and Anelia Angelova. [Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs](https://arxiv.org/abs/1703.04363). *arXiv:1703.04363*.
