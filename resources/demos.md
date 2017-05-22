@@ -34,6 +34,7 @@ permalink: /resources/demos/
 
 ### Face Synthesis
 
+* 2017 May 8. You said that? - Synthesizing [videos](https://www.youtube.com/watch?v=lXhkxjSJ6p8) of talking faces from audio. [arXiv](https://arxiv.org/abs/1705.02966).
 * 2017 April 27, Erroll Wood, Tadas Baltrusaitis, Louis-Philippe Morency, Peter Robinson, and Andreas Bulling. [GazeDirector: Fully Articulated Eye Gaze Redirection in Video](https://arxiv.org/abs/1704.08763). *arXiv:1704.08763*. [video](https://www.youtube.com/watch?v=-tDaZk9V1Nw).
 * 2017 April 13, Rui Huang, Shu Zhang, Tianyu Li, and Ran He. [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086). *arXiv:1704.04086*.
 * 2017 March 31, David Berthelot, Thomas Schumm, and Luke Metz. [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). *arXiv:1703.10717*.
