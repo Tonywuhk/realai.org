@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 May 19, Will Kay, Joao Carreira, Karen Simonyan, Brian Zhang, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, and Andrew Zisserman. [The Kinetics Human Action Video Dataset](https://arxiv.org/abs/1705.06950). *arXiv:1705.06950*. [site](http://deepmind.com/kinetics).
+* 2017 May 19, Nat Dilokthanakul, Christos Kaplanis, Nick Pawlowski, and Murray Shanahan. [Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1705.06769). *arXiv:1705.06769*.
 * 2017 May 15, Ivo Danihelka, Balaji Lakshminarayanan, Benigno Uria, Daan Wierstra, and Peter Dayan. [Comparison of Maximum Likelihood and GAN-based training of Real NVPs](https://arxiv.org/abs/1705.05263). *arXiv:1705.05263*.
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.
 * 2017 May 10, Tom Everitt, Victoria Krakovna, Laurent Orseau, Marcus Hutter, and Shane Legg. [Reinforcement Learning with Corrupted Reward Channel](http://www.tomeveritt.se/papers/IJCAI17-rewardcorruption.pdf). *To appear in IJCAI-17*.
