@@ -15,11 +15,16 @@ In an experiment evolving networks to produce patterns, [Huizinga et al. (2017)]
 
 [Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations.
 
+## Unpublished Architectures
+
+According to a [Twitter picture](https://twitter.com/thefillm/status/845743048709464064) posted on 26 March 2017, Google's Jeff Dean talked about a sparsely activated single large model with multiple tasks and outputs. It resembles Pathnet ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) with the addition of sparsity as in [Shazeer & Mirhoseini et al. (2017)](https://arxiv.org/abs/1701.06538).
+
 ## References
 
 * 2017 April 18, Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko. [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526). *arXiv:1704.05526*.
 * 2017 April 17, Joost Huizinga, Kenneth O. Stanley, and Jeff Clune. [The Emergence of Canalization and Evolvability in an Open-Ended, Interactive Evolutionary System](https://arxiv.org/abs/1704.05143). *arXiv:1704.05143*. [code](https://github.com/Evolving-AI-Lab/cppnx).
 * 2017 March 10, Manzil Zaheer, Satwik Kottur, Siamak Ravanbhakhsh, Barnabas Poczos, Ruslan Ssalakhutdinov, and Alexander Smola. [Deep Sets](https://arxiv.org/abs/1703.06114). *arXiv:1703.06114*.
+* 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
 * 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
 * 2016 December 22, Klaus Greff, Rupesh K. Srivastava, and Jürgen Schmidhuber. [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771). *arXiv:1612.07771*.
 * 2016 December 7, Michael Figurnov, Maxwell D. Collins, Yukun Zhu, Li Zhang, Jonathan Huang, Dmitry Vetrov, and Ruslan Salakhutdinov. [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297). *arXiv:1612.02297*. [code](https://github.com/mfigurnov/sact).
