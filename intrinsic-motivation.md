@@ -66,6 +66,11 @@ where \\(\eta > 0\\) is a scaling factor.
 
 This model is evaluated in the *VizDoom* and *Super Mario Bros* environments, and significantly outperforms a baseline method of A3C with no curiosity. Even without extrinsic rewards, the agent can learn to cross over 30% of Level 1 in *Mario*, until blocked by a pit that requires a sequence of more than 15 key presses to jump across. The agent is unable to execute this sequence and consequently cannot find out there is a world beyond the pit.
 
+## Self-Play
+
+* 2017 May 17, David Held, Xinyang Geng, Carlos Florensa, and Pieter Abbeel. [Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366). *arXiv:1705.06366*.
+* 2017 April 19, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
+
 ## References
 
 * 2017 May 15, [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), Pulkit Agrawal, Alexei A. Efros, and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/). [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363). *arXiv:1705.05363*. [site](https://pathak22.github.io/noreward-rl/). [code](https://github.com/pathak22/noreward-rl).
