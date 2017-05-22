@@ -3,8 +3,10 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 21. [Ford Motor Is Replacing Mark Fields as C.E.O.](https://www.nytimes.com/2017/05/21/business/ford-motor-chief-executive.html). *New York Times*.
 * 2017 May 20. [不品读这本诗集，你就根本不了解人工智能的文学素养！](http://www.pingwest.com/ai-collection-of-poems/). *PingWest*.
 * 2017 May 18. [How Salesforce CEO Marc Benioff uses artificial intelligence to end internal politics at meetings](http://www.businessinsider.com/benioff-uses-ai-to-end-politics-at-staff-meetings-2017-5). *Business Insider*.
+* 2017 May 17. [Google’s new machine learning framework is going to put more AI on your phone](https://www.theverge.com/2017/5/17/15645908/google-ai-tensorflowlite-machine-learning-announcement-io-2017). *The Verge*.
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*.
 * 2017 May 16. [Robots that Learn](https://blog.openai.com/robots-that-learn/). *OpenAI*.
 * 2017 May 16. [Partnership on AI Strengthens its Network of Partners and Announces First Initiatives](https://www.partnershiponai.org/2017/05/pai-announces-new-partners-and-initiatives/). *Partnership on AI*.
@@ -96,6 +98,7 @@ permalink: /news/
 * 2017 March 27. [Elon Musk's Billion-Dollar Crusade to Stop the A.I. Apocalypse](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x). *Vanity Fair*.
 * 2017 March 22. [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html). *Canada Newswire*.
 * 2017 March 22. [Baidu Chief Scientist Ng to Depart in Setback for AI Push](https://www.bloomberg.com/news/articles/2017-03-22/baidu-s-chief-scientist-ng-to-depart-in-setback-for-ai-efforts). *Bloomberg Technology*.
+* 2017 March 19. [YC AI](https://blog.ycombinator.com/yc-ai/). *Y Combinator Blog*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
 * 2017 March 16. [The Mobile Internet Is Over. Baidu Goes All In on AI](https://www.bloomberg.com/news/articles/2017-03-16/the-mobile-internet-is-over-baidu-goes-all-in-on-ai). *Bloomberg Businessweek*.
 * 2017 March 14. [Microsoft challenge: Build a collaborative AI in Minecraft](https://www.microsoft.com/en-us/research/blog/microsoft-challenge-minecraft-collaborative-ai/). *Microsoft Research Blog*.
