@@ -63,6 +63,10 @@ In a setting where the agent has access to previous control data, [Hester et al.
 
 was used to update the network.
 
+### Improvements
+
+[Levine & Zahavy et al. (2017)](https://arxiv.org/abs/1705.07461) improve the performance over DQN and DDQN by repeatedly retraining the weights of the last hidden layer of the deep Q-networks. The training is based on least squares shallow learning method where it is essential to use a Bayesian regularization that treats the last layer's weights as a Bayesian prior.
+
 ### Continuous Actions
 
 Estimating the \\(Q\\)-values is difficult when the actions can be continuous and high dimensional. [Metz et al. (2017)](https://arxiv.org/abs/1705.05035) proposed Sequential DQN (SDQN) that uses next-step prediction to model the \\(Q\\)-values and policies over discretized dimensions.
@@ -121,6 +125,7 @@ where the learning rate \\(\alpha\\) could have a high value. State representati
 
 ## References
 
+* 2017 May 21, Nir Levine, Tom Zahavy, Daniel J. Mankowitz, Aviv Tamar, and Shie Mannor. [Shallow Updates for Deep Reinforcement Learning](https://arxiv.org/abs/1705.07461). *arXiv:1705.07461*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
 * 2017 April 21, John Schulman, Pieter Abbeel, and Xi Chen. [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440). *arXiv:1704.06440*.
 * 2017 April 15, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G. Bellemare, and Remi Munos. [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/abs/1704.04651). *arXiv:1704.04651*.
