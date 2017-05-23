@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 May 19, Sergio Guadarrama, Ryan Dahl, David Bieber, Mohammad Norouzi, Jonathon Shlens, and Kevin Murphy. [PixColor: Pixel Recursive Colorization](https://arxiv.org/abs/1705.07208). *arXiv:1705.07208*.
+* 2017 May 19, Florian Tramèr, Alexey Kurakin, Nicolas Papernot, Dan Boneh, and Patrick McDaniel. [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). *arXiv:1705.07204*.
 * 2017 May 18, Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, and Vincent Dumoulin. [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830). *arXiv:1705.06830*.
 * 2017 May 16, Dieterich Lawson, George Tucker, Chung-Cheng Chiu, Colin Raffel, Kevin Swersky, and Navdeep Jaitly. [Learning Hard Alignments with Variational Inference](https://arxiv.org/abs/1705.05524). *arXiv:1705.05524*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
