@@ -27,10 +27,13 @@ permalink: /policies/
 * 2017 May 3. [Singapore to invest over $100 million in A.I. in next five years in smart nation, innovation hub push](http://www.cnbc.com/2017/05/03/singapores-national-research-foundation-to-invest-150-million-dollars-in-ai.html). *CNBC*.
 
 ### United Kingdom
+
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
 
 ### United States
+
+* 2017 May 23. [Trump budget makes heavy cuts to science research](http://thehill.com/policy/technology/334764-trump-budget-would-make-heavy-cuts-to-science). *The Hill*.
 * 2017 May 5. [America’s ‘Miracle Machine’ is in desperate need of, well, a miracle](https://www.washingtonpost.com/opinions/americas-miracle-machine-is-in-desperate-need-of-well-a-miracle/2017/05/05/daafbe6a-30e7-11e7-9534-00e4656c22aa_story.html). *Washinton Post*.
 
 ## Research
