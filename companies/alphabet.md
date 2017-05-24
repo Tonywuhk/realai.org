@@ -12,6 +12,6 @@ Google’s AI efforts are brought together under [Google.ai](https://google.ai/)
 
 ## Waymo
 
-### What's New
+### Analyst's Opinions
 
-* 2017 May 14. [Lyft and Waymo Reach Deal to Collaborate on Self-Driving Cars](https://www.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html). *New York Times*.
+Following its [recent deal](https://www.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html) with Lyft to collaborate on self-driving cars, Morgan Stanley's analyst Brian Nowak [wrote to clients around 23 May 2017](http://www.cnbc.com/2017/05/23/alphabets-self-driving-waymo-unit-could-be-worth-70-billion-more-than-gm-morgan-stanley-says.html) that as a potential spin-out candidate, Waymo could be worth $70 billion.
