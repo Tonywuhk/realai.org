@@ -3,6 +3,9 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 24. [人工智能论坛：AlphaGo团队分享技术细节](http://sports.sina.com.cn/go/2017-05-24/doc-ifyfkqwe0888552.shtml). *Sina Sports*.
+* 2017 May 23. [Google Unleashes AlphaGo in China—But Good Luck Watching It There](https://www.wired.com/2017/05/google-unleashes-alphago-china-good-luck-watching/). *Wired*.
+* 2017 May 23. [如何看待柯洁将于 5 月底与 AlphaGo 进行的人机大战？这对围棋、人类和人工智能会有什么影响？](https://www.zhihu.com/question/47117628/answer/173380902). *Zhihu*.
 * 2017 May 21. [Demis Hassabis, Desert Island Discs](http://www.bbc.co.uk/programmes/b08qy1sl). *BBC Radio 4*. [记录](http://mp.weixin.qq.com/s/AgVig_HD8JeEQnTwQ3s-sg).
 * 2017 May 21. [Ford Motor Is Replacing Mark Fields as C.E.O.](https://www.nytimes.com/2017/05/21/business/ford-motor-chief-executive.html). *New York Times*.
 * 2017 May 20. [不品读这本诗集，你就根本不了解人工智能的文学素养！](http://www.pingwest.com/ai-collection-of-poems/). *PingWest*.
