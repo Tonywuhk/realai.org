@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 May 23, Relja Arandjelović and Andrew Zisserman. [Look, Listen and Learn](https://arxiv.org/abs/1705.08168). *arXiv:1705.08168*.
 * 2017 May 22, Joao Carreira and Andrew Zisserman. [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750). *arXiv:1705.07750*.
 * 2017 May 19, Will Kay, Joao Carreira, Karen Simonyan, Brian Zhang, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, and Andrew Zisserman. [The Kinetics Human Action Video Dataset](https://arxiv.org/abs/1705.06950). *arXiv:1705.06950*. [site](http://deepmind.com/kinetics).
 * 2017 May 19, Nat Dilokthanakul, Christos Kaplanis, Nick Pawlowski, and Murray Shanahan. [Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1705.06769). *arXiv:1705.06769*.
