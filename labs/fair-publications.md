@@ -7,9 +7,11 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 May 22, Maximilian Nickel and Douwe Kiela. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039). *arXiv:1705.08039*.
 * 2017 May 19, Mikael Henaff, William F. Whitney, and Yann LeCun. [Model-Based Planning in Discrete Action Spaces](https://arxiv.org/abs/1705.07177). *arXiv:1705.07177*.
 * 2017 May 18, Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu, Dhruv Batra, Antoine Bordes, Devi Parikh, and Jason Weston. [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476). *arXiv:1705.06476*.
 * 2017 May 10, Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, and Ross Girshick. [Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633). *arXiv:1705.03633*. [code](https://github.com/facebookresearch/clevr-iep).
+* 2017 May 10, Ivan Vulić, Daniela Gerz, Douwe Kiela, Felix Hill, and Anna Korhonen. [HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment](https://arxiv.org/abs/1608.02117). *arXiv:1608.02117*.
 * 2017 May 8, Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin. [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122). *arXiv:1705.03122*.
 * 2017 May 5, Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364). *arXiv:1705.02364*.
 * 2017 April 28, Cisse Moustapha, Bojanowski Piotr, Grave Edouard, Dauphin Yann, and Usunier Nicolas. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
@@ -70,6 +72,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 September 21, Alexandre Sablayrolles, Matthijs Douze, Hervé Jégou, and Nicolas Usunier. [How should we evaluate supervised hashing?](https://arxiv.org/abs/1609.06753). *arXiv:1609.06753*.
 * 2016 September 14, Edouard Grave, Armand Joulin, Moustapha Cissé, David Grangier, and Hervé Jégou. [Efficient softmax approximation for GPUs](https://arxiv.org/abs/1609.04309). *arXiv:1609.04309*.
 * 2016 September 11, Ronan Collobert, Christian Puhrsch, and Gabriel Synnaeve. [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://arxiv.org/abs/1609.03193). *arXiv:1609.03193*.
+* 2016 September 11, Volker Tresp and Maximilian Nickel. [Relational Models](https://arxiv.org/abs/1609.03145). *arXiv:1609.03145*.
 * 2016 September 11, Junbo Zhao, Michael Mathieu, and Yann LeCun. [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126). *arXiv:1609.03126*.
 * 2016 September 10, Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, and Soumith Chintala. [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](https://arxiv.org/abs/1609.02993). *arXiv:1609.02993*.
 * 2016 September 8, Neil Zeghidour, Gabriel Synnaeve, Nicolas Usunier, and Emmanuel Dupoux. [Joint Learning of Speaker and Phonetic Similarities with Siamese Networks](https://research.fb.com/publications/joint-learning-of-speaker-and-phonetic-similarities-with-siamese-networks/). *Interspeech 2016*.
