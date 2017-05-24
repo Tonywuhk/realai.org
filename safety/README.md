@@ -3,7 +3,15 @@ permalink: /safety/
 ---
 # Safety
 
-On this page, we consider how to ensure that the AI systems we develop will benefit the whole world. The topic of AI safety has attracted the attention from many [research groups](http://realai.org/safety/research-groups/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
+[AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. On this page, we consider how to ensure that the AI systems we develop will benefit the whole world. 
+
+## Alignment
+
+[Lawrence (2017)](https://arxiv.org/abs/1705.07996) argues that we've already developed non-sentient, reactive machine intelligence that is aligned with our subconscious desires, but not our aspirations. Its effects, such as fake news, can confirm our biases and prejudice, undermine our spirit and soul.
+
+## Resources
+
+The topic of AI safety has attracted the attention from many [research groups](http://realai.org/safety/research-groups/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
 
 ## News
 
@@ -23,16 +31,13 @@ On this page, we consider how to ensure that the AI systems we develop will bene
 
 ## Research
 
+* 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
 * 2017 April 10, El Mahdi El Mhamdi, Rachid Guerraoui, Hadrien Hendrikx, and Alexandre Maurer. [Can AIs learn to avoid human interruption?](https://arxiv.org/abs/1704.02882). *arXiv:1704.02882*.
 * 2017 April 3, Gopal P. Sarma. [Brief Notes on Hard Takeoff, Value Alignment, and Coherent Extrapolated Volition](https://arxiv.org/abs/1704.00783). *arXiv:1704.00783*.
 * 2016 July 27, Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, and Andrew Critch. [Alignment for Advanced Machine Learning Systems](https://intelligence.org/2016/07/27/alignment-machine-learning/). *Machine Intelligence Research Institute*.
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
-
-## Links
-
-* 80,000 Hours: [List of the most urgent global issues](https://80000hours.org/articles/cause-selection/). Updated 2017 March.
 
 ## Real AI
 
