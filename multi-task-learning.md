@@ -7,7 +7,7 @@ A standard deep neural network can learn very different visual domains simultane
 
 ## Continual Learning
 
-Continual learning focuses on an agent's ability to learn new tasks without forgeting old ones. Skills learned from old tasks may or may not transfer to new tasks, but must be largely retained. One approach is to penalize learning for weights that are important for remembering old tasks. Importance measures of weights can be computed online ([Zenke & Poole & Ganguli, 2017](https://arxiv.org/abs/1703.04200)). The elastic weight consolidation (EWC) ([Kirkpatrick et al, 2016](https://arxiv.org/abs/1612.00796)) method relies on computing the Fisher information metric at the end of each task.
+Continual learning focuses on an agent's ability to learn new tasks without forgeting old ones. Skills learned from old tasks may or may not transfer to new tasks, but must be largely retained. One approach is to penalize learning for weights that are important for remembering old tasks. Importance measures of weights can be computed online ([Zenke & Poole & Ganguli, 2017](https://arxiv.org/abs/1703.04200)). The elastic weight consolidation (EWC) ([Kirkpatrick et al, 2016](https://arxiv.org/abs/1612.00796)) method relies on computing the Fisher information metric at the end of each task. [Seff et al. (2017)](https://arxiv.org/abs/1705.08395) explain that both of these methods can be adapted to training conditional GANs.
 
 Another approach to prevent catastrophic forgetting is to design novel network architectures. PathNets ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) evolve the learning of a particular task towards a subset of parameters, then fix these parameters before moving on to the next task.
 
@@ -29,6 +29,7 @@ Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a
 
 ## References
 
+* 2017 May 23, Ari Seff, Alex Beatson, Daniel Suo, and Han Liu. [Continual Learning in Generative Adversarial Nets](https://arxiv.org/abs/1705.08395). *arXiv:1705.08395*.
 * 2017 May 11, Amir Rosenfeld and John K. Tsotsos. [Incremental Learning Through Deep Adaptation](https://arxiv.org/abs/1705.04228). *arXiv:1705.04228*.
 * 2017 April 10, Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, and Koray Kavukcuoglu. [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003). *arXiv:1704.03003*.
 * 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
