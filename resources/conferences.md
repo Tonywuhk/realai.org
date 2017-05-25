@@ -10,7 +10,6 @@ permalink: /resources/conferences/
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
-| 2017/05/26 | 2017/09/06 - 08    | New York, NY         | [CCN 2017](http://ccneuro.org/)
 | 2017/06/28 | 2017/11/13 - 15    | Mountain View, CA    | [CoRL 2017](http://www.robot-learning.org/)
 |            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
 |            | 2017/07/30 - 08/04 | Vancouver, Canada    | [ACL 2017](http://acl2017.org/)
@@ -25,7 +24,7 @@ permalink: /resources/conferences/
            
 ### Past Meetings
 
-ICLR: [2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1), [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
+ICLR: [2017](http://www.iclr.cc/doku.php?id=iclr2017:main), [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
 AITP: [2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)
 
@@ -43,6 +42,11 @@ ACL: [2016](http://acl2016.org/), [2015](http://acl2015.org/), [2014](http://acl
 
 CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), [2014](http://cvpr2014.thecvf.com/), [2013](http://cvpr2013.thecvf.com/), [2012](http://tab.computer.org/pamitc/archive/cvpr2012/)
 
+### Analyses
+
+* 2017 May 24, Andrej Karpathy. [ICML accepted papers institution stats](https://medium.com/@karpathy/icml-accepted-papers-institution-stats-bad8d2943f5d). *Medium*.
+* 2017 January 2, Eric Jang. [Summary of NIPS 2016](http://blog.evjang.com/2017/01/nips2016.html).
+
 ## Non-Academic
 
 * AI Frontiers: [2017](https://www.aifrontiers.com/2017)
@@ -52,7 +56,7 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 * EmTech Digital: [2017](http://events.technologyreview.com/emtech/digital/17/), [2016](http://events.technologyreview.com/video/?event=emtech-digital&year=2016), [2015](http://events.technologyreview.com/video/?event=emtech-digital&year=2015)
 * FLI: [Beneficial AI 2017](https://futureoflife.org/bai-2017/), [Puerto Rico 2015](https://futureoflife.org/2015/10/12/ai-safety-conference-in-puerto-rico/)
 * Future Labs AI Summit: [2017](http://futurelabs.nyc/events/ai-summit)
-* Future of Go Summit: [*2017.05.23*](https://deepmind.com/research/alphago/alphago-china/)
+* Future of Go Summit: [2017](http://events.google.com/alphago2017/)
 * GMIS: [*2017.05.27*](http://gmis.jiqizhixin.com/)
 * GPU Technology Conference: [2017](http://www.gputechconf.com/)
 * Scaled ML: [2017](http://scaledml.org/) ([slides](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)), [2016](http://scaledml.org/index2016.html)
