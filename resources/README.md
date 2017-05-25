@@ -28,6 +28,7 @@ permalink: /resources/
 * [AI•ON](http://ai-on.org/) is an open community dedicated to advancing Artificial Intelligence.
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) is built by [@karpathy](https://twitter.com/karpathy) to accerlerate research.
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) is a curated list hosted on GitHub.
+* The [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/) is a weekly reading group that is fast-paced and focused on current, advanced papers in machine learning research.
 * The [Deep Learning … moving beyond shallow machine learning since 2006!](http://deeplearning.net/) website is intended to host a variety of resources and pointers to information about Deep Learning.
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) is a reading roadmap for newcomers.
 * [Distill](http://distill.pub/) is dedicated to clear explanations of machine learning. It hosts a [research journal](http://distill.pub/journal/).
