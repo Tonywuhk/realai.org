@@ -37,10 +37,15 @@ Below is a non-exhaustive list of organizations that are related to effetive alt
 
 * William MacAskill, Executive Director CEA
 * Michael Page, Director, Special Projects Division
-* Tara Mac Aulay, Chief Operating Officer, Community and Outreach Division
+* [Tara Mac Aulay](https://www.centreforeffectivealtruism.org/team/tara-macaulay/), Chief Operating Officer, Community and Outreach Division
 * [Ben Todd](https://80000hours.org/about/meet-the-team/), Executive Director 80,000 Hours
 
-It has 15 employees and 25 volunteers, operates the Internet portal [effectivealtruism.org](https://www.effectivealtruism.org/) and runs the following projects:
+CEA has 15 employees and 25 volunteers. Staff include
+
+* [Amy Willey Labenz](https://www.centreforeffectivealtruism.org/team/amy-willey-labenz/), Senior Events Manager, General Counsel. [Former COO](https://intelligence.org/2013/01/09/january-2013-newsletter/) of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
+* [Harri Besceli](https://www.centreforeffectivealtruism.org/team/harri/), EA Groups Liaison.
+
+CEA operates the Internet portal [effectivealtruism.org](https://www.effectivealtruism.org/) and runs the following projects:
 
 * [Giving What We Can](https://www.givingwhatwecan.org/) is part of the Centre for Effective Altruism. It is a community of effective [givers](https://www.givingwhatwecan.org/about-us/members/) that inspire people to donate significantly and as effectively as possible.
   * [Team](https://www.givingwhatwecan.org/about-us/team/): Toby Ord (Founder), William MacAskill (Co-Founder and Vice President)
