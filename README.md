@@ -65,7 +65,7 @@ mathjax: true
         4. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
         5. [Imitation Learning](http://realai.org/imitation-learning/)
         6. [General Reinforcement Learning](http://realai.org/rl/general/)
-    5. [Neuroscience](http://realai.org/neuroscience/)
+    5. [Neuroscience](http://realai.org/neuroscience/)
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
         1. [Vision](http://realai.org/computer-vision/)
