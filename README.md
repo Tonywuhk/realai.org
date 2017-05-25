@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 May 25. Results of [2016 Expert Survey on Progress in AI](http://aiimpacts.org/2016-expert-survey-on-progress-in-ai/) is [published](https://arxiv.org/abs/1705.08807). Medium estimate of 50% chance AGI is 2061. ([Timing](http://realai.org/timing/))
 * 2017 May 24. [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/). *OpenAI*. ([Reinforcement Learning Implemtations](http://realai.org/rl-code/))
 * 2017 May 23-27. [The Future of Go Summit](http://events.google.com/alphago2017/). Wuzhen, China.
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*. ([News](http://realai.org/news/), [Google](http://realai.org/companies/alphabet/#google))
