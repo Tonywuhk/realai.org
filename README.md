@@ -56,15 +56,16 @@ mathjax: true
         4. Generative Models
         5. [Platforms](http://realai.org/learning-platforms/)
     4. Reinforcement Learning
-        1. [Model-Free Algorithms](http://realai.org/model-free-rl-algorithms/)
+        1. [Model-Free Algorithms](http://realai.org/rl/model-free/)
         2. [Planning](http://realai.org/planning/)
-        2. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+        3. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Prediction](http://realai.org/predictive-learning/)
             * [Exploration](http://realai.org/exploration/)
             * [Empowerment](http://realai.org/empowerment/)
-        3. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-        4. [Imitation Learning](http://realai.org/imitation-learning/)
-    5. [Neuroscience](http://realai.org/neuroscience/)
+        4. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+        5. [Imitation Learning](http://realai.org/imitation-learning/)
+        6. [General Reinforcement Learning](http://realai.org/rl/general/)
+    5. [Neuroscience](http://realai.org/neuroscience/)
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
         1. [Vision](http://realai.org/computer-vision/)
