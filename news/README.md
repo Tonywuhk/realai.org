@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 24. [Google’s AlphaGo Levels Up From Board Games to Power Grids](https://www.wired.com/2017/05/googles-alphago-levels-board-games-power-grids/). *Wired*.
 * 2017 May 24. [新AlphaGo首度揭秘：单机运行，4个TPU，算法更强（专访+演讲）](http://chuansong.me/n/1854083653635). *QbitAI*.
 * 2017 May 24. [人工智能论坛：AlphaGo团队分享技术细节](http://sports.sina.com.cn/go/2017-05-24/doc-ifyfkqwe0888552.shtml). *Sina Sports*.
 * 2017 May 23. [Google Unleashes AlphaGo in China—But Good Luck Watching It There](https://www.wired.com/2017/05/google-unleashes-alphago-china-good-luck-watching/). *Wired*.
