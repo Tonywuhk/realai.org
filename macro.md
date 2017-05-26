@@ -5,6 +5,9 @@ permalink: /macro/
 
 ## United Kingdom
 
+* 2017 May 26. [U.K. Pound Slips to Two-Week Low Against U.S. Dollar as May's Election Lead Narrows](https://www.thestreet.com/story/14151829/1/u-k-pound-slips-to-two-week-low-against-u-s-dollar-as-may-s-election-lead-narrows.html). *TheStreet*.
+* 2017 May 26. [Labour slashes Tory lead to just five points in latest poll taken this week](http://www.independent.co.uk/news/uk/politics/labour-poll-yougov-latest-jeremy-corbyn-tory-points-slashed-theresa-may-party-surge-a7756421.html). *The Independent*.
+* 2017 April 18. [Pound soars and FTSE 100 tumbles after election announcement](http://www.bbc.com/news/business-39627859). *BBC News*.
 * 2017 April 18. [Theresa May announces snap general election on June 8 to 'make a success of Brexit'](http://www.telegraph.co.uk/news/2017/04/18/breaking-theresa-may-make-statement-downing-street-1115am1/). *The Telegraph*.
 
 ## United States
