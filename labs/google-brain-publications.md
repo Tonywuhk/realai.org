@@ -7,7 +7,11 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 May 25, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet, and Yee Whye Teh. [Filtering Variational Objectives](https://arxiv.org/abs/1705.09279). *arXiv:1705.09279*.
+* 2017 May 24, Shuang Liu, Olivier Bousquet, and Kamalika Chaudhuri. [Approximation and Convergence Properties of Generative Adversarial Learning](https://arxiv.org/abs/1705.08991). *arXiv:1705.08991*.
 * 2017 May 24, Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, and Honglak Lee. [Towards Understanding the Invertibility of Convolutional Neural Networks](https://arxiv.org/abs/1705.08664). *arXiv:1705.08664*.
+* 2017 May 24, Ilya Tolstikhin, Sylvain Gelly, Olivier Bousquet, Carl-Johann Simon-Gabriel, and Bernhard Schölkopf. [AdaGAN: Boosting Generative Models](https://arxiv.org/abs/1701.02386). *arXiv:1701.02386*.
+* 2017 May 23, Karol Kurach, Sylvain Gelly, Michal Jastrzebski, Philip Haeusser, Olivier Teytaud, Damien Vincent, and Olivier Bousquet. [Better Text Understanding Through Image-To-Text Transfer](https://arxiv.org/abs/1705.08386). *arXiv:1705.08386*.
 * 2017 May 19, Sergio Guadarrama, Ryan Dahl, David Bieber, Mohammad Norouzi, Jonathon Shlens, and Kevin Murphy. [PixColor: Pixel Recursive Colorization](https://arxiv.org/abs/1705.07208). *arXiv:1705.07208*.
 * 2017 May 19, Florian Tramèr, Alexey Kurakin, Nicolas Papernot, Dan Boneh, and Patrick McDaniel. [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). *arXiv:1705.07204*.
 * 2017 May 18, Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, and Vincent Dumoulin. [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830). *arXiv:1705.06830*.
@@ -120,6 +124,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
 * 2016 June 16, Ben Poole, Subhaneil Lahiri, Maithra Raghu, Jascha Sohl-Dickstein, and Surya Ganguli. [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/abs/1606.05340). *arXiv:1606.05340*.
 * 2016 June 16, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein. [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336). *arXiv:1606.05336*.
+* 2016 June 15, Anjuli Kannan, Karol Kurach, Sujith Ravi, Tobias Kaufmann, Andrew Tomkins, Balint Miklos, Greg Corrado, Laszlo Lukacs, Marina Ganea, Peter Young, and Vivek Ramavajjala. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870). *arXiv:1606.04870*.
 * 2016 June 14, Alex A. Alemi, Francois Chollet, Niklas Een, Geoffrey Irving, Christian Szegedy, and Josef Urban. [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442). *arXiv:1606.04442*.
 * 2016 May 25, Takeru Miyato, Andrew M. Dai, and Ian Goodfellow. [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725). *arXiv:1605.07725*.
 * 2016 May 23, Chelsea Finn, Ian Goodfellow, and Sergey Levine. [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157). *arXiv:1605.07157*.
@@ -135,6 +140,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 March 7, Sergey Levine, Peter Pastor, Alex Krizhevsky, and Deirdre Quillen. [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/abs/1603.02199). *arXiv:1603.02199*.
 * 2016 March 2, Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, and Sergey Levine. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748). *arXiv:1603.00748*.
 * 2016 February 23, Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alex Alemi. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261). *arXiv:1602.07261*.
+* 2016 February 23, Marcin Andrychowicz and Karol Kurach. [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://arxiv.org/abs/1602.03218). *arXiv:1602.03218*.
 * 2016 February 18, Amit Daniely, Roy Frostig, and Yoram Singer. [Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity](https://arxiv.org/abs/1602.05897). *arXiv:1602.05897*.
 * 2016 February 7, Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu. [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410). *arXiv:1602.02410*.
 * 2016, Dale Schuurmans, and Martin Zinkevich. [Deep Learning Games](https://papers.nips.cc/paper/6315-deep-learning-games). *Advances in Neural Information Processing Systems*, 29:1678-1686.
