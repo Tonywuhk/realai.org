@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 25. [A Silicon Valley technical women’s group has cut ties with Uber, citing ‘continuing allegations’ about the treatment of female employees](https://www.recode.net/2017/5/25/15695166/silicon-valley-tech-womens-group-cuts-ties-uber-continuing-allegations-treatment-female-employees). *Recode*.
 * 2017 May 24. [Google’s AlphaGo Levels Up From Board Games to Power Grids](https://www.wired.com/2017/05/googles-alphago-levels-board-games-power-grids/). *Wired*.
 * 2017 May 24. [新AlphaGo首度揭秘：单机运行，4个TPU，算法更强（专访+演讲）](http://chuansong.me/n/1854083653635). *QbitAI*.
 * 2017 May 24. [人工智能论坛：AlphaGo团队分享技术细节](http://sports.sina.com.cn/go/2017-05-24/doc-ifyfkqwe0888552.shtml). *Sina Sports*.
