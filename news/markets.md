@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 May 26. [Bitcoin briefly plunges below $2,100 as upward momentum fades](http://www.cnbc.com/2017/05/26/bitcoin-briefly-plunges-below-2100-as-upward-momentum-fades.html). *CNBC*.
 * 2017 May 18. [Brazil stocks set to crash on political scandal, dragging down hot emerging markets trade](http://www.cnbc.com/2017/05/18/this-brazil-stocks-etf-is-crashing-more-than-13-percent-on-an-emerging-political-scandal.html). *CNBC*.
 * 2017 May 17. [Global stocks, U.S. dollar sink as investors rethink 'Trump trade'](http://www.reuters.com/article/us-global-markets-idUSKCN18D01B). *Reuters*.
 * 2017 May 16. [Dollar Slide Worsens With U.S. Stocks Near Records: Markets Wrap](https://www.bloomberg.com/news/articles/2017-05-15/asia-stocks-set-to-rise-amid-u-s-record-oil-gain-markets-wrap). *Bloomberg Markets*.
@@ -23,7 +24,6 @@ permalink: /news/markets/
 * 2017 April 27. [Earnings Release FY17 Q3: Microsoft Cloud Strength Highlights Third Quarter Results](https://www.microsoft.com/en-us/Investor/earnings/FY-2017-Q3/press-release-webcast). *Microsoft Investor Relations*.
 * 2017 April 24. [Risk Is Back On After French Election; Euro Jumps: Markets Wrap](https://www.bloomberg.com/news/articles/2017-04-23/risk-is-back-on-after-french-election-euro-jumps-markets-wrap). *Bloomberg Markets*.
 * 2017 April 18. [Apple Readies iPhone Overhaul for Smartphone’s 10th Anniversary](https://www.bloomberg.com/news/articles/2017-04-18/apple-readies-iphone-overhaul-for-smartphone-s-10th-anniversary). *Bloomberg Technology*.
-* 2017 April 18. [Pound soars and FTSE 100 tumbles after election announcement](http://www.bbc.com/news/business-39627859). *BBC News*.
 * 2017 January 30. [Google has a higher antitrust risk under Trump because laws are 'rather vague'](http://www.cnbc.com/2017/01/30/google-antitrust-concerns-under-trump.html). *CNBC*.
 * 2016 December 13. [Google’s self-driving car unit becomes Waymo](https://techcrunch.com/2016/12/13/googles-self-driving-car-unit-spins-out-as-waymo/). *TechCrunch*.
 * 2016 November 15. [Trump Tech Meltdown Hits Fourth Day With Amazon Cut by $35 Billion](https://www.bloomberg.com/news/articles/2016-11-14/trump-tech-meltdown-hits-fourth-day-as-amazon-cut-by-35-billion). *Bloomberg*.
