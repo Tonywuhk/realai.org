@@ -42,6 +42,7 @@ permalink: /policies/
 
 ### Universal Basic Income
 
+In May 2017, Facebook CEO Mark Zuckerberg called for universal basic income ([CNBC](http://www.cnbc.com/2017/05/25/mark-zuckerberg-calls-for-universal-basic-income-at-harvard-speech.html)) to give everyone a cushion to try new ideas, during his [Harvard Commencement speech](http://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/).
 In an empirical study, [Marinescu (2017)](http://rooseveltinstitute.org/no-strings-attached/) found that unconditional cash transfers significantly raised recipients' quality of life, and caused at most a moderate descrease in labor participation.
 
 ## References
