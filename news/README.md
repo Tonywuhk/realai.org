@@ -3,6 +3,9 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 26. [Why 3,000 Scientists Think Nuclear Arsenals Make Us Less Safe](https://blogs.scientificamerican.com/observations/why-3-000-scientists-think-nuclear-arsenals-make-us-less-safe/). *Scientific American*.
+* 2017 May 26. [Apple Is Working on a Dedicated Chip to Power AI on Devices](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices). *Bloomberg Technology*.
+* 2017 May 26. [Google’s AlphaGo Trounces Humans—But It Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/). *Wired*.
 * 2017 May 25. [A Silicon Valley technical women’s group has cut ties with Uber, citing ‘continuing allegations’ about the treatment of female employees](https://www.recode.net/2017/5/25/15695166/silicon-valley-tech-womens-group-cuts-ties-uber-continuing-allegations-treatment-female-employees). *Recode*.
 * 2017 May 24. [Google’s AlphaGo Levels Up From Board Games to Power Grids](https://www.wired.com/2017/05/googles-alphago-levels-board-games-power-grids/). *Wired*.
 * 2017 May 24. [新AlphaGo首度揭秘：单机运行，4个TPU，算法更强（专访+演讲）](http://chuansong.me/n/1854083653635). *QbitAI*.
