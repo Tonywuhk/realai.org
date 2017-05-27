@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 26. [AlphaGo终于认输，而且“逼”队友古力认输，这是历史性的一场人机配对赛！](https://36kr.com/p/5077345.html) *36Kr*.
 * 2017 May 26. [Why 3,000 Scientists Think Nuclear Arsenals Make Us Less Safe](https://blogs.scientificamerican.com/observations/why-3-000-scientists-think-nuclear-arsenals-make-us-less-safe/). *Scientific American*.
 * 2017 May 26. [Apple Is Working on a Dedicated Chip to Power AI on Devices](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices). *Bloomberg Technology*.
 * 2017 May 26. [Google’s AlphaGo Trounces Humans—But It Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/). *Wired*.
