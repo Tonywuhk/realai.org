@@ -3,6 +3,11 @@ permalink: /macro/
 ---
 # Global Macro
 
+## Distributed Computing
+
+* 2017 May 26. [Bitcoin briefly plunges below $2,100 as upward momentum fades](http://www.cnbc.com/2017/05/26/bitcoin-briefly-plunges-below-2100-as-upward-momentum-fades.html). *CNBC*.
+* 2017 May 26. [Bitcoin's price keeps breaking records. Here's what's driving its growth.](https://www.vox.com/new-money/2017/5/26/15687062/bitcoin-bubble-explained) *Vox*.
+
 ## United Kingdom
 
 * 2017 May 26. [Pound Falls on Tighter Polls as Traders Wake Up to Election Risk](https://www.bloomberg.com/news/articles/2017-05-26/sterling-slips-as-poll-shows-tory-lead-narrows-after-bomb-attack). *Bloomberg Markets*.
