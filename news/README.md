@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 26. [Wall Street to CEOs: The Future Is Now](https://www.wsj.com/articles/wall-street-to-ceos-the-future-is-now-1495791003). *The Wall Street Journal*.
 * 2017 May 26. [AlphaGo终于认输，而且“逼”队友古力认输，这是历史性的一场人机配对赛！](https://36kr.com/p/5077345.html) *36Kr*.
 * 2017 May 26. [Why 3,000 Scientists Think Nuclear Arsenals Make Us Less Safe](https://blogs.scientificamerican.com/observations/why-3-000-scientists-think-nuclear-arsenals-make-us-less-safe/). *Scientific American*.
 * 2017 May 26. [Apple Is Working on a Dedicated Chip to Power AI on Devices](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices). *Bloomberg Technology*.
