@@ -13,6 +13,8 @@ title: Implementation
 * [PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. This [repository](https://github.com/yunjey/pytorch-tutorial) provides tutorial code.
 * [rllab](https://github.com/openai/rllab) ([Duan et al., 2016](https://arxiv.org/abs/1604.06778)) is a framework for developing and evaluating reinforcement learning algorithms.
 
+One main difference between TensorFlow and PyTorch is that the former uses static computation graphs whereas the latter supports dynamic computation graphs. It is further explained and demonstrated for conditional and loop structures on page 120-129 of the [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) used in a Stanford lecture.
+
 ## Hardware
 
 * 2017 April 5, Norm Jouppi. [Quantifying the performance of the TPU, our first machine learning chip](https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html). *Google Cloud Platform Blog*.
