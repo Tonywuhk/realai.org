@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 May 29. [李嘉誠上人工智能課激動站起](https://www1.hkej.com/dailynews/headline/article/1573629/). *Hong Kong Economic Journal*.
 * 2017 May 26. [This app uses artificial intelligence to turn design mockups into source code](https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code/). *The Next Web*.
 * 2017 May 26. [Wall Street to CEOs: The Future Is Now](https://www.wsj.com/articles/wall-street-to-ceos-the-future-is-now-1495791003). *The Wall Street Journal*.
 * 2017 May 26. [AlphaGo终于认输，而且“逼”队友古力认输，这是历史性的一场人机配对赛！](https://36kr.com/p/5077345.html) *36Kr*.
