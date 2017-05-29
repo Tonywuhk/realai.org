@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 May 25, Jean Lafond, Nicolas Vasilache, and Léon Bottou. [Diagonal Rescaling For Neural Networks](https://arxiv.org/abs/1705.09319). *arXiv:1705.09319*.
 * 2017 May 22, Maximilian Nickel and Douwe Kiela. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039). *arXiv:1705.08039*.
 * 2017 May 19, Mikael Henaff, William F. Whitney, and Yann LeCun. [Model-Based Planning in Discrete Action Spaces](https://arxiv.org/abs/1705.07177). *arXiv:1705.07177*.
 * 2017 May 18, Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu, Dhruv Batra, Antoine Bordes, Devi Parikh, and Jason Weston. [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476). *arXiv:1705.06476*.
