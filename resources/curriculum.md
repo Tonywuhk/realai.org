@@ -19,6 +19,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 
 ### Introductory Posts
 
+* 2017 May 28. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415). Slav Ivanov.
 * 2017 April 30. [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html). Piotr Migdał.
 
 ### Basic Computer Science
