@@ -81,7 +81,7 @@ The behavior of such AI systems will appear to be driven by an instinct to serve
 
 ## Human Control
 
-An AI system is initially controlled by its developers. It can stay under control even after developing superhuman abilities in certain areas. For example, an automated theorem proving AI can solve problems that are beyond the best mathematicians' abilities, but such an AI has no need to know the environment in which it is built, and consequently has no control on its physical form. A human operator who can press a "big red button" ([Orseau & Armstrong, 2016](https://intelligence.org/2016/06/01/new-paper-safely-interruptible-agents/); [Riedl & Harrison, 2017](https://arxiv.org/abs/1703.10284)) to interrupt an AI system is also a controller.
+An AI system is initially controlled by its developers. It can stay under control even after developing superhuman abilities in certain areas. For example, an automated theorem proving AI can solve problems that are beyond the best mathematicians' abilities, but such an AI has no need to know the environment in which it is built, and consequently has no control on its physical form. A human operator who can press a "big red button" ([Orseau & Armstrong, 2016](https://intelligence.org/2016/06/01/new-paper-safely-interruptible-agents/); [Riedl & Harrison, 2017](https://arxiv.org/abs/1703.10284)) to interrupt an AI system is also a controller. A robots shouldn't be obedient to its operators all the time ([Milli et al., 2017](https://arxiv.org/abs/1705.09990)). Sometimes not obeying the command of its operators is the right thing to do, and a safe and beneficial AI system must learn how to make that choice.
 
 An AI system and its human controllers can be seen as a bigger, autonomous system. When the AI system is unreliable, external parties rely on the human controllers to ensure the bigger system's safety. As the AI system improves, it could one day surpass the ability of its human controllers and cause undesired consequences. This could even happen abruptly, such as right after an intelligence jump. A jump of an AI system that exactly zooms past the collective intelligence of its human controllers is already a low probability event. For an open and transparent system to cause problems, it will need to zoom past the collective intelligence of all public monitors, potentially billions of people, plus other AI systems that include earlier versions of itself. This is improbable.
 
@@ -101,6 +101,7 @@ I would like to sincerely thank Guannan Liu and Yuanhang Wang for invaluable dis
 
 ## References
 
+* 2017 May 28, Smitha Milli, Dylan Hadfield-Menell, Anca Dragan, and Stuart Russell. [Should Robots be Obedient?](https://arxiv.org/abs/1705.09990). *arXiv:1705.09990*.
 * 2017 March 30, Mark O. Riedl and Brent Harrison. [Enter the Matrix: A Virtual World Approach to Safely Interruptable Autonomous Systems](https://arxiv.org/abs/1703.10284). *arXiv:1703.10284*.
 * 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*. [blog](https://openai.com/blog/learning-to-communicate/).
 * 2017 March 3, Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, and Remi Munos. [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310). *arXiv:1703.01310*.
