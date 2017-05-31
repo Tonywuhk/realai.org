@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 May 29, Katrina Evtimova, Andrew Drozdov, Douwe Kiela, and Kyunghyun Cho. [Emergent Language in a Multi-Modal, Multi-Step Referential Game](https://arxiv.org/abs/1705.10369). *arXiv:1705.10369*.
 * 2017 May 29, Cijo Jose, Moustpaha Cisse, and Francois Fleuret. [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142). *arXiv:1705.10142*.
 * 2017 May 25, Jean Lafond, Nicolas Vasilache, and Léon Bottou. [Diagonal Rescaling For Neural Networks](https://arxiv.org/abs/1705.09319). *arXiv:1705.09319*.
 * 2017 May 22, Maximilian Nickel and Douwe Kiela. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039). *arXiv:1705.08039*.
