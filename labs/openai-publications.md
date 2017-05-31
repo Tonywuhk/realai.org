@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with OpenAI, in rever
 
 ## 2017
 
+* 2017 May 30, Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel. [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528). *arXiv:1705.10528*.
 * 2017 May 17, David Held, Xinyang Geng, Carlos Florensa, and Pieter Abbeel. [Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366). *arXiv:1705.06366*.
 * 2017 May 15, David Held, Zoe McCarthy, Michael Zhang, Fred Shentu, and Pieter Abbeel. [Probabilistically Safe Policy Transfer](https://arxiv.org/abs/1705.05394). *arXiv:1705.05394*.
 * 2017 April 21, John Schulman, Pieter Abbeel, and Xi Chen. [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440). *arXiv:1704.06440*.
