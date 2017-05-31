@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 May 30, Marc G. Bellemare, Ivo Danihelka, Will Dabney, Shakir Mohamed, Balaji Lakshminarayanan, Stephan Hoyer, and Rémi Munos. [The Cramer Distance as a Solution to Biased Wasserstein Gradients](https://arxiv.org/abs/1705.10743). *arXiv:1705.10743*.
+* 2017 May 30, John Aslanides, Jan Leike, and Marcus Hutter. [Universal Reinforcement Learning Algorithms: Survey and Experiments](https://arxiv.org/abs/1705.10557). *arXiv:1705.10557*.
 * 2017 May 27, Rico Jonschkowski, Roland Hafner, Jonathan Scholz, and Martin Riedmiller. [PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations](https://arxiv.org/abs/1705.09805). *arXiv:1705.09805*.
 * 2017 May 25, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet, and Yee Whye Teh. [Filtering Variational Objectives](https://arxiv.org/abs/1705.09279). *arXiv:1705.09279*.
 * 2017 May 23, Tom Everitt, Victoria Krakovna, Laurent Orseau, Marcus Hutter, and Shane Legg. [Reinforcement Learning with a Corrupted Reward Channel](https://arxiv.org/abs/1705.08417). *arXiv:1705.08417*.
