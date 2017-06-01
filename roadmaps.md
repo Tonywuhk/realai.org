@@ -14,6 +14,8 @@ During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, 
 * Abstract Concepts
 * Continual and Transfer Learning
 
+In the [panel discussion](https://youtu.be/V0aXMTpZTfc?t=23m57s) that followed, Hassabis elaborated more on these problems and added *language grounding* as another "mountain" on the path to AGI. He was sure there would be more than 6 mountains left, but would be surprised if there were "more than about 20".
+
 ## Timeline
 
 ### Related to GoodAI
