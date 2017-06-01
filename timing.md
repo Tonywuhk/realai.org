@@ -3,14 +3,31 @@ permalink: /timing/
 ---
 # Timing
 
-A list of reports *related to* when general AI will be created, in reverse chronological order:
+## Expert Predictions
+
+### Jürgen Schmidhuber
+
+[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) explained in a [Guardian report](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way) on 18 April 2017 that his company [Nnaisense](https://nnaisense.com/) was already developing systems that function like babies. They are too slow, but assuming hardware progress of 10 times faster every five years, he said it would "only take 25 years" to have a neural net comparable with the human brain. He reiterated in an [IEEE report](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#JurgenSchmidhuber) on 31 May 2017 that "soon" we'd have cheap devices with the raw computational power of a human brain.
+
+### Ray Kurzweil
+
+As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#RayKurzweil), he believed that computer will exceed human capabilities by 2029.
+
+### Nick Bostrom
+
+As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#NickBostrom), the notion that we could have human-level AI within a small number of decades seemed reasonable to Nick Bostrom.
+
+### Gary Marcus
+
+As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#GaryMarcus), Gary thought it could still be 20 to 50 years before machines can be as fluent as people in a few cognitive areas.
 
 ## News
+
+A list of reports *related to* when general AI will be created, in reverse chronological order:
 
 * 2017 May 24, Survey: 50% chance of high-level machine intelligence occurring before **2061** (median). Source: Katja Grace, John Salvatier, Allan Dafoe, Baobao Zhang, and Owain Evans. [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807). *arXiv:1705.08807*.
 * 2017 May 4. Members on Amazon's AI team gave estimates on AGI timing of around 2027. Source: [Twitter](https://twitter.com/katherinebailey/status/860188371888549888). *This item will be retracted when the twitter link expires.*
 * 2017 April 30. Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*.
-* 2017 April 18. Jürgen Schmidhuber says artificial intelligence will surpass humans’ in 2050. Source: [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 March 29. Geoff Hinton predicted that reasoning and few-shot learning may come **later than 2027**. Source: [Adapting ideas from neuroscience for AI](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai). *O'Reilly*.
 * 2017 March 17. DeepMind hopes to publish six more papers in Nature or Science within the next year, according to [Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0).
 * 2017 February 9. Demis Hassabis said on [January 7](https://futureoflife.org/bai-2017/) that he would be surprised if there were "more than about 20" mountains left. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 24:40-25:10.
@@ -32,7 +49,3 @@ A list of reports *related to* when general AI will be created, in reverse chron
 * AI Impacts: [Guide to pages on AI timeline predictions](http://aiimpacts.org/guide-to-pages-on-ai-timeline-predictions/). Updated 2017 April 7.
 * Open Philanthropy: [What should we learn from past AI forecasts?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts). Updated 2016 September.
 * Open Philanthropy: [What Do We Know about AI Timelines?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines). Updated 2016 July.
-
-## Real AI
-
-Please contact [Jonathan Yan](mailto:jyan@realai.org) if you're interested in joining our effort to build statistical models that predict when general AI will be created. Prior experience in modeling [basket CDS](http://www.nasdaq.com/investing/glossary/b/basket-credit-default-swap) is a plus.
