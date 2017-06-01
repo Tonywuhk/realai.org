@@ -3,7 +3,7 @@ permalink: /timing/
 ---
 # Timing
 
-Given SI's potentially huge impact and its technological proximity to AGI, it is of paramount importantance to form rational expectations on the timing of AGI creation.
+In recent years there has been rapid [progress](http://realai.org/progress/) towards the creation of AGI, to the extent that [roadmaps](http://realai.org/roadmaps/) are under serious dicussion. Given SI's potentially huge impact and its technological proximity to AGI, it is of paramount importance to form rational expectations on timing.
 
 ## Survey Results
 
@@ -28,6 +28,12 @@ During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, 
 
 * 2016 February 16, Demis Hassabis: decades away from general intelligence. Source: [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 
+### Machine Intelligence Research Institute
+
+* 2017 April 30. Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*.
+
+* 2013 May 15, Luke Muehlhauser. [When Will AI Be Created?](https://intelligence.org/2013/05/15/when-will-ai-be-created/). *Machine Intelligence Research Institute*.
+
 ### Ray Kurzweil
 
 Ray [Kurzweil](http://www.kurzweilai.net/) predicted in his 2005 book [The Singularity Is Near: When Humans Transcend Biology](http://singularity.com/) that strong AI would emerge around 2029. He has kept his prediction since then, and in an [IEEE report](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#RayKurzweil) on 31 May 2017, reiterated his belief that computer would exceed human capabilities by 2029.
@@ -40,23 +46,15 @@ As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is
 
 As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#GaryMarcus), Gary thought it could still be 20 to 50 years before machines can be as fluent as people in a few cognitive areas.
 
+### Other Sources
+
+According to a [tweet](https://twitter.com/katherinebailey/status/860188371888549888) posted by Twitter account [@katherinebailey](https://twitter.com/katherinebailey) on 5 May 2017, two persons from Amazon's AI team separately gave estimates of 10-15 years before AGI would be created.
+
 ## Business Leader Opinions
 
-According to [TechCrunch](https://techcrunch.com/2017/02/27/superintelligent-ai-explains-softbanks-push-to-raise-a-100bn-vision-fund/), Softbank CEO Masayoshi Son believed that in 30 years, the world would see singularity, in the form of superintelligence robots.
+According to a February 2017 [TechCrunch report](https://techcrunch.com/2017/02/27/superintelligent-ai-explains-softbanks-push-to-raise-a-100bn-vision-fund/), Softbank CEO **Masayoshi Son** believed that in 30 years, the world would see singularity, in the form of superintelligence robots.
 
-## News
-
-A list of reports *related to* when general AI will be created, in reverse chronological order:
-
-* 2017 May 4. Members on Amazon's AI team gave estimates on AGI timing of around 2027. Source: [Twitter](https://twitter.com/katherinebailey/status/860188371888549888). *This item will be retracted when the twitter link expires.*
-* 2017 April 30. Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*.
-* 2017 March 17. DeepMind hopes to publish six more papers in Nature or Science within the next year, according to [Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0).
-* 2017 February 9. Demis Hassabis said on [January 7](https://futureoflife.org/bai-2017/) that he would be surprised if there were "more than about 20" mountains left. Source: [YouTube: Creating Human-level AI: How and When?](https://www.youtube.com/watch?v=V0aXMTpZTfc), 24:40-25:10.
-* 2017 January 19. [Google’s Sergey Brin ‘Surprised’ by Speed of AI Advancements](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements). *Bloomberg Technology*.
-
-## Research & Analysis
-
-* 2013 May 15, Luke Muehlhauser. [When Will AI Be Created?](https://intelligence.org/2013/05/15/when-will-ai-be-created/). *Machine Intelligence Research Institute*.
+Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution had been very profound and surprised him, accroding to [a report by Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements).
 
 ## Links
 
