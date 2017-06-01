@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 June 1. [Here’s why China’s yuan spiked higher despite weak Caixin PMI data](http://www.cnbc.com/2017/06/01/heres-why-chinas-yuan-spiked-higher-despite-weak-caixin-pmi-data.html). *CNBC*.
 * 2017 May 26. [Bitcoin briefly plunges below $2,100 as upward momentum fades](http://www.cnbc.com/2017/05/26/bitcoin-briefly-plunges-below-2100-as-upward-momentum-fades.html). *CNBC*.
 * 2017 May 18. [Brazil stocks set to crash on political scandal, dragging down hot emerging markets trade](http://www.cnbc.com/2017/05/18/this-brazil-stocks-etf-is-crashing-more-than-13-percent-on-an-emerging-political-scandal.html). *CNBC*.
 * 2017 May 17. [Global stocks, U.S. dollar sink as investors rethink 'Trump trade'](http://www.reuters.com/article/us-global-markets-idUSKCN18D01B). *Reuters*.
