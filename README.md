@@ -13,7 +13,6 @@ mathjax: true
 * 2017 May 15, Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363). *arXiv:1705.05363*. ([Intrinsic Motivation](http://realai.org/intrinsic-motivation))
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Program Induction](http://realai.org/program-induction/))
 * 2017 May 4. Members on Amazon's AI team gave estimates on AGI timing of around 2027. Source: [Twitter](https://twitter.com/katherinebailey/status/860188371888549888). *This item will be retracted when the twitter link expires.* ([Timing](http://realai.org/timing/))
-* 2017 April 30, Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*. ([Timing](http://realai.org/timing/); [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute))
 
 ## Main Contents
 
@@ -104,6 +103,7 @@ mathjax: true
     1. [Partnership on AI](http://realai.org/orgs/pai/)
     
 3. Global [Macro](http://realai.org/macro/)
+    1. [CryptoCurrencies](http://realai.org/coins/)
 
 4. [News](http://realai.org/news/) (2017)
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
