@@ -8,7 +8,7 @@ permalink: /macro/
 ## China
 
 * 2017 June 1. [Here Are the Theories Why China May Be Supercharging the Yuan](https://www.bloomberg.com/news/articles/2017-06-01/here-are-the-theories-why-china-may-be-supercharging-the-yuan). *Bloomberg Markets*.
-* 2017 May 31. [楼市变天？北京部分二手房跌价20%，有的直降百万也卖不掉！](http://www.nbd.com.cn/articles/2017-05-31/1112397.html). *每经网*.
+* 2017 May 31. [楼市变天？北京部分二手房跌价20%，有的直降百万也卖不掉！](http://www.nbd.com.cn/articles/2017-05-31/1112397.html) *每经网*.
 * 2017 May 31. [北京二手房价大面积下跌 部分区域跌幅超20%](http://www.ccstock.cn/finace/house/2017-05-31/A1496163002261.html). *中国资本证券网*.
 
 ## United Kingdom
