@@ -8,6 +8,10 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 June 1, N. Siddharth, Brooks Paige, Jan-Willem Van de Meent, Alban Desmaison, Frank Wood, Noah D. Goodman, Pushmeet Kohli, and Philip H. S. Torr. [Learning Disentangled Representations with Semi-Supervised Deep Generative Models](https://arxiv.org/abs/1706.00400). *arXiv:1706.00400*.
+* 2017 June 1, Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Bernhard Schölkopf, and Sergey Levine. [Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning](https://arxiv.org/abs/1706.00387). *arXiv:1706.00387*.
+* 2017 June 1, Yishu Miao, Edward Grefenstette, and Phil Blunsom. [Discovering Discrete Latent Topics with Neural Variational Inference](https://arxiv.org/abs/1706.00359). *arXiv:1706.00359*.
+* 2017 June 1, Dzmitry Bahdanau, Tom Bosc, Stanisław Jastrzębski, Edward Grefenstette, Pascal Vincent, and Yoshua Bengio. [Learning to Compute Word Embeddings on the Fly](https://arxiv.org/abs/1706.00286). *arXiv:1706.00286*.
 * 2017 May 30, Marc G. Bellemare, Ivo Danihelka, Will Dabney, Shakir Mohamed, Balaji Lakshminarayanan, Stephan Hoyer, and Rémi Munos. [The Cramer Distance as a Solution to Biased Wasserstein Gradients](https://arxiv.org/abs/1705.10743). *arXiv:1705.10743*.
 * 2017 May 30, John Aslanides, Jan Leike, and Marcus Hutter. [Universal Reinforcement Learning Algorithms: Survey and Experiments](https://arxiv.org/abs/1705.10557). *arXiv:1705.10557*.
 * 2017 May 27, Rico Jonschkowski, Roland Hafner, Jonathan Scholz, and Martin Riedmiller. [PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations](https://arxiv.org/abs/1705.09805). *arXiv:1705.09805*.
