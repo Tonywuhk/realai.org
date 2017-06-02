@@ -6,6 +6,7 @@ permalink: /coins/
 ## Links
 
 * [CoinMarketCap](https://coinmarketcap.com/): CryptoCurrency Market Capitalizations
+* The [Cointelegraph](https://cointelegraph.com/) covers Fintech, Blockchain and Bitcoin.
 
 ## Markets
 
@@ -17,6 +18,10 @@ permalink: /coins/
 After [surging for days](http://www.zerohedge.com/news/2017-02-27/ethereum-soars-after-jpmorgan-intel-microsoft-and-others-form-blockchain-alliance) in the end of February 2017, it was later  [reported](http://in.reuters.com/article/ethereum-enterprises-consortium-idINKBN16717C) and [announced](http://spectrum.ieee.org/tech-talk/computing/networks/enterprise-ethereum-alliance-launches) that the [Enterprise Ethereum Alliance](https://entethalliance.org/) (EEA) was formed to develop technology based on Ethereum. EEA’s founders include more than two dozens companies including JPMorgan, Microsoft, and Intel.
 
 On 30 May 2017, Ethereum [had higher 24-hour trading volume](https://cointelegraph.com/news/ethereum-has-higher-trade-volumes-than-bitcoin-as-fortunes-reverse) than Bitcoin’s, and [rose to more than 50% of Bitcoin’s market cap](https://www.cryptocoinsnews.com/ethereum-market-cap-rises-to-more-than-50-of-bitcoins/).
+
+## Exchanges
+
+There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptocurrency exchanges. On 7-8 May 2017, San Francisco-based [Kraken](https://www.kraken.com/) and Delaware-based [Poloniex](https://poloniex.com/) experienced DDoS attacks during which a large Ethereum sell order caused many leveraged positions to be liquidated. The Cointelegraph [reported on 15 May 2017](https://cointelegraph.com/news/bitcoin-exchanges-kraken-poloniex-to-be-scrutinized-for-possible-insider-trading-manipulation) that these exchanges were being scrutinized by a law firm.
 
 ## Background
 
