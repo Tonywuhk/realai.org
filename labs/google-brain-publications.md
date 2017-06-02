@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 May 26, Karol Kurach, Sylvain Gelly, Michal Jastrzebski, Philip Haeusser, Olivier Teytaud, Damien Vincent, and Olivier Bousquet. [Better Text Understanding Through Image-To-Text Transfer](https://arxiv.org/abs/1705.08386). *arXiv:1705.08386*.
 * 2017 May 25, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet, and Yee Whye Teh. [Filtering Variational Objectives](https://arxiv.org/abs/1705.09279). *arXiv:1705.09279*.
 * 2017 May 24, Shuang Liu, Olivier Bousquet, and Kamalika Chaudhuri. [Approximation and Convergence Properties of Generative Adversarial Learning](https://arxiv.org/abs/1705.08991). *arXiv:1705.08991*.
 * 2017 May 24, Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, and Honglak Lee. [Towards Understanding the Invertibility of Convolutional Neural Networks](https://arxiv.org/abs/1705.08664). *arXiv:1705.08664*.
