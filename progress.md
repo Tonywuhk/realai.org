@@ -24,6 +24,7 @@ DeepMind [told the Financial Times](https://www.ft.com/content/cada14c4-d366-11e
 ## Deep Learning for Recognition
 
 * 2012 December 6, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks). [*NIPS 2012*](https://nips.cc/Conferences/2012/Schedule?type=Poster).
+* 2012 October 13. SuperVision won [ILSVRC2012](http://www.image-net.org/challenges/LSVRC/2012/). [*ImageNet*](http://image-net.org/challenges/LSVRC/2012/results.html).
 
 ## Model-Free Deep Reinforcement Learning
 
@@ -51,13 +52,23 @@ In June 2012, Google [discovered](https://googleblog.blogspot.hk/2012/06/using-l
 
 ## Significant Demonstrations
 
-* 2017 May 5, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](http://science.sciencemag.org/content/356/6337/508). *Science*, 356(6337):508-513.
-* 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
+### AlphaGo
+
+* 2016 March 15. AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
 * 2015 November 11, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
-* 2015 August 26, Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.6576). *arXiv:1508.6576*.
+
+### Poker
+
+* 2017 May 5, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](http://science.sciencemag.org/content/356/6337/508). *Science*, 356(6337):508-513.
+
+### Machine Translation
+
+* 2016 September 27. Google uses a neural network for machine translation. [*Wired*](https://www.wired.com/2016/09/google-claims-ai-breakthrough-machine-translation/), [*Google Research Blog*](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html).
+* 2016 September 26, Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144). *arXiv:1609.08144*.
 
 ## Highly Cited Works
 
+* 2015 August 26, Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.6576). *arXiv:1508.6576*.
 * 2006 July 28, G. E. Hinton and R. R. Salakhutdinov. [Reducing the Dimensionality of Data with Neural Networks](http://science.sciencemag.org/content/313/5786/504). *Science*, 313(5786):504-507.
 * 2006 May 17, Geoffrey E. Hinton, Simon Osindero, and Yee-Whye Teh. [A Fast Learning Algorithm for Deep Belief Nets](http://www.mitpressjournals.org/doi/abs/10.1162/neco.2006.18.7.1527). *Neural Computation*, 18:1527-1554.
 
