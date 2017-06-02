@@ -23,6 +23,12 @@ The scope of an AI system ranges from classical reinforcement learning agents th
 
 [Lawrence (2017)](https://arxiv.org/abs/1705.07996) suggests that we develop complex cognitive processes including consciousness as we make best use of the limited bandwidth for [communication](http://realai.org/multi-agent-learning/#communication). The *embodiment factor*, the ratio of compute power to communication bandwidth, is a distinguishing feature of human and current machine intelligence. A typical desktop computer today has an embodiment factor of around \\(10\\), while the huge processing power of human brain and the very low information rate of reading or talking yield an embodiment factor of around \\(10^{16}\\).
 
+## Creativity
+
+Not only machine learning-based AI systems can have creativity, it is also likely prevalent in environments where learned policies are much closer to optimal than human policies. When AI acts in a way that is more optimal than normal human policies, it can appear creative from human’s perspective. In a modern example, an AI system AlphaGo learned to play the ancient Chinese game of Go using tree-based planning with machine intuition learned from a large number of self-played games. From AlphaGo’s perspective, its Go moves are the natural results of its algorithm. Some of the moves will be surprising for the intuitive part of AlphaGo, if tree search returns a solution that is previously considered a poor move based only on machine intuition. When AlphaGo makes a winning move that is difficult for humans to think of, but interpretable after it is played, such moves are often considered creative by expert human players, simply because human players interpret Go moves differently.
+
+In rule-based AI systems, creativity is rarely seen because by design, policies are explicitly programmed into the machine by human programmers. A machine cannot come up with anything that its programmers don’t understand, because there is no code in the machine that allows it to learn directly from data. Since most of today’s AI systems are rule-based, it is a common belief that creativity is a hard problem in AI.
+
 ## References
 
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
