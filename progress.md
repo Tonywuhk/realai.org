@@ -3,7 +3,11 @@ permalink: /progress/
 ---
 # Progress
 
-* 2017 March 17. DeepMind hopes to publish six more papers in Nature or Science within the next year, according to [Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0).
+The basic idea of using artificial neural networks to build human-level intelligence has been around for a long time. For decades, it was considered a dead end despite its intellectual appeal and soundness because there was little evidence that neural networks could solve practical problems better than other methods. It turned out that the idea was foundamentally correct, it was mainly due to insufficient computing power that the promise of neural networks didn't materialize.
+
+Since 2012, there have been rapid advances in various fronts towards the technology to build general intelligence. A common theme in these advances is that the basic ideas were discovered decades ago, long before it was practical to test them out in large scale. With enough computing power, natural extensions of those ideas demonstrated surprising successes in many cognitive tasks. At the RSA Conference on 23 February 2017, Alphabet chairman Eric Schmidt [said in an interview](https://youtu.be/-UViiNq-dxk?t=6m) that both he and Alphabet co-founder Larry Page now believe that simple algorithms can scale to reproduce human abilities.
+
+DeepMind [told the Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0) on 17 March 2017 that it hoped to publish six more papers in highly regarded scientific journals such as Nature or Science within the next year. We look forward to the addition of substantial new progress to this page in the coming months.
 
 ## Deep Neural Networks
 
@@ -39,7 +43,7 @@ permalink: /progress/
 
 ## Unsupervised Learning
 
-* 2012 May 22, Quoc V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeff Dean, and Andrew Y. Ng. [Building high-level features using large scale unsupervised learning](https://arxiv.org/abs/1112.6209v2). *arXiv:1112.6209v2*.
+In June 2012, Google [discovered](https://googleblog.blogspot.hk/2012/06/using-large-scale-brain-simulations-for.html) that one artificial neuron of its large-scale neural network learned to respond to pictures of cats ([Le et al., 2012](https://arxiv.org/abs/1112.6209)), despite the fact that no supervisory signals were given during training. Their models had more than 1 billion connections, an order of magnitude larger than other large networks used back then.
 
 ## Language Grounding
 
@@ -56,3 +60,7 @@ permalink: /progress/
 
 * 2006 July 28, G. E. Hinton and R. R. Salakhutdinov. [Reducing the Dimensionality of Data with Neural Networks](http://science.sciencemag.org/content/313/5786/504). *Science*, 313(5786):504-507.
 * 2006 May 17, Geoffrey E. Hinton, Simon Osindero, and Yee-Whye Teh. [A Fast Learning Algorithm for Deep Belief Nets](http://www.mitpressjournals.org/doi/abs/10.1162/neco.2006.18.7.1527). *Neural Computation*, 18:1527-1554.
+
+## References
+
+* 2012 July 12, Quoc V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeff Dean, and Andrew Y. Ng. [Building high-level features using large scale unsupervised learning](https://arxiv.org/abs/1112.6209). *arXiv:1112.6209*.
