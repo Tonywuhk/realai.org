@@ -29,6 +29,10 @@ Not only machine learning-based AI systems can have creativity, it is also likel
 
 In rule-based AI systems, creativity is rarely seen because by design, policies are explicitly programmed into the machine by human programmers. A machine cannot come up with anything that its programmers don’t understand, because there is no code in the machine that allows it to learn directly from data. Since most of today’s AI systems are rule-based, it is a common belief that creativity is a hard problem in AI.
 
+## Emergence
+
+Complex macroscopic patterns can emerge from a collection of simple processes. In [this video](https://www.youtube.com/watch?v=pNe6fsaCVtI), a rolling circle emerges from multiple well-positioned dots moving in a straight line. Intelligence doesn’t exist among the atoms, the reductionist conclusion is that intelligence doesn’t exist at all, which is clearly absurd. Even neurons or combination of a few neurons follow very simple, non-intelligence rules, it is entirely plausible that complex intelligence can arise when they work together. There is [a theory of reality](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/) in which conscious beings might have greater influence over the future than does the sum of their microscopic components
+
 ## References
 
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
