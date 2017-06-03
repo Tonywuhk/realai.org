@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 1, Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Fader Networks: Manipulating Images by Sliding Attributes](https://arxiv.org/abs/1706.00409). *arXiv:1706.00409*.
 * 2017 May 29, Katrina Evtimova, Andrew Drozdov, Douwe Kiela, and Kyunghyun Cho. [Emergent Language in a Multi-Modal, Multi-Step Referential Game](https://arxiv.org/abs/1705.10369). *arXiv:1705.10369*.
 * 2017 May 29, Cijo Jose, Moustpaha Cisse, and Francois Fleuret. [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142). *arXiv:1705.10142*.
 * 2017 May 25, Jean Lafond, Nicolas Vasilache, and Léon Bottou. [Diagonal Rescaling For Neural Networks](https://arxiv.org/abs/1705.09319). *arXiv:1705.09319*.
@@ -19,6 +20,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 May 5, Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364). *arXiv:1705.02364*.
 * 2017 April 28, Cisse Moustapha, Bojanowski Piotr, Grave Edouard, Dauphin Yann, and Usunier Nicolas. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
 * 2017 April 24, Georgia Gkioxari, Ross Girshick, Piotr Dollár, and Kaiming He. [Detecting and Recognizing Human-Object Interactions](https://arxiv.org/abs/1704.07333). *arXiv:1704.07333*.
+* 2017 April 23, Rahma Chaabouni, Ewan Dunbar, Neil Zeghidour, and Emmanuel Dupoux. [Learning weakly supervised multimodal phoneme embeddings](https://arxiv.org/abs/1704.06913). *arXiv:1704.06913*.
+* 2017 April 20, Sam Gross, Marc'Aurelio Ranzato, and Arthur Szlam. [Hard Mixtures of Experts for Large Scale Weakly Supervised Vision](https://arxiv.org/abs/1704.06363). *arXiv:1704.06363*.
 * 2017 April 18, Piotr Bojanowski and Armand Joulin. [Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310). *arXiv:1704.05310*.
 * 2017 April 13, Holger Schwenk, Ke Tran, Orhan Firat, and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
 * 2017 April 28, Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051). *arXiv:1704.00051*.
