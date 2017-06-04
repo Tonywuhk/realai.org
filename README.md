@@ -12,7 +12,6 @@ mathjax: true
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*. ([News](http://realai.org/news/), [Google](http://realai.org/companies/alphabet/#google))
 * 2017 May 15, Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363). *arXiv:1705.05363*. ([Intrinsic Motivation](http://realai.org/intrinsic-motivation))
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Program Induction](http://realai.org/program-induction/))
-* 2017 May 4. Members on Amazon's AI team gave estimates on AGI timing of around 2027. Source: [Twitter](https://twitter.com/katherinebailey/status/860188371888549888). *This item will be retracted when the twitter link expires.* ([Timing](http://realai.org/timing/))
 
 ## Main Contents
 
@@ -114,6 +113,5 @@ mathjax: true
     2. [Conferences](http://realai.org/resources/conferences/)
     3. [Demos](http://realai.org/resources/demos/)
     4. [Open Source Projects](http://realai.org/resources/open-source-projects/)
-    5. [For Fun](http://realai.org/resources/for-fun/)
 
 6. [About](http://realai.org/about/) Real AI
