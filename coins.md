@@ -27,6 +27,10 @@ There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptoc
 
 On 31 May 2017, Brave's ethereum-based [Basic Attention Token](https://basicattentiontoken.org/) (BAT) raised about [$35 million in 30 seconds](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/). The project was [launched in late March](http://www.coindesk.com/web-browser-brave-to-launch-ico-for-ethereum-ad-token/). By 3 June 2017, BAT had a market cap of more than $160 million, according to [CoinMarketCap](https://coinmarketcap.com/assets/basic-attention-token/).
 
+## Decentralized Computation
+
+The [Ethereum](https://www.ethereum.org/) network faces the problem of scalability as its protocol requires all miners to verify computations, known as the Verifier's Dilemma ([Luu et al., 2015](http://dl.acm.org/citation.cfm?id=2813659)). Solutions have been proposed include Golem ([Whitepaper](https://golem.network/doc/Golemwhitepaper.pdf)) and [Truebit](https://truebit.io/) ([Whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)). The latter was included as part of a proposed [dApp developer stack](https://medium.com/@FEhrsam/the-dapp-developer-stack-the-blockchain-industry-barometer-8d55ec1c7d4). In May 2017, [EOS](https://www.linkedin.com/pulse/ethereum-killer-here-eos-enterprise-scale-operating-sanjay-mehta) was proposed as another solution to the scalability problem.
+
 ## Background
 
 * 2016 Autumn, *Stanford University*. [CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/). Dan Boneh, Joseph Bonneau.
