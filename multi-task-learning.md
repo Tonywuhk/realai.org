@@ -3,6 +3,8 @@ permalink: /multi-task-learning/
 ---
 # Multi-Task Learning
 
+Many recent deep learning approaches have used multi-task learning as part of their model ([Ruder, 2017](http://sebastianruder.com/multi-task/)).
+
 A standard deep neural network can learn very different visual domains simultaneously ([Bilen & Vedaldi, 2017](https://arxiv.org/abs/1701.07275)). It's also possible to train a reinforcement learning agent to perform multiple tasks.
 
 ## Continual Learning
@@ -23,14 +25,16 @@ Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a
 
 ## Curriculum Learning
 
-[Graves et a. (2017)](https://arxiv.org/abs/1704.03003) consider loss-driven and complexity-driven signals to reward learning progress, then use a nonstationary multi-armed bandit algorithm to automatically generate learning curriculum.
+[Graves et al. (2017)](https://arxiv.org/abs/1704.03003) consider loss-driven and complexity-driven signals to reward learning progress, then use a nonstationary multi-armed bandit algorithm to automatically generate learning curriculum.
 
-### Adversarial 
+[Sukhbaatar et al. (2017)](https://arxiv.org/abs/1703.05407) used self-play where one agent builds a curriculum of increasingly more difficult tasks to challenge an identical agent.
 
 ## References
 
+* 2017 May 29, Sebastian Ruder. [An Overview of Multi-Task Learning in Deep Neural Networks](http://sebastianruder.com/multi-task/). *blog*.
 * 2017 May 23, Ari Seff, Alex Beatson, Daniel Suo, and Han Liu. [Continual Learning in Generative Adversarial Nets](https://arxiv.org/abs/1705.08395). *arXiv:1705.08395*.
 * 2017 May 11, Amir Rosenfeld and John K. Tsotsos. [Incremental Learning Through Deep Adaptation](https://arxiv.org/abs/1705.04228). *arXiv:1705.04228*.
+* 2017 April 19, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
 * 2017 April 10, Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, and Koray Kavukcuoglu. [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003). *arXiv:1704.03003*.
 * 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
 * 2017 March 13, Friedemann Zenke, Ben Poole, and Surya Ganguli. [Improved multitask learning through synaptic intelligence](https://arxiv.org/abs/1703.04200). *arXiv:1703.04200*.
