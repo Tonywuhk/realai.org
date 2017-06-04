@@ -23,9 +23,9 @@ mathjax: true
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Research Groups](http://realai.org/safety/research-groups/)
     2. [Impacts](http://realai.org/impacts/)
-    3. [Progress](http://realai.org/progress/)
-    4. [Roadmaps](http://realai.org/roadmaps/)
-    5. [Timing](http://realai.org/timing/)
+    3. [Timing](http://realai.org/timing/)
+    4. [Progress](http://realai.org/progress/)
+    5. [Roadmaps](http://realai.org/roadmaps/)
     6. [Policies](http://realai.org/policies/)
 
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
@@ -51,7 +51,7 @@ mathjax: true
             * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
         2. [Learning Rules](http://realai.org/learning-rules/)
         3. [Adversarial Learning](http://realai.org/adversarial-learning/)
-        4. Generative Models
+        4. [Generative Models](http://realai.org/generative-models/)
         5. [Platforms](http://realai.org/learning-platforms/)
     4. Reinforcement Learning
         1. [Model-Free Algorithms](http://realai.org/rl/model-free/)
@@ -77,9 +77,10 @@ mathjax: true
         1. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
         2. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
         
-5. Applications
+5. [Applications](http://realai.org/applications/)
 
 6. [Conclusion](http://realai.org/conclusion/)
+    1. Blog: [Positively Shaping the Nature of Our Global Superintelligence](http://realai.org/blog/positively-shaping-the-nature-of-our-global-superintelligence/)
 
 ## Apendix
 
@@ -107,6 +108,8 @@ mathjax: true
 4. [News](http://realai.org/news/) (2017)
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
     2. [Markets](http://realai.org/news/markets/)
+    
+5. [Courses](http://realai.org/courses/)
 
 5. [Resources](http://realai.org/resources/) (Blogs; Links)
     1. [Curriculum](http://realai.org/resources/curriculum/)
