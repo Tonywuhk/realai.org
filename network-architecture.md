@@ -17,10 +17,11 @@ In an experiment evolving networks to produce patterns, [Huizinga et al. (2017)]
 
 ## Unpublished Architectures
 
-According to a [Twitter picture](https://twitter.com/thefillm/status/845743048709464064) posted on 26 March 2017, Google's Jeff Dean talked about a sparsely activated single large model with multiple tasks and outputs. It resembles Pathnet ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) with the addition of sparsity as in [Shazeer & Mirhoseini et al. (2017)](https://arxiv.org/abs/1701.06538).
+According to a [Twitter picture](https://twitter.com/thefillm/status/845743048709464064) posted on 26 March 2017, Google's Jeff Dean talked about a sparsely activated single large model with multiple tasks and outputs. It resembles Pathnet ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)) with the addition of sparsity as in [Shazeer & Mirhoseini et al. (2017)](https://arxiv.org/abs/1701.06538). When such a large architecture is viewed as a family of possible standard deep neural networks, [Veniat & Denoyer (2017)](https://arxiv.org/abs/1706.00046) demonstrates that reinforcement learning can be used to discover networks that are efficient in computational cost (Flop) or time (milliseconds).
 
 ## References
 
+* 2017 May 31, Tom Veniat and Ludovic Denoyer. [Learning Time-Efficient Deep Architectures with Budgeted Super Networks](https://arxiv.org/abs/1706.00046). *arXiv:1706.00046*.
 * 2017 April 18, Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko. [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526). *arXiv:1704.05526*.
 * 2017 April 17, Joost Huizinga, Kenneth O. Stanley, and Jeff Clune. [The Emergence of Canalization and Evolvability in an Open-Ended, Interactive Evolutionary System](https://arxiv.org/abs/1704.05143). *arXiv:1704.05143*. [code](https://github.com/Evolving-AI-Lab/cppnx).
 * 2017 March 10, Manzil Zaheer, Satwik Kottur, Siamak Ravanbhakhsh, Barnabas Poczos, Ruslan Ssalakhutdinov, and Alexander Smola. [Deep Sets](https://arxiv.org/abs/1703.06114). *arXiv:1703.06114*.
