@@ -23,6 +23,10 @@ On 30 May 2017, Ethereum [had higher 24-hour trading volume](https://cointelegra
 
 There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptocurrency exchanges. On 7-8 May 2017, San Francisco-based [Kraken](https://www.kraken.com/) and Delaware-based [Poloniex](https://poloniex.com/) experienced DDoS attacks during which a large Ethereum sell order caused many leveraged positions to be liquidated. The Cointelegraph [reported on 15 May 2017](https://cointelegraph.com/news/bitcoin-exchanges-kraken-poloniex-to-be-scrutinized-for-possible-insider-trading-manipulation) that these exchanges were being scrutinized by a law firm.
 
+## Initial Coin Offerings
+
+On 31 May 2017, Brave's ethereum-based [Basic Attention Token](https://basicattentiontoken.org/) (BAT) raised about [$35 million in 30 seconds](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/). The project was [launched in late March](http://www.coindesk.com/web-browser-brave-to-launch-ico-for-ethereum-ad-token/). By 3 June 2017, BAT had a market cap of more than $160 million, according to [CoinMarketCap](https://coinmarketcap.com/assets/basic-attention-token/).
+
 ## Background
 
 * 2016 Autumn, *Stanford University*. [CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/). Dan Boneh, Joseph Bonneau.
