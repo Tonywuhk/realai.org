@@ -21,6 +21,7 @@ permalink: /news/
 * 2017 May 21. [Ford Motor Is Replacing Mark Fields as C.E.O.](https://www.nytimes.com/2017/05/21/business/ford-motor-chief-executive.html). *New York Times*.
 * 2017 May 20. [不品读这本诗集，你就根本不了解人工智能的文学素养！](http://www.pingwest.com/ai-collection-of-poems/). *PingWest*.
 * 2017 May 18. [How Salesforce CEO Marc Benioff uses artificial intelligence to end internal politics at meetings](http://www.businessinsider.com/benioff-uses-ai-to-end-politics-at-staff-meetings-2017-5). *Business Insider*.
+* 2017 May 17. [San Francisco Tries to Ban Delivery Robots Before They Flatten Someone’s Toes](https://www.wired.com/2017/05/san-francisco-wants-ban-delivery-robots-squash-someones-toes/). *Wired*.
 * 2017 May 17. [Google’s new machine learning framework is going to put more AI on your phone](https://www.theverge.com/2017/5/17/15645908/google-ai-tensorflowlite-machine-learning-announcement-io-2017). *The Verge*.
 * 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*.
 * 2017 May 16. [Robots that Learn](https://blog.openai.com/robots-that-learn/). *OpenAI*.
@@ -104,6 +105,7 @@ permalink: /news/
 * 2017 April 6. [Microsoft Maluuba teaches management 101 to machines in its first paper since being acquired](https://techcrunch.com/2017/04/06/maluubarl/). *TechCrunch*.
 * 2017 April 5. [Positively shaping development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/). *80000 Hours*.
 * 2017 April 4. [Fare Thee Well, OpenCyc](http://www.mkbergman.com/2034/fare-thee-well-opencyc/). *Michael K. Bergman*.
+* 2017 April 1. [Discussing the limits of artificial intelligence](https://techcrunch.com/2017/04/01/discussing-the-limits-of-artificial-intelligence/). *TechCrunch*.
 * 2017 March 31. [OpenAI — General Support](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support). *Open Philanthropy*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
 * 2017 March 30. [Canada’s AI Moment](https://canada.googleblog.com/2017/03/canadas-ai-moment.html). *Google Official Canada Blog*.
