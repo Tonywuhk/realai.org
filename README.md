@@ -80,7 +80,6 @@ mathjax: true
 5. [Applications](http://realai.org/applications/)
 
 6. [Conclusion](http://realai.org/conclusion/)
-    1. Blog: [Positively Shaping the Nature of Our Global Superintelligence](http://realai.org/blog/positively-shaping-the-nature-of-our-global-superintelligence/)
 
 ## Apendix
 
