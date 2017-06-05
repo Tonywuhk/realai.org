@@ -23,9 +23,13 @@ On 30 May 2017, Ethereum [had higher 24-hour trading volume](https://cointelegra
 
 There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptocurrency exchanges. On 7-8 May 2017, San Francisco-based [Kraken](https://www.kraken.com/) and Delaware-based [Poloniex](https://poloniex.com/) experienced DDoS attacks during which a large Ethereum sell order caused many leveraged positions to be liquidated. The Cointelegraph [reported on 15 May 2017](https://cointelegraph.com/news/bitcoin-exchanges-kraken-poloniex-to-be-scrutinized-for-possible-insider-trading-manipulation) that these exchanges were being scrutinized by a law firm.
 
+Prices of the same coin can vary widely on different exchanges. For example, between April and May 2017, Crypto/USD pairs [went from premium to discount](https://medium.com/@Austerity_Sucks/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount-e7be193d7cb0) on Bitfinex, an exchange that was [hacked in August 2016](https://en.wikipedia.org/wiki/Bitfinex_hack).
+
 ## Initial Coin Offerings
 
 On 31 May 2017, Brave's ethereum-based [Basic Attention Token](https://basicattentiontoken.org/) (BAT) raised about [$35 million in 30 seconds](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/). The project was [launched in late March](http://www.coindesk.com/web-browser-brave-to-launch-ico-for-ethereum-ad-token/). By 3 June 2017, BAT had a market cap of more than $160 million, according to [CoinMarketCap](https://coinmarketcap.com/assets/basic-attention-token/).
+
+[TrueBit](https://truebit.io/) claims to be a scalable verification solution for blockchains. According to its [whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf), it has a dispute resolution layer that takes the form of a verification game.
 
 ## Decentralized Computation
 
