@@ -23,7 +23,7 @@ On 30 May 2017, Ethereum [had higher 24-hour trading volume](https://cointelegra
 
 There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptocurrency exchanges. On 7-8 May 2017, San Francisco-based [Kraken](https://www.kraken.com/) and Delaware-based [Poloniex](https://poloniex.com/) experienced DDoS attacks during which a large Ethereum sell order caused many leveraged positions to be liquidated. The Cointelegraph [reported on 15 May 2017](https://cointelegraph.com/news/bitcoin-exchanges-kraken-poloniex-to-be-scrutinized-for-possible-insider-trading-manipulation) that these exchanges were being scrutinized by a law firm.
 
-Prices of the same coin can vary widely on different exchanges. For example, between April and May 2017, Crypto/USD pairs [went from premium to discount](https://medium.com/@Austerity_Sucks/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount-e7be193d7cb0) on Bitfinex, an exchange that was [hacked in August 2016](https://en.wikipedia.org/wiki/Bitfinex_hack).
+Prices of the same coin can vary widely on different exchanges. The discrepancy can be easily seen on [an OKCoin comparison page](https://www.okcoin.com/marketList.html) for BTC and LTC. There are good reasons for this apparent lack of arbitrage. For example, between April and May 2017, Crypto/USD pairs [went from premium to discount](https://medium.com/@Austerity_Sucks/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount-e7be193d7cb0) on Bitfinex, an exchange that was [hacked in August 2016](https://en.wikipedia.org/wiki/Bitfinex_hack).
 
 ## Initial Coin Offerings
 
@@ -37,4 +37,5 @@ The [Ethereum](https://www.ethereum.org/) network faces the problem of scalabili
 
 ## Background
 
+* 2017 May 16, Massimo Bartoletti, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779). *arXiv:1703.03779*.
 * 2016 Autumn, *Stanford University*. [CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/). Dan Boneh, Joseph Bonneau.
