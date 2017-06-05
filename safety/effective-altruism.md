@@ -98,6 +98,7 @@ Disclosures in OPP's [Grants Database](http://www.openphilanthropy.org/giving/gr
 
 * [Effective Altruism Forum](http://effective-altruism.com/) ([project](http://dotimpact.im/focusprojects/forum.html)) is a community blog built using the LessWrong codebase with a new design.
 * [Effective Altruism Hub](https://eahub.org/) ([project](http://dotimpact.im/focusprojects/hub.html)) hosts and points to a range of resources and projects for effective altruists.
+  * [Effective Altruist Groups](https://eahub.org/groups). There is a large network of grassroots EA groups around the world.
 * [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) contains several useful links:
   * [Organizations relevant to EA](http://wiki.effectivealtruismhub.com/index.php?title=Organizations_relevant_to_EA)
   * [List of EA discussion venues](http://wiki.effectivealtruismhub.com/index.php?title=List_of_EA_discussion_venues)
