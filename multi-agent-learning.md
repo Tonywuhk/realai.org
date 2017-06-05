@@ -23,6 +23,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## References
 
+* 2017 May 31, Serhii Havrylov and Ivan Titov. [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192). *arXiv:1705.11192*.
 * 2017 April 23, Jacob Andreas, Anca Dragan, and Dan Klein. [Translating Neuralese](https://arxiv.org/abs/1704.06960). *arXiv:1704.06960*. [code](https://github.com/jacobandreas/neuralese).
 * 2017 April 3, Romain Laroche, Mehdi Fatemi, Joshua Romoff, and Harm van Seijen. [Multi-Advisor Reinforcement Learning](https://arxiv.org/abs/1704.00756). *arXiv:1704.00756*.
 * 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
