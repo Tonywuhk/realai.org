@@ -1,5 +1,6 @@
 ---
 permalink: /neuroscience/
+mathjax: true
 ---
 # Neuroscience
 
@@ -10,3 +11,17 @@ permalink: /neuroscience/
 * 2016 September 3, Jason J. Moore1, Pascal M. Ravassard, David Ho, Lavanya Acharya, Ashley L. Kees, Cliff Vuong, and Mayank R. Mehta. [Dynamics of cortical dendritic membrane potential and spikes in freely behaving rats](http://science.sciencemag.org/content/early/2017/03/08/science.aaj1497). *Science*.
 * 2016 August 11, Haiguang Wen, Junxing Shi, Yizhen Zhang, Kun-Han Lu, and Zhongming Liu. [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://arxiv.org/abs/1608.03425). *arXiv:1608.03425*.
 * 2016 May 26, Eric Jonas and Konrad Kording. [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). *bioRxiv:055624*.
+
+## Spiking Neural Networks
+
+[Zenke & Ganguli (2017)](https://arxiv.org/abs/1705.11146) propose to train spiking neurons by a gradient descent rule that takes the form
+
+$$
+\frac{\partial w_{ij}}{\partial t} = r \int^t_{-\infty}ds [\alpha * (\hat{S}_i-S_i)(s)] [ \alpha * ({\sigma}'(U_i(s))(\epsilon * S_j)(s) ],
+$$
+
+where \\(r\\) is the learning rate, and the integrand is the product of an error signal and a Hebbian term which combines pre- and postsynaptic activity. They demonstrate that a single LIF neuron can learn to emit a predefined target spike pattern.
+
+### References
+
+* 2017 May 31, Friedemann Zenke and Surya Ganguli. [SuperSpike: Supervised learning in multi-layer spiking neural networks](https://arxiv.org/abs/1705.11146). *arXiv:1705.11146*.
