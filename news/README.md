@@ -3,11 +3,13 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 5. [Elon Musk Predicts When A.I. Will Completely Surpass Humans](https://www.inverse.com/article/32558-elon-musk-artificial-intelligence-humans). *Inverse*.
 * 2017 June 5. [WSJ Ends Google Users' Free Ride, Then Fades in Search Results](https://www.bloomberg.com/news/articles/2017-06-05/wsj-ends-google-users-free-ride-then-fades-in-search-results). *Bloomberg*.
 * 2017 June 5. [Google Brain Residency](http://tinyclouds.org/residency/). *Ryan Dahl*.
 * 2017 June 2. [Google Is Already Late to China’s AI Revolution](https://www.wired.com/2017/06/ai-revolution-bigger-google-facebook-microsoft/?mbid=social_twitter_onsiteshare). *Wired*.
 * 2017 May 30. [Uber fires self-driving car chief at center of court case](https://www.reuters.com/article/us-uber-alphabet-lawsuit-idUSKBN18Q2CW). *Reuters*.
 * 2017 May 29. [李嘉誠上人工智能課激動站起](https://www1.hkej.com/dailynews/headline/article/1573629/). *Hong Kong Economic Journal*.
+* 2017 May 26. [How Facebook's tentacles reach further than you think](http://www.bbc.com/news/business-39947942). *BBC News*.
 * 2017 May 26. [This app uses artificial intelligence to turn design mockups into source code](https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code/). *The Next Web*.
 * 2017 May 26. [Wall Street to CEOs: The Future Is Now](https://www.wsj.com/articles/wall-street-to-ceos-the-future-is-now-1495791003). *The Wall Street Journal*.
 * 2017 May 26. [AlphaGo终于认输，而且“逼”队友古力认输，这是历史性的一场人机配对赛！](https://36kr.com/p/5077345.html) *36Kr*.
