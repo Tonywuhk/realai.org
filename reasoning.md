@@ -6,13 +6,13 @@ mathjax: true
 
 ## Relation Networks
 
-For an input set of objects \\(O=\{o_1, o_2, ..., o_n\}\\), the Relation Network (RN) is
+For an input set of objects \\(O=\\{o_1, o_2, ..., o_n\\}\\), the Relation Network (RN) is
 
 $$
-\text{RN}(O) = f_\phi (\Sigma_{i,j} g_\theta(o_i, o_j, q)),
+\text{RN}(O) = f_\phi \Big(\sum\limits_{i,j} g_\theta(o_i, o_j, q)\Big),
 $$
 
-where \\(f_\phi\\) and \\(g_\theta\\) are MLPs, \\(q\\) is the embedding of a query on the object's relations. Using RN, Santoro & Raposo et al. (2017) achieve super-human performance on a challenging visual QA dataset [CLEVR](http://cs.stanford.edu/people/jcjohns/clevr/).
+where \\(f_\phi\\) and \\(g_\theta\\) are MLPs, \\(q\\) is the embedding of a query on the object's relations. Using RN, [Santoro & Raposo et al. (2017)](https://arxiv.org/abs/1706.01427) achieve super-human performance on a challenging visual QA dataset [CLEVR](http://cs.stanford.edu/people/jcjohns/clevr/).
 
 ### References
 
