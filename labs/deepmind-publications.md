@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*.
 * 2017 June 1, N. Siddharth, Brooks Paige, Jan-Willem Van de Meent, Alban Desmaison, Frank Wood, Noah D. Goodman, Pushmeet Kohli, and Philip H. S. Torr. [Learning Disentangled Representations with Semi-Supervised Deep Generative Models](https://arxiv.org/abs/1706.00400). *arXiv:1706.00400*.
 * 2017 June 1, Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Bernhard Schölkopf, and Sergey Levine. [Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning](https://arxiv.org/abs/1706.00387). *arXiv:1706.00387*.
 * 2017 June 1, Yishu Miao, Edward Grefenstette, and Phil Blunsom. [Discovering Discrete Latent Topics with Neural Variational Inference](https://arxiv.org/abs/1706.00359). *arXiv:1706.00359*.
@@ -87,7 +88,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2016 November 6, Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, and Nando de Freitas. [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://arxiv.org/abs/1611.01843). *arXiv:1611.01843*.
 * 2016 November 5, Zichao Yang, Phil Blunsom, Chris Dyer, and Wang Ling. [Reference-Aware Language Models](https://arxiv.org/abs/1611.01628). *arXiv:1611.01628*.
 * 2016 November 5, Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih. [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). *arXiv:1611.01626*.
-* 2016 November 3, Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, and Nando de Freitas. [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224). *arXiv:1611.01224*.
+* 2016 November 3, Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, and Nando de Freitas. [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224). *arXiv:1611.01224*. [code](https://github.com/Kaixhin/ACER).
 * 2016 November 2, Chris J. Maddison, Andriy Mnih, and Yee Whye Teh. [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712). *arXiv:1611.00712*.
 * 2016 October 31, Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, and Koray Kavukcuoglu. [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099). *arXiv:1610.10099*.
 * 2016 October 27, Jack W Rae, Jonathan J Hunt, Tim Harley, Ivo Danihelka, Andrew Senior, Greg Wayne, Alex Graves, and Timothy P Lillicrap. [Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes](https://arxiv.org/abs/1610.09027). *arXiv:1610.09027*.
