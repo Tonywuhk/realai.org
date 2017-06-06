@@ -52,6 +52,8 @@ According to a [tweet](https://twitter.com/katherinebailey/status/86018837188854
 
 ## Business Leader Opinions
 
+Responding to the [survey results](https://arxiv.org/abs/1705.08807) mentioned in the [earlier section](http://realai.org/timing/#survey-results), Elon Musk [tweeted in June 2017](https://twitter.com/elonmusk/status/871886151014940672) that based on exponential progress, AI will be able to beat humans closer to 2030 to 2040 instead of 2060, which would be linear extrapolation.
+
 According to a February 2017 [TechCrunch report](https://techcrunch.com/2017/02/27/superintelligent-ai-explains-softbanks-push-to-raise-a-100bn-vision-fund/), Softbank CEO **Masayoshi Son** believed that in 30 years, the world would see singularity, in the form of superintelligence robots.
 
 Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution had been very profound and surprised him, accroding to [a report by Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements).
