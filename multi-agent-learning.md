@@ -21,9 +21,12 @@ Symbolic communication between neural networks can also be learned within an age
 
 [Leibo & Zambaldi et al. (2017)](https://arxiv.org/abs/1702.03037) employed multi-agent deep Q-learning to model the emergence of cooperation and conflict in sequential social dilemmas.
 
+[Foerster & Farquhar et al. (2017)](https://arxiv.org/abs/1705.08926) propose the counterfactual multi-agent (COMA) policy gradient method that uses a centralized critic and decentralized actors to optimize the agents' policies. Using a counterfactural baseline, each agent learns from a reward that compares the global reward to the reward received when the action of the agent is replaced with a default action.
+
 ## References
 
 * 2017 May 31, Serhii Havrylov and Ivan Titov. [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192). *arXiv:1705.11192*.
+* 2017 May 24, Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, and Shimon Whiteson. [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926). *arXiv:1705.08926*.
 * 2017 April 23, Jacob Andreas, Anca Dragan, and Dan Klein. [Translating Neuralese](https://arxiv.org/abs/1704.06960). *arXiv:1704.06960*. [code](https://github.com/jacobandreas/neuralese).
 * 2017 April 3, Romain Laroche, Mehdi Fatemi, Joshua Romoff, and Harm van Seijen. [Multi-Advisor Reinforcement Learning](https://arxiv.org/abs/1704.00756). *arXiv:1704.00756*.
 * 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
