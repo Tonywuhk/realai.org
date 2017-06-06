@@ -3,6 +3,9 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 5. [WSJ Ends Google Users' Free Ride, Then Fades in Search Results](https://www.bloomberg.com/news/articles/2017-06-05/wsj-ends-google-users-free-ride-then-fades-in-search-results). *Bloomberg*.
+* 2017 June 5. [Google Brain Residency](http://tinyclouds.org/residency/). *Ryan Dahl*.
+* 2017 June 2. [Google Is Already Late to China’s AI Revolution](https://www.wired.com/2017/06/ai-revolution-bigger-google-facebook-microsoft/?mbid=social_twitter_onsiteshare). *Wired*.
 * 2017 May 30. [Uber fires self-driving car chief at center of court case](https://www.reuters.com/article/us-uber-alphabet-lawsuit-idUSKBN18Q2CW). *Reuters*.
 * 2017 May 29. [李嘉誠上人工智能課激動站起](https://www1.hkej.com/dailynews/headline/article/1573629/). *Hong Kong Economic Journal*.
 * 2017 May 26. [This app uses artificial intelligence to turn design mockups into source code](https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code/). *The Next Web*.
