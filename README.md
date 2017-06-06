@@ -95,9 +95,12 @@ mathjax: true
     1. [Alphabet Inc.](http://realai.org/companies/alphabet/)
     2. Facebook
     3. [Amazon.com, Inc.](http://realai.org/companies/amazon/)
-    4. Apple
+    4. [Apple Inc.](http://realai.org/companies/apple/)
     5. Microsoft
+    6. Tencent
+    7. Alibaba
     8. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
+    9. Baidu
 
 3. Organizations
     1. [Partnership on AI](http://realai.org/orgs/pai/)
