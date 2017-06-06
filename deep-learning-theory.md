@@ -40,6 +40,7 @@ Maybe flat minima don’t exist in random data and are somehow easier to find th
 
 ## References
 
+* 2017 June 5, Alessandro Achille and Stefano Soatto. [On the Emergence of Invariance and Disentangling in Deep Representations](https://arxiv.org/abs/1706.01350). *arXiv:1706.01350*.
 * 2017 May 16, David Rolnick and Max Tegmark. [The power of deeper networks for expressing natural functions](https://arxiv.org/abs/1705.05502). *arXiv:1705.05502*.
 * 2017 May 2, Henry W. Lin, Max Tegmark, and David Rolnick. [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225). *arXiv:1608.08225*.
 * 2017 April 29, Ravid Shwartz-Ziv and Naftali Tishby. [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810). *arXiv:1703.00810*.
