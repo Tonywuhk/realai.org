@@ -60,6 +60,8 @@ $$
 \Delta \theta_t = -\alpha \hat{m}_t (v_t^{-1/2} + \epsilon).
 $$
 
+[Wilson et al. (2017)](https://arxiv.org/abs/1705.08292) report that simple SGD performs better than the adaptive rules mentioned above, if learning rates are carefully tuned. 
+
 ## Regularization
 
 [Pereyra & Tucker et al. (2017)](https://arxiv.org/abs/1701.06548) found that label smoothing and confidence penalty improved model performances.
@@ -82,6 +84,7 @@ where \\(p(y_{1:T} \| \theta, x_{1:T})\\) is the likelihood of a sequence of len
 
 ## References
 
+* 2017 May 23, Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nathan Srebro, and Benjamin Recht. [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/abs/1705.08292). *arXiv:1705.08292*.
 * 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*.
 * 2017 April 4, *Distill*. [Why Momentum Really Works](http://distill.pub/2017/momentum/). Gabriel Goh.
 * 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
