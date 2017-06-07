@@ -18,6 +18,10 @@ DeepMind has two main lines of business: Research and Applied. Its organized eff
 
 According to a [Financial Times report on March 17, 2017](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0), DeepMind’s researchers are organised into four main groups including “Neuroscience” and “Frontiers”, each consisting of smaller teams with deeper specialties. "Strike teams" can be formed temporarily to achieve a particular goal. Resources are allocated to projects by team leaders including Hassabis and head of research Shane Legg, who said "It’s sort of a bubbling cauldron of ideas, and exploration, and testing things out, and finding out what seems to be working and why — or why not."
 
+### Progress
+
+In June 2017, DeepMind [described in a blog](https://deepmind.com/blog/neural-approach-relational-reasoning/) a simple neural net module called Relation Network (RN) that can reason about pairwise relations of objects. It was "One of the most important deep learning papers of the year, thus far", according to a [tweet from @NandoDF](https://twitter.com/NandoDF/status/871979114726641664).
+
 ## Applications
 
 DeepMind Applied is led by Mustafa Suleyman, and works in two sectors: [DeepMind Health](https://deepmind.com/applied/deepmind-health/) and [DeepMind for Google](https://deepmind.com/applied/deepmind-for-google/).
@@ -26,6 +30,7 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 
 ## Sources
 
+* 2017 June 6. [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/). *DeepMind Blog*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
 * 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
 * 2016 December 19. [Alphabet's DeepMind unit could be expanded to 1,000 people](http://uk.businessinsider.com/alphabet-deepmind-could-be-expanded-1000-people-google-london-report-2016-12). *Business Insider UK*.
