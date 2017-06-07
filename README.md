@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
 * 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
 * 2017 May 25. Results of [2016 Expert Survey on Progress in AI](http://aiimpacts.org/2016-expert-survey-on-progress-in-ai/) is [published](https://arxiv.org/abs/1705.08807). Medium estimate of 50% chance AGI is 2061. ([Timing](http://realai.org/timing/))
 * 2017 May 24. [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/). *OpenAI*. ([Reinforcement Learning Implemtations](http://realai.org/rl-code/))
