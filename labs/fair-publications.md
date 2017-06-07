@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 5, Jiasen Lu, Anitha Kannan, Jianwei Yang, Devi Parikh, and Dhruv Batra. [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554). *arXiv:1706.01554*.
 * 2017 June 1, Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Fader Networks: Manipulating Images by Sliding Attributes](https://arxiv.org/abs/1706.00409). *arXiv:1706.00409*.
 * 2017 May 29, Katrina Evtimova, Andrew Drozdov, Douwe Kiela, and Kyunghyun Cho. [Emergent Language in a Multi-Modal, Multi-Step Referential Game](https://arxiv.org/abs/1705.10369). *arXiv:1705.10369*.
 * 2017 May 29, Cijo Jose, Moustpaha Cisse, and Francois Fleuret. [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142). *arXiv:1705.10142*.
