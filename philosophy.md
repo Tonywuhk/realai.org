@@ -4,8 +4,6 @@ mathjax: true
 ---
 # Philosophy
 
-[Pereira (2017)](https://arxiv.org/abs/1705.03078) introduces the Super-Strong Self-Sampling Assumption (SSSSA) that human consciousness should be a typical sample in the consciousness-space-time. He then concludes that superintelligent AI would probably not be created because otherwise it would dominate the consciousness-space-time.
-
 ## What Is Intelligence?
 
 Many systems operating inside an environment exhibit a certain degree of complexity. Intelligence is such complexity as perceived by us. This definition is first of all subjective. Take the atmosphere for example, it is not considered intelligent today as we have already had a reasonably good understanding of atmospheric sciences. In ancient times, however, people resorted to myths for an explanation, implicitly assuming intelligence. Other examples include:
@@ -32,6 +30,12 @@ In rule-based AI systems, creativity is rarely seen because by design, policies 
 ## Emergence
 
 Complex macroscopic patterns can emerge from a collection of simple processes. In [this video](https://www.youtube.com/watch?v=pNe6fsaCVtI), a rolling circle emerges from multiple well-positioned dots moving in a straight line. Intelligence doesn’t exist among the atoms, the reductionist conclusion is that intelligence doesn’t exist at all, which is clearly absurd. Even neurons or combination of a few neurons follow very simple, non-intelligence rules, it is entirely plausible that complex intelligence can arise when they work together. There is [a theory of reality](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/) in which conscious beings might have greater influence over the future than does the sum of their microscopic components
+
+## Anthropic Reasoning
+
+The [Self-Sampling Assumption](http://www.anthropic-principle.com/?q=book/chapter_3#3d) (SSA) is the assumption that "one should reason as if one were a random sample from the set of all observers in one's reference class." It leads to various types of [Doomsday Arguments](http://www.anthropic-principle.com/?q=book/chapter_6) that predict fairly short life-expectancy of the human species.
+
+[Pereira (2017)](https://arxiv.org/abs/1705.03078) introduces the Super-Strong Self-Sampling Assumption (SSSSA) that human consciousness should be a typical sample in the consciousness-space-time. He then concludes that superintelligent AI would probably not be created because otherwise it would dominate the consciousness-space-time.
 
 ## References
 
