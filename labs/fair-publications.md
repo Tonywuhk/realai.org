@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 8, Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He. [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). *arXiv:1706.02677*.
+* 2017 June 7, Matthijs Douze, Arthur Szlam, Bharath Hariharan, and Hervé Jégou. [Low-shot learning with large-scale diffusion](https://arxiv.org/abs/1706.02332). *arXiv:1706.02332*.
 * 2017 June 5, Jiasen Lu, Anitha Kannan, Jianwei Yang, Devi Parikh, and Dhruv Batra. [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554). *arXiv:1706.01554*.
 * 2017 June 1, Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Fader Networks: Manipulating Images by Sliding Attributes](https://arxiv.org/abs/1706.00409). *arXiv:1706.00409*.
 * 2017 May 29, Katrina Evtimova, Andrew Drozdov, Douwe Kiela, and Kyunghyun Cho. [Emergent Language in a Multi-Modal, Multi-Step Referential Game](https://arxiv.org/abs/1705.10369). *arXiv:1705.10369*.
