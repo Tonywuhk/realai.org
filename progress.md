@@ -26,6 +26,8 @@ DeepMind [told the Financial Times](https://www.ft.com/content/cada14c4-d366-11e
 * 2012 December 6, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks). [*NIPS 2012*](https://nips.cc/Conferences/2012/Schedule?type=Poster).
 * 2012 October 13. SuperVision won [ILSVRC2012](http://www.image-net.org/challenges/LSVRC/2012/). [*ImageNet*](http://image-net.org/challenges/LSVRC/2012/results.html).
 
+By June 2017, the training of a ResNet-50 model on ImageNet [took just one hour](https://research.fb.com/publications/ImageNet1kIn1h/), using a minibatch size of 8192 on 256 GPUs.
+
 ## Model-Free Deep Reinforcement Learning
 
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
