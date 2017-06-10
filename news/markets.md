@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 June 9. [Nasdaq Megacaps Go Careening Off Course](https://www.bloomberg.com/news/articles/2017-06-09/megacap-tech-stumbling-to-worst-day-verus-dow-in-seven-months). *Bloomberg*.
 * 2017 June 6. [Investors flee to gold, German bonds as political worries rise](https://www.reuters.com/article/us-global-markets-idUSKBN18X02T). *Reuters*.
 * 2017 June 1. [Here’s why China’s yuan spiked higher despite weak Caixin PMI data](http://www.cnbc.com/2017/06/01/heres-why-chinas-yuan-spiked-higher-despite-weak-caixin-pmi-data.html). *CNBC*.
 * 2017 May 26. [Bitcoin briefly plunges below $2,100 as upward momentum fades](http://www.cnbc.com/2017/05/26/bitcoin-briefly-plunges-below-2100-as-upward-momentum-fades.html). *CNBC*.
