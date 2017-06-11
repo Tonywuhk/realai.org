@@ -14,6 +14,10 @@ DeepMind's [official records](https://beta.companieshouse.gov.uk/company/0738635
 
 DeepMind has two main lines of business: Research and Applied. Its organized efforts in research has yielded a long list of [publications](http://realai.org/labs/deepmind/publications/).
 
+## Ethics
+
+When Google acquired DeepMind, it [agreed to establish an ethics board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). The Guardian [reported in January 2017](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board) that the board was internal and discussed confidential matters, it had convened and progressed well. It can also be inferred from [an official job ad](https://deepmind.com/careers/655890/) that DeepMind has an "Ethics & Impact team".
+
 ## Organized Research
 
 According to a [Financial Times report on March 17, 2017](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0), DeepMind’s researchers are organised into four main groups including “Neuroscience” and “Frontiers”, each consisting of smaller teams with deeper specialties. "Strike teams" can be formed temporarily to achieve a particular goal. Resources are allocated to projects by team leaders including Hassabis and head of research Shane Legg, who said "It’s sort of a bubbling cauldron of ideas, and exploration, and testing things out, and finding out what seems to be working and why — or why not."
@@ -32,7 +36,6 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 
 * 2017 June 6. [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/). *DeepMind Blog*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
-* 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
 * 2016 December 19. [Alphabet's DeepMind unit could be expanded to 1,000 people](http://uk.businessinsider.com/alphabet-deepmind-could-be-expanded-1000-people-google-london-report-2016-12). *Business Insider UK*.
 * 2016 December 10. [DeepMind cofounder: Being in London was key to our success](http://uk.businessinsider.com/deepmind-cofounder-london-success-google-2016-12). *Business Insider UK*.
 * 2016 November 9. [Oxford and Cambridge are losing AI researchers to DeepMind](http://uk.businessinsider.com/oxbridge-ai-researchers-to-deepmind-2016-11). *Business Insider UK*.
@@ -47,4 +50,3 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 * 2014 January 27. [Google buys UK artificial intelligence startup Deepmind for £400m](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind). *The Guardian*.
 * 2014 January 26. [Google Acquires Artificial Intelligence Startup DeepMind For More Than $500M](https://techcrunch.com/2014/01/26/google-deepmind/). *TechCrunch*.
 * 2014 January 26. [Exclusive: Google to Buy Artificial Intelligence Startup DeepMind for $400M](https://www.recode.net/2014/1/26/11622732/exclusive-google-to-buy-artificial-intelligence-startup-deepmind-for). *Recode*.
-* 2014 January 26. [Google Beat Facebook for DeepMind, Creates Ethics Board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). *The Information*.
