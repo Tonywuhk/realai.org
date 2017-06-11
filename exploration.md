@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Exploration
 
-Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation). A simple form of exploration is \\(\epsilon\\)-greedy where at every time step an agent picks a random action with a small probability \\(\epsilon\\). There is no obvious "motivation" in this example, and most forms of exploration covered in this section involve more sophisticated designs, perhaps better described using the word *curiosity*.
+Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation). A simple form of exploration is \\(\epsilon\\)-greedy where at every time step an agent picks a random action with a small probability \\(\epsilon\\). Another form is to add noise to the parameters of models used in common RL algorithms ([Plappert et al., 2017](https://arxiv.org/abs/1706.01905)). There is no obvious "motivation" in these examples, and most forms of exploration covered in this section involve more sophisticated designs, perhaps better described using the word *curiosity*.
 
 The **Bootstrapped DQN** ([Osband et al., 2016](https://arxiv.org/abs/1602.04621)) architecture consists of several "heads" independently branching off a shared network. In each episode, a random head is selected for exploration, then the agent follows the head's optimal policy to fill the replay buffer, including a random mask per step to indicate which heads will use this step's data when trained by the standard DQN algorithm.
 
@@ -12,6 +12,7 @@ The **Bootstrapped DQN** ([Osband et al., 2016](https://arxiv.org/abs/1602.04621
 
 ## References
 
+* 2017 June 6, Matthias Plappert, Rein Houthooft, Prafulla Dhariwal, Szymon Sidor, Richard Y. Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, and Marcin Andrychowicz. [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905). *arXiv:1706.01905*.
 * 2017 March 22, Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy. [Deep Exploration via Randomized Value Functions](https://arxiv.org/abs/1703.07608). *arXiv:1703.07608*.
 * 2017 March 15, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
 * 2017 March 6, Joshua Achiam and Shankar Sastry. [Surprise-Based Intrinsic Motivation for Deep Reinforcement Learning](https://arxiv.org/abs/1703.01732). *arXiv:1703.01732*.
