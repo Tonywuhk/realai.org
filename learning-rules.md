@@ -20,7 +20,7 @@ where \\(\alpha \approx 1.6733\\) and \\(\lambda \approx 1.0507\\).
 
 ### References
 
-* 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*.
+* 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. [code](https://github.com/bioinf-jku/SNNs).
 
 ## Gradient Descent
 
