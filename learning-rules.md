@@ -4,6 +4,24 @@ mathjax: true
 ---
 # Learning Rules
 
+## Initialization
+
+In a self-normalizing neural network (SNN) proposed by [Klambauer et al. (2017)](https://arxiv.org/abs/1706.02515), the weights in a feed-forward neural network are initialized in such a way that, for any unit in a higher layer with \\(n\\) input weights \\(w_i, 1 \leq i \leq n\\), \\(\Sum_{i=1}^n w_i = 0\\) and \\(\Sum_{i=1}^n w_i^2 = 1\\). Moreover, the "scaled exponential linear unit" (SELU) activation function is given by
+
+$$
+\text{selu}(x) = \lambda
+  \begin{cases}
+    x & \text{if} x>0 \
+    \alpha e^x - \alpha & \text{if} x \leq 0
+  \end{cases},
+$$
+
+where \\(\alpha \approx 1.6733\\) and \\(\lambda \approx 1.0507\\).
+
+### References
+
+* 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*.
+
 ## Gradient Descent
 
 [Ruder (2016)](https://arxiv.org/abs/1609.04747) gave an excellent overview of commonly used gradient descient algorithms, including momentum ([Goh, 2017](http://distill.pub/2017/momentum/)), Adagrad ([Duchi et al., 2011](http://jmlr.org/papers/v12/duchi11a.html)), RMSprop ([slides](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)), Adadelta ([Zeiler, 2012](https://arxiv.org/abs/1212.5701)) and Adam ([Kingma & Ba, 2014](https://arxiv.org/abs/1412.06980)). Let \\(\theta_t\\) be the parameters of the model during training step \\(t\\), \\(g_t\\) the gradient of the training objective that is to be minimized, then the core rule of stochastic gradient descent (**SGD**) is
