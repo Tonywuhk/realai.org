@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. ([Learning Rules](http://realai.org/learning-rules/))
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*. ([News](http://realai.org/news/))
 * 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
 * 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
@@ -27,8 +28,8 @@ mathjax: true
         3. [Research Groups](http://realai.org/safety/research-groups/)
     2. [Impacts](http://realai.org/impacts/)
     3. [Timing](http://realai.org/timing/)
-    4. [Progress](http://realai.org/progress/)
-    5. [Roadmaps](http://realai.org/roadmaps/)
+    4. [Roadmaps](http://realai.org/roadmaps/)
+    5. [Progress](http://realai.org/progress/)
     6. [Policies](http://realai.org/policies/)
 
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
