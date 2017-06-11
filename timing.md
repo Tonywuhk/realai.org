@@ -46,6 +46,10 @@ As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is
 
 As of [31 May 2017](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#GaryMarcus), Gary thought it could still be 20 to 50 years before machines can be as fluent as people in a few cognitive areas.
 
+### Wei Xu
+
+AI Era (新智元) [reported in April 2017 on WeChat](http://mp.weixin.qq.com/s/TM0SrdQiAkwTqY4JhNZ9cQ) that Wei Xu ([徐伟](http://idl.baidu.com/IDL-team.html)) from Baidu's IDL predicted more than 50% chance of AGI creation before 2050.
+
 ### Other Sources
 
 According to a [tweet](https://twitter.com/katherinebailey/status/860188371888549888) posted by Twitter account [@katherinebailey](https://twitter.com/katherinebailey) on 5 May 2017, two persons from Amazon's AI team separately gave estimates of 10-15 years before AGI would be created.
