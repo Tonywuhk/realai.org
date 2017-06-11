@@ -6,13 +6,13 @@ mathjax: true
 
 ## Initialization
 
-In a self-normalizing neural network (SNN) proposed by [Klambauer et al. (2017)](https://arxiv.org/abs/1706.02515), the weights in a feed-forward neural network are initialized in such a way that, for any unit in a higher layer with \\(n\\) input weights \\(w_i, 1 \leq i \leq n\\), \\(\Sum_{i=1}^n w_i = 0\\) and \\(\Sum_{i=1}^n w_i^2 = 1\\). Moreover, the "scaled exponential linear unit" (SELU) activation function is given by
+In a self-normalizing neural network (SNN) proposed by [Klambauer et al. (2017)](https://arxiv.org/abs/1706.02515), the weights in a feed-forward neural network are initialized in such a way that, for any unit in a higher layer with \\(n\\) input weights \\(w_i (1 \leq i \leq n)\\), \\(\Sigma_{i=1}^n w_i = 0\\) and \\(\Sigma_{i=1}^n w_i^2 = 1\\). Moreover, the "scaled exponential linear unit" (SELU) activation function is given by
 
 $$
 \text{selu}(x) = \lambda
   \begin{cases}
-    x & \text{if} x>0 \
-    \alpha e^x - \alpha & \text{if} x \leq 0
+    x & \text{if } x>0 \\
+    \alpha e^x - \alpha & \text{if } x \leq 0
   \end{cases},
 $$
 
