@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 June 9, Lukasz Kaiser, Aidan N. Gomez, and Francois Chollet. [Depthwise Separable Convolutions for Neural Machine Translation](https://arxiv.org/abs/1706.03059). *arXiv:1706.03059*.
+* 2017 June 8, Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, and Bernhard Schölkopf. [Avoiding Discrimination through Causal Reasoning](https://arxiv.org/abs/1706.02744). *arXiv:1706.02744*.
 * 2017 May 26, Karol Kurach, Sylvain Gelly, Michal Jastrzebski, Philip Haeusser, Olivier Teytaud, Damien Vincent, and Olivier Bousquet. [Better Text Understanding Through Image-To-Text Transfer](https://arxiv.org/abs/1705.08386). *arXiv:1705.08386*.
 * 2017 May 25, Chris J. Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet, and Yee Whye Teh. [Filtering Variational Objectives](https://arxiv.org/abs/1705.09279). *arXiv:1705.09279*.
 * 2017 May 24, Shuang Liu, Olivier Bousquet, and Kamalika Chaudhuri. [Approximation and Convergence Properties of Generative Adversarial Learning](https://arxiv.org/abs/1705.08991). *arXiv:1705.08991*.
