@@ -3,11 +3,9 @@ permalink: /safety/
 ---
 # Safety
 
-[AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. On this page, we consider how to ensure that the AI systems we develop will benefit the whole world. 
+[AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. On this page, we consider how to ensure that the AI systems we develop will benefit the whole world.
 
-## Alignment
-
-[Lawrence (2017)](https://arxiv.org/abs/1705.07996) argues that we've already developed non-sentient, reactive machine intelligence that is aligned with our subconscious desires, but not our aspirations. Its effects, such as fake news, can confirm our biases and prejudice, undermine our spirit and soul.
+* [Value Alignment](http://realai.org/safety/alignment/)
 
 ## Resources
 
