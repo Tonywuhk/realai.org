@@ -33,6 +33,7 @@ permalink: /policies/
 
 ### United States
 
+* 2017 June 13. [U.S. Weighs Restricting Chinese Investment in Artificial Intelligence](https://www.nytimes.com/reuters/2017/06/13/technology/13reuters-usa-china-artificialintelligence.html). *New York Times*.
 * 2017 May 23. [Trump budget makes heavy cuts to science research](http://thehill.com/policy/technology/334764-trump-budget-would-make-heavy-cuts-to-science). *The Hill*.
 * 2017 May 5. [America’s ‘Miracle Machine’ is in desperate need of, well, a miracle](https://www.washingtonpost.com/opinions/americas-miracle-machine-is-in-desperate-need-of-well-a-miracle/2017/05/05/daafbe6a-30e7-11e7-9534-00e4656c22aa_story.html). *Washinton Post*.
 
