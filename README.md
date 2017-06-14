@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 June 14, Harm van Seijen, Mehdi Fatemi, Joshua Romoff, Romain Laroche, Tavian Barnes, and Jeffrey Tsang. [Hybrid Reward Architecture for Reinforcement Learning](https://static1.squarespace.com/static/58177ecc1b631bded320b56e/t/594050d7bf629a891ef31605/1497387537190/HRA_Maluuba.pdf). *Microsoft Maluuba*. [blog](http://www.maluuba.com/hra). ([Atari 2600](http://realai.org/games/#atari-2600))
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*. ([Reward Learning](http://realai.org/safety/alignment/#reward-learning); [DeepMind](http://realai.org/labs/deepmind/publications/); [OpenAI](http://realai.org/labs/openai/publications/))
 * 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. ([Learning Rules](http://realai.org/learning-rules/))
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*. ([News](http://realai.org/news/))
