@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 June 12, Daniel Smilkov, Nikhil Thorat, Been Kim, Fernanda Viégas, and Martin Wattenberg. [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825). *arXiv:1706.03825*. [site](https://tensorflow.github.io/saliency/). [code](https://github.com/tensorflow/saliency).
 * 2017 June 12, Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). *arXiv:1706.03762*.
 * 2017 June 10, Olivier Bousquet, Sylvain Gelly, Karol Kurach, Olivier Teytaud, and Damien Vincent. [Critical Hyper-Parameters: No Random, No Cry](https://arxiv.org/abs/1706.03200). *arXiv:1706.03200*.
 * 2017 June 10, Olivier Bousquet, Sylvain Gelly, Karol Kurach, Marc Schoenauer, Michele Sebag, Olivier Teytaud, and Damien Vincent. [Toward Optimal Run Racing: Application to Deep Learning Calibration](https://arxiv.org/abs/1706.03199). *arXiv:1706.03199*.
@@ -88,6 +89,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2016 November 28, Ofir Nachum, Mohammad Norouzi, and Dale Schuurmans. [Improving Policy Gradient by Exploring Under-appreciated Rewards](https://arxiv.org/abs/1611.09321). *arXiv:1611.09321*.
 * 2016 November 28, Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, and Dario Amodei. [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945). *arXiv:1611.08945*.
 * 2016 November 24, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein. [Survey of Expressivity in Deep Neural Networks](https://arxiv.org/abs/1611.08083). *arXiv:1611.08083*.
+* 2016 November 16, Daniel Smilkov, Nikhil Thorat, Charles Nicholson, Emily Reif, Fernanda B. Viégas, and Martin Wattenberg. [Embedding Projector: Interactive Visualization and Interpretation of Embeddings](https://arxiv.org/abs/1611.05469). *arXiv:1611.05469*.
 * 2016 November 14, Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, and Jeffrey Dean. [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558). *arXiv:1611.04558*.
 * 2016 November 14, Moritz Hardt and Tengyu Ma. [Identity Matters in Deep Learning](https://arxiv.org/abs/1611.04231). *arXiv:1611.04231*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
