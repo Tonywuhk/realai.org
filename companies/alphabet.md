@@ -17,3 +17,7 @@ On 26 May 2017, Axios [reported](https://www.axios.com/exclusive-google-launches
 ### Analyst's Opinions
 
 Following its [recent deal](https://www.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html) with Lyft to collaborate on self-driving cars, Morgan Stanley's analyst Brian Nowak [wrote to clients around 23 May 2017](http://www.cnbc.com/2017/05/23/alphabets-self-driving-waymo-unit-could-be-worth-70-billion-more-than-gm-morgan-stanley-says.html) that as a potential spin-out candidate, Waymo could be worth $70 billion.
+
+## Calico
+
+[Calico](https://www.calicolabs.com/) is an R&D company that is tackling aging. It is [super secretive](https://www.vox.com/science-and-health/2017/4/27/15409672/google-calico-secretive-aging-mortality-research) about its research.
