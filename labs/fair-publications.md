@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 14, Levent Sagun, Utku Evci, V. Ugur Guney, Yann Dauphin, and Leon Bottou. [Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/abs/1706.04454). *arXiv:1706.04454*.
 * 2017 June 12, Wenling Shang, Kihyuk Sohn, Zeynep Akata, and Yuandong Tian. [Channel-Recurrent Variational Autoencoders](https://arxiv.org/abs/1706.03729). *arXiv:1706.03729*.
 * 2017 June 8, Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He. [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). *arXiv:1706.02677*.
 * 2017 June 7, Matthijs Douze, Arthur Szlam, Bharath Hariharan, and Hervé Jégou. [Low-shot learning with large-scale diffusion](https://arxiv.org/abs/1706.02332). *arXiv:1706.02332*.
