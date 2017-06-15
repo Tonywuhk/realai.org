@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 14. [Snapchat quietly revealed how it can put AI on your phone](https://qz.com/1005879/snapchat-quietly-revealed-how-it-can-put-ai-on-your-phone/). *Quartz*.
 * 2017 June 14. [Element AI, a platform for companies to build AI solutions, raises $102M](https://techcrunch.com/2017/06/14/element-ai-a-platform-for-companies-to-build-ai-solutions-raises-102m/). *TechCrunch*.
 * 2017 June 9. [封面人物 \| 智胜——AI来啦！Are you ready?](http://www.nfpeople.com/story_view.php?id=13534) *Southern People Weekly*.
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*.
