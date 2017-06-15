@@ -23,7 +23,6 @@ permalink: /labs/
 * [Twitter Cortex](https://cortex.twitter.com/)
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Citadel](https://www.citadel.com/) ([邓力](https://www.microsoft.com/en-us/research/people/deng/))
-* [Vicarious](http://www.vicarious.com/)
 * [Element AI](https://www.elementai.com/research)
 * [GoodAI](https://www.goodai.com/)
 * [Numenta](http://numenta.com/)
