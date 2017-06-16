@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 ## 2017
 
 * 2017 June 14, Mason Bretan, Sageev Oore, Doug Eck, and Larry Heck. [Learning and Evaluating Musical Features with Deep Autoencoders](https://arxiv.org/abs/1706.04486). *arXiv:1706.04486*.
+* 2017 June 13, Azalia Mirhoseini, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/abs/1706.04972). *arXiv:1706.04972*.
 * 2017 June 12, Daniel Smilkov, Nikhil Thorat, Been Kim, Fernanda Viégas, and Martin Wattenberg. [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825). *arXiv:1706.03825*. [site](https://tensorflow.github.io/saliency/). [code](https://github.com/tensorflow/saliency).
 * 2017 June 12, Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). *arXiv:1706.03762*.
 * 2017 June 10, Olivier Bousquet, Sylvain Gelly, Karol Kurach, Olivier Teytaud, and Damien Vincent. [Critical Hyper-Parameters: No Random, No Cry](https://arxiv.org/abs/1706.03200). *arXiv:1706.03200*.
