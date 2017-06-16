@@ -41,6 +41,8 @@ The [Ethereum](https://www.ethereum.org/) network faces the problem of scalabili
 
 According to a July 2016 post by [dan](https://steemit.com/@dan), Steemit's [evil plan](https://steemit.com/steem/@dan/steemit-s-evil-plan-for-cryptocurrency-world-domination) is bootstrapping a digital currency.
 
+Similar to Steem, there are [Golos](https://golos.io/) in Russian and [Yoyow](https://yoyow.org/) in Chinese.
+
 ## Background
 
 * 2017 May 16, Massimo Bartoletti, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779). *arXiv:1703.03779*.
