@@ -39,6 +39,8 @@ The [Ethereum](https://www.ethereum.org/) network faces the problem of scalabili
 
 [Steem](https://steem.io/) is a blockchain-based [social media platform](https://steemit.com/) where [anyone](https://steemd.com/) can earn [rewards](https://steemwhales.com/). According to its [white paper](https://steem.io/SteemWhitePaper.pdf), it has a *subjective* Proof of Work system that allows a community to be built around any concept that has a sufficiently defined purpose.
 
+According to a July 2016 post by [dan](https://steemit.com/@dan), Steemit's [evil plan](https://steemit.com/steem/@dan/steemit-s-evil-plan-for-cryptocurrency-world-domination) is bootstrapping a digital currency.
+
 ## Background
 
 * 2017 May 16, Massimo Bartoletti, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779). *arXiv:1703.03779*.
