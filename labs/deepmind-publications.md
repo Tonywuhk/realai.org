@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 June 15, Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, and Shakir Mohamed. [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987). *arXiv:1706.04987*.
+* 2017 June 15, Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, and Razvan Pascanu. [Sobolev Training for Neural Networks](https://arxiv.org/abs/1706.04859). *arXiv:1706.04859*.
 * 2017 June 13, Ian Osband and Benjamin Van Roy. [On Optimistic versus Randomized Exploration in Reinforcement Learning](https://arxiv.org/abs/1706.04241). *arXiv:1706.04241*.
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*.
 * 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*.
@@ -55,6 +57,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2017 March 1, Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, and Koray Kavukcuoglu. [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522). *arXiv:1703.00522*.
 * 2017 February 28, Daniel Zoran, Balaji Lakshminarayanan, and Charles Blundell. [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833). *arXiv:1702.08833*.
 * 2017 February 21, Liang Lu, Lingpeng Kong, Chris Dyer, and Noah A. Smith. [Multitask Learning with CTC and Segmental CRF for Speech Recognition](https://arxiv.org/abs/1702.06378). *arXiv:1702.06378*.
+* 2017 February 18, Katarzyna Janocha and Wojciech Marian Czarnecki. [On Loss Functions for Deep Neural Networks in Classification](https://arxiv.org/abs/1702.05659). *arXiv:1702.05659*.
 * 2017 February 16, David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, and Peter Battaglia. [Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068). *arXiv:1702.05068*.
 * 2017 February 15, Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, and Timothy Lillicrap. [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649). *arXiv:1702.04649*.
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
