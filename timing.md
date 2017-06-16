@@ -28,6 +28,10 @@ During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, 
 
 * 2016 February 16, Demis Hassabis: decades away from general intelligence. Source: [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 
+### Yoshua Bengio
+
+[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) said on 15 June 2017 ([video](https://youtu.be/IZGobhDoBCg?t=5h27m5s)) during the [4th Annual Canada 2020 Conference](http://canada2020.ca/events/4th-annual-canada-2020-conference/) that we're very far away from human-level AI, not just because of computing power, but also the basic level of understanding of science.
+
 ### Machine Intelligence Research Institute
 
 * 2017 April 30. Research staff at MIRI assigned moderately higher probability to AGI’s being developed before 2035 than they did a year or two ago. Source: [2017 Updates and Strategy](https://intelligence.org/2017/04/30/2017-updates-and-strategy/). *Machine Intelligence Research Institute*.
