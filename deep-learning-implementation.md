@@ -4,6 +4,10 @@ title: Implementation
 ---
 # Deep Learning Implementation
 
+## System
+
+A typical approach to address the computational requirements of large-scale neural networks is to use a heterogeneous distributed environment with a mixture of many CPUs and GPUs. [Mirhoseini & Pham et al. (2017)](https://arxiv.org/abs/1706.04972) use reinforcement learning to optimize device placement for TensorFlow computational graphs and ﬁnd non-trivial device placements for Inception-V3 and RNN LSTM.
+
 ## Software
 
 * [TensorFlow](https://www.tensorflow.org/) ([Abadi et al., 2016](https://arxiv.org/abs/1605.08695)) is an open-source software library for machine intelligence.
@@ -21,6 +25,7 @@ TensorFlow is declarative, supposedly easier to optimize, but many programmers l
 
 ## References
 
+* 2017 June 13, Azalia Mirhoseini, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/abs/1706.04972). *arXiv:1706.04972*.
 * 2016 May 27, Martín Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, Manjunath Kudlur, Josh Levenberg, Rajat Monga, Sherry Moore, Derek G. Murray, Benoit Steiner, Paul Tucker, Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695). *arXiv:1605.08695*.
 * 2016 April 22, Yan Duan, Xi Chen, Rein Houthooft, John Schulman, and Pieter Abbeel. [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778). *arXiv:1604.06778*.
 * 2015 March. François Chollet. [Keras](https://github.com/fchollet/keras). *GitHub*.
