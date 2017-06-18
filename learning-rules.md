@@ -16,7 +16,7 @@ $$
   \end{cases},
 $$
 
-where \\(\alpha \approx 1.6733\\) and \\(\lambda \approx 1.0507\\).
+where \\(\alpha \approx 1.6733\\) and \\(\lambda \approx 1.0507\\). Under these conditions, the activations in a layer converge towards zero mean and unit variance as they propagate through many network layers. This is an alternative method to [normalize network activations](https://theneuralperspective.com/2016/10/27/gradient-topics/) that motivated popular techniques like batch and layer normalization. 
 
 ### References
 
