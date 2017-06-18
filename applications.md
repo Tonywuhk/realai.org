@@ -9,3 +9,7 @@ A list of applications that productively make use of recent advances in AI.
 * 2017 May 11. [Neural Network-Generated Illustrations in Allo](https://research.googleblog.com/2017/05/neural-network-generated-illustrations.html). *Google Research Blog*.
 * 2016 September 27. [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html). *Google Research Blog*.
 * 2015 November 3. [Computer, respond to this email.](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html) *Google Research Blog*.
+
+## APIs
+
+* 2017 June 15. [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html). *Google Research Blog*.
