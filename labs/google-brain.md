@@ -7,7 +7,11 @@ title: Labs/Google Brain
 
 [Google Brain](https://research.google.com/teams/brain/) is a research team that aims to make machines intelligent and improve people’s lives. Most of the team is based in Mountain View, but there are smaller groups of team members in Cambridge (Massachusetts), London, Montreal, New York, San Francisco, Toronto and Zurich.
 
-On 12 March 2013, Google acquired DNNresearch, a startup founded by University of Toronto's professor Geoffrey Hinton and two of his grad students ([TechCrunch](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/), [VentureBeat](http://venturebeat.com/2013/03/12/google-dnnresearch/)).
+According to [web page dated 10 Aug 2012](http://www.artificialbrains.com/google), the Google cofounders have long been interested in AI and said their aim is for Google Search to become AI-complete. An internal company memo in 2006 said that Google wants to have the world's top AI research laboratory.
+
+In May 2011, Business Insider [reported](http://www.businessinsider.com/the-state-of-google-2011-5) that Google has an unannounced division called "Google X". Google Brain [graduated in 2012](https://x.company/graduated/) from [X](https://x.company/), a moonshot factory whose mission is to invent and launch “moonshot” technologies that could someday make the world a radically better place.
+
+On 12 March 2013, Google acquired DNNresearch, a startup founded by University of Toronto's professor Geoffrey Hinton and two of his grad students ([TechCrunch](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/), [VentureBeat](http://venturebeat.com/2013/03/12/google-dnnresearch/)). According to a [leiphone.com report](https://www.leiphone.com/news/201704/A9RuQzPwYKKLkIJT.html), Google paid $50 million.
 
 ## Brain Residency
 
