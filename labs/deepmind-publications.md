@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 June 16, Peter Sunehag, Guy Lever, Audrunas Gruslys, Wojciech Marian Czarnecki, Vinicius Zambaldi, Max Jaderberg, Marc Lanctot, Nicolas Sonnerat, Joel Z. Leibo, Karl Tuyls, and Thore Graepel. [Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/abs/1706.05296). *arXiv:1706.05296*.
 * 2017 June 15, Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, and Shakir Mohamed. [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987). *arXiv:1706.04987*.
 * 2017 June 15, Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, and Razvan Pascanu. [Sobolev Training for Neural Networks](https://arxiv.org/abs/1706.04859). *arXiv:1706.04859*.
 * 2017 June 13, Ian Osband and Benjamin Van Roy. [On Optimistic versus Randomized Exploration in Reinforcement Learning](https://arxiv.org/abs/1706.04241). *arXiv:1706.04241*.
