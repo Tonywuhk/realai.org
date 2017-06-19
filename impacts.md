@@ -17,6 +17,11 @@ It is conceivable that blackbox AI algorithms could be employed to make importan
 
 The empirical success of deep learning changed the thinking in many related disciplines such as [image processing](https://sinews.siam.org/Details-Page/deep-deep-trouble) where researchers had mixed feelings of disgust and envy towards the trend. They pondered whether they should insist on their old, more rigorous ways of research or pivot to deep learning that lacked mathematical elegance and offered very little interprepretability of the solutions or understanding of the underlying data.
 
+## Dangers
+
+[Adam (2017)](https://arxiv.org/abs/1706.05143) warns that recent advances in machine learning has made it "possible to unleash incredibly powerful, human-like armies of social bots, in potentially well coordinated campaigns of deception and influence."
+
 ## References
 
+* 2017 June 16, Terrence Adams. [AI-Powered Social Bots](https://arxiv.org/abs/1706.05143). *arXiv:1706.05143*.
 * 2017 May 8, Yuval Noah Harari. [The meaning of life in a world without work](https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book). *The Guardian*.
