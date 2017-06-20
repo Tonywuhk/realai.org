@@ -5,7 +5,7 @@ permalink: /nlp/
 
 ## Chatbot
 
-[Lewis et al. (2017)](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf) train an end-to-end chatbot that can negotiate with humans in natural language. In a simple negotiation task involving three item types with assigned numerical values, the chatbot is pre-trained with supervised learning, then fine-tuned by reinforcement learning against a version of itself. They introduce dialogue rollouts, in which the chatbot plans ahead by simulation. This technique might be useful together with Monte Carlo Tree Search in other domains. Without explicit human design, the chatbot learns to deceive by initially feigning interest in a valueless item, only to conceding it later. Chatbots training together are also capable of developing their own language.
+[Lewis et al. (2017)](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf) train an end-to-end chatbot that can negotiate with humans in natural language. In a simple negotiation task involving three item types with assigned numerical values, the chatbot is pre-trained with supervised learning, then fine-tuned by reinforcement learning against a version of itself. They introduce dialogue rollouts, in which the chatbot plans ahead by simulation. This technique might be useful together with Monte Carlo Tree Search in other domains. Without explicit human design, the chatbot learns to deceive by initially feigning interest in a valueless item, only to conceding it later. Chatbots training together are also capable of developing [their own language](https://www.theatlantic.com/technology/archive/2017/06/what-an-ais-non-human-language-actually-looks-like/530934/).
 
 ### References
 
