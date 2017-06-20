@@ -37,7 +37,8 @@ permalink: /labs/
 
 ## Academia
 
-* UC [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/): [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/)
+* UC [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/): [Blog](http://bair.berkeley.edu/blog/)
+  * People: [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/)
 * New York University [Center for Data Science](http://cds.nyu.edu/): [Yann LeCun](http://yann.lecun.com/), [Kyunghyun Cho](http://www.kyunghyuncho.me/)
 * University of Toronto [Machine Learning](http://learning.cs.toronto.edu/): [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/), [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php)
 * Université de Montréal [MILA](https://mila.umontreal.ca/en/): [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Aaron Courville](https://mila.umontreal.ca/en/person/aaron-courville/)
