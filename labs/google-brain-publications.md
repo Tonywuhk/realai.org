@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 June 19, Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein. [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement](https://arxiv.org/abs/1706.05806). *arXiv:1706.05806*.
+* 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*.
 * 2017 June 16, Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. [One Model To Learn Them All](https://arxiv.org/abs/1706.05137). *arXiv:1706.05137*.
 * 2017 June 15, Junhyuk Oh, Satinder Singh, Honglak Lee, and Pushmeet Kohli. [Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning](https://arxiv.org/abs/1706.05064). *arXiv:1706.05064*.
 * 2017 June 14, Mason Bretan, Sageev Oore, Doug Eck, and Larry Heck. [Learning and Evaluating Musical Features with Deep Autoencoders](https://arxiv.org/abs/1706.04486). *arXiv:1706.04486*.
@@ -39,6 +41,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
 * 2017 April 6, David Berthelot, Thomas Schumm, and Luke Metz. [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). *arXiv:1703.10717*.
 * 2017 April 5, Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279). *arXiv:1704.01279*.
+* 2017 April 5, Ravi Kumar, Maithra Raghu, Tamas Sarlos, and Andrew Tomkins. [Linear Additive Markov Processes](https://arxiv.org/abs/1704.01255). *arXiv:1704.01255*.
 * 2017 April 4, Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, and George E. Dahl. [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212). *arXiv:1704.01212*.
 * 2017 April 3, Colin Raffel, Thang Luong, Peter J. Liu, Ron J. Weiss, and Douglas Eck. [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784). *arXiv:1704.00784*.
 * 2017 March 31, Ciprian Chelba, Mohammad Norouzi, and Samy Bengio. [N-gram Language Modeling using Recurrent Neural Network Estimation](https://arxiv.org/abs/1703.10724). *arXiv:1703.10724*.
