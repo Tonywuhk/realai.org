@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 June 20, Vineet Gupta, Tomer Koren, and Yoram Singer. [A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization](https://arxiv.org/abs/1706.06569). *arXiv:1706.06569*.
 * 2017 June 19, Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein. [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement](https://arxiv.org/abs/1706.05806). *arXiv:1706.05806*.
 * 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*.
 * 2017 June 16, Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. [One Model To Learn Them All](https://arxiv.org/abs/1706.05137). *arXiv:1706.05137*.
@@ -66,6 +67,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 February 27, Amit Daniely. [SGD Learns the Conjugate Kernel Class of the Network](https://arxiv.org/abs/1702.08503). *arXiv:1702.08503*.
 * 2017 February 27, Amit Daniely. [Depth Separation for Neural Networks](https://arxiv.org/abs/1702.08489). *arXiv:1702.08489*.
 * 2017 February 24, Augustus Odena, Dieterich Lawson, and Christopher Olah. [Changing Model Behavior at Test-Time Using Reinforcement Learning](https://arxiv.org/abs/1702.07780). *arXiv:1702.07780*.
+* 2017 February 24, Alon Cohen, Tamir Hazan, and Tomer Koren. [Tight Bounds for Bandit Combinatorial Optimization](https://arxiv.org/abs/1702.07539). *arXiv:1702.07539*.
+* 2017 February 24, Tomer Koren, Roi Livni, and Yishay Mansour. [Bandits with Movement Costs and Adaptive Pricing](https://arxiv.org/abs/1702.07444). *arXiv:1702.07444*.
 * 2017 February 22, Colin Raffel and Dieterich Lawson. [Training a Subsampling Mechanism in Expectation](https://arxiv.org/abs/1702.06914). *arXiv:1702.06914*.
 * 2017 February 19, Xinghao Pan, Jianmin Chen, Rajat Monga, Samy Bengio, and Rafal Jozefowicz. [Revisiting Distributed Synchronous SGD](https://arxiv.org/abs/1702.05800). *arXiv:1702.05800*.
 * 2017 February 15, Natasha Jaques, Shixiang Gu, Richard E. Turner, and Douglas Eck. [Tuning Recurrent Neural Networks with Reinforcement Learning](https://openreview.net/forum?id=Syyv2e-Kx). *OpenReview*.
