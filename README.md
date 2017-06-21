@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 June 20. Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*. ([Progress](http://realai.org/progress))
 * 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*. ([Modular Networks](http://realai.org/network-architecture/#modular-networks); [Google Brain](http://realai.org/labs/google-brain/publications/); [DeepMind](http://realai.org/labs/deepmind/publications/))
 * 2017 June 16, Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. [One Model To Learn Them All](https://arxiv.org/abs/1706.05137). *arXiv:1706.05137*. ([Multi-Task Learning](http://realai.org/multi-task-learning/); [Google Brain](http://realai.org/labs/google-brain/publications/))
 * 2017 June 15, Mike Lewis, Denis Yarats, Yann N. Dauphin, Devi Parikh, and Dhruv Batra. [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf). *Facebook Artificial Intelligence Research*. [blog](https://code.facebook.com/posts/1686672014972296). [code](https://github.com/facebookresearch/end-to-end-negotiator). ([Chatbot](http://realai.org/nlp/#chatbot); [FAIR](http://realai.org/labs/fair/publications/))
