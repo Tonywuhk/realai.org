@@ -9,6 +9,8 @@ Since 2012, there have been rapid advances in various fronts towards the technol
 
 DeepMind [told the Financial Times](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0) on 17 March 2017 that it hoped to publish six more papers in highly regarded scientific journals such as Nature or Science within the next year. We look forward to the addition of substantial new progress to this page in the coming months.
 
+* Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*.
+
 ## Deep Neural Networks
 
 * 2015 February 11, Sergey Ioffe and Christian Szegedy. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167). *arXiv:1502.03167*.
