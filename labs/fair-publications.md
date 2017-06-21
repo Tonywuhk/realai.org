@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 19, Yedid Hoshen. [VAIN: Attentional Multi-agent Predictive Modeling](https://arxiv.org/abs/1706.06122). *arXiv:1706.06122*.
 * 2017 June 16, Mike Lewis, Denis Yarats, Yann N. Dauphin, Devi Parikh, and Dhruv Batra. [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125). *arXiv:1706.05125*. [blog](https://code.facebook.com/posts/1686672014972296). [code](https://github.com/facebookresearch/end-to-end-negotiator).
 * 2017 June 14, Levent Sagun, Utku Evci, V. Ugur Guney, Yann Dauphin, and Leon Bottou. [Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/abs/1706.04454). *arXiv:1706.04454*.
 * 2017 June 12, Wenling Shang, Kihyuk Sohn, Zeynep Akata, and Yuandong Tian. [Channel-Recurrent Variational Autoencoders](https://arxiv.org/abs/1706.03729). *arXiv:1706.03729*.
