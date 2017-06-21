@@ -11,6 +11,10 @@ It is stated in OpenAI's [mission](https://openai.com/about/#mission) that "We w
 
 OpenAI's [technical goals](https://blog.openai.com/openai-technical-goals/) include building a measure of research progress, and agents that can perform housework, understand natural language, and solve a wide variety of games.
 
+## Safety
+
+In April 2017, the safety implications of OpenAI was discussed online under the heading "OpenAI makes humanity less safe" at blog sites [LessWrong](http://lesswrong.com/lw/oul/openai_makes_humanity_less_safe/) and [Compass Rose](http://benjaminrosshoffman.com/openai-makes-humanity-less-safe/).
+
 ## Sponsors
 
 A group of sponsors committed $1 billion at OpenAI's formation, although only a tiny fraction was expected to be spent in the next a few years.
@@ -42,7 +46,7 @@ A group of sponsors committed $1 billion at OpenAI's formation, although only a 
 
 ## Team
 
-The OpenAI team had 45 people as of [January 30, 2017](https://blog.openai.com/team-update-january/).
+The OpenAI team had 45 people as of [January 30, 2017](https://blog.openai.com/team-update-january/). At the end of February 2017, Ian Goodfellow, who [joined no later than March 2016](https://blog.openai.com/team-plus-plus/) as a full-timer, [left and returned to Google Brain](https://www.reddit.com/r/MachineLearning/comments/5y6uy8/d_did_ian_goodfellow_leave_openai/). In June 2017, Andrej Karpathy, who had been a [founding member](https://blog.openai.com/introducing-openai/) since December 2015, [moved to Tesla](https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/) for a key Autopilot role.
 
 ## Formation
 
