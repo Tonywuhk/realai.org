@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 21. [Uber Founder Travis Kalanick Resigns as C.E.O.](https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html) *New York Times*.
 * 2017 June 20. [Tesla Autopilot: head of software Chris Lattner leaves, Tesla hires new head of AI and computer vision](https://electrek.co/2017/06/20/tesla-autopilot-chris-lattner-software-vision/amp/). *Electrek*.
 * 2017 June 20. [Tesla hires deep learning expert Andrej Karpathy to lead Autopilot vision](https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/). *TechCrunch*.
 * 2017 June 14. [Snapchat quietly revealed how it can put AI on your phone](https://qz.com/1005879/snapchat-quietly-revealed-how-it-can-put-ai-on-your-phone/). *Quartz*.
