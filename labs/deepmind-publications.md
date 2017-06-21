@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*.
+* 2017 June 20, Misha Denil, Sergio Gómez Colmenarejo, Serkan Cabi, David Saxton, and Nando de Freitas. [Programmable Agents](https://arxiv.org/abs/1706.06383). *arXiv:1706.06383*.
 * 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*.
 * 2017 June 16, Peter Sunehag, Guy Lever, Audrunas Gruslys, Wojciech Marian Czarnecki, Vinicius Zambaldi, Max Jaderberg, Marc Lanctot, Nicolas Sonnerat, Joel Z. Leibo, Karl Tuyls, and Thore Graepel. [Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/abs/1706.05296). *arXiv:1706.05296*.
 * 2017 June 15, Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, and Shakir Mohamed. [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987). *arXiv:1706.04987*.
@@ -31,6 +33,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2017 May 19, Nat Dilokthanakul, Christos Kaplanis, Nick Pawlowski, and Murray Shanahan. [Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1705.06769). *arXiv:1705.06769*.
 * 2017 May 15, Ivo Danihelka, Balaji Lakshminarayanan, Benigno Uria, Daan Wierstra, and Peter Dayan. [Comparison of Maximum Likelihood and GAN-based training of Real NVPs](https://arxiv.org/abs/1705.05263). *arXiv:1705.05263*.
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.
+* 2017 May 10, Ivan Vulić, Daniela Gerz, Douwe Kiela, Felix Hill, and Anna Korhonen. [HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment](https://arxiv.org/abs/1608.02117). *arXiv:1608.02117*.
 * 2017 May 9, Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, Matt Botvinick, and Nando de Freitas. [Learning to learn without gradient descent by gradient descent](https://arxiv.org/abs/1611.03824). *arXiv:1611.03824*.
 * 2017 May 7, Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, and Peter W. Battaglia. [Metacontrol for Adaptive Imagination-Based Optimization](https://arxiv.org/abs/1705.02670). *arXiv:1705.02670*.
 * 2017 April 23, Kartik Goyal, Chris Dyer, and Taylor Berg-Kirkpatrick. [Differentiable Scheduled Sampling for Credit Assignment](https://arxiv.org/abs/1704.06970). *arXiv:1704.06970*.
