@@ -11,6 +11,10 @@ AGI technology could represent the greatest change in the history of life on Ear
 
 The best place to appreciate AI’s progress is at its research frontiers. Unlike mature fields where many years of postgraduate training is needed, the [background](http://realai.org/resources/curriculum/) for cutting-edge AI is accessible to college students, whose papers often appear in top academic [conferences](http://realai.org/resources/conferences/).
 
+### Near-Term Safety
+
+In a widely cited article about [the singularity](https://en.wikipedia.org/wiki/Technological_singularity), [Vinge (1993)](http://edoras.sdsu.edu/~vinge/misc/singularity.html) predicts that greater-than-human intelligence will occur during the next 30 years. In this website, near-term safety is about keeping AGI safe and beneficial if it will be created on or before 2023. A plausible path of such a development is to scale up existing AI architectures to the level of prosaic AGI ([Christiano, 2016](https://ai-alignment.com/prosaic-ai-control-b959644d79c2)) without discovering qualitatively new ideas about how intelligence works.
+
 ## Research
 
 The most crucial ability of an intelligent system is the ability of learning. To achieve AGI, it is widely believed that several objectives need to be accomplished:
@@ -38,7 +42,9 @@ In reinforcement learning ([Sutton & Barto, 2017](http://incompleteideas.net/sut
 
 ## References
 
-* 2016 November,  Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [site](http://www.deeplearningbook.org/).
+* 2016 November 18, Paul Christiano. [Prosaic AI alignment](https://ai-alignment.com/prosaic-ai-control-b959644d79c2). *AI Alignment*.
+* 2016 November, Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](https://mitpress.mit.edu/books/deep-learning). *The MIT Press*. [site](http://www.deeplearningbook.org/).
 * 2016 September, Richard S. Sutton and Andrew G. Barto. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. *The MIT Press*. [PDF](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf).
 * 2015 February 25, Yann LeCun,	Yoshua Bengio, and Geoffrey Hinton. [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). *Nature*, 521(7553):436-444. [PDF](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 * 2014 April 30, Jürgen Schmidhuber. [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828). *arXiv:1404.7828*.
+* 1993, Vernor Vinge. [The Coming Technological Singularity: How to Survive in the Post-Human Era](http://edoras.sdsu.edu/~vinge/misc/singularity.html). *VISION-21 Symposium*.
