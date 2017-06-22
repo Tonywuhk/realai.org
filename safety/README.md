@@ -7,9 +7,11 @@ permalink: /safety/
 
 * [Value Alignment](http://realai.org/safety/alignment/)
 
-## Resources
-
 The topic of AI safety has attracted the attention from many [research groups](http://realai.org/safety/research-groups/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
+
+## Links
+
+* [Intelligent Agent Foundations Forum](https://agentfoundations.org/) is a publicly visible discussion forum for foundational mathematical research in "robust and beneficial" artificial intelligence.
 
 ## News
 
