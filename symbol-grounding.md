@@ -11,6 +11,6 @@ Language is a tool of communication in which words (symbols) trigger thoughts in
 
 ## References
 
-* 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*.
+* 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*. [video](https://www.youtube.com/watch?v=wJjdu1bPJ04) uploaded on 7 April 2017.
 * 2016 September 18, Marta Garnelo, Kai Arulkumaran, and Murray Shanahan. [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/abs/1609.05518). *arXiv:1609.05518*.
 * 1990 June, Stevan Harnad. [The Symbol Grounding Problem](http://www.sciencedirect.com/science/article/pii/0167278990900876). *Physica D: Nonlinear Phenomena*, 42(1-3):335-346. [html](http://users.ecs.soton.ac.uk/harnad/Papers/Harnad/harnad90.sgproblem.html).
