@@ -20,12 +20,6 @@ mathjax: true
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*. ([News](http://realai.org/news/))
 * 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
 * 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
-* 2017 May 25. Results of [2016 Expert Survey on Progress in AI](http://aiimpacts.org/2016-expert-survey-on-progress-in-ai/) is [published](https://arxiv.org/abs/1705.08807). Medium estimate of 50% chance AGI is 2061. ([Timing](http://realai.org/timing/))
-* 2017 May 24. [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/). *OpenAI*. ([Reinforcement Learning Implemtations](http://realai.org/rl-code/))
-* 2017 May 23-27. [The Future of Go Summit](http://events.google.com/alphago2017/). Wuzhen, China.
-* 2017 May 17. [Google Rattles the Tech World With a New AI Chip for All](https://www.wired.com/2017/05/google-rattles-tech-world-new-ai-chip/). *Wired*. ([News](http://realai.org/news/), [Google](http://realai.org/companies/alphabet/#google))
-* 2017 May 15, Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363). *arXiv:1705.05363*. ([Intrinsic Motivation](http://realai.org/intrinsic-motivation))
-* 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Program Induction](http://realai.org/program-induction/))
 
 ## Main Contents
 
