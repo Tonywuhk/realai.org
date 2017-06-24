@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 23. [The Man Who Helped Turn Toronto Into a High-Tech Hotbed](https://www.nytimes.com/2017/06/23/world/canada/the-man-who-helped-turn-toronto-into-a-high-tech-hotbed.html). *New York Times*.
 * 2017 June 23. [Andrew Ng announces Deeplearning.ai, his new venture after leaving Baidu](https://techcrunch.com/2017/06/23/deeplearning/). *TechCrunch*.
 * 2017 June 21. [Inside Microsoft's AI Comeback](https://www.wired.com/story/inside-microsofts-ai-comeback/). *Wired*.
 * 2017 June 21. [Uber Founder Travis Kalanick Resigns as C.E.O.](https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html) *New York Times*.
