@@ -14,6 +14,7 @@ permalink: /news/
 * 2017 June 14. [Element AI, a platform for companies to build AI solutions, raises $102M](https://techcrunch.com/2017/06/14/element-ai-a-platform-for-companies-to-build-ai-solutions-raises-102m/). *TechCrunch*.
 * 2017 June 13. [Why is the language of transhumanists and religion so similar?](https://aeon.co/essays/why-is-the-language-of-transhumanists-and-religion-so-similar) *Aeon*.
 * 2017 June 13. [Uber Embraces Major Reforms as Travis Kalanick, the C.E.O., Steps Away](https://www.nytimes.com/2017/06/13/technology/uber-travis-kalanick-holder-report.html). *New York Times*.
+* 2017 June 12. [New system allows optical “deep learning”](https://news.mit.edu/2017/new-system-allows-optical-deep-learning-0612). *MIT News*.
 * 2017 June 9. [There's An AI Revolution Underway And It's Happening In Canada](https://www.forbes.com/sites/bijankhosravi/2017/06/09/theres-an-ai-revolution-underway-and-its-happening-in-canada/). *Forbes*.
 * 2017 June 9. [封面人物 \| 智胜——AI来啦！Are you ready?](http://www.nfpeople.com/story_view.php?id=13534) *Southern People Weekly*.
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*.
