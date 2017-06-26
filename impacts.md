@@ -11,7 +11,7 @@ It is conceivable that blackbox AI algorithms could be employed to make importan
 
 ## Jobs
 
-[Harari (2017)](https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book) predicted that within decades AI would outperform humans in most jobs, causing large number of people to become unemployable. The unemployed masses would be kept occupied and content by virtual reality games.
+[Harari (2017)](https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book) predicted that within decades AI would outperform humans in most jobs, causing large number of people to become unemployable. The unemployed masses would be kept occupied and content by virtual reality games. In June 2017, Michael Bloomberg [suggested in Bloomberg Businessweek](https://www.bloomberg.com/news/articles/2017-06-22/what-we-need-and-don-t-need-from-government-in-the-robot-age) that governments experiment with direct employment programs to keep working-age adults in the labor market, performing jobs that produce some public benefits, however limited. 
 
 Alibaba's Jack Ma [warned in June 2017](http://www.businessinsider.com/alibaba-stock-price-jack-ma-artificial-intelligence-machine-learning-may-cause-world-war-iii-2017-6) at a [conference](http://gateway17.com/speakers/) that the **Third World War** could be caused by the worker displacement from these new technologies and the economic stress it could place on political systems.
 
