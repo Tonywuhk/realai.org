@@ -10,6 +10,7 @@ permalink: /coins/
 
 ## Markets
 
+* 2017 June 26. [Bitcoin, Ether Lead Digital Currency Slide From Highs](https://www.bloomberg.com/news/articles/2017-06-26/bitcoin-ether-lead-slide-as-digital-currencies-drop-from-highs). *Bloomberg Technology*.
 * 2017 May 27. [Thoughts on Tokens](https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe). *Medium*.
 * 2017 May 26. [Bitcoin briefly plunges below $2,100 as upward momentum fades](http://www.cnbc.com/2017/05/26/bitcoin-briefly-plunges-below-2100-as-upward-momentum-fades.html). *CNBC*.
 * 2017 May 26. [Bitcoin's price keeps breaking records. Here's what's driving its growth.](https://www.vox.com/new-money/2017/5/26/15687062/bitcoin-bubble-explained) *Vox*.
