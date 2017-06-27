@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 June 27. [Hong Kong Small Cap Stock Plunge Wipes Out $6.1 Billion in Value](https://www.bloomberg.com/news/articles/2017-06-27/hong-kong-small-cap-collapse-wipes-out-5-1-billion-this-morning). *Bloomberg Markets*.
 * 2017 June 16. [Wal-Mart drops 6%, Kroger dives 11% in premarket on Amazon-Whole Foods deal](http://www.cnbc.com/2017/06/16/wal-mart-drops-4-percent-kroger-dives-12-percent-in-premarket-on-amazon-whole-foods-deal.html). *CNBC*.
 * 2017 June 9. [Nasdaq Megacaps Go Careening Off Course](https://www.bloomberg.com/news/articles/2017-06-09/megacap-tech-stumbling-to-worst-day-verus-dow-in-seven-months). *Bloomberg*.
 * 2017 June 6. [Investors flee to gold, German bonds as political worries rise](https://www.reuters.com/article/us-global-markets-idUSKBN18X02T). *Reuters*.
