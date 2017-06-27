@@ -6,7 +6,7 @@ mathjax: true
 
 ## Atari 2600
 
-On the Atari game Ms. Pac-Man, a reinforcement learning agent using the Hybrid Reward Architecture (HRA) achieved the maximum possible score of 999,990 points in less than 3,000 episodes ([van Seijen et al., 2017](https://arxiv.org/abs/1706.04208)). The overall \\(Q\\)-value function in the HRA is a weighted sum of individual \\(Q\\)-value functions whose weights correspond to in-game rewards for eating a pellet, blue ghost or fruit. The weights for Ms. Pac-Man to lose a life are set to -1,000.
+On the Atari game Ms. Pac-Man, a reinforcement learning agent using the Hybrid Reward Architecture (HRA) achieved the maximum possible score of 999,990 points in less than 3,000 episodes ([van Seijen et al., 2017](https://arxiv.org/abs/1706.04208)). The overall \\(Q\\)-value function in the HRA is a weighted sum of individual \\(Q\\)-value functions whose weights correspond to in-game rewards for eating a pellet, blue ghost or fruit. The weights for Ms. Pac-Man to lose a life are set to -1,000. An *executive memory* records every sequence of actions that pass a level without any kill, so that they can be used for the same level. This particular technique contributes to achieving the maximum possible score, but does not generalize.
 
 In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-networks-artificial-intelligence-atari-demo/) that AI company [Vicarious](https://www.vicarious.com/) developed Schema Networks. In [Kansky et al. (2017)](https://arxiv.org/abs/1706.04317), specific Schema Networks are designed for the Atari game Breakout, and after training, they outperform the general learning algorithms [A3C](http://realai.org/rl/model-free/) in several variations of Breakout.
 
