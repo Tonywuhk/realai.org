@@ -48,7 +48,7 @@ Similar to Steem, there are [Golos](https://golos.io/) in Russian and [Yoyow](ht
 
 ## Background
 
-In an August 2016 report titled [Blockchain - The Trust Disrupter](http://www.the-blockchain.com/docs/Credit-Suisse-Blockchain-Trust-Disrupter.pdf), Credit Suisse listed 13 blocks to Bitcoin dominance, including irrecoverability of private keys and irreversibility of transactions.
+In an August 2016 report titled [Blockchain - The Trust Disrupter](http://www.the-blockchain.com/docs/Credit-Suisse-Blockchain-Trust-Disrupter.pdf), Credit Suisse listed 13 blocks to Bitcoin dominance, including irrecoverability of private keys and irreversibility of transactions. Bitcoin is [vulnerable to Internet routing attacks](https://btc-hijack.ethz.ch/) such as BGP hijacks.
 
 * 2017 May 16, Massimo Bartoletti, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779). *arXiv:1703.03779*.
 * 2016 Autumn, *Stanford University*. [CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/). Dan Boneh, Joseph Bonneau.
