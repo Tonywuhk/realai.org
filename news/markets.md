@@ -3,6 +3,7 @@ permalink: /news/markets/
 ---
 # Markets
 
+* 2017 June 28. [Pound jumps on Bank of England Governor's rate rise hint](http://www.bbc.com/news/business-40427865). *BBC News*.
 * 2017 June 27. [Technology stocks fall sharply, leading U.S. indexes down](http://www.latimes.com/business/la-fi-markets-20170627-story.html). *Los Angeles Times*.
 * 2017 June 27. [Hong Kong Small Cap Stock Plunge Wipes Out $6.1 Billion in Value](https://www.bloomberg.com/news/articles/2017-06-27/hong-kong-small-cap-collapse-wipes-out-5-1-billion-this-morning). *Bloomberg Markets*.
 * 2017 June 16. [Wal-Mart drops 6%, Kroger dives 11% in premarket on Amazon-Whole Foods deal](http://www.cnbc.com/2017/06/16/wal-mart-drops-4-percent-kroger-dives-12-percent-in-premarket-on-amazon-whole-foods-deal.html). *CNBC*.
