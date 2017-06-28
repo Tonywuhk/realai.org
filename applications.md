@@ -16,4 +16,4 @@ A list of applications that productively make use of recent advances in AI.
 
 ## Financial Markets Applications
 
-* 2017 June 28. [This Fund Manager Trains Algos to Copy His Brain](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain)
+According to a [Bloomberg Technology report](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain) in June 2017, a hedge fund is testing models that mimic trades of its portfolio managers. The work of execution traders are also being automated.
