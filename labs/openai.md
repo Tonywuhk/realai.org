@@ -46,7 +46,7 @@ A group of sponsors committed $1 billion at OpenAI's formation, although only a 
 
 ## Team
 
-The OpenAI team had 45 people as of [January 30, 2017](https://blog.openai.com/team-update-january/). At the end of February 2017, Ian Goodfellow, who [joined no later than March 2016](https://blog.openai.com/team-plus-plus/) as a full-timer, [left and returned to Google Brain](https://www.reddit.com/r/MachineLearning/comments/5y6uy8/d_did_ian_goodfellow_leave_openai/). In June 2017, Andrej Karpathy, who had been a [founding member](https://blog.openai.com/introducing-openai/) since December 2015, [moved to Tesla](https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/) for a key Autopilot role.
+The OpenAI team had 45 people as of [January 30, 2017](https://blog.openai.com/team-update-january/). At the end of February 2017, Ian Goodfellow, who [joined no later than March 2016](https://blog.openai.com/team-plus-plus/) as a full-timer, [left and returned to Google Brain](https://www.reddit.com/r/MachineLearning/comments/5y6uy8/d_did_ian_goodfellow_leave_openai/). In June 2017, Andrej Karpathy, who had been a [founding member](https://blog.openai.com/introducing-openai/) since December 2015, [moved to Tesla](https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/) for a key Autopilot role. During the same month, it was [suggested on Hacker News](https://news.ycombinator.com/item?id=14636596) that engineers who worked on OpenAI Universe have been laid off.
 
 ## Formation
 
