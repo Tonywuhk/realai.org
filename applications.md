@@ -13,3 +13,7 @@ A list of applications that productively make use of recent advances in AI.
 ## APIs
 
 * 2017 June 15. [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html). *Google Research Blog*.
+
+## Financial Markets Applications
+
+* 2017 June 28. [This Fund Manager Trains Algos to Copy His Brain](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain)
