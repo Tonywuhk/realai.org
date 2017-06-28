@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 June 26, David Lopez-Paz and Marc'Aurelio Ranzato. [Gradient Episodic Memory for Continuum Learning](https://arxiv.org/abs/1706.08840). *arXiv:1706.08840*.
 * 2017 June 21, Ahmed Elgammal, Bingchen Liu, Mohamed Elhoseiny, and Marian Mazzone. [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068). *arXiv:1706.07068*.
 * 2017 June 19, Yedid Hoshen. [VAIN: Attentional Multi-agent Predictive Modeling](https://arxiv.org/abs/1706.06122). *arXiv:1706.06122*.
 * 2017 June 16, Mike Lewis, Denis Yarats, Yann N. Dauphin, Devi Parikh, and Dhruv Batra. [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125). *arXiv:1706.05125*. [blog](https://code.facebook.com/posts/1686672014972296). [code](https://github.com/facebookresearch/end-to-end-negotiator).
@@ -43,6 +44,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 March 2, Yuandong Tian. [An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis](https://arxiv.org/abs/1703.00560). *arXiv:1703.00560*.
 * 2017 February 28, Jeff Johnson, Matthijs Douze, and Hervé Jégou. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734). *arXiv:1702.08734*.
 * 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
+* 2017 February 23, Mateo Rojas-Carulla, Marco Baroni, and David Lopez-Paz. [Causal Discovery Using Proxy Variables](https://arxiv.org/abs/1702.07306). *arXiv:1702.07306*.
 * 2017 February 15, Sam Wiseman, Sumit Chopra, Marc'Aurelio Ranzato, Arthur Szlam, Ruoyu Sun, Soumith Chintala, and Nicolas Vasilache. [Training Language Models Using Target-Propagation](https://arxiv.org/abs/1702.04770). *arXiv:1702.04770*.
 * 2017 February 8, W. James Murdoch and Arthur Szlam. [Automatic Rule Extraction from Long Short Term Memory Networks](https://arxiv.org/abs/1702.02540). *arXiv:1702.02540*.
 * 2017 February 7, Wenling Shang, Justin Chiu, and Kihyuk Sohn. [Exploring Normalization in Deep Residual Networks with Concatenated Rectified Linear Units](https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/). *AAAI-17*.
