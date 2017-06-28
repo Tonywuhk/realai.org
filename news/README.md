@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 27. [Google Fine Is Small Change Compared With EU's Bigger Threat](https://www.bloomberg.com/news/articles/2017-06-27/google-gets-record-2-7-billion-eu-fine-for-skewing-searches). *Bloomberg Technology*.
+* 2017 June 27. [Drive.ai raises $50 million in funding; Andrew Ng joins board](https://www.reuters.com/article/us-driveai-autonomous-idUSKBN19I2ZD). *Reuters*.
 * 2017 June 24. [The Real Threat of Artificial Intelligence](https://www.nytimes.com/2017/06/24/opinion/sunday/artificial-intelligence-economic-inequality.html). *New York Times*.
 * 2017 June 23. [The Man Who Helped Turn Toronto Into a High-Tech Hotbed](https://www.nytimes.com/2017/06/23/world/canada/the-man-who-helped-turn-toronto-into-a-high-tech-hotbed.html). *New York Times*.
 * 2017 June 23. [Andrew Ng announces Deeplearning.ai, his new venture after leaving Baidu](https://techcrunch.com/2017/06/23/deeplearning/). *TechCrunch*.
