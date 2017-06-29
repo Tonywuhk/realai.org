@@ -3,6 +3,8 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 28. [IBM Is Trying to Convince Congress That Artificial Intelligence Isn't That Bad](https://www.inc.com/kevin-j-ryan/ibm-watson-artificial-intelligence-congress-letter-meeting.html). *Inc.com*.
+* 2017 June 27. [A Reality Check for IBM’s AI Ambitions](https://www.technologyreview.com/s/607965/a-reality-check-for-ibms-ai-ambitions/). *MIT Technology Review*.
 * 2017 June 27. [Google Fine Is Small Change Compared With EU's Bigger Threat](https://www.bloomberg.com/news/articles/2017-06-27/google-gets-record-2-7-billion-eu-fine-for-skewing-searches). *Bloomberg Technology*.
 * 2017 June 27. [Drive.ai raises $50 million in funding; Andrew Ng joins board](https://www.reuters.com/article/us-driveai-autonomous-idUSKBN19I2ZD). *Reuters*.
 * 2017 June 24. [The Real Threat of Artificial Intelligence](https://www.nytimes.com/2017/06/24/opinion/sunday/artificial-intelligence-economic-inequality.html). *New York Times*.
