@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 June 28. [Tencent Dominates in China. Next Challenge Is Rest of the World](https://www.bloomberg.com/news/features/2017-06-28/tencent-rules-china-the-problem-is-the-rest-of-the-world). *Bloomberg Businessweek*.
 * 2017 June 28. [IBM Is Trying to Convince Congress That Artificial Intelligence Isn't That Bad](https://www.inc.com/kevin-j-ryan/ibm-watson-artificial-intelligence-congress-letter-meeting.html). *Inc.com*.
 * 2017 June 27. [A Reality Check for IBM’s AI Ambitions](https://www.technologyreview.com/s/607965/a-reality-check-for-ibms-ai-ambitions/). *MIT Technology Review*.
 * 2017 June 27. [Google Fine Is Small Change Compared With EU's Bigger Threat](https://www.bloomberg.com/news/articles/2017-06-27/google-gets-record-2-7-billion-eu-fine-for-skewing-searches). *Bloomberg Technology*.
