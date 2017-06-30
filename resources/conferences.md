@@ -60,4 +60,5 @@ CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), 
 * GMIS: [2017](http://gmis.jiqizhixin.com/)
 * GPU Technology Conference: [2017](http://www.gputechconf.com/)
 * Scaled ML: [2017](http://scaledml.org/) ([slides](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)), [2016](http://scaledml.org/index2016.html)
+* World Intelligence Congress: [2017](http://wicongress.org/)
 * World Summit AI: [*2017.10.11*](http://thesummitai.com/)
