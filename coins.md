@@ -6,6 +6,7 @@ permalink: /coins/
 ## Links
 
 * [CoinMarketCap](https://coinmarketcap.com/): CryptoCurrency Market Capitalizations
+* [CoinDesk](http://www.coindesk.com/) cover news and analysis in the bitcoin and digital currency world.
 * The [Cointelegraph](https://cointelegraph.com/) covers Fintech, Blockchain and Bitcoin.
 
 ## Markets
