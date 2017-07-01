@@ -78,7 +78,7 @@ $$
 \Delta \theta_t = -\alpha \hat{m}_t (v_t^{-1/2} + \epsilon).
 $$
 
-[Wilson et al. (2017)](https://arxiv.org/abs/1705.08292) report that simple SGD performs better than the adaptive rules mentioned above, if learning rates are carefully tuned. 
+[Wilson et al. (2017)](https://arxiv.org/abs/1705.08292) report that simple SGD performs better than the adaptive rules mentioned above, if learning rates are carefully tuned. [Zhang et al. (2017)](https://arxiv.org/abs/1706.03471) design *YellowFin*, an automatic tuner for both momentum and learning rate.
 
 ## Regularization
 
@@ -102,6 +102,7 @@ where \\(p(y_{1:T} \| \theta, x_{1:T})\\) is the likelihood of a sequence of len
 
 ## References
 
+* 2017 June 12, Jian Zhang, Ioannis Mitliagkas, and Christopher Ré. [YellowFin and the Art of Momentum Tuning](https://arxiv.org/abs/1706.03471). *arXiv:1706.03471*. [site](http://cs.stanford.edu/~zjian/project/YellowFin/).
 * 2017 May 23, Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nathan Srebro, and Benjamin Recht. [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/abs/1705.08292). *arXiv:1705.08292*.
 * 2017 April 10, Meire Fortunato, Charles Blundell, and Oriol Vinyals. [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798). *arXiv:1704.02798*.
 * 2017 April 4, *Distill*. [Why Momentum Really Works](http://distill.pub/2017/momentum/). Gabriel Goh.
