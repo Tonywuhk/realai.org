@@ -18,8 +18,11 @@ Attention is a powerful mechanism that can be added to a basic encoder-decoder a
 
 [Ablavatski et al. (2017)](https://arxiv.org/abs/1706.03581) proposed a fully differentiable model that employs the Spatial Transformer ([Jaderberg et al., 2016](https://arxiv.org/abs/1506.02025)) as the visual attention mechanism.
 
+[Kosiorek et al. (2017)](https://arxiv.org/abs/1706.09262) propose a visual attention framework for tracking objects. Their spatial attention mechanism is based on 2-dimensional Gaussian grid filters. Terms for auxiliary tasks are augmented to the loss function to improve training convergence.
+
 ### References
 
+* 2017 June 28, Adam R. Kosiorek, Alex Bewley, and Ingmar Posner. [Hierarchical Attentive Recurrent Tracking](https://arxiv.org/abs/1706.09262). *arXiv:1706.09262*.
 * 2017 June 12, Artsiom Ablavatski, Shijian Lu, and Jianfei Cai. [Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition](https://arxiv.org/abs/1706.03581). *arXiv:1706.03581*.
 * 2017 May 16, Dieterich Lawson, George Tucker, Chung-Cheng Chiu, Colin Raffel, Kevin Swersky, and Navdeep Jaitly. [Learning Hard Alignments with Variational Inference](https://arxiv.org/abs/1705.05524). *arXiv:1705.05524*.
 * 2017 March 30, Zhichao Li, Yi Yang, Xiao Liu, Shilei Wen, and Wei Xu. [Dynamic Computational Time for Visual Attention](https://arxiv.org/abs/1703.10332). *arXiv:1703.10332*. [code](https://github.com/baidu-research/DT-RAM).
