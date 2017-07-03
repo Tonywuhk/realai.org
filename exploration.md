@@ -4,14 +4,19 @@ mathjax: true
 ---
 # Exploration
 
-Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation). A simple form of exploration is \\(\epsilon\\)-greedy where at every time step an agent picks a random action with a small probability \\(\epsilon\\). Another form is to add noise to the parameters of models used in common RL algorithms ([Plappert et al., 2017](https://arxiv.org/abs/1706.01905)). There is no obvious "motivation" in these examples, and most forms of exploration covered in this section involve more sophisticated designs, perhaps better described using the word *curiosity*.
+Exploration encourages agents to cover the space of possible strategies broadly in order to avoid getting stuck in a local optima. It is an important approach to [intrinsic motivation](http://realai.org/intrinsic-motivation). A simple form of exploration is \\(\epsilon\\)-greedy where at every time step an agent picks a random action with a small probability \\(\epsilon\\). Another form is to add noise to the parameters of models used in common RL algorithms. There are no obvious *motivations* in these examples, and most forms of exploration covered in this section involve more sophisticated designs, perhaps better described using the word *curiosity*.
 
 The **Bootstrapped DQN** ([Osband et al., 2016](https://arxiv.org/abs/1602.04621)) architecture consists of several "heads" independently branching off a shared network. In each episode, a random head is selected for exploration, then the agent follows the head's optimal policy to fill the replay buffer, including a random mask per step to indicate which heads will use this step's data when trained by the standard DQN algorithm.
 
 [Bellemare et al. (2016)](https://arxiv.org/abs/1606.01868) proposed a measure called *pseudo-count*, which can be derived from an arbitrary density model and is closely related to intrinsically motivated gains in information and prediction. [Ostrovski et al. (2017)](https://arxiv.org/abs/1703.01310) used PixelCNN ([van den Oord et al., 2016-Jan](https://arxiv.org/abs/1601.06759); [van den Oord et al., 2016-Jun](https://arxiv.org/abs/1606.05328)) to supply the pseudo-count, and improved the state of the art on several hard [Atari games](http://realai.org/games/#atari-2600).
 
+## Parametric Noise
+
+A simple approach to induce exploration is to add noise to the model parameters of a deep RL agent. [Plappert et al. (2017)](https://arxiv.org/abs/1706.01905) show that RL with parameter noise learns more efficiently than traditional RL. [Fortunato & Azar & Piot et al. (2017)](https://arxiv.org/abs/1706.10295) find that parametric noise substancially improves Atari game scores, in some cases advancing the agent from sub to super-human performance.
+
 ## References
 
+* 2017 June 30, Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, and Shane Legg. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295). *arXiv:1706.10295*.
 * 2017 June 6, Matthias Plappert, Rein Houthooft, Prafulla Dhariwal, Szymon Sidor, Richard Y. Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, and Marcin Andrychowicz. [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905). *arXiv:1706.01905*.
 * 2017 March 22, Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy. [Deep Exploration via Randomized Value Functions](https://arxiv.org/abs/1703.07608). *arXiv:1703.07608*.
 * 2017 March 15, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
