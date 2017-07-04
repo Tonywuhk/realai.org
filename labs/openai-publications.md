@@ -4,7 +4,7 @@ mathjax: true
 ---
 # OpenAI Publications
 
-A list of papers where at least one coauthor is affiliated with OpenAI, in reverse chronological order:
+A list of papers published before the end of June 2017, where at least one coauthor is affiliated with OpenAI, in reverse chronological order:
 
 ## 2017
 
