@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 July 01, Denny Britz, Melody Y. Guan, and Minh-Thang Luong. [Efficient Attention using a Fixed-Size Memory Representation](https://arxiv.org/abs/1707.00110). *arXiv:1707.00110*.
 * 2017 June 20, Vineet Gupta, Tomer Koren, and Yoram Singer. [A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization](https://arxiv.org/abs/1706.06569). *arXiv:1706.06569*.
 * 2017 June 19, Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein. [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement](https://arxiv.org/abs/1706.05806). *arXiv:1706.05806*.
 * 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*.
