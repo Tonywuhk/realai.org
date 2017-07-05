@@ -17,9 +17,10 @@ MIT Technology Review reported in June 2017 that the issue of jobs [came up regu
 
 List of news articles related to job losses:
 
-* 2017 June 24, [工资降到6000 他们是第一批被AI干掉的金融民工](http://finance.sina.com.cn/money/bank/2017-06-24/doc-ifyhmtek7730948.shtml). *Sina Finance*.
-* 2017 June 28, [用AI取代十万名车险定损员，蚂蚁金服每年为保险行业节省几十亿元](https://36kr.com/p/5081423.html). *36Kr*.
-* 2017 July 1, [Artificial intelligence may soon replace our artists as well](https://www.mnn.com/lifestyle/arts-culture/stories/artificial-intelligence-may-soon-replace-our-artists-well). *Mother Nature Network*.
+* 2017 July 1. [Artificial intelligence may soon replace our artists as well](https://www.mnn.com/lifestyle/arts-culture/stories/artificial-intelligence-may-soon-replace-our-artists-well). *Mother Nature Network*. 
+* 2017 June 28. [用AI取代十万名车险定损员，蚂蚁金服每年为保险行业节省几十亿元](https://36kr.com/p/5081423.html). *36Kr*. 
+* 2017 June 24. [工资降到6000 他们是第一批被AI干掉的金融民工](http://finance.sina.com.cn/money/bank/2017-06-24/doc-ifyhmtek7730948.shtml). *Sina Finance*.  
+* 2017 April 27. [Artificial intelligence will replace half of all jobs in the next decade, says widely followed technologist](http://www.cnbc.com/2017/04/27/kai-fu-lee-robots-will-replace-half-of-all-jobs.html). *CNBC*. 
 
 ## Academic Research
 

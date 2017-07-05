@@ -8,10 +8,10 @@ Large technology companies have poured enormous resources into AI, and are spons
 * [Alphabet Inc.](http://realai.org/companies/alphabet/)
 * Facebook
 * [Amazon.com, Inc.](http://realai.org/companies/amazon/)
-* Apple
+* [Apple Inc.](http://realai.org/companies/apple/)
 * Microsoft
 * [NVIDIA Corporation](http://realai.org/companies/nvidia/)
-* Tencent
+* [Tencent Holdings Limited](http://realai.org/companies/tencent/)
 * Alibaba
 * Baidu
 * Intel
