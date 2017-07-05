@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 July 04, Adam Lerer and Alexander Peysakhovich. [Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068). *arXiv:1707.01068*.
+* 2017 July 04, Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, and Larry Zitnick. [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067). *arXiv:1707.01067*.
 * 2017 June 26, David Lopez-Paz and Marc'Aurelio Ranzato. [Gradient Episodic Memory for Continuum Learning](https://arxiv.org/abs/1706.08840). *arXiv:1706.08840*.
 * 2017 June 21, Ahmed Elgammal, Bingchen Liu, Mohamed Elhoseiny, and Marian Mazzone. [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068). *arXiv:1706.07068*.
 * 2017 June 19, Yedid Hoshen. [VAIN: Attentional Multi-agent Predictive Modeling](https://arxiv.org/abs/1706.06122). *arXiv:1706.06122*.
@@ -80,6 +82,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 November 18, Yacine Jernite, Edouard Grave, Armand Joulin, and Tomas Mikolov. [Variable Computation in Recurrent Neural Networks](https://arxiv.org/abs/1611.06188). *arXiv:1611.06188*.
 * 2016 November 17, Jonas Gehring, Michael Auli, David Grangier, and Yann N. Dauphin. [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344). *arXiv:1611.02344*.
 * 2016 November 16, Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He. [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431). *arXiv:1611.05431*.
+* 2016 November 08, Alexander Peysakhovich and Akos Lada. [Combining observational and experimental data to find heterogeneous treatment effects](https://arxiv.org/abs/1611.02385). *arXiv:1611.02385*.
 * 2016 November 6, Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, and Riccardo Zecchina. [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838). *arXiv:1611.01838*.
 * 2016 November 1, Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala, Timothée Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier. [TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games](https://arxiv.org/abs/1611.00625). *arXiv:1611.00625*.
 * 2016 October 27, Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, and Devi Parikh. [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468). *arXiv:1505.00468*.
