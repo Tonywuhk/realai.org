@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 July 03, Bart van Merriënboer, Amartya Sanyal, Hugo Larochelle, and Yoshua Bengio. [Multiscale sequence modeling with a learned dictionary](https://arxiv.org/abs/1707.00762). *arXiv:1707.00762*.
+* 2017 July 02, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 July 01, Denny Britz, Melody Y. Guan, and Minh-Thang Luong. [Efficient Attention using a Fixed-Size Memory Representation](https://arxiv.org/abs/1707.00110). *arXiv:1707.00110*.
 * 2017 June 20, Vineet Gupta, Tomer Koren, and Yoram Singer. [A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization](https://arxiv.org/abs/1706.06569). *arXiv:1706.06569*.
 * 2017 June 19, Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein. [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement](https://arxiv.org/abs/1706.05806). *arXiv:1706.05806*.
@@ -80,6 +82,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
 * 2017 January 24, Sarah Loos, Geoffrey Irving, Christian Szegedy, and Cezary Kaliszyk. [Deep Network Guided Proof Search](https://arxiv.org/abs/1701.06972). *arXiv:1701.06972*.
+* 2017 January 24, Mohammad Havaei, Nicolas Guizard, Hugo Larochelle, and Pierre-Marc Jodoin. [Deep learning trends for focal brain pathology segmentation in MRI](https://arxiv.org/abs/1607.05258). *arXiv:1607.05258*.
 * 2017 January 23, Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, and Geoffrey Hinton. [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548). *arXiv:1701.06548*.
 * 2017 January 23, Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538). *arXiv:1701.06538*.
 * 2017 January 21, Jesse H. Engel, S. Burc Eryilmaz, SangBum Kim, Matthew BrightSky, Chung Lam, Hsiang-Lan Lung, Bruno A. Olshausen, and H. -S. Philip Wong. [Opportunities for Analog Coding in Emerging Memory Systems](https://arxiv.org/abs/1701.06063). *arXiv:1701.06063*.
