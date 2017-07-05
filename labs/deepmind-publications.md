@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 July 02, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 June 30, Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, and Shane Legg. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295). *arXiv:1706.10295*.
 * 2017 June 26, Samuel Ritter, David G. T. Barrett, Adam Santoro, and Matt M. Botvinick. [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](https://arxiv.org/abs/1706.08606). *arXiv:1706.08606*.
 * 2017 June 21, Ari Weinstein and Matthew M. Botvinick. [Structure Learning in Motor Control:A Deep Reinforcement Learning Model](https://arxiv.org/abs/1706.06827). *arXiv:1706.06827*.
