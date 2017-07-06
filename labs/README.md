@@ -7,6 +7,7 @@ permalink: /labs/
 
 * [DeepMind](http://realai.org/labs/deepmind/) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind/publications/)
   * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Chris Dyer, Murray Shanahan
+  * DeepMind Alberta ([Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/))
 * [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/labs/google-brain/publications/)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), [Quoc V. Le](https://research.google.com/pubs/QuocLe.html), [Ian Goodfellow](https://research.google.com/pubs/105214.html)
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))

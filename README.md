@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 * 2017 June 20, Diana Borsa, Bilal Piot, Rémi Munos, and Olivier Pietquin. [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617). *arXiv:1706.06617*. ([Observational Learning](http://realai.org/imitation-learning/#observational-learning); [DeepMind](http://realai.org/labs/deepmind/publications/))
 * 2017 June 20. Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*. ([Progress](http://realai.org/progress))
 * 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*. ([Symbol Grounding](http://realai.org/symbol-grounding/); [DeepMind](http://realai.org/labs/deepmind/publications/))
@@ -18,8 +19,6 @@ mathjax: true
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*. ([Reward Learning](http://realai.org/safety/alignment/#reward-learning); [DeepMind](http://realai.org/labs/deepmind/publications/); [OpenAI](http://realai.org/labs/openai/publications/))
 * 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. ([Learning Rules](http://realai.org/learning-rules/))
 * 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*. ([News](http://realai.org/news/))
-* 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
-* 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reasoning](http://realai.org/reasoning/))
 
 ## Main Contents
 

@@ -8,6 +8,8 @@ permalink: /policies/
 
 ### Canada
 
+* 2017 July 5. [It’s time to make the Canadian AI ecosystem bloom](https://www.theglobeandmail.com/report-on-business/rob-commentary/its-time-to-make-the-canadian-ai-ecosystem-bloom/article35559957/). *The Globe and Mail*.
+* 2017 July 5. [Justin Trudeau thanks DeepMind for investing in Edmonton, Canada](https://twitter.com/JustinTrudeau/status/882648011616202755). *Twitter*.
 * 2017 April 24. [Ontario to roll out basic income in three cities](http://www.theglobeandmail.com/news/national/what-is-basic-income-and-who-qualifies/article34795127/). *The Globe and Mail*.
 * 2017 March 30. [Trudeau looks to make Canada 'world leader' in AI research](https://phys.org/news/2017-03-trudeau-canada-world-leader-ai.html). *Phys.org*.
 * 2017 March 22. [Canada funds $125 million Pan-Canadian Artificial Intelligence Strategy](http://www.newswire.ca/news-releases/canada-funds-125-million-pan-canadian-artificial-intelligence-strategy-616876434.html). *Canada NewsWire*.
