@@ -37,6 +37,8 @@ On 31 May 2017, Brave's ethereum-based [Basic Attention Token](https://basicatte
 
 The [Ethereum](https://www.ethereum.org/) network faces the problem of scalability as its protocol requires all miners to verify computations, known as the Verifier's Dilemma ([Luu et al., 2015](http://dl.acm.org/citation.cfm?id=2813659)). Solutions have been proposed include Golem ([Whitepaper](https://golem.network/doc/Golemwhitepaper.pdf)) and [Truebit](https://truebit.io/) ([Whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)). The latter was included as part of a proposed [dApp developer stack](https://medium.com/@FEhrsam/the-dapp-developer-stack-the-blockchain-industry-barometer-8d55ec1c7d4). In May 2017, [EOS](https://www.linkedin.com/pulse/ethereum-killer-here-eos-enterprise-scale-operating-sanjay-mehta) was proposed as another solution to the scalability problem.
 
+Private blockchain systems are designed with stronger security (trust) assumption and performance requirement. [BLOCKBENCH](https://arxiv.org/abs/1703.04057) is an evaluation framework for analyzing private blockchains.
+
 Accumulated wisdoms and experiences from the governance of decentralized autonomous organizations (DAOs) can potentially be [applied](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b) to help improve AI safety.
 
 ## Steem
