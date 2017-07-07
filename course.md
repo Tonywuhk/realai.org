@@ -1,7 +1,11 @@
 ---
-permalink: /courses/
+permalink: /course/
 ---
-# Courses
+# Course
+
+## Basic IT
+
+[GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
 ## Recurrent Neural Networks
 

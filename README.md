@@ -118,7 +118,7 @@ mathjax: true
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
     2. [Markets](http://realai.org/news/markets/)
     
-5. [Courses](http://realai.org/courses/)
+5. [Course](http://realai.org/course/)
 
 5. [Resources](http://realai.org/resources/) (Blogs; Links)
     1. [Curriculum](http://realai.org/resources/curriculum/)
