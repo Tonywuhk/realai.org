@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 July 06, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Trust-PCL: An Off-Policy Trust Region Method for Continuous Control](https://arxiv.org/abs/1707.01891). *arXiv:1707.01891*.
 * 2017 July 03, Bart van Merriënboer, Amartya Sanyal, Hugo Larochelle, and Yoshua Bengio. [Multiscale sequence modeling with a learned dictionary](https://arxiv.org/abs/1707.00762). *arXiv:1707.00762*.
 * 2017 July 02, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 July 01, Denny Britz, Melody Y. Guan, and Minh-Thang Luong. [Efficient Attention using a Fixed-Size Memory Representation](https://arxiv.org/abs/1707.00110). *arXiv:1707.00110*.
