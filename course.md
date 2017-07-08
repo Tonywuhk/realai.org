@@ -7,6 +7,8 @@ permalink: /course/
 
 [GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
+[Vim](http://www.vim.org/) is a text editor built for editing efficiency, but is also known for having a steep learning curve. In most UNIX systems, type `vi` to launch the editor, or type `vimtutor` for a brief overview.
+
 ## Recurrent Neural Networks
 
 * 2017 May 30. [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/). Edwin Chen.
