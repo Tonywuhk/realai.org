@@ -3,7 +3,7 @@ permalink: /imitation-learning/
 ---
 # Imitation Learning
 
-Imitation learning is when a learning architecture is trained to mimic behaviors, usually human demonstrations. [Merel et al. (2017)](https://arxiv.org/abs/1707.02201) extend the generative adversarial imitation learning ([GAIL; Ho & Ermon, 2016](https://arxiv.org/abs/1606.03476)) framework to settings of partial observations. In their work, agents' sub-skill policies learned from motion capture data can be reused to solve tasks when controlled by a higher level controller.
+Imitation learning is when a learning architecture is trained to mimic behaviors, usually human demonstrations. [Merel et al. (2017)](https://arxiv.org/abs/1707.02201) extend the generative adversarial imitation learning (GAIL; [Ho & Ermon, 2016](https://arxiv.org/abs/1606.03476)) framework to settings of partial observations. In their work, agents' sub-skill policies learned from motion capture data can be reused to solve tasks when controlled by a higher level controller.
 
 ## Behavioral Cloning
 
