@@ -17,7 +17,7 @@ In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully 
 
 ## References
 
-* 2017 July 07, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. [video](https://goo.gl/8rTx2F).
+* 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. [video](https://goo.gl/8rTx2F).
 
 * 2016 Novenber 19, Paul Christiano. [Prosaic AI alignment](https://ai-alignment.com/prosaic-ai-control-b959644d79c2). *[AI Alignment](https://ai-alignment.com/)*.
 

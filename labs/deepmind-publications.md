@@ -8,10 +8,10 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
-* 2017 July 07, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
-* 2017 July 07, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*.
-* 2017 July 07, Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, and Ian Osband. [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038). *arXiv:1707.02038*.
-* 2017 July 02, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
+* 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
+* 2017 July 7, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*.
+* 2017 July 7, Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, and Ian Osband. [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038). *arXiv:1707.02038*.
+* 2017 July 2, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 June 30, Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, and Shane Legg. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295). *arXiv:1706.10295*.
 * 2017 June 26, Samuel Ritter, David G. T. Barrett, Adam Santoro, and Matt M. Botvinick. [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](https://arxiv.org/abs/1706.08606). *arXiv:1706.08606*.
 * 2017 June 21, Ari Weinstein and Matthew M. Botvinick. [Structure Learning in Motor Control:A Deep Reinforcement Learning Model](https://arxiv.org/abs/1706.06827). *arXiv:1706.06827*.

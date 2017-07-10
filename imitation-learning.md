@@ -11,7 +11,7 @@ Imitation learning is when a learning architecture is trained to mimic behaviors
 
 ### References
 
-* 2017 July 07, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*. [video](https://www.youtube.com/watch?v=QwUJkSrbF68).
+* 2017 July 7, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*. [video](https://www.youtube.com/watch?v=QwUJkSrbF68).
 * 2017 May 15, Kareem Amin, Nan Jiang, and Satinder Singh. [Repeated Inverse Reinforcement Learning for AI Safety](https://arxiv.org/abs/1705.05427). *arXiv:1705.05427*.
 * 2017 March 22, Yan Duan, Marcin Andrychowicz, Bradly C. Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, and Wojciech Zaremba. [One-Shot Imitation Learning](https://arxiv.org/abs/1703.07326). *arXiv:1703.07326*.
 * 2017 March 6, Bradly C. Stadie, Pieter Abbeel, and Ilya Sutskever. [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703). *arXiv:1703.01703*.

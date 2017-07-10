@@ -7,9 +7,9 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
-* 2017 July 05, Théo Trouillon and Maximilian Nickel. [Complex and Holographic Embeddings of Knowledge Graphs: A Comparison](https://arxiv.org/abs/1707.01475). *arXiv:1707.01475*.
-* 2017 July 04, Adam Lerer and Alexander Peysakhovich. [Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068). *arXiv:1707.01068*.
-* 2017 July 04, Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, and Larry Zitnick. [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067). *arXiv:1707.01067*. [blog](https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/). [code](https://github.com/facebookresearch/ELF).
+* 2017 July 5, Théo Trouillon and Maximilian Nickel. [Complex and Holographic Embeddings of Knowledge Graphs: A Comparison](https://arxiv.org/abs/1707.01475). *arXiv:1707.01475*.
+* 2017 July 4, Adam Lerer and Alexander Peysakhovich. [Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068). *arXiv:1707.01068*.
+* 2017 July 4, Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, and Larry Zitnick. [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067). *arXiv:1707.01067*. [blog](https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/). [code](https://github.com/facebookresearch/ELF).
 * 2017 June 26, David Lopez-Paz and Marc'Aurelio Ranzato. [Gradient Episodic Memory for Continuum Learning](https://arxiv.org/abs/1706.08840). *arXiv:1706.08840*.
 * 2017 June 21, Ahmed Elgammal, Bingchen Liu, Mohamed Elhoseiny, and Marian Mazzone. [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068). *arXiv:1706.07068*.
 * 2017 June 19, Yedid Hoshen. [VAIN: Attentional Multi-agent Predictive Modeling](https://arxiv.org/abs/1706.06122). *arXiv:1706.06122*.
