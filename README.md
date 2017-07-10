@@ -22,6 +22,7 @@ mathjax: true
 ## Main Contents
 
 1. [Introduction](http://realai.org/introduction/)
+    1. [Prosaic AI](http://realai.org/prosaic/)
 
 2. AI and Society
     1. [Safety](http://realai.org/safety/)
