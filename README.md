@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 July 07, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. ([DeepMind](http://realai.org/labs/deepmind/); [Prosaic AI](http://realai.org/prosaic/))
 * 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 * 2017 June 20, Diana Borsa, Bilal Piot, Rémi Munos, and Olivier Pietquin. [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617). *arXiv:1706.06617*. ([Observational Learning](http://realai.org/imitation-learning/#observational-learning); [DeepMind](http://realai.org/labs/deepmind/publications/))
 * 2017 June 20. Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*. ([Progress](http://realai.org/progress))
@@ -17,8 +18,6 @@ mathjax: true
 * 2017 June 13, Harm van Seijen, Mehdi Fatemi, Joshua Romoff, Romain Laroche, Tavian Barnes, and Jeffrey Tsang. [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/abs/1706.04208). *arXiv:1706.04208*. [blog](http://www.maluuba.com/hra). ([Atari 2600](http://realai.org/games/#atari-2600))
 * 2017 June 12, Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). *arXiv:1706.03762*. ([Attention](http://realai.org/attention/); [Google Brain](http://realai.org/labs/google-brain/publications/))
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*. ([Reward Learning](http://realai.org/safety/alignment/#reward-learning); [DeepMind](http://realai.org/labs/deepmind/publications/); [OpenAI](http://realai.org/labs/openai/publications/))
-* 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. ([Learning Rules](http://realai.org/learning-rules/))
-* 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*. ([News](http://realai.org/news/))
 
 ## Main Contents
 

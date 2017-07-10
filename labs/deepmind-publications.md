@@ -8,6 +8,9 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 July 07, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
+* 2017 July 07, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*.
+* 2017 July 07, Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, and Ian Osband. [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038). *arXiv:1707.02038*.
 * 2017 July 02, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 June 30, Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, and Shane Legg. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295). *arXiv:1706.10295*.
 * 2017 June 26, Samuel Ritter, David G. T. Barrett, Adam Santoro, and Matt M. Botvinick. [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](https://arxiv.org/abs/1706.08606). *arXiv:1706.08606*.
@@ -73,6 +76,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2017 February 10, Joel Z. Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). *arXiv:1702.03037*.
 * 2017 January 30, Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734). *arXiv:1701.08734*.
 * 2017 January 27, Anjuli Kannan and Oriol Vinyals. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198). *arXiv:1701.08198*.
+* 2017 January 20, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, and Thomas Degris. [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810). *arXiv:1612.08810*.
 * 2017 January 15, Graham Neubig, Chris Dyer, Yoav Goldberg, Austin Matthews, Waleed Ammar, Antonios Anastasopoulos, Miguel Ballesteros, David Chiang, Daniel Clothiaux, Trevor Cohn, Kevin Duh, Manaal Faruqui, Cynthia Gan, Dan Garrette, Yangfeng Ji, Lingpeng Kong, Adhiguna Kuncoro, Gaurav Kumar, Chaitanya Malaviya, Paul Michel, Yusuke Oda, Matthew Richardson, Naomi Saphra, Swabha Swayamdipta, and Pengcheng Yin. [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/abs/1701.03980). *arXiv:1701.03980*.
 
 ## 2016
