@@ -43,7 +43,7 @@ mathjax: true
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
                 * [Predictive Learning](http://realai.org/predictive-learning/)
-        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): Continual Learning, Transfer Learning, Curriculum Learning
+        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): [Continual Learning](http://realai.org/continual-learning/), Transfer Learning, Curriculum Learning
         3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
         4. [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
     2. Learning Outcomes
@@ -113,7 +113,6 @@ mathjax: true
     1. [Partnership on AI](http://realai.org/orgs/pai/)
     
 3. Global [Macro](http://realai.org/macro/)
-    1. [CryptoCurrencies](http://realai.org/coins/)
 
 4. [News](http://realai.org/news/) (2017)
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)

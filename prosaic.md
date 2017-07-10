@@ -9,7 +9,7 @@ It seems increasingly plausible that high-level machine intelligence could be bu
 
 ### Locomotion Behavior
 
-In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully learn complex locomotion behavior such as running, jumping, crouching and turning. The agents are trained with deliberately simple and generic reward functions, but over a wide range of environmental conditions. The architecture used in these agents is similar to [Heess et al. (2016)](https://arxiv.org/abs/1610.05182), an earlier work on hierarchical motor control published about 9 months before.
+In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully learn complex locomotion behavior such as running, jumping, crouching and turning. The agents are trained with deliberately simple and generic reward functions, but over a wide range of environmental conditions. They learn faster following a curriculum. The architecture used in these agents is similar to [Heess et al. (2016)](https://arxiv.org/abs/1610.05182), an earlier work on hierarchical motor control published about 9 months before.
 
 ## Resources
 
