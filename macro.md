@@ -3,13 +3,19 @@ permalink: /macro/
 ---
 # Global Macro
 
-* [CryptoCurrencies](http://realai.org/coins/)
-
 ## China
 
 * 2017 June 1. [Here Are the Theories Why China May Be Supercharging the Yuan](https://www.bloomberg.com/news/articles/2017-06-01/here-are-the-theories-why-china-may-be-supercharging-the-yuan). *Bloomberg Markets*.
 * 2017 May 31. [楼市变天？北京部分二手房跌价20%，有的直降百万也卖不掉！](http://www.nbd.com.cn/articles/2017-05-31/1112397.html) *每经网*.
 * 2017 May 31. [北京二手房价大面积下跌 部分区域跌幅超20%](http://www.ccstock.cn/finace/house/2017-05-31/A1496163002261.html). *中国资本证券网*.
+
+## CryptoCurrencies
+
+* 2017 July 11. [Ethereum is still crashing, and just fell below $US200](https://www.businessinsider.com.au/ethereum-has-lost-almost-20-of-its-value-in-the-last-24-hours-2017-7). *Business Insider Australia*.
+* 2017 July 10. [Will Bitcoin Tear Itself Apart?](https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month). *Bloomberg Technology*.
+* 2017 July 10. [A Trader So Secret They’re Only Known by a Number Just Made Over $200 Million in One Month](https://www.bloomberg.com/news/articles/2017-07-10/secret-millions-for-0x00a651d43b6e209f5ada45a35f92efc0de3a5184). *Bloomberg Technology*.
+
+This [legacy page](http://realai.org/coins/) contains more background information about CryptoCurrencies.
 
 ## North Korea
 
