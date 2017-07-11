@@ -5,7 +5,7 @@ permalink: /robotics/
 
 ## Simulations
 
-In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully learn complex locomotion behavior such as running, jumping, crouching and turning. In [Merel et al. (2017)](https://arxiv.org/abs/1707.02201), agents’ sub-skill policies learned from motion capture data can be reused to solve tasks when controlled by a higher level controller. In [Wang & Merel et al. (2017)](https://arxiv.org/abs/1707.02747)), agents learn semantically meaningful embeddings of demonstrations, which allow for smooth policy interpolation. The last two papers extend the generative adversarial imitation learning (GAIL; [Ho & Ermon, 2016](https://arxiv.org/abs/1606.03476)) framework, and all three papers seek ways to [produce flexible behaviors in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/).
+In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully learn complex locomotion behavior such as running, jumping, crouching and turning. In [Merel et al. (2017)](https://arxiv.org/abs/1707.02201), agents’ sub-skill policies learned from motion capture data can be reused to solve tasks when controlled by a higher level controller. In [Wang & Merel et al. (2017)](https://arxiv.org/abs/1707.02747), agents learn semantically meaningful embeddings of demonstrations, which allow for smooth policy interpolation. The last two papers extend the generative adversarial imitation learning (GAIL; [Ho & Ermon, 2016](https://arxiv.org/abs/1606.03476)) framework, and all three papers seek ways to [produce flexible behaviors in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/).
 
 ### References
 
