@@ -3,10 +3,13 @@ permalink: /deep-learning-theory/
 ---
 # Deep Learning Theory
 
+Many of the successes in deep learning can be attributed to the availability of computing capacity and data. As of July 2017, performance of deep learning models in vision tasks still increases with orders of magnitude of training data size ([Sun et al., 2017](https://arxiv.org/abs/1707.02968)).
+
 [Shalev-Shwartz et al. (2017)](https://arxiv.org/abs/1703.07950) described four types of simple problems that are difficult for common deep learning methods.
 
 ### References
 
+* 2017 July 10, Chen Sun, Abhinav Shrivastava, Saurabh Singh, and Abhinav Gupta. [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968). *arXiv:1707.02968*.
 * 2017 June 5, Alessandro Achille and Stefano Soatto. [On the Emergence of Invariance and Disentangling in Deep Representations](https://arxiv.org/abs/1706.01350). *arXiv:1706.01350*.
 * 2017 April 29, Ravid Shwartz-Ziv and Naftali Tishby. [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810). *arXiv:1703.00810*.
 * 2017 April 26, Shai Shalev-Shwartz, Ohad Shamir, and Shaked Shammah. [Failures of Gradient-Based Deep Learning](https://arxiv.org/abs/1703.07950). *arXiv:1703.07950*.

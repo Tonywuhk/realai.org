@@ -5,12 +5,13 @@ permalink: /multi-task-learning/
 
 [Kaiser et al. (2017)](https://arxiv.org/abs/1706.05137) design the *MultiModel* that is trained simultaneously and achieve decent performance across 8 tasks, including speech recognition, image recognition and captioning, English parsing, and translations between English, French and German. Their model architecture incorporates depthwise separable convolutions ([Kaiser et al., 2017](https://arxiv.org/abs/1706.03059)), multi-head dot-product attention mechanism ([Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)), and sparsely-gated mixture-of-expert layers ([Shazeer et al., 2017](https://arxiv.org/abs/1701.06538)). According to a [Twitter picture](https://twitter.com/thefillm/status/845743048709464064) posted on 26 March 2017, Google's Jeff Dean talked about another single large model for multi-task learning. It is also sparsely activated, and resembles Pathnet ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)).
 
-[Ruder (2017)](https://arxiv.org/abs/1706.05098) gives a general overview of multi-task learning, particularly in deep neural networks.
+[Rahmatizadeh et al. (2017)](https://arxiv.org/abs/1707.02920) propose an approach that enables inexpensive robots to learn multiple manipulation tasks from relatively few demonstrations. More data from the common patterns in different tasks helps to improve the sample efficiency in their method.
 
-A standard deep neural network can learn very different visual domains simultaneously ([Bilen & Vedaldi, 2017](https://arxiv.org/abs/1701.07275)). It's also possible to train a reinforcement learning agent to perform multiple tasks.
+A standard deep neural network can learn very different visual domains simultaneously ([Bilen & Vedaldi, 2017](https://arxiv.org/abs/1701.07275)). It's also possible to train a reinforcement learning agent to perform multiple tasks. [Ruder (2017)](https://arxiv.org/abs/1706.05098) gives a general overview of multi-task learning, particularly in deep neural networks.
 
 ### References
 
+* 2017 July 10, Rouhollah Rahmatizadeh, Pooya Abolghasemi, Ladislau Bölöni, and Sergey Levine. [Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration](https://arxiv.org/abs/1707.02920). *arXiv:1707.02920*.
 * 2017 June 16, Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. [One Model To Learn Them All](https://arxiv.org/abs/1706.05137). *arXiv:1706.05137*.
 * 2017 June 16, Lukasz Kaiser, Aidan N. Gomez, and Francois Chollet. [Depthwise Separable Convolutions for Neural Machine Translation](https://arxiv.org/abs/1706.03059). *arXiv:1706.03059*.
 * 2017 June 15, Sebastian Ruder. [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098). *arXiv:1706.05098*.

@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 July 10, Ziyu Wang, Josh Merel, Scott Reed, Greg Wayne, Nando de Freitas, and Nicolas Heess. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747). *arXiv:1707.02747*.
 * 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
 * 2017 July 7, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*.
 * 2017 July 7, Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, and Ian Osband. [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038). *arXiv:1707.02038*.

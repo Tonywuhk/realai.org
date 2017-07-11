@@ -6,8 +6,7 @@ mathjax: true
 
 ## What's New
 
-* 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Prosaic AI](http://realai.org/prosaic/))
-* 2017 July 7, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Imitation Learning](http://realai.org/imitation-learning/))
+* 2017 July 10, Nicholas Heess, Josh Merel, and Ziyu Wang. [Producing flexible behaviours in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/). *DeepMind Blog*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Robotics](http://realai.org/robotics/))
 * 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 * 2017 June 20, Diana Borsa, Bilal Piot, Rémi Munos, and Olivier Pietquin. [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617). *arXiv:1706.06617*. ([Observational Learning](http://realai.org/imitation-learning/#observational-learning); [DeepMind](http://realai.org/labs/deepmind/publications/))
 * 2017 June 20. Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*. ([Progress](http://realai.org/progress))
@@ -76,7 +75,7 @@ mathjax: true
     7. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
-        3. Robotics: Autonomous Driving
+        3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Games](http://realai.org/games/)
         5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
     8. Theory
