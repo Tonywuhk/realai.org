@@ -3,6 +3,7 @@ permalink: /news/
 ---
 # News
 
+* 2017 July 11. [Facebook Is Building a “Village” for Its Workers. More Big Companies Should Do That.](http://www.slate.com/blogs/future_tense/2017/07/11/facebook_is_building_a_village_more_companies_should_too.html) *Slate*.
 * 2017 July 11. [Saving Face: Investment in Recognition Technology Heats Up in China](https://www.wsj.com/articles/saving-face-investment-in-recognition-technology-heats-up-in-china-1499763603). *The Wall Street Journal*.
 * 2017 July 9. [现场火爆！马云无人超市正式迎客！](https://www.sohu.com/a/155710147_355430) *Sohu*.
 * 2017 June 28. [Tencent Dominates in China. Next Challenge Is Rest of the World](https://www.bloomberg.com/news/features/2017-06-28/tencent-rules-china-the-problem-is-the-rest-of-the-world). *Bloomberg Businessweek*.
