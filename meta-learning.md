@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Meta-Learning
 
-Meta-learning occurs at a higher level than standard learning and improves the latter's performance. It is also referred to as "learning to learn". It is theoretically possible to add another level of learning and build a system that learns to learn to learn, but this is rarely done in practice.
+Meta-learning occurs at a higher level than standard learning and improves the latter's performance. It is also referred to as "learning to learn". It is theoretically possible to add another level of learning and build a system that learns to learn to learn, but this is rarely done in practice. [Mishra & Rohaninejad et al. (2017)](https://arxiv.org/abs/1707.03141) propse temporal-convolution-based meta-learner (TCML), a deep stack of dilated 1D-convolutions over the temporal dimension. It is simple and generic, has no particular strategy or algorithm encoded into it, and can be viewed as a flavor of RNN that can remember information through the activations of the network rather than through an explicit memory module.
 
 Based on the standard learning task that is targeted at the lower level by the meta learner, research in this area can be further organized into the following lines:
 
@@ -33,6 +33,7 @@ In a standard neural network learning setup, the update rules of how the network
 
 ## References
 
+* 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
 * 2017 March 15, Jake Snell, Kevin Swersky, and Richard S. Zemel. [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175). *arXiv:1703.05175*.
 * 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2017 March 9, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*.
