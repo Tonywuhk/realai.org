@@ -1,5 +1,5 @@
 ---
-permalink: /predictions.md
+permalink: /predictions/
 ---
 # Predictions
 
