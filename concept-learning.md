@@ -1,7 +1,15 @@
 ---
 permalink: /concept-learning/
+mathjax: true
 ---
 # Concept Learning
+
+[Higgins et al. (2016)](https://arxiv.org/abs/1606.05579) propose the \\(\beta\\)-VAE framework capable of learning disentangled factors that represent visual primitives. These factors can be paired with symbols using a Symbol-Concept Association Network (SCAN; [Higgins et al., 2017](https://arxiv.org/abs/1707.03389)) to achieve bi-directional inference between image samples and symbolic descriptions. By teaching logical operators to SCAN, it learns to imagine new concepts constructed from logical operators, although it is yet able to attach new symbols to these newly constructed concepts.
+
+### References
+
+* 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*.
+* 2016 September 20, Irina Higgins, Loic Matthey, Xavier Glorot, Arka Pal, Benigno Uria, Charles Blundell, Shakir Mohamed, and Alexander Lerchner. [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/abs/1606.05579). *arXiv:1606.05579*.
 
 ## Disentangled Representations
 
