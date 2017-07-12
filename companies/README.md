@@ -6,15 +6,14 @@ permalink: /companies/
 Large technology companies have poured enormous resources into AI, and are sponsors of some world-leading [research groups](http://realai.org/labs/).
 
 * [Alphabet Inc.](http://realai.org/companies/alphabet/)
-* Facebook
+* [Facebook, Inc.](http://realai.org/companies/facebook/)
 * [Amazon.com, Inc.](http://realai.org/companies/amazon/)
+* [Microsoft Corporation](http://realai.org/companies/microsoft/)
 * [Apple Inc.](http://realai.org/companies/apple/)
-* Microsoft
 * [NVIDIA Corporation](http://realai.org/companies/nvidia/)
 * [Tencent Holdings Limited](http://realai.org/companies/tencent/)
 * Alibaba
 * Baidu
-* Intel
 
 ## Products and Services
 
