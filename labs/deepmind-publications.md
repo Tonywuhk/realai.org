@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*.
+* 2017 July 11, Serkan Cabi, Sergio Gómez Colmenarejo, Matthew W. Hoffman, Misha Denil, Ziyu Wang, and Nando de Freitas. [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300). *arXiv:1707.03300*.
 * 2017 July 10, Ziyu Wang, Josh Merel, Scott Reed, Greg Wayne, Nando de Freitas, and Nicolas Heess. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747). *arXiv:1707.02747*.
 * 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
 * 2017 July 7, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. [Learning human behaviors from motion capture by adversarial imitation](https://arxiv.org/abs/1707.02201). *arXiv:1707.02201*.

@@ -43,7 +43,7 @@ mathjax: true
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
                 * [Predictive Learning](http://realai.org/predictive-learning/)
         2. [Multi-Task Learning](http://realai.org/multi-task-learning/): [Continual Learning](http://realai.org/continual-learning/), Transfer Learning, Curriculum Learning
-        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): Concept Learning
+        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): [Concept Learning](http://realai.org/concept-learning/)
         4. [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
     2. Learning Outcomes
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
