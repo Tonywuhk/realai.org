@@ -15,8 +15,11 @@ Inspired by the "predictive coding" [(Rao & Ballard, 1999)](http://www.nature.co
 
 Many environments change in response to the actions of agents. [Oh et al. (2015)](https://arxiv.org/abs/1507.08750) generated predictions of Atari game video frames that are both realistic and useful for control. Building on their work, [Chiappa et al. (2017)](https://arxiv.org/abs/1704.02254) developed alternative learning architectures and improved performance. [Santana & Hotz (2016)](https://arxiv.org/abs/1611.00050) built models to predict real world highway scenes for self-driving cars. In [Finn et al. (2016)](https://arxiv.org/abs/1605.07157), the distribution of pixel motions from the previous frame is modelled to achieve action-conditioned video prediction. The new frame is formed as a combination of multiple predictions in which pixels are constrained to move in a local region or to an affine image transformation from the previous frame.
 
+In contrast to predicting future observations, [Oh et al. (2017)](https://arxiv.org/abs/1707.03497) propose the Value Prediction Network (VPN) reinforcement learning model that is trained to make action-conditional predictions of future *values*. It can then be rolled out for multi-step planning.
+
 ## References
 
+* 2017 July 11, Junhyuk Oh, Satinder Singh, and Honglak Lee. [Value Prediction Network](https://arxiv.org/abs/1707.03497). *arXiv:1707.03497*.
 * 2017 April 7, Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, and Shakir Mohamed. [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254). *arXiv:1704.02254*.
 * 2017 April 5, Alec Radford, Rafal Jozefowicz, and Ilya Sutskever. [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444). *arXiv:1704.01444*.
 * 2017 March 28, Natalia Neverova, Pauline Luc, Camille Couprie, Jakob Verbeek, and Yann LeCun. [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684). *arXiv:1703.07684*.

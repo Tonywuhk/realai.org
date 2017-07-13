@@ -7,11 +7,13 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 July 11, Junhyuk Oh, Satinder Singh, and Honglak Lee. [Value Prediction Network](https://arxiv.org/abs/1707.03497). *arXiv:1707.03497*.
 * 2017 July 6, Eric Jang, Sudheendra Vijaynarasimhan, Peter Pastor, Julian Ibarz, and Sergey Levine. [End-to-End Learning of Semantic Grasping](https://arxiv.org/abs/1707.01932). *arXiv:1707.01932*.
 * 2017 July 6, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Trust-PCL: An Off-Policy Trust Region Method for Continuous Control](https://arxiv.org/abs/1707.01891). *arXiv:1707.01891*.
 * 2017 July 3, Bart van Merriënboer, Amartya Sanyal, Hugo Larochelle, and Yoshua Bengio. [Multiscale sequence modeling with a learned dictionary](https://arxiv.org/abs/1707.00762). *arXiv:1707.00762*.
 * 2017 July 2, Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, and Aaron Courville. [Modulating early visual processing by language](https://arxiv.org/abs/1707.00683). *arXiv:1707.00683*.
 * 2017 July 1, Denny Britz, Melody Y. Guan, and Minh-Thang Luong. [Efficient Attention using a Fixed-Size Memory Representation](https://arxiv.org/abs/1707.00110). *arXiv:1707.00110*.
+* 2017 June 25, Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin, and Honglak Lee. [Decomposing Motion and Content for Natural Video Sequence Prediction](https://arxiv.org/abs/1706.08033). *arXiv:1706.08033*.
 * 2017 June 20, Vineet Gupta, Tomer Koren, and Yoram Singer. [A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization](https://arxiv.org/abs/1706.06569). *arXiv:1706.06569*.
 * 2017 June 19, Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein. [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement](https://arxiv.org/abs/1706.05806). *arXiv:1706.05806*.
 * 2017 June 18, Danijar Hafner, Alex Irpan, James Davidson, and Nicolas Heess. [Learning Hierarchical Information Flow with Recurrent Neural Modules](https://arxiv.org/abs/1706.05744). *arXiv:1706.05744*.
