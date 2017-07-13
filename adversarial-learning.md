@@ -7,6 +7,8 @@ permalink: /adversarial-learning/
 
 Optical illusions are like adversarial examples for the human brain. Meiji University's [Koichi Sugihara](http://home.mims.meiji.ac.jp/~sugihara/Welcomee.html) has made quite a few stunning [3D illusions](https://twitter.com/machinepix/status/864543509486870528).
 
+[Lu et al. (2017)](https://arxiv.org/abs/1707.03501) show that when the pictures of physical adversarial examples are taken from different distances and angles, they are correctly classified by trained neural networks.
+
 ## Adversarial Training Examples
 
 [Koh & Liang (2017)](https://arxiv.org/abs/1703.04730) demonstrated that modern neural networks are vunerable to adversarial *training-set* attacks. They successfully flipped the classification output of an Inception network by making a visually-indistinguishable small change to just 1 training image.
@@ -17,6 +19,7 @@ In the field of evolutionary algorithms, there can be two coevolving populations
 
 ## References
 
+* 2017 July 12, Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501). *arXiv:1707.03501*.
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.
 * 2017 March 27, Aran Nayebi and Surya Ganguli. [Biologically inspired protection of deep networks from adversarial attacks](https://arxiv.org/abs/1703.09202). *arXiv:1703.09202*.
   * 2017 April 5, Wieland Brendel and Matthias Bethge. [Comment on "Biologically inspired protection of deep networks from adversarial attacks"](https://arxiv.org/abs/1704.01547). *arXiv:1704.01547*.
