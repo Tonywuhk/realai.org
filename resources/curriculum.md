@@ -76,6 +76,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 * 2016 June 19, *arXiv*. [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908). Carl Doersch.
 * 2016 June 16, *OpenAI*. [Blog: Generative Models](https://openai.com/blog/generative-models/). Andrej Karpathy, Pieter Abbeel, Greg Brockman, Peter Chen, Vicki Cheung, Rocky Duan, Ian Goodfellow, Durk Kingma, Jonathan Ho, Rein Houthooft, Tim Salimans, John Schulman, Ilya Sutskever, and Wojciech Zaremba.
 
-### Safety
+### Safety, Policy and Strategy
 
+* 2017 Summer, Allan Dafoe. [Global Politics of AI](http://www.allandafoe.com/aiclass).
 * 2016 December 6, *Center for Human-Compatible AI*, [Annontated bibliography of recommended materials](http://humancompatible.ai/bibliography).
