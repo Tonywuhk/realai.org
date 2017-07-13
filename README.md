@@ -101,13 +101,13 @@ mathjax: true
 
 2. [Companies](http://realai.org/companies/)
     1. [Alphabet Inc.](http://realai.org/companies/alphabet/)
-    2. Facebook
+    2. [Facebook, Inc.](http://realai.org/companies/facebook/)
     3. [Amazon.com, Inc.](http://realai.org/companies/amazon/)
-    4. [Apple Inc.](http://realai.org/companies/apple/)
-    5. Microsoft
-    6. Tencent
-    7. Alibaba
-    8. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
+    4. [Microsoft Corporation](http://realai.org/companies/microsoft/)
+    5. [Apple Inc.](http://realai.org/companies/apple/)
+    6. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
+    7. [Tencent Holdings Limited](http://realai.org/companies/tencent/)
+    8. Alibaba
     9. Baidu
 
 3. Organizations
