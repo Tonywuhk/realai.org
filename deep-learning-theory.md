@@ -52,10 +52,15 @@ Maybe flat minima don’t exist in random data and are somehow easier to find th
 
 * 2014 January 6, Monica Bianchini and Franco Scarselli. [On the Complexity of Neural Network Classifiers: A Comparison Between Shallow and Deep Architectures](http://ieeexplore.ieee.org/document/6697897/). *IEEE Transactions on Neural Networks and Learning Systems*, 25(8):1553-1565.
 
-## Cognitive Psychology
+## Transparency
+
+[Weller (2017)](https://openreview.net/forum?id=SJR9L5MQ-) provides a brief survey on transparency and reviews settings where it may be unhelpful.
+
+### Cognitive Psychology
 
 [Ritter & Barrett et al. (2017)](https://arxiv.org/abs/1706.08606) use cognitive psychology to study the one-shot word learning Matching Networks and an Inception Baseline model. They find that the networks prefer to categorize objects according to shape rather than color.
 
 ### References
 
+* 2017 July 4, Adrian Weller. [Challenges for Transparency](https://openreview.net/forum?id=SJR9L5MQ-). *OpenReview*.
 * 2017 June 26, Samuel Ritter, David G. T. Barrett, Adam Santoro, and Matt M. Botvinick. [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](https://arxiv.org/abs/1706.08606). *arXiv:1706.08606*.
