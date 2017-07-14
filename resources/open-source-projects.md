@@ -3,6 +3,7 @@ permalink: /resources/open-source-projects/
 ---
 # Open Source Projects
 
+* 2017 July 11, [TensorForce](https://reinforce.io/) is a TensorFlow library for applied reinforcement learning. ([blog](https://reinforce.io/blog/introduction-to-tensorforce/))
 * 2017 June 19, [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) is a modular and extensible library and binaries for supervised learning with TensorFlow and with a focus on sequence tasks. ([blog](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html))
 * 2017 April 19, [Caffe2](http://caffe2.ai/) is a new lightweight, modular, and scalable deep learning framework.
 * 2017 April 7, [Sonnet](https://github.com/deepmind/sonnet) is a library built on top of TensorFlow for building complex neural networks.
