@@ -15,6 +15,8 @@ Large technology companies have poured enormous resources into AI, and are spons
 * Alibaba
 * Baidu
 
+In July 2017, AI Era published a [report](https://www.sohu.com/a/157091076_473283) (in Chinese) comparing the AI labs in Baidu, Tencent and Alibaba.
+
 ## Products and Services
 
 ### Self-Driving Cars
