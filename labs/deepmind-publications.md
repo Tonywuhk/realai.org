@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 July 13, Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu. [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175). *arXiv:1707.04175*.
 * 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. [blog](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/).
 * 2017 July 11, Serkan Cabi, Sergio Gómez Colmenarejo, Matthew W. Hoffman, Misha Denil, Ziyu Wang, and Nando de Freitas. [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300). *arXiv:1707.03300*.
 * 2017 July 10, Ziyu Wang, Josh Merel, Scott Reed, Greg Wayne, Nando de Freitas, and Nicolas Heess. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747). *arXiv:1707.02747*.

@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 July 13, Marc Pickett, Ayush Sekhari, and James Davidson. [A Brief Study of In-Domain Transfer and Learning from Fewer Samples using A Few Simple Priors](https://arxiv.org/abs/1707.03979). *arXiv:1707.03979*.
 * 2017 July 11, Junhyuk Oh, Satinder Singh, and Honglak Lee. [Value Prediction Network](https://arxiv.org/abs/1707.03497). *arXiv:1707.03497*.
 * 2017 July 6, Eric Jang, Sudheendra Vijaynarasimhan, Peter Pastor, Julian Ibarz, and Sergey Levine. [End-to-End Learning of Semantic Grasping](https://arxiv.org/abs/1707.01932). *arXiv:1707.01932*.
 * 2017 July 6, Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans. [Trust-PCL: An Off-Policy Trust Region Method for Continuous Control](https://arxiv.org/abs/1707.01891). *arXiv:1707.01891*.
