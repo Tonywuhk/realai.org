@@ -4,6 +4,8 @@ permalink: /policies/
 ---
 # Policies
 
+In July 2017, Elon Musk [called on the government to proactively regulate AI](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai) when he spoke at the National Governors Association Summer Meeting in Rhode Island.
+
 ## Country Policies
 
 ### Canada
