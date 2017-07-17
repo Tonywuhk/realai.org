@@ -128,3 +128,5 @@ mathjax: true
     4. [Open Source Projects](http://realai.org/resources/open-source-projects/)
 
 6. [About](http://realai.org/about/) Real AI
+    1. [Corporate Administration](http://realai.org/about/admin/)
+
