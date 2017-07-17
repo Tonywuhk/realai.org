@@ -19,7 +19,7 @@ In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully 
 
 ## References
 
-* 2017 July 13, Adnan Darwiche. [Human-Level Intelligence or Animal-Like Abilities?](https://arxiv.org/abs/1707.04327). *arXiv:1707.04327*. [video](https://www.youtube.com/watch?v=UTzCwCic-Do).
+* 2017 July 13, Adnan Darwiche. [Human-Level Intelligence or Animal-Like Abilities?](https://arxiv.org/abs/1707.04327) *arXiv:1707.04327*. [video](https://www.youtube.com/watch?v=UTzCwCic-Do).
 
 * 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. [video](https://goo.gl/8rTx2F).
 
