@@ -11,7 +11,7 @@ In general, a Hong Kong company must hold an annual general meeting (AGM) every 
 
 ### Company Directors
 
-The [Companies Registry](http://www.cr.gov.hk/en/home/index.htm) advise all directors to read this [Guide](http://www.cr.gov.hk/en/publications/docs/director_guide-e.pdf) on directors' duties.
+The [Companies Registry](http://www.cr.gov.hk/en/home/index.htm) advises all directors to read this [Guide](http://www.cr.gov.hk/en/publications/docs/director_guide-e.pdf) on directors' duties.
 
 ### Company Secretary
 
