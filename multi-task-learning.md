@@ -26,9 +26,20 @@ A standard deep neural network can learn very different visual domains simultane
 
 ## Transfer Learning
 
-Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a technique to transfer one or more action policies from Q-networks to an untrained network. It can be used to consolidate multiple task-specific policies into a single policy. A similar way to accomplish this is Actor-Mimic ([Parisotto et al, 2015](https://arxiv.org/abs/1511.06342)).
+Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a technique to transfer one or more action policies from Q-networks to an untrained network. It can be used to consolidate multiple task-specific policies into a single policy. A similar way to accomplish this is Actor-Mimic ([Parisotto et al., 2015](https://arxiv.org/abs/1511.06342)).
+
+Another mechanism for knowledge transfer is to build new networks from existing ones ([Chen et al., 2016](https://arxiv.org/abs/1511.05641); [Wei et al., 2016](https://arxiv.org/abs/1603.01670); [Wei et al., 2017](https://arxiv.org/abs/1701.03281)).
 
 [Ruder (2017)](http://sebastianruder.com/transfer-learning/) discussed transfer learning in a blog post and highlighted this area as "machine learning's next frontier".
+
+### References
+
+* 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
+* 2017 January 12, Tao Wei, Changhu Wang, and Chang Wen Chen. [Modularized Morphing of Neural Networks](https://arxiv.org/abs/1701.03281). *arXiv:1701.03281*.
+* 2016 April 23, Tianqi Chen, Ian Goodfellow, and Jonathon Shlens. [Net2Net: Accelerating Learning via Knowledge Transfer](https://arxiv.org/abs/1511.05641). *arXiv:1511.05641*.
+* 2016 March 8, Tao Wei, Changhu Wang, Yong Rui, and Chang Wen Chen. [Network Morphism](https://arxiv.org/abs/1603.01670). *arXiv:1603.01670*.
+* 2015 November 19, Emilio Parisotto, Jimmy Lei Ba, and Ruslan Salakhutdinov. [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](https://arxiv.org/abs/1511.06342). *arXiv:1511.06342*.
+* 2015 November 19, Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, and Raia Hadsell. [Policy Distillation](https://arxiv.org/abs/1511.06295). *arXiv:1511.06295*.
 
 ## Curriculum Learning
 
@@ -36,12 +47,9 @@ Policy distillation ([Rusu et al., 2015](https://arxiv.org/abs/1511.06295)) is a
 
 [Sukhbaatar et al. (2017)](https://arxiv.org/abs/1703.05407) used self-play where one agent builds a curriculum of increasingly more difficult tasks to challenge an identical agent.
 
-## References
+### References
 
 * 2017 April 19, Sainbayar Sukhbaatar, Ilya Kostrikov, Arthur Szlam, and Rob Fergus. [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407). *arXiv:1703.05407*.
 * 2017 April 10, Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, and Koray Kavukcuoglu. [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003). *arXiv:1704.03003*.
-* 2017 March 21, Sebastian Ruder. [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/). *[Personal Blog](http://sebastianruder.com/#open)*.
 * 2016 November 6, Jacob Andreas, Dan Klein, and Sergey Levine. [Modular Multitask Reinforcement Learning with Policy Sketches](https://arxiv.org/abs/1611.01796). *arXiv:1611.01796*.
 * 2016 September 22, Coline Devin, Abhishek Gupta, Trevor Darrell, Pieter Abbeel, and Sergey Levine. [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](https://arxiv.org/abs/1609.07088). *arXiv:1609.07088*.
-* 2015 November 19, Emilio Parisotto, Jimmy Lei Ba, and Ruslan Salakhutdinov. [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](https://arxiv.org/abs/1511.06342). *arXiv:1511.06342*.
-* 2015 November 19, Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, and Raia Hadsell. [Policy Distillation](https://arxiv.org/abs/1511.06295). *arXiv:1511.06295*.
