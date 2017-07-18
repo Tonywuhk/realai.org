@@ -25,11 +25,13 @@ For deep generative models, an autoencoder can be extended to learn statistics o
 
 An agent can be trained across many different tasks to meta-learn a reinforcment learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively structured ([Wang et al., 2016](https://arxiv.org/abs/1611.05763)) and unstructured ([Duan et al., 2016](https://arxiv.org/abs/1611.02779)) distributions of tasks.
 
-## Network Dynamics
+## Learning to Optimize 
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
 
-In a standard neural network learning setup, the update rules of how the network's weights can be learned using gradient descient ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)) or guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
+[Andrychowicz et al. (2016)](https://arxiv.org/abs/1606.04474) show that update rules modeled by learned LSTMs outperform generic, hand-designed [learning rules](http://realai.org/learning-rules/) such as Adam and RMSProp. [Wichrowska et al. (2017)](https://arxiv.org/abs/1703.04813) introduce a hierarchical RNN optimizer and achieve better generalization to new problems and large number of optimization steps.
+
+In a standard neural network learning setup, the update rules of the network's weights can also be learned using guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
 ## References
 
