@@ -21,10 +21,11 @@ In an experiment evolving networks to produce patterns, [Huizinga et al. (2017)]
 
 ## Deep Feedforward Networks
 
-[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations.
+[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations. [Gomez & Ren et al. (2017)](https://arxiv.org/abs/1707.04585) present the Reversible Residual Network (RevNet) where each layer’s activations can be reconstructed from the next layer’s, eliminating the need to store activations in memory during backpropagation.
 
 ### References
 
+* 2017 July 14, Aidan N. Gomez, Mengye Ren, Raquel Urtasun, and Roger B. Grosse. [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585). *arXiv:1707.04585*.
 * 2017 April 18, Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko. [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526). *arXiv:1704.05526*.
 * 2017 April 17, Joost Huizinga, Kenneth O. Stanley, and Jeff Clune. [The Emergence of Canalization and Evolvability in an Open-Ended, Interactive Evolutionary System](https://arxiv.org/abs/1704.05143). *arXiv:1704.05143*. [code](https://github.com/Evolving-AI-Lab/cppnx).
 * 2017 March 10, Manzil Zaheer, Satwik Kottur, Siamak Ravanbhakhsh, Barnabas Poczos, Ruslan Ssalakhutdinov, and Alexander Smola. [Deep Sets](https://arxiv.org/abs/1703.06114). *arXiv:1703.06114*.
