@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
+* 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.
 * 2017 July 5, Théo Trouillon and Maximilian Nickel. [Complex and Holographic Embeddings of Knowledge Graphs: A Comparison](https://arxiv.org/abs/1707.01475). *arXiv:1707.01475*.
 * 2017 July 4, Adam Lerer and Alexander Peysakhovich. [Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068). *arXiv:1707.01068*.
 * 2017 July 4, Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, and Larry Zitnick. [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067). *arXiv:1707.01067*. [blog](https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/). [code](https://github.com/facebookresearch/ELF).
@@ -30,7 +32,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 May 10, Ivan Vulić, Daniela Gerz, Douwe Kiela, Felix Hill, and Anna Korhonen. [HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment](https://arxiv.org/abs/1608.02117). *arXiv:1608.02117*.
 * 2017 May 8, Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin. [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122). *arXiv:1705.03122*.
 * 2017 May 5, Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364). *arXiv:1705.02364*.
-* 2017 April 28, Cisse Moustapha, Bojanowski Piotr, Grave Edouard, Dauphin Yann, and Usunier Nicolas. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
+* 2017 May 2, Moustapha Cisse, Piotr Bojanowski, Edouard Grave, Yann Dauphin, and Nicolas Usunier. [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/abs/1704.08847). *arXiv:1704.08847*.
 * 2017 April 24, Georgia Gkioxari, Ross Girshick, Piotr Dollár, and Kaiming He. [Detecting and Recognizing Human-Object Interactions](https://arxiv.org/abs/1704.07333). *arXiv:1704.07333*.
 * 2017 April 23, Rahma Chaabouni, Ewan Dunbar, Neil Zeghidour, and Emmanuel Dupoux. [Learning weakly supervised multimodal phoneme embeddings](https://arxiv.org/abs/1704.06913). *arXiv:1704.06913*.
 * 2017 April 20, Sam Gross, Marc'Aurelio Ranzato, and Arthur Szlam. [Hard Mixtures of Experts for Large Scale Weakly Supervised Vision](https://arxiv.org/abs/1704.06363). *arXiv:1704.06363*.
@@ -48,6 +50,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 February 28, Jeff Johnson, Matthijs Douze, and Hervé Jégou. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734). *arXiv:1702.08734*.
 * 2017 February 27, Benjamin Graham. [Low-Precision Batch-Normalized Activations](https://arxiv.org/abs/1702.08231). *arXiv:1702.08231*.
 * 2017 February 23, Mateo Rojas-Carulla, Marco Baroni, and David Lopez-Paz. [Causal Discovery Using Proxy Variables](https://arxiv.org/abs/1702.07306). *arXiv:1702.07306*.
+* 2017 February 22, David Lopez-Paz and Maxime Oquab. [Revisiting Classifier Two-Sample Tests](https://arxiv.org/abs/1610.06545). *arXiv:1610.06545*.
 * 2017 February 15, Sam Wiseman, Sumit Chopra, Marc'Aurelio Ranzato, Arthur Szlam, Ruoyu Sun, Soumith Chintala, and Nicolas Vasilache. [Training Language Models Using Target-Propagation](https://arxiv.org/abs/1702.04770). *arXiv:1702.04770*.
 * 2017 February 8, W. James Murdoch and Arthur Szlam. [Automatic Rule Extraction from Long Short Term Memory Networks](https://arxiv.org/abs/1702.02540). *arXiv:1702.02540*.
 * 2017 February 7, Wenling Shang, Justin Chiu, and Kihyuk Sohn. [Exploring Normalization in Deep Residual Networks with Concatenated Rectified Linear Units](https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/). *AAAI-17*.
