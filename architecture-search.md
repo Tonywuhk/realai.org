@@ -7,6 +7,11 @@ Manually designing deep neural networks requires a lot of expert knowledge, and 
 
 ## Evolutionary Algorithms
 
+While gradient methods are very effective in learning the weights of neural connections, evolutionary algorithms aim to address the issue of what connect to what in the first place ([Stanley, 2017](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)).
+
+### References
+
+* 2017 July 13, Kenneth O. Stanley. [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning). *O'Reilly*.
 * 2017 March 3, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Quoc Le, and Alex Kurakin. [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). *arXiv:1703.01041*.
 * 2017 March 1, Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Arshak Navruzyan, Nigel Duffy, and Babak Hodjat. [Evolving Deep Neural Networks](https://arxiv.org/abs/1703.00548). *arXiv:1703.00548*.
 * 2016 June 8, Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds, Frederic Besse, David Pfau, Max Jaderberg, Marc Lanctot, and Daan Wierstra. [Convolution by Evolution: Differentiable Pattern Producing Networks](https://arxiv.org/abs/1606.02580). *arXiv:1606.02580*.
