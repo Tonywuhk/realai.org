@@ -11,6 +11,7 @@ permalink: /macro/
 
 ## CryptoCurrencies
 
+* 2017 July 18. [Ethereum Co-Founder Says Crypto Coin Market Is a Time-Bomb](https://www.bloomberg.com/news/articles/2017-07-18/ethereum-co-founder-says-crypto-coin-market-is-ticking-time-bomb). *Bloomberg Technology*.
 * 2017 July 11. [Ethereum is still crashing, and just fell below $US200](https://www.businessinsider.com.au/ethereum-has-lost-almost-20-of-its-value-in-the-last-24-hours-2017-7). *Business Insider Australia*.
 * 2017 July 10. [Will Bitcoin Tear Itself Apart?](https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month). *Bloomberg Technology*.
 * 2017 July 10. [A Trader So Secret They’re Only Known by a Number Just Made Over $200 Million in One Month](https://www.bloomberg.com/news/articles/2017-07-10/secret-millions-for-0x00a651d43b6e209f5ada45a35f92efc0de3a5184). *Bloomberg Technology*.
