@@ -5,7 +5,7 @@ permalink: /course/tpu-tf-nmt/
 
 *DRAFT - Last Updated: July 19, 2017*
 
-In this experiment, we walk through the steps to train a neural machine translation model with a GPU on [Google cloud](https://cloud.google.com/).
+In this experiment, we walk through the steps to train a neural machine translation model with a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) on [Google cloud](https://cloud.google.com/).
 
 ## Prerequisites
 
@@ -15,18 +15,18 @@ In this experiment, we walk through the steps to train a neural machine translat
 
 ## VM Instance
 
-Create a virtual machine (VM) instance in [Compute Engine](https://console.cloud.google.com/compute/). In Oregon, an "n1-standard-2" machine type costs [$0.095 per hour](https://cloud.google.com/compute/pricing#predefined_machine_types) and 1 GPU processor costs [$0.70 per hour](https://cloud.google.com/compute/pricing#gpus). This experiment is expected to last less than 2 hours.
+Create a virtual machine (VM) instance in [Compute Engine](https://console.cloud.google.com/compute/). We don't need a GPU for software installation, so let's create a very cheap "f1-micro" machine in a nearby [Zone](https://cloud.google.com/compute/docs/regions-zones/regions-zones). Select the "Ubuntu 16.04 LTS" image to create a boot disk.
 
 ## GPU Setup - CUDA
 
-[CUDA](https://en.wikipedia.org/wiki/CUDA) a software created by NVIDIA that allows us to use its GPUs. First we need to ensure that our system has [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) installed:
+[CUDA](https://en.wikipedia.org/wiki/CUDA) is a software created by NVIDIA that allows us to use its GPUs. First we need to ensure that our system has [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) installed:
 
 ```bash
 sudo apt-get update
 sudo apt-get install build-essential -y
 ```
 
-Now follow the [NVIDIA CUDA Installation Guide for Linux](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
+Now follow the [NVIDIA CUDA Installation Guide for Linux](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html):
 
 ```bash
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
@@ -35,7 +35,7 @@ sudo apt-get update
 sudo apt-get install cuda -y
 ```
 
-The last step above can take a long time. Then there are a few [post-installation actions](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions)
+The last step above can take a long time. Then there are a few [post-installation actions](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions):
 
 ```bash
 export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}
@@ -78,9 +78,13 @@ rm get-pip.py
 
 ### Moving VM Instance
 
-Type 'exit' to close the terminal, then **STOP** the VM instance on which we just installed GPU software. In Snapshots, create a snapshot of this instance. Go back to "VM instance" and shut down the instance for which we already created a snapshot. Now it's time to get a powerful GPU computer.
+Type 'exit' to close the terminal, then STOP (DO NOT **DELETE**) the VM instance on which we just installed GPU software. In [Snapshots](https://console.cloud.google.com/compute/snapshots), create a snapshot of this instance. Go back to "VM instances" and shut down the instance for which we already created a snapshot. Now it's time to get a powerful GPU computer.
 
-In Oregon, an "n1-standard-2" machine type costs [$0.095 per hour](https://cloud.google.com/compute/pricing#predefined_machine_types) and 1 GPU processor costs [$0.70 per hour](https://cloud.google.com/compute/pricing#gpus). We create a new VM in Zone "us-west1-b" using these parameters. On this new VM, we do a [native pip](https://www.tensorflow.org/install/install_linux#InstallingNativePip) installation:
+In Oregon, an "n1-standard-2" machine type costs [$0.095 per hour](https://cloud.google.com/compute/pricing#predefined_machine_types) and 1 GPU processor costs [$0.70 per hour](https://cloud.google.com/compute/pricing#gpus). We create a new VM in Zone "us-west1-b" using these parameters.
+
+![](http://realai.org/assets/images/course-tpu-tf-nmt-1.png)
+
+On this new VM, we do a [native pip](https://www.tensorflow.org/install/install_linux#InstallingNativePip) TensorFlow installation:
 
 ```bash
 sudo pip install tensorflow-gpu
@@ -97,7 +101,7 @@ nmt/scripts/download_iwslt15.sh /tmp/nmt_data
 mkdir /tmp/nmt_model
 ```
 
-Finally, we are just one big command away from training an NMT model! The model will train 12000 steps. On our powerful GPU computer, it should take less than one hour!
+Finally, we are just one big command away from training an NMT model! The model will train 12000 steps. On our powerful GPU computer, it should just take a little more than one hour!
 
 ```bash
 python -m nmt.nmt \
@@ -115,5 +119,7 @@ python -m nmt.nmt \
     --metrics=bleu
 ```
 
-On this instance, our model trains at less than 0.30s per 100 steps, a few times faster than what's reported in the tutorial!
+On this instance, our model trains at less than 0.30s per 100 steps, even a few times faster than what's reported in the tutorial!
+
+![](http://realai.org/assets/images/course-tpu-tf-nmt-2.png)
 
