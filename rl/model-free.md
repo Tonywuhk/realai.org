@@ -85,13 +85,19 @@ $$
   A(s_t, a_t; \theta, \theta_v) = r_t + \gamma r_{t+1} + ... + \gamma^{n-1} r_{t+n-1} + \gamma^n V(s_{t+n}; \theta_v) - V(s_t; \theta_v),
 $$
 
-an \\(n\\)-step estimate of the advantage function. In the asynchronous **advantage actor-critic (A3C)** algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
+an \\(n\\)-step estimate of the advantage function.
+
+### Asynchronous Advantage Actor-Critic Agent
+
+In the **asynchronous advantage actor-critic (A3C)** algorithm proposed by [Mnih et al. (2016)](https://arxiv.org/abs/1602.01783), policy gradient is
 
 $$
   A(s_t, a_t; \theta, \theta_v) \cdot \nabla_\theta \log \pi(a_t | s_t; \theta)
 $$
 
 augmented by the gradient of an entropy regularization term with respect to the policy parameters.
+
+### More Algorithms
 
 [Lillicrap & Hunt et al. (2015)](https://arxiv.org/abs/1509.02971) presented the Deep DPG (DDPG) approach, an actor-critic algorithm that can operate over continuous action spaces. [Popov et al. (2017)](https://arxiv.org/abs/1704.03073) introduced two extensions to the DDPG method, significantly improving its data efficiency.
 

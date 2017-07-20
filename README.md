@@ -6,13 +6,12 @@ mathjax: true
 
 ## What's New
 
+* 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reinforcement Learning Agents](http://realai.org/rl/agents/))
 * 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Concept Learning](http://realai.org/concept-learning/))
 * 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*. ([Meta-Learning](http://realai.org/meta-learning/))
 * 2017 July 10, Nicholas Heess, Josh Merel, and Ziyu Wang. [Producing flexible behaviours in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/). *DeepMind Blog*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Robotics](http://realai.org/robotics/))
 * 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 * 2017 June 20, Diana Borsa, Bilal Piot, Rémi Munos, and Olivier Pietquin. [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617). *arXiv:1706.06617*. ([Observational Learning](http://realai.org/imitation-learning/#observational-learning); [DeepMind](http://realai.org/labs/deepmind/publications/))
-* 2017 June 20. Community effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*. ([Progress](http://realai.org/progress))
-* 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*. ([Symbol Grounding](http://realai.org/symbol-grounding/); [DeepMind](http://realai.org/labs/deepmind/publications/))
 
 ## Main Contents
 
@@ -32,7 +31,7 @@ mathjax: true
 
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
-4. Research
+4. Literature Review
     1. Learning Methods
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
@@ -56,15 +55,16 @@ mathjax: true
         4. [Generative Models](http://realai.org/generative-models/)
         5. [Platforms](http://realai.org/learning-platforms/)
     4. Reinforcement Learning
-        1. [Model-Free Algorithms](http://realai.org/rl/model-free/)
-        2. [Planning](http://realai.org/planning/)
-        3. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+        1. [Agents](http://realai.org/rl/agents/)
+        2. [Model-Free Algorithms](http://realai.org/rl/model-free/)
+        3. [Planning](http://realai.org/planning/)
+        4. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Prediction](http://realai.org/predictive-learning/)
             * [Exploration](http://realai.org/exploration/)
             * [Empowerment](http://realai.org/empowerment/)
-        4. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-        5. [Imitation Learning](http://realai.org/imitation-learning/)
-        6. [General Reinforcement Learning](http://realai.org/rl/general/)
+        5. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+        6. [Imitation Learning](http://realai.org/imitation-learning/)
+        7. [General Reinforcement Learning](http://realai.org/rl/general/)
     5. [Neuroscience](http://realai.org/neuroscience/)
     6. [Frontiers](http://realai.org/frontiers/)
     7. Experiments
