@@ -9,5 +9,5 @@ The Imagination-Augmented Agent (I2A) uses a model-based path to provide additio
 
 ## References
 
-* 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. [video](https://drive.google.com/open?id=0B4tKsKnCCZtQY2tTOThucHVxUTQ).
+* 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. [video](https://drive.google.com/open?id=0B4tKsKnCCZtQY2tTOThucHVxUTQ). [blog](https://deepmind.com/blog/agents-imagine-and-plan/).
 
