@@ -3,8 +3,8 @@ permalink: /news/
 ---
 # News
 
-* 2017 July 20. [国务院印发《新一代人工智能发展规划》](http://www.gov.cn/xinwen/2017-07/20/content_5212064.htm). *www.gov.cn*.
-* 2017 July 15. [专访 UCL 教授汪军：中国能不能出现像 DeepMind 这样的企业？| CCF-GAIR 2017](https://m.leiphone.com/news/201707/3tgq679xJMqKGhxM.html). *leiphone.com*.
+* 2017 July 20. [国务院印发《新一代人工智能发展规划》](http://www.gov.cn/xinwen/2017-07/20/content_5212064.htm) *www.gov.cn*.
+* 2017 July 15. [专访 UCL 教授汪军：中国能不能出现像 DeepMind 这样的企业？\| CCF-GAIR 2017](https://m.leiphone.com/news/201707/3tgq679xJMqKGhxM.html). *leiphone.com*.
 * 2017 July 11. [Facebook Is Building a “Village” for Its Workers. More Big Companies Should Do That.](http://www.slate.com/blogs/future_tense/2017/07/11/facebook_is_building_a_village_more_companies_should_too.html) *Slate*.
 * 2017 July 11. [Saving Face: Investment in Recognition Technology Heats Up in China](https://www.wsj.com/articles/saving-face-investment-in-recognition-technology-heats-up-in-china-1499763603). *The Wall Street Journal*.
 * 2017 July 9. [现场火爆！马云无人超市正式迎客！](https://www.sohu.com/a/155710147_355430) *Sohu*.
