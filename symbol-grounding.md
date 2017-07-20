@@ -11,6 +11,7 @@ Language is a tool of communication in which words (symbols) trigger thoughts in
 
 ## References
 
+* 2017 July 18, Ramakrishna Vedantam, Ian Fischer, Jonathan Huang, and Kevin Murphy. [Generative Models of Visually Grounded Imagination](https://arxiv.org/abs/1705.10762). *arXiv:1705.10762*.
 * 2017 June 22, Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, and Ruslan Salakhutdinov. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230). *arXiv:1706.07230*. [site](https://sites.google.com/view/gated-attention/home).
 * 2017 June 20, Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojtek Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, and Phil Blunsom. [Grounded Language Learning in a Simulated 3D World](https://arxiv.org/abs/1706.06551). *arXiv:1706.06551*. [video](https://www.youtube.com/watch?v=wJjdu1bPJ04) uploaded on 7 April 2017.
 * 2017 June 20, Misha Denil, Sergio Gómez Colmenarejo, Serkan Cabi, David Saxton, and Nando de Freitas. [Programmable Agents](https://arxiv.org/abs/1706.06383). *arXiv:1706.06383*. [video](https://www.youtube.com/playlist?list=PLs1LSEoK_daRDnPUB2u7VAXSonlNU7IcV).
