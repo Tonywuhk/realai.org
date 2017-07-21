@@ -13,6 +13,8 @@ permalink: /course/
 
 [Vim](http://www.vim.org/) is a text editor built for editing efficiency, but is also known for having a steep learning curve. In most UNIX systems, type `vi` to launch the editor, or type `vimtutor` for a brief overview.
 
+[TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects.
+
 ## Recurrent Neural Networks
 
 * 2017 July 12. [Building Your Own Neural Machine Translation System in TensorFlow](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html). *Google Research Blog*.

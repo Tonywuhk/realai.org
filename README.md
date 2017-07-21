@@ -32,7 +32,9 @@ mathjax: true
 
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
-4. Literature Review
+4. [Course](http://realai.org/course/)
+
+5. Literature Review
     1. Learning Methods
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
@@ -81,9 +83,9 @@ mathjax: true
         1. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
         2. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
         
-5. [Applications](http://realai.org/applications/)
+6. [Applications](http://realai.org/applications/)
 
-6. [Conclusion](http://realai.org/conclusion/)
+7. [Conclusion](http://realai.org/conclusion/)
 
 ## Apendix
 
@@ -114,8 +116,6 @@ mathjax: true
     1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
     2. [Markets](http://realai.org/news/markets/)
     
-5. [Course](http://realai.org/course/)
-
 5. [Resources](http://realai.org/resources/) (Blogs; Links)
     1. [Curriculum](http://realai.org/resources/curriculum/)
     2. [Conferences](http://realai.org/resources/conferences/)
