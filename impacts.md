@@ -23,6 +23,10 @@ List of news articles related to job losses:
 * 2017 June 24. [工资降到6000 他们是第一批被AI干掉的金融民工](http://finance.sina.com.cn/money/bank/2017-06-24/doc-ifyhmtek7730948.shtml). *Sina Finance*.  
 * 2017 April 27. [Artificial intelligence will replace half of all jobs in the next decade, says widely followed technologist](http://www.cnbc.com/2017/04/27/kai-fu-lee-robots-will-replace-half-of-all-jobs.html). *CNBC*. 
 
+## National Security
+
+* 2017 July 21. [AI Could Revolutionize War As Much As Nukes](https://www.wired.com/story/ai-could-revolutionize-war-as-much-as-nukes/). *Wired*.
+
 ## Academic Research
 
 The empirical success of deep learning changed the thinking in many related disciplines such as [image processing](https://sinews.siam.org/Details-Page/deep-deep-trouble) where researchers had mixed feelings of disgust and envy towards the trend. They pondered whether they should insist on their old, more rigorous ways of research or pivot to deep learning that lacked mathematical elegance and offered very little interprepretability of the solutions or understanding of the underlying data.

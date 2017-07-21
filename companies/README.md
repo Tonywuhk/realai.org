@@ -23,6 +23,10 @@ In July 2017, AI Era published a [report](https://www.sohu.com/a/157091076_47328
 
 In June 2017, Apple's CEO Tim Cook for the first time [elaborated on](https://www.bloomberg.com/news/articles/2017-06-13/cook-says-apple-is-focusing-on-making-an-autonomous-car-system) the company’s plans in the automotive market.
 
+### Cloud Computing
+
+* 2017 July 21. [Microsoft Regains Turnaround Momentum on Strong Cloud Growth](https://www.bloomberg.com/news/articles/2017-07-20/microsoft-sales-profit-top-estimates-as-cloud-growth-marches-on). *Bloomberg Technology*.
+
 ## Events
 
 * Google I/O: [2017.05.17](https://events.google.com/io/), [2016](https://events.google.com/io2016/), [2015](https://events.google.com/io2016/)

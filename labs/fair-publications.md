@@ -7,8 +7,10 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 July 20, Yaniv Taigman, Lior Wolf, Adam Polyak, and Eliya Nachmani. [Voice Synthesis for in-the-Wild Speakers via a Phonological Loop](https://arxiv.org/abs/1707.06588). *arXiv:1707.06588*.
 * 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
 * 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.
+* 2017 July 9, Lior Wolf, Yaniv Taigman, and Adam Polyak. [Unsupervised Creation of Parameterized Avatars](https://arxiv.org/abs/1704.05693). *arXiv:1704.05693*.
 * 2017 July 5, Théo Trouillon and Maximilian Nickel. [Complex and Holographic Embeddings of Knowledge Graphs: A Comparison](https://arxiv.org/abs/1707.01475). *arXiv:1707.01475*.
 * 2017 July 4, Adam Lerer and Alexander Peysakhovich. [Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068). *arXiv:1707.01068*.
 * 2017 July 4, Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, and Larry Zitnick. [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067). *arXiv:1707.01067*. [blog](https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/). [code](https://github.com/facebookresearch/ELF).
@@ -18,9 +20,11 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 June 16, Mike Lewis, Denis Yarats, Yann N. Dauphin, Devi Parikh, and Dhruv Batra. [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125). *arXiv:1706.05125*. [blog](https://code.facebook.com/posts/1686672014972296). [code](https://github.com/facebookresearch/end-to-end-negotiator).
 * 2017 June 14, Levent Sagun, Utku Evci, V. Ugur Guney, Yann Dauphin, and Leon Bottou. [Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/abs/1706.04454). *arXiv:1706.04454*.
 * 2017 June 12, Wenling Shang, Kihyuk Sohn, Zeynep Akata, and Yuandong Tian. [Channel-Recurrent Variational Autoencoders](https://arxiv.org/abs/1706.03729). *arXiv:1706.03729*.
+* 2017 June 12, Ofir Press, Amir Bar, Ben Bogin, Jonathan Berant, and Lior Wolf. [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399). *arXiv:1706.01399*.
 * 2017 June 8, Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He. [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). *arXiv:1706.02677*.
 * 2017 June 7, Matthijs Douze, Arthur Szlam, Bharath Hariharan, and Hervé Jégou. [Low-shot learning with large-scale diffusion](https://arxiv.org/abs/1706.02332). *arXiv:1706.02332*.
 * 2017 June 5, Jiasen Lu, Anitha Kannan, Jianwei Yang, Devi Parikh, and Dhruv Batra. [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554). *arXiv:1706.01554*.
+* 2017 June 2, Sagie Benaim and Lior Wolf. [One-Sided Unsupervised Domain Mapping](https://arxiv.org/abs/1706.00826). *arXiv:1706.00826*.
 * 2017 June 1, Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Fader Networks: Manipulating Images by Sliding Attributes](https://arxiv.org/abs/1706.00409). *arXiv:1706.00409*.
 * 2017 May 29, Katrina Evtimova, Andrew Drozdov, Douwe Kiela, and Kyunghyun Cho. [Emergent Language in a Multi-Modal, Multi-Step Referential Game](https://arxiv.org/abs/1705.10369). *arXiv:1705.10369*.
 * 2017 May 29, Cijo Jose, Moustpaha Cisse, and Francois Fleuret. [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142). *arXiv:1705.10142*.
@@ -86,7 +90,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2016 November 18, Yacine Jernite, Edouard Grave, Armand Joulin, and Tomas Mikolov. [Variable Computation in Recurrent Neural Networks](https://arxiv.org/abs/1611.06188). *arXiv:1611.06188*.
 * 2016 November 17, Jonas Gehring, Michael Auli, David Grangier, and Yann N. Dauphin. [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344). *arXiv:1611.02344*.
 * 2016 November 16, Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He. [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431). *arXiv:1611.05431*.
-* 2016 November 08, Alexander Peysakhovich and Akos Lada. [Combining observational and experimental data to find heterogeneous treatment effects](https://arxiv.org/abs/1611.02385). *arXiv:1611.02385*.
+* 2016 November 8, Alexander Peysakhovich and Akos Lada. [Combining observational and experimental data to find heterogeneous treatment effects](https://arxiv.org/abs/1611.02385). *arXiv:1611.02385*.
+* 2016 November 7, Yaniv Taigman, Adam Polyak, and Lior Wolf. [Unsupervised Cross-Domain Image Generation](https://arxiv.org/abs/1611.02200). *arXiv:1611.02200*.
 * 2016 November 6, Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, and Riccardo Zecchina. [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838). *arXiv:1611.01838*.
 * 2016 November 1, Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala, Timothée Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier. [TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games](https://arxiv.org/abs/1611.00625). *arXiv:1611.00625*.
 * 2016 October 27, Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, and Devi Parikh. [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468). *arXiv:1505.00468*.
