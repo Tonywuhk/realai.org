@@ -37,6 +37,8 @@ The empirical success of deep learning changed the thinking in many related disc
 
 In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wired opinion piece](https://www.wired.com/story/ai-will-make-forging-anything-entirely-too-easy/) that the growth of AI-enabled forgery technology would "transform the meaning of evidence and truth in domains across journalism, government communications, testimony in criminal justice, and, of course, national security."
 
+* 2017 July 12. [Scarily convincing fake video tool puts words in Obama’s mouth](http://www.telegraph.co.uk/technology/2017/07/12/scarily-convincing-fake-video-tool-puts-words-obamas-mouth/). *The Telegraph*.
+
 ### Social Bots
 
 [Adam (2017)](https://arxiv.org/abs/1706.05143) warns that recent advances in machine learning has made it "possible to unleash incredibly powerful, human-like armies of social bots, in potentially well coordinated campaigns of deception and influence."
