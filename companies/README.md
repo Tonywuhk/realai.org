@@ -27,6 +27,10 @@ In June 2017, Apple's CEO Tim Cook for the first time [elaborated on](https://ww
 
 * 2017 July 21. [Microsoft Regains Turnaround Momentum on Strong Cloud Growth](https://www.bloomberg.com/news/articles/2017-07-20/microsoft-sales-profit-top-estimates-as-cloud-growth-marches-on). *Bloomberg Technology*.
 
+### Hardware
+
+Bristol, UK-based startup Graphcore received a [$30 million Series A](https://www.hpcwire.com/2016/11/01/graphcore-100x-speedup-pcie-plugin/) in November 2016, and a [$30 million Series B](https://www.hpcwire.com/2017/07/20/graphcore-readies-launch-16nm-colossus-ipu-chip/) in July 2017 to launch its Intelligent Processing Unit (IPU) before the end of 2017. Investors include Demis Hassabis, Zoubin Ghahramani, Pieter Abbeel, Greg Brockman, and Ilya Sutskever. Graphcore released [stunning "brain scans" images](http://www.wired.co.uk/article/ai-machine-learning-brain-scan) in February 2017.
+
 ## Events
 
 * Google I/O: [2017.05.17](https://events.google.com/io/), [2016](https://events.google.com/io2016/), [2015](https://events.google.com/io2016/)
