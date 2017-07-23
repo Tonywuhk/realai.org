@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Reasoning
 
-[Chollet (2017)](https://blog.keras.io/the-future-of-deep-learning.html) considers reasoning a "fundamental weakness of current models".
+The ability of reasoning emcompasses "algebraically manipulating knowledge to answer a question" ([Bottou, 2011](https://arxiv.org/abs/1102.1808)). [Chollet (2017)](https://blog.keras.io/the-future-of-deep-learning.html) considers reasoning a "fundamental weakness of current models".
 
 ## Relation Networks
 
@@ -21,3 +21,5 @@ where \\(f_\phi\\) and \\(g_\theta\\) are MLPs, \\(q\\) is the embedding of a qu
 * 2017 July 18, Francois Chollet. [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html). *The Keras Blog*.
 * 2017 June 5, Nicholas Watters, Andrea Tacchetti, Theophane Weber, Razvan Pascanu, Peter Battaglia, and Daniel Zoran. [Visual Interaction Networks](https://arxiv.org/abs/1706.01433). *arXiv:1706.01433*.
 * 2017 June 5, Adam Santoro, David Raposo, David G. T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, and Timothy Lillicrap. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). *arXiv:1706.01427*.
+* 2011 February 11, Leon Bottou. [From Machine Learning to Machine Reasoning](https://arxiv.org/abs/1102.1808). *arXiv:1102.1808*.
+
