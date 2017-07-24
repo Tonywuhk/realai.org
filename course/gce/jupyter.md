@@ -7,7 +7,7 @@ It is very easy to setup a remote [Jupyter Notebook](http://jupyter.org/) with [
 
 ## Create a Firewall Rule
 
-Click on the 3-line icon on the top left corner of cloud console, go to **Networking** and **Firewall rules**. Here we name the rule *jupyter* and use the same name as the **Target tag**. To allow incoming traffic from all over the Internet, we set **Source IP range** to be *0.0.0.0/0* ([CIDR notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation)), and **Specified protocal and port** is *tcp:8888*, the default port to be used by Jupyter notebook. Click **Create** to add this rule.
+Click on the 3-line icon on the top left corner of cloud console, go to **Networking** and **Firewall rules**. Here we name the rule *jupyter* and use the same name as the **Target tag**. To allow incoming traffic from all over the Internet, we set **Source IP range** to be *0.0.0.0/0* ([CIDR notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation)), and **Specified protocal and port** is *tcp:8888*, the default port to be used by Jupyter Notebook. Click **Create** to add this rule.
 
 ![](/assets/images/course-gce-jupyter-1.png)
 
@@ -21,7 +21,9 @@ Expand the **Management, disks, networking, SSH keys** section at the bottom of 
 
 ![](/assets/images/course-gce-jupyter-3.png)
 
-Now the VM instance is running, and on the **VM instances** page it should be assigned an **External IP**, this is the IP address we will later use to access Jupyter Notebook. Now SSH to the VM to install Jupyter:
+## Install and Launch Jupyter Notebook
+
+Now the VM instance is running, and on the **VM instances** page it should be assigned an **External IP**, this is the IP address we will later use to access Jupyter Notebook. To install Jupyter, SSH to this VM:
 
 ```bash
 # Install pip
