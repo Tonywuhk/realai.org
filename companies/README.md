@@ -33,7 +33,7 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 
 ## Regulations
 
-* 2017 July 20. [Should America’s Tech Giants Be Broken Up?](https://www.bloomberg.com/news/articles/2017-07-20/should-america-s-tech-giants-be-broken-up). *Bloomberg Businessweek*.
+* 2017 July 20. [Should America’s Tech Giants Be Broken Up?](https://www.bloomberg.com/news/articles/2017-07-20/should-america-s-tech-giants-be-broken-up) *Bloomberg Businessweek*.
 
 ## Events
 
