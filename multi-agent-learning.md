@@ -23,8 +23,11 @@ Symbolic communication between neural networks can also be learned within an age
 
 [Foerster & Farquhar et al. (2017)](https://arxiv.org/abs/1705.08926) propose the counterfactual multi-agent (COMA) policy gradient method that uses a centralized critic and decentralized actors to optimize the agents' policies. Using a counterfactural baseline, each agent learns from a reward that compares the global reward to the reward received when the action of the agent is replaced with a default action.
 
+[Perolat & Leibo et al. (2017)](https://arxiv.org/abs/1707.06600) study deep RL agents’ emergent behavior in a game with common-pool resources. In the game, apples grow faster when there are more apples nearby, and no apples grow in a completely harvested local area. Over time, agents learn strategies to protect resource from depletion.
+
 ## References
 
+* 2017 July 20, Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Charles Beattie, Karl Tuyls, and Thore Graepel. [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600). *arXiv:1707.06600*.
 * 2017 May 31, Serhii Havrylov and Ivan Titov. [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192). *arXiv:1705.11192*.
 * 2017 May 24, Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, and Shimon Whiteson. [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926). *arXiv:1705.08926*.
 * 2017 April 23, Jacob Andreas, Anca Dragan, and Dan Klein. [Translating Neuralese](https://arxiv.org/abs/1704.06960). *arXiv:1704.06960*. [code](https://github.com/jacobandreas/neuralese).
