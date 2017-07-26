@@ -7,6 +7,13 @@ permalink: /resources/
 * [Demos](http://realai.org/resources/demos/)
 * [Open Source Projects](http://realai.org/resources/open-source-projects/)
 
+## Funding
+
+* [AI Grant](https://aigrant.org/) is a non-profit, distributed AI research lab that sponsors AI projects.
+* [Effective Altruism Grants](https://www.effectivealtruism.org/grants/) provides grants to help individuals work on promising projects. According to 80,000 Hours, AI risk is the [top-ranked most urgent global issue](https://80000hours.org/articles/cause-selection/).
+* The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development. It offers $5 million in total cash prizes.
+* [Kaggle](https://www.kaggle.com/) runs competitions to challenge participants with real-world machine learning problems.
+
 ## Blogs
 
 * Miles [Brundage](http://www.milesbrundage.com/blog-posts) is a research fellow at the University of Oxford's Future of Humanity Institute.
@@ -31,8 +38,8 @@ permalink: /resources/
 * The [Deep Learning … moving beyond shallow machine learning since 2006!](http://deeplearning.net/) website is intended to host a variety of resources and pointers to information about Deep Learning.
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) is a reading roadmap for newcomers.
 * [Distill](http://distill.pub/) is dedicated to clear explanations of machine learning. It hosts a [research journal](http://distill.pub/journal/).
-* The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development.
 * Machine Learning Camp [Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp).
+* In [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), a group of like-minded developers and scientists hope to bring together machine learning practitioners to listen to each other's work.
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) on Reddit.
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).

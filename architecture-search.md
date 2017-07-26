@@ -18,12 +18,13 @@ While gradient methods are very effective in learning the weights of neural conn
 
 ## Reinforcement Learning
 
-[Zoph & Le (2016)](https://arxiv.org/abs/1611.01578) use reinforcment learning to train a recurrent network that generates descriptions of neural networks to minimize validation error, then found convolutional and LTSM architectures that performed competitively in CIFAR-10 and Penn Treebank datasets, respectively.
+[Zoph & Le (2016)](https://arxiv.org/abs/1611.01578) use reinforcment learning to train a recurrent network that generates descriptions of neural networks to minimize validation error, then found convolutional and LTSM architectures that performed competitively in CIFAR-10 and Penn Treebank datasets, respectively. Using this approach, [Zoph et al. (2017)](https://arxiv.org/abs/1707.07012) learn a convolutional cell on the CIFAR-10 dataset that can be transferred to the ImageNet dataset. By stacking together more of this cell, they achieve better top-1 accuracy than the best human-invented architectures with less computation.
 
 [Cai et al. (2017)](https://arxiv.org/abs/1707.04873) train a reinforcement learning agent to grow the depth or layer width of a neural network, allowing previously learned weights to be reused.
 
 ## References
 
+* 2017 July 21, Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V. Le. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012). *arXiv:1707.07012*.
 * 2017 July 16, Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, and Jun Wang. [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). *arXiv:1707.04873*.
 * 2017 April 28, Renato Negrinho and Geoff Gordon. [DeepArchitect: Automatically Designing and Training Deep Architectures](https://arxiv.org/abs/1704.08792). *arXiv:1704.08792*.
 * 2016 November 7, Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). *arXiv:1611.02167*.

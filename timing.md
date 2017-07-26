@@ -5,6 +5,12 @@ permalink: /timing/
 
 In recent years there has been rapid [progress](http://realai.org/progress/) towards the creation of AGI, to the extent that [roadmaps](http://realai.org/roadmaps/) are under serious dicussion. Given SI's potentially huge impact and its technological proximity to AGI, it is of paramount importance to form rational expectations on timing.
 
+## Links
+
+* AI Impacts: [Guide to pages on AI timeline predictions](http://aiimpacts.org/guide-to-pages-on-ai-timeline-predictions/). Updated April 7, 2017.
+* Open Philanthropy: [What should we learn from past AI forecasts?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts). Updated September, 2016.
+* Open Philanthropy: [What Do We Know about AI Timelines?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines). Updated July, 2016.
+
 ## Survey Results
 
 * 2017 May 24, Survey: 50% chance of high-level machine intelligence occurring before **2061** (median). Source: Katja Grace, John Salvatier, Allan Dafoe, Baobao Zhang, and Owain Evans. [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807). *arXiv:1705.08807*.
@@ -68,8 +74,7 @@ According to a February 2017 [TechCrunch report](https://techcrunch.com/2017/02/
 
 Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution had been very profound and surprised him, accroding to [a report by Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements).
 
-## Links
+## Predictions Based on Computational Power
 
-* AI Impacts: [Guide to pages on AI timeline predictions](http://aiimpacts.org/guide-to-pages-on-ai-timeline-predictions/). Updated 2017 April 7.
-* Open Philanthropy: [What should we learn from past AI forecasts?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts). Updated 2016 September.
-* Open Philanthropy: [What Do We Know about AI Timelines?](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines). Updated 2016 July.
+In July 2015, Tim Dettmers [estimated](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/) that we would reach the brain's computational power in 2078. He also presented scenarios in which we'd reach it earlier, in 2037 and 2053.
+

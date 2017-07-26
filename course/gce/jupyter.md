@@ -1,7 +1,9 @@
 ---
 permalink: /course/gce/jupyter/
 ---
-# Running Jupyter on Google Compute Engine
+# Lab - Running Jupyter on Google Compute Engine
+
+*Last Updated: July 26, 2017*
 
 It is very easy to setup a remote [Jupyter Notebook](http://jupyter.org/) with [Google Compute Engine](https://cloud.google.com/compute/). First we create a firewall rule. Then we create a virtual machine subject to that rule. Finally a few commands to install Jupyter, we're all set to launch and access it from the web.
 
@@ -42,4 +44,16 @@ jupyter notebook --ip=0.0.0.0
 ```
 
 Now Jupyter Notebook should be live on the web at `http://<External IP>:8888`. Access token can be found in the SSH terminal. To exit Jupyter, press "Ctrl-c" twice.
+
+## (Optional) Testing Jupyter Notebook with TensorFlow
+
+Install TensorFlow:
+
+```bash
+sudo pip3 install tensorflow
+```
+
+Now we can [run a short TensorFlow program](https://www.tensorflow.org/install/install_linux#run_a_short_tensorflow_program) in Jupyter Notebook to validate both installations:
+
+![](/assets/images/course-gce-jupyter-4.png)
 

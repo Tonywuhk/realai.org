@@ -12,6 +12,7 @@ Our impression is echoed in [Hassabis et al. (2017)](http://www.cell.com/neuron/
 
 ### References
 
+* 2017 July 26, A. Emin Orhan and Wei Ji Ma. [Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback](https://www.nature.com/articles/s41467-017-00181-8). *Nature Communications*, 8(138).
 * 2017 July 19, Demis Hassabis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick. [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3). *Cell*, 95(2):245-258. [interview](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview).
 * 2017 April 25, Yukiko Kikuchi, Adam Attaheri, Benjamin Wilson, Ariane E. Rhone, Kirill V. Nourski, Phillip E. Gander, Christopher K. Kovach, Hiroto Kawasaki, Timothy D. Griffiths, Matthew A. Howard III, and Christopher I. Petkov. [Sequence learning modulates neural responses and oscillatory coupling in human and monkey auditory cortex](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000219). *PLOS Biology*.
 * 2017 April 11, Partha Mitra. [Is Neuroscience Limited by Tools or Ideas?](https://www.scientificamerican.com/article/is-neuroscience-limited-by-tools-or-ideas/). *Scientific American*.
