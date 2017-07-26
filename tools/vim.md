@@ -1,7 +1,8 @@
 ---
 permalink: /tools/vim/
+title: Tools | Vim
 ---
-# Tools - Vim
+# Vim
 
 [Vim](http://www.vim.org/) is a text editor built for editing efficiency, but is also known for having a steep learning curve. In most UNIX systems, type `vi` to launch the editor, or type `vimtutor` for a brief overview.
 
