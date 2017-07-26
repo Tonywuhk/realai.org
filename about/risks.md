@@ -1,7 +1,8 @@
 ---
-permalink: /macro/
+permalink: /about/risks/
+title: About | Risks
 ---
-# Global Macro
+# Risks
 
 ## China
 

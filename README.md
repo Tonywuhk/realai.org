@@ -38,7 +38,7 @@ mathjax: true
         6. [NVIDIA Corporation](http://realai.org/industry/nvidia/)
         7. [Tencent Holdings Limited](http://realai.org/industry/tencent/)
         8. [Partnership on AI](http://realai.org/industry/pai/)
-    4. [Research Groups](http://realai.org/labs/)
+    4. [Research Groups](http://realai.org/labs/): [Conferences](http://realai.org/conferences/)
         1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
         2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
         3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)

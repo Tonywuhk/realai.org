@@ -1,6 +1,6 @@
 ---
 title: Conferences
-permalink: /resources/conferences/
+permalink: /conferences/
 ---
 # Conferences
 
@@ -10,7 +10,6 @@ permalink: /resources/conferences/
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
-|            | 2017/07/21 - 26    | Honolulu, Hawaii     | [CVPR 2017](http://cvpr2017.thecvf.com/)
 |            | 2017/07/30 - 08/04 | Vancouver, Canada    | [ACL 2017](http://acl2017.org/)
 |            | 2017/08/06 - 11    | Sydney, Australia    | [ICML 2017](https://2017.icml.cc/)
 |            | 2017/08/19 - 25    | Melbourne, Australia | [IJCAI 2017](http://ijcai-17.org/)
@@ -21,8 +20,11 @@ permalink: /resources/conferences/
 |            | 2018/02/04 - 10    | New Orleans, LA      | [AAAI 2018](http://www.aaai.org/Conferences/AAAI/aaai18.php)
 |            | 2017/03/26 - 30    | Obergurgl, Austria   | [AITP 2017](http://aitp-conference.org/2017/)
 |            | 2017/04/24 - 26    | Toulon, France       | [ICLR 2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
-           
+|            | 2018/06/18 - 23    | Salt Lake City, UT   | [CVPR 2018](http://cvpr2018.thecvf.com/)
+
 ### Past Meetings
+
+CVPR: [2017](http://cvpr2017.thecvf.com/), [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), [2014](http://cvpr2014.thecvf.com/), [2013](http://cvpr2013.thecvf.com/), [2012](http://tab.computer.org/pamitc/archive/cvpr2012/)
 
 ICLR: [2017](http://www.iclr.cc/doku.php?id=iclr2017:main), [2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [2013](https://sites.google.com/site/representationlearning2013/)
 
@@ -39,8 +41,6 @@ IJCAI: [2016](http://ijcai-16.org/index.php/welcome/view/home), [2015](http://ij
 ICML: [2016](http://icml.cc/2016/), [2015](http://icml.cc/2015/), [2014](http://icml.cc/2014/), [2013](http://icml.cc/2013/), [2012](http://icml.cc/2012/)
 
 ACL: [2016](http://acl2016.org/), [2015](http://acl2015.org/), [2014](http://acl2014.org/), [2013](http://acl2013.org/site/), [2012](http://mirror.aclweb.org/acl2012/)
-
-CVPR: [2016](http://cvpr2016.thecvf.com/), [2015](http://cvpr2015.thecvf.com/), [2014](http://cvpr2014.thecvf.com/), [2013](http://cvpr2013.thecvf.com/), [2012](http://tab.computer.org/pamitc/archive/cvpr2012/)
 
 ### Analyses
 

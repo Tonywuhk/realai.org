@@ -3,6 +3,8 @@ permalink: /labs/
 ---
 # Research Groups
 
+Below is an incomplete list of research groups around the world that potentially work on AGI or related technologies. There are also many [conferences](http://realai.org/conferences/) every year that attract researchers and industry leaders in this field.
+
 ## Industry
 
 * [DeepMind](http://realai.org/labs/deepmind/) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind/publications/)
@@ -68,6 +70,3 @@ permalink: /labs/
 * 2015 July 15. [Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze](https://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning). *Recode*. (Hinton, LeCun, and Bengio)
 * 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*. (Hassabis and Legg)
 
----
-
-*Comments and inquiries regarding this web page should be directed to [hr@realai.org](mailto:hr@realai.org).*
