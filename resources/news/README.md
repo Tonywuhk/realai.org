@@ -1,5 +1,5 @@
 ---
-permalink: /news/
+permalink: /resources/news/
 ---
 # News
 

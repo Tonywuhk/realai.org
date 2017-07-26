@@ -1,5 +1,5 @@
 ---
-permalink: /news/markets/
+permalink: /resources/news/markets/
 ---
 # Markets
 
