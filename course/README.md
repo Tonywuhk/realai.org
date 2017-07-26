@@ -11,10 +11,10 @@ permalink: /course/
 
 [GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
-* Text editor: [vim](http://realai.org/tools/vim/)
+* Text editor: [Vim](http://realai.org/tools/vim/)
+* Programming language: [Python](http://realai.org/course/python/)
 
-[Python](https://www.python.org/) is a programming language that lets you work quickly
-and integrate systems more effectively. On a newly created Ubuntu 16.04 LTS VM on GCE, we can type `python3` to launch it. The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
+The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
 
 [TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/gce/jupyter/).
 

@@ -13,6 +13,16 @@ permalink: /tools/vim/
 
 ## Useful Tricks
 
+### Search and Replace
+
+* Type `:%s/old/new/` to replace all occurrences of the string "old" with the string "new" in the file
+
+### Changing Letter Case
+
+* Type `gUU` to change all letters in the current line to upper case
+* Type `guu` to change all letters in the current line to lower case 
+* Type `g~~` to switch the case of all letters in the current line
+
 ### Multi-Line Insertion
 
 * Use or send key shortcut `Ctrl+V` to start visual block mode
