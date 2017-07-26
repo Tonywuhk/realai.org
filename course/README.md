@@ -11,7 +11,7 @@ permalink: /course/
 
 [GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
-[Vim](http://www.vim.org/) is a text editor built for editing efficiency, but is also known for having a steep learning curve. In most UNIX systems, type `vi` to launch the editor, or type `vimtutor` for a brief overview.
+* Text editor: [vim](http://realai.org/tools/vim/)
 
 [Python](https://www.python.org/) is a programming language that lets you work quickly
 and integrate systems more effectively. On a newly created Ubuntu 16.04 LTS VM on GCE, we can type `python3` to launch it. The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
