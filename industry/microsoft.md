@@ -1,5 +1,5 @@
 ---
-permalink: /companies/microsoft/
+permalink: /industry/microsoft/
 ---
 # Microsoft Corporation
 

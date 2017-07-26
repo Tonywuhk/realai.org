@@ -1,5 +1,5 @@
 ---
-permalink: /companies/facebook/
+permalink: /industry/facebook/
 title: Companies/Facebook
 ---
 # Facebook, Inc.

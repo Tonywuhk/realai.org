@@ -14,27 +14,44 @@ mathjax: true
 * 2017 July 10, Nicholas Heess, Josh Merel, and Ziyu Wang. [Producing flexible behaviours in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/). *DeepMind Blog*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Robotics](http://realai.org/robotics/))
 * 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 
-## Main Contents
+## Table of Contents
 
-1. [Introduction](http://realai.org/introduction/)
-    1. [Prosaic AI](http://realai.org/prosaic/)
-
-2. AI and Society
-    1. [Safety](http://realai.org/safety/)
+1. [Overview](http://realai.org/overview/)
+    1. [Progress](http://realai.org/progress/)
+    2. [Timing](http://realai.org/timing/)
+    3. [Prosaic AI](http://realai.org/prosaic/)
+    4. [Roadmaps](http://realai.org/roadmaps/)
+    5. [Safety](http://realai.org/safety/)
         1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Research Groups](http://realai.org/safety/research-groups/)
+ 
+2. AI and Society
+    1. [Applications](http://realai.org/applications/)
     2. [Impacts](http://realai.org/impacts/)
-    3. [Timing](http://realai.org/timing/)
-    4. [Roadmaps](http://realai.org/roadmaps/)
-    5. [Progress](http://realai.org/progress/)
-    6. [Policies](http://realai.org/policies/)
+    3. [Industry](http://realai.org/industry/)
+        1. [Alphabet Inc.](http://realai.org/industry/alphabet/)
+        2. [Facebook, Inc.](http://realai.org/industry/facebook/)
+        3. [Amazon.com, Inc.](http://realai.org/industry/amazon/)
+        4. [Microsoft Corporation](http://realai.org/industry/microsoft/)
+        5. [Apple Inc.](http://realai.org/industry/apple/)
+        6. [NVIDIA Corporation](http://realai.org/industry/nvidia/)
+        7. [Tencent Holdings Limited](http://realai.org/industry/tencent/)
+        8. [Partnership on AI](http://realai.org/industry/pai/)
+    4. [Research Groups](http://realai.org/labs/)
+        1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
+        2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
+        3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)
+        4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
+        5. [Vector Institute](http://realai.org/labs/vector-institute/)
+    5. [Policies](http://realai.org/policies/)
 
 3. [Philosophy](http://realai.org/philosophy/) of Intelligence
+    1. What Is Intelligence?
 
 4. [Course](http://realai.org/course/)
 
-5. Literature Review
+5. Frontier 
     1. Learning Methods
         1. Unsupervised Learning:
             * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
@@ -83,45 +100,5 @@ mathjax: true
         1. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
         2. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
         
-6. [Applications](http://realai.org/applications/)
-
-7. [Conclusion](http://realai.org/conclusion/)
-
-## Apendix
-
-1. [Research Groups](http://realai.org/labs/)
-    1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
-    2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
-    3. [OpenAI](http://realai.org/labs/openai/): [Publications](http://realai.org/labs/openai/publications/)
-    4. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
-    5. [Vector Institute](http://realai.org/labs/vector-institute/)
-
-2. [Companies](http://realai.org/companies/)
-    1. [Alphabet Inc.](http://realai.org/companies/alphabet/)
-    2. [Facebook, Inc.](http://realai.org/companies/facebook/)
-    3. [Amazon.com, Inc.](http://realai.org/companies/amazon/)
-    4. [Microsoft Corporation](http://realai.org/companies/microsoft/)
-    5. [Apple Inc.](http://realai.org/companies/apple/)
-    6. [NVIDIA Corporation](http://realai.org/companies/nvidia/)
-    7. [Tencent Holdings Limited](http://realai.org/companies/tencent/)
-    8. Alibaba
-    9. Baidu
-
-3. Organizations
-    1. [Partnership on AI](http://realai.org/orgs/pai/)
-    
-3. Global [Macro](http://realai.org/macro/)
-
-4. [News](http://realai.org/news/) (2017)
-    1. Past Years: [2016](http://realai.org/news/2016/), [2015](http://realai.org/news/2015/), [2014](http://realai.org/news/2014/), [2013](http://realai.org/news/2013/), [2012](http://realai.org/news/2012/)
-    2. [Markets](http://realai.org/news/markets/)
-    
-5. [Resources](http://realai.org/resources/) (Blogs; Links)
-    1. [Curriculum](http://realai.org/resources/curriculum/)
-    2. [Conferences](http://realai.org/resources/conferences/)
-    3. [Demos](http://realai.org/resources/demos/)
-    4. [Open Source Projects](http://realai.org/resources/open-source-projects/)
-
-6. [About](http://realai.org/about/) Real AI
-    1. [Corporate Administration](http://realai.org/about/admin/)
+6. Research
 

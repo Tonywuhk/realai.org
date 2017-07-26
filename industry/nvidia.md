@@ -1,5 +1,5 @@
 ---
-permalink: /companies/nvidia/
+permalink: /industry/nvidia/
 title: Companies/NVIDIA
 ---
 # NVIDIA Corporation

@@ -1,5 +1,5 @@
 ---
-permalink: /companies/amazon/
+permalink: /industry/amazon/
 title: Companies/Amazon.com
 ---
 # Amazon.com, Inc.

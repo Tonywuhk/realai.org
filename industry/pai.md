@@ -1,5 +1,5 @@
 ---
-permalink: /orgs/pai/
+permalink: /industry/pai/
 title: Organizations/Partnership on AI
 ---
 # Partnership on AI

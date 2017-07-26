@@ -1,5 +1,5 @@
 ---
-permalink: /companies/tencent/
+permalink: /industry/tencent/
 ---
 # Tencent Holdings Limited
 

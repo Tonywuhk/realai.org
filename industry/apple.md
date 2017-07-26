@@ -1,5 +1,5 @@
 ---
-permalink: /companies/apple/
+permalink: /industry/apple/
 ---
 # Apple Inc.
 
