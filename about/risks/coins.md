@@ -1,5 +1,5 @@
 ---
-permalink: /coins/
+permalink: /about/risks/coins/
 ---
 # CryptoCurrencies
 
@@ -9,18 +9,18 @@ permalink: /coins/
 * [CoinDesk](http://www.coindesk.com/) cover news and analysis in the bitcoin and digital currency world.
 * The [Cointelegraph](https://cointelegraph.com/) covers Fintech, Blockchain and Bitcoin.
 
-## Initial Coin Offerings                                                                                          
-                                                                                                                   
-A [curated list](https://www.smithandcrown.com/icos/) of initial coin offerings (ICOs) is maintained by [Smith+Crown](https://www.smithandcrown.com/).                                                                                
-                                                                                                                   
-[Basic Attention Token](https://basicattentiontoken.org/) ([BAT](https://coinmarketcap.com/assets/basic-attention-token/)) is an Ethereum-based token developed to work with the [Brave browser](https://brave.com/). On 31 May 2017, it raised about [$35 million in 30 seconds](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/). The project was [launched in late March](http://www.coindesk.com/web-browser-brave-to-launch-ico-for-ethereum-ad-token/). By 3 June 2017, BAT had a market cap of more than $160 million, according to [CoinMarketCap](https://coinmarketcap.com/assets/basic-attention-token/).                                                       
-                                                                                                                   
-[Bancor](https://www.bancor.network/) Network Token ([BNT](https://coinmarketcap.com/currencies/bancor/)) is a smart token initially deployed on the Ethereum network.                                                                
-                                                                                                                   
-[EOS](https://eos.io/) ([EOS](https://coinmarketcap.com/assets/eos/)) was proposed in May 2017 as an [enterprise scale operating system](https://www.linkedin.com/pulse/ethereum-killer-here-eos-enterprise-scale-operating-sanjay-mehta) for blockchain applications. By 1 July 2017, it [raised $185 million in 5 days](https://venturebeat.com/2017/07/01/185-million-in-5-days-block-one-sets-new-ico-record-with-its-eos-token/), setting a new ICO record.            
-                                                                                                                   
-[Tezos](https://www.tezos.com/) is a blockchain that [governs itself](https://www.tezos.com/governance) with rules for stakeholders to approve of protocal upgrades that are then automatically deployed on the network. By 5 July 2017, it [raised over $200 million in 4 days](http://mashable.com/2017/07/05/tezos-ico-cryptocurrency-startup/), setting a new ICO record. According to [ZeroHedge](http://www.zerohedge.com/news/2017-07-05/ex-goldman-hft-trader-makes-blockchain-history-raising-200-million-tezos-ico-4-days), Tezos was established by a husband and wife team.        
-                                                                                                                   
+## Initial Coin Offerings
+
+A [curated list](https://www.smithandcrown.com/icos/) of initial coin offerings (ICOs) is maintained by [Smith+Crown](https://www.smithandcrown.com/).
+
+[Basic Attention Token](https://basicattentiontoken.org/) ([BAT](https://coinmarketcap.com/assets/basic-attention-token/)) is an Ethereum-based token developed to work with the [Brave browser](https://brave.com/). On 31 May 2017, it raised about [$35 million in 30 seconds](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/). The project was [launched in late March](http://www.coindesk.com/web-browser-brave-to-launch-ico-for-ethereum-ad-token/). By 3 June 2017, BAT had a market cap of more than $160 million, according to [CoinMarketCap](https://coinmarketcap.com/assets/basic-attention-token/).
+
+[Bancor](https://www.bancor.network/) Network Token ([BNT](https://coinmarketcap.com/currencies/bancor/)) is a smart token initially deployed on the Ethereum network.
+
+[EOS](https://eos.io/) ([EOS](https://coinmarketcap.com/assets/eos/)) was proposed in May 2017 as an [enterprise scale operating system](https://www.linkedin.com/pulse/ethereum-killer-here-eos-enterprise-scale-operating-sanjay-mehta) for blockchain applications. By 1 July 2017, it [raised $185 million in 5 days](https://venturebeat.com/2017/07/01/185-million-in-5-days-block-one-sets-new-ico-record-with-its-eos-token/), setting a new ICO record.
+
+[Tezos](https://www.tezos.com/) is a blockchain that [governs itself](https://www.tezos.com/governance) with rules for stakeholders to approve of protocal upgrades that are then automatically deployed on the network. By 5 July 2017, it [raised over $200 million in 4 days](http://mashable.com/2017/07/05/tezos-ico-cryptocurrency-startup/), setting a new ICO record. According to [ZeroHedge](http://www.zerohedge.com/news/2017-07-05/ex-goldman-hft-trader-makes-blockchain-history-raising-200-million-tezos-ico-4-days), Tezos was established by a husband and wife team.
+
 [TrueBit](https://truebit.io/) claims to be a scalable verification solution for blockchains. According to its [whitepaper](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf), it has a dispute resolution layer that takes the form of a verification game.
 
 ## Markets

@@ -16,7 +16,8 @@ title: Tools | Vim
 
 ### Search and Replace
 
-* Type `:%s/old/new/` to replace all occurrences of the string "old" with the string "new" in the file
+* Type `:%s/old/new/gc` to replace all occurrences of the string "old" with the string "new" in the file, with confirmation prompts
+* Use another separator such as `#` if the strings contain the character `/`
 
 ### Changing Letter Case
 

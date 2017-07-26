@@ -17,7 +17,7 @@ title: About | Risks
 * 2017 July 10. [Will Bitcoin Tear Itself Apart?](https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month). *Bloomberg Technology*.
 * 2017 July 10. [A Trader So Secret They’re Only Known by a Number Just Made Over $200 Million in One Month](https://www.bloomberg.com/news/articles/2017-07-10/secret-millions-for-0x00a651d43b6e209f5ada45a35f92efc0de3a5184). *Bloomberg Technology*.
 
-This [legacy page](http://realai.org/coins/) contains more background information about CryptoCurrencies.
+This [legacy page](http://realai.org/about/risks/coins/) contains more background information about CryptoCurrencies.
 
 ## North Korea
 
