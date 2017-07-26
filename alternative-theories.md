@@ -1,7 +1,7 @@
 ---
-permalink: /frontiers/
+permalink: /alternative-theories/
 ---
-# Frontiers
+# Alternative Theories 
 
 It is entirely possible that breakthroughs towards AGI will come from areas other than deep learning. We will monitor progress in all relevant fields, including futuristic theories such as quantum consciousness ([Penrose 1989](https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980)).
 

@@ -87,7 +87,7 @@ mathjax: true
         7. [Imitation Learning](http://realai.org/imitation-learning/)
         8. [General Reinforcement Learning](http://realai.org/rl/general/)
     5. [Neuroscience](http://realai.org/neuroscience/)
-    6. [Frontiers](http://realai.org/frontiers/)
+    6. [Alternative Theories](http://realai.org/alternative-theories/)
     7. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
