@@ -6,7 +6,7 @@ redirect_from: /MTL/
 
 [Multi-task learning](https://en.wikipedia.org/wiki/Multi-task_learning) (MTL) is a goal of machine learning to *jointly* solve many tasks. [Caruana (1997)](https://link.springer.com/article/10.1023/A:1007379606734) characterises MTL as "training tasks in parallel while using a shared representation." On this page, our focus is the *parallel* aspect of deep learning.
 
-## Related Areas
+## Related Topics
 
 * [Continual Learning](http://realai.org/continual-learning/): Tasks are learned sequentially.
 * [Curriculum Learning](http://realai.org/curriculum-learning/): Tasks are organized in groups.
