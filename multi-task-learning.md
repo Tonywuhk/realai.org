@@ -18,7 +18,7 @@ redirect_from: /MTL/
 * 2017 July 25, Yu Zhang and Qiang Yang. [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114). *arXiv:1707.08114*.
 * 2017 June 15, [Sebastian Ruder](http://ruder.io/). [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098). *arXiv:1706.05098*. [blog](http://ruder.io/multi-task/).
 
-## Overview
+## Notes
 
 [Kaiser et al. (2017)](https://arxiv.org/abs/1706.05137) design the *MultiModel* that is trained simultaneously and achieve decent performance across 8 tasks, including speech recognition, image recognition and captioning, English parsing, and translations between English, French and German. Their model architecture incorporates depthwise separable convolutions ([Kaiser et al., 2017](https://arxiv.org/abs/1706.03059)), multi-head dot-product attention mechanism ([Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)), and sparsely-gated mixture-of-expert layers ([Shazeer et al., 2017](https://arxiv.org/abs/1701.06538)). According to a [Twitter picture](https://twitter.com/thefillm/status/845743048709464064) posted on 26 March 2017, Google's Jeff Dean talked about another single large model for multi-task learning. It is also sparsely activated, and resembles Pathnet ([Fernando et al., 2017](https://arxiv.org/abs/1701.08734)). Based on [a July 2017 slide on Facebook](https://www.facebook.com/photo.php?fbid=10208154385010936), from [seeingly the same](https://www.facebook.com/photo.php?fbid=10208154391411096) presentation, it should be [efficiently mapped](https://www.tensorflow.org/) to [specialized hardware](https://cloud.google.com/tpu/) for ML supercomputing.
 

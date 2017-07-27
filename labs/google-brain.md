@@ -20,3 +20,6 @@ The [Google Brain Residency Program](https://research.google.com/teams/brain/res
 ## Sources
 
 * 2017 January 5. [Google Brain Residency Program - 7 months in and looking ahead](https://research.googleblog.com/2017/01/google-brain-residency-program-7-months_5.html). *Google Research Blog*.
+* 2013 March 12. [Google acquires voice and image research firm DNNresearch](https://venturebeat.com/2013/03/12/google-dnnresearch/). *VentureBeat*.
+* 2013 March 12. [Google Scoops Up Neural Networks Startup DNNresearch To Boost Its Voice And Image Search Tech](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/). *TechCrunch*.
+

@@ -3,6 +3,7 @@ permalink: /resources/news/
 ---
 # News
 
+* 2017 July 25. [Khosla Ventures leads $50 million investment in Vicarious’ AI tech](https://venturebeat.com/2017/07/25/khosla-ventures-leads-50-million-investment-in-vicarious-ai-tech/amp/). *VentureBeat*.
 * 2017 July 20. [国务院印发《新一代人工智能发展规划》](http://www.gov.cn/xinwen/2017-07/20/content_5212064.htm) *www.gov.cn*.
 * 2017 July 15. [专访 UCL 教授汪军：中国能不能出现像 DeepMind 这样的企业？\| CCF-GAIR 2017](https://m.leiphone.com/news/201707/3tgq679xJMqKGhxM.html). *leiphone.com*.
 * 2017 July 11. [Facebook Is Building a “Village” for Its Workers. More Big Companies Should Do That.](http://www.slate.com/blogs/future_tense/2017/07/11/facebook_is_building_a_village_more_companies_should_too.html) *Slate*.
@@ -176,4 +177,4 @@ permalink: /resources/news/
 * 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
 * 2017 January 2. [Summary of NIPS 2016](http://blog.evjang.com/2017/01/nips2016.html). *Eric Jang*.
 
-Older news: [2016](http://realai.org/resources/news/2016/), [2015](http://realai.org/resources/news/2015/), [2014](http://realai.org/resources/news/2014/), [2013](http://realai.org/resources/news/2013/), [2012](http://realai.org/resources/news/2012/) \| [Markets](http://realai.org/resources/news/markets/)
+Older news: [2016](http://realai.org/resources/news/2016/), [2014](http://realai.org/resources/news/2014/) \| [Markets](http://realai.org/resources/news/markets/)
