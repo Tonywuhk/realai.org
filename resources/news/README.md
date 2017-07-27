@@ -1,5 +1,6 @@
 ---
 permalink: /resources/news/
+redirect_from: /news/
 ---
 # News
 
