@@ -5,9 +5,7 @@ permalink: /resources/
 
 * [Curriculum](http://realai.org/resources/curriculum/)
 * [Demos](http://realai.org/resources/demos/)
-* [News](http://realai.org/resources/news/) (2017)
-    * Past Years: [2016](http://realai.org/resources/news/2016/), [2015](http://realai.org/resources/news/2015/), [2014](http://realai.org/resources/news/2014/), [2013](http://realai.org/resources/news/2013/), [2012](http://realai.org/resources/news/2012/)
-    * [Markets](http://realai.org/resources/news/markets/)
+* [News](http://realai.org/resources/news/) (2017): [2016](http://realai.org/resources/news/2016/), [2014](http://realai.org/resources/news/2014/) \|[Markets](http://realai.org/resources/news/markets/)
 * [Open Source Projects](http://realai.org/resources/open-source-projects/)
 
 ## Funding
