@@ -1,5 +1,6 @@
 ---
 permalink: /multi-task-learning/
+redirect_from: /MTL/
 ---
 # Multi-Task Learning
 
