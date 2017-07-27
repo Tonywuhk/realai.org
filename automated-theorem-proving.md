@@ -1,5 +1,6 @@
 ---
 permalink: /automated-theorem-proving/
+redirect_from: /ATP/
 ---
 # Automated Theorem Proving
 
