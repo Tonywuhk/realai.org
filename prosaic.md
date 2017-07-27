@@ -7,6 +7,8 @@ Deep learning has achieved great successes in areas of artificial intelligence o
 
 It seems increasingly plausible that high-level machine intelligence could be built by scaling up current methods in deep learning, without qualitatively new ideas about "how intelligence works" ([Christiano, 2016](https://ai-alignment.com/prosaic-ai-control-b959644d79c2)). Complex intelligent behavior can emerge from generic learning objectives when deep neural network-based models have sufficient learning capacity, and training data contains sufficient richness and diversity. Moreover, similar behavior is difficult to induce by explicit engineering in simple environments as solutions found are often idiosyncratic because they overfit the learning objectives. Under this premise, the improvement of engineering capability will lead to the creation of AGI. In a July 2017 [online report](http://www.jefftk.com/p/conversation-with-an-ai-researcher), the view from an anonymous AI researcher at one of the main industry labs is that progress in ML is "almost entirely constrained by hardware and data."
 
+Our emphasis on Prosaic AI is about plausibility. Deep learning is only one way towards building AGI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, physics and other fields. Even inside machine learning, advanced systems can be built that do not use neural networks. They're promising directions but are beyond the current scope of Real AI’s efforts.
+
 ## Progress
 
 ### Locomotion Behavior

@@ -28,6 +28,8 @@ A standard learning architecture can be made more flexible and efficient when it
 
 In a standard neural network learning setup, the update rules of the network's weights can also be learned using guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
+It is plausible that in some deep learning architectures, a network can dynamically change the topology of another network. We hope to cover this direction in the future.
+
 ## References
 
 * 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
