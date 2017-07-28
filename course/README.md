@@ -6,6 +6,7 @@ permalink: /course/
 ## Basic IT
 
 * Virtual Machines: [Google Compute Engine](http://realai.org/course/GCE/)
+* Interactive Code Editor: [Jupyter Notebook](http://realai.org/course/jupyter/)
 
 [Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course.
 
@@ -13,8 +14,6 @@ permalink: /course/
 
 * Text editor: [Vim](http://realai.org/course/tools/vim/)
 * Programming language: [Python](http://realai.org/course/python/)
-
-The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
 
 [TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/GCE/jupyter/).
 
