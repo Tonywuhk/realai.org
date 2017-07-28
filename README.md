@@ -39,7 +39,7 @@ mathjax: true
 3. [Course](http://realai.org/course/)
     1. Tools: bash \| grep \| sed \| awk \| [Vim](http://realai.org/course/tools/vim/)
 
-4. [Review](http://realai.org/review/)
+4. [Frontiers](http://realai.org/frontiers/)
     1. Outstanding Challenges
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model
