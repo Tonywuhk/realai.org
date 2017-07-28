@@ -1,9 +1,9 @@
 ---
-permalink: /course/tpu-tf-nmt/
+permalink: /course/GCE/gpu-tf-nmt/
 ---
 # Lab - Neural Machine Translation on Cloud GPU
 
-*DRAFT - Last Updated: July 19, 2017*
+*Last Updated: July 28, 2017*
 
 In this experiment, we walk through the steps to train a neural machine translation model with a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) on [Google cloud](https://cloud.google.com/).
 

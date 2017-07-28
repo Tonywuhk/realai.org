@@ -9,4 +9,5 @@ permalink: /course/GCE/
 
 * [Using Remote Desktop to NetSurf on Xfce4 via Xrdp](http://realai.org/course/GCE/rdp-netsurf-xfce4/)
 * [Running Jupyter](http://realai.org/course/GCE/jupyter/)
+* [Neural Machine Translation on Cloud GPU](http://realai.org/course/GCE/gpu-tf-nmt/)
 
