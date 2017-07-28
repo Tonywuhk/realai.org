@@ -1,5 +1,5 @@
 ---
-permalink: /course/gce/jupyter/
+permalink: /course/GCE/jupyter/
 ---
 # Lab - Running Jupyter on Google Compute Engine
 

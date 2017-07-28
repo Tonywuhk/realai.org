@@ -16,7 +16,7 @@ permalink: /course/
 
 The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
 
-[TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/gce/jupyter/).
+[TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/GCE/jupyter/).
 
 ## Recurrent Neural Networks
 
