@@ -5,7 +5,7 @@ permalink: /course/
 
 ## Basic IT
 
-* Virtual Machines: [Google Compute Engine](https://cloud.google.com/compute/)
+* Virtual Machines: [Google Compute Engine](http://realai.org/course/GCE/)
 
 [Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course.
 

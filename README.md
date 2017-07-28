@@ -37,7 +37,8 @@ mathjax: true
 2. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
-    1. Tools: bash \| grep \| sed \| awk \| [Vim](http://realai.org/course/tools/vim/)
+    1. [Google Compute Engine](http://realai.org/course/GCE/)
+    2. Tools: bash \| grep \| sed \| awk \| [Vim](http://realai.org/course/tools/vim/)
 
 4. [Frontiers](http://realai.org/frontiers/)
     1. Outstanding Challenges
