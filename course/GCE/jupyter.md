@@ -5,7 +5,7 @@ permalink: /course/GCE/jupyter/
 
 *Last Updated: July 26, 2017*
 
-It is very easy to setup a remote [Jupyter Notebook](http://jupyter.org/) with [Google Compute Engine](https://cloud.google.com/compute/). First we create a firewall rule. Then we create a virtual machine subject to that rule. Finally a few commands to install Jupyter, we're all set to launch and access it from the web.
+It is very easy to setup a remote [Jupyter Notebook](http://realai.org/course/GCE/jupyter/) with [Google Compute Engine](https://cloud.google.com/compute/). First we create a firewall rule. Then we create a virtual machine subject to that rule. Finally a few commands to install Jupyter, we're all set to launch and access it from the web.
 
 ## Create a Firewall Rule
 
