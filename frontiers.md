@@ -1,7 +1,7 @@
 ---
-permalink: /review/
+permalink: /frontiers/
 ---
-# Review
+# Frontiers
 
 The most crucial ability of an intelligent system is the ability of learning. To achieve AGI, it is widely believed that several objectives need to be accomplished:
 

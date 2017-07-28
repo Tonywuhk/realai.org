@@ -37,55 +37,60 @@ mathjax: true
 2. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
+    1. Tools: bash \| grep \| sed \| awk \| [Vim](http://realai.org/course/tools/vim/)
 
 4. [Review](http://realai.org/review/)
-    1. Learning Methods
-        1. Unsupervised Learning:
-            * [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
-                * [Predictive Learning](http://realai.org/predictive-learning/)
-        2. [Multi-Task Learning](http://realai.org/multi-task-learning/): [Continual Learning](http://realai.org/continual-learning/), Transfer Learning, Curriculum Learning
-        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/): [Concept Learning](http://realai.org/concept-learning/)
-        4. [Meta-Learning](http://realai.org/meta-learning/): Few-Shot Learning
-    2. Learning Outcomes
+    1. Outstanding Challenges
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model
-        3. [Reasoning](http://realai.org/reasoning/)
-        4. [Attention](http://realai.org/attention/)
-        5. Memory
-    3. Deep Learning
-        1. [Network Architecture](http://realai.org/network-architecture/)
-            * [Architecture Search](http://realai.org/architecture-search/)
-            * [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-            * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
-        2. [Learning Rules](http://realai.org/learning-rules/)
-        3. [Adversarial Learning](http://realai.org/adversarial-learning/)
-        4. [Generative Models](http://realai.org/generative-models/)
-        5. [Platforms](http://realai.org/learning-platforms/)
+        3. [Planning](http://realai.org/planning/)
+        4. [Reasoning](http://realai.org/reasoning/)
+    2. Learning Goals
+        1. [Concept Learning](http://realai.org/concept-learning/)
+        2. [Continual Learning](http://realai.org/continual-learning/)
+        3. [Few-Shot Learning](http://realai.org/few-shot-learning/)
+        4. [Multi-Task Learning](http://realai.org/multi-task-learning/)
+        5. [Predictive Learning](http://realai.org/predictive-learning/)
+        6. [Transfer Learning](http://realai.org/transfer-learning/)
+        7. Unsupervised Learning
+    3. Learning Techniques
+        1. [Attention](http://realai.org/attention/)
+        2. [Curriculum Learning](http://realai.org/curriculum-learning/)
+        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/):          
+        4. [Imitation Learning](http://realai.org/imitation-learning/)
+        5. [Meta-Learning](http://realai.org/meta-learning/)
+        6. Memory
     4. Reinforcement Learning
         1. [Safe Reinforcement Learning](http://realai.org/rl/safety/)
         2. [Agents](http://realai.org/rl/agents/)
         3. [Model-Free Algorithms](http://realai.org/rl/model-free/)
-        4. [Planning](http://realai.org/planning/)
-        5. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
-            * [Prediction](http://realai.org/predictive-learning/)
+        4. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Exploration](http://realai.org/exploration/)
             * [Empowerment](http://realai.org/empowerment/)
-        6. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-        7. [Imitation Learning](http://realai.org/imitation-learning/)
-        8. [General Reinforcement Learning](http://realai.org/rl/general/)
-    5. [Neuroscience](http://realai.org/neuroscience/)
-    6. [Alternative Theories](http://realai.org/alternative-theories/)
-    7. Experiments
+        5. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+        6. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
+        7. [General Reinforcement Learning](http://realai.org/rl/general/)
+        8. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
+    5. Deep Learning
+        1. [Network Architecture](http://realai.org/network-architecture/)
+            * [Architecture Search](http://realai.org/architecture-search/)
+            * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
+            * Neural Interface
+        2. [Learning Rules](http://realai.org/learning-rules/)
+        3. Evolutionary Algorithms
+        4. [Adversarial Learning](http://realai.org/adversarial-learning/)
+        5. [Generative Models](http://realai.org/generative-models/)
+        6. [Platforms](http://realai.org/learning-platforms/)
+        7. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
+        8. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
+    6. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Games](http://realai.org/games/)
         5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-    8. Theory
-        1. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
-    9. Implementation
-        1. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
-        2. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
+    7. [Neuroscience](http://realai.org/neuroscience/)
+    8. [Alternative Theories](http://realai.org/alternative-theories/)
         
 5. Research
 

@@ -1,5 +1,5 @@
 ---
-permalink: /tools/vim/
+permalink: /course/tools/vim/
 title: Tools | Vim
 ---
 # Vim
