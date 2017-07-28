@@ -7,8 +7,8 @@ mathjax: true
 ## What's New
 
 * 2017 July 26, Irina Higgins, Arka Pal, Andrei A. Rusu, Loic Matthey, Christopher P Burgess, Alexander Pritzel, Matthew Botvinick, Charles Blundell, and Alexander Lerchner. [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475). *arXiv:1707.08475*. [video](https://youtu.be/sZqrWFl0wQ4). ([DeepMind](http://realai.org/labs/deepmind/publications/); [Transfer Learning](http://realai.org/transfer-learning/))
-* 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/). ([DeepMind](http://realai.org/labs/deepmind/publications/); [Model-Free Reinforcement Learning](http://realai.org/rl/model-free/))
-* 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reinforcement Learning Agents](http://realai.org/rl/agents/))
+* 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/). ([DeepMind](http://realai.org/labs/deepmind/publications/); [Model-Free Reinforcement Learning](http://realai.org/RL/model-free/))
+* 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Reinforcement Learning Agents](http://realai.org/RL/agents/))
 * 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Planning](http://realai.org/planning/))
 * 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Concept Learning](http://realai.org/concept-learning/))
 * 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*. ([Meta-Learning](http://realai.org/meta-learning/))
@@ -60,16 +60,16 @@ mathjax: true
         4. [Imitation Learning](http://realai.org/imitation-learning/)
         5. [Meta-Learning](http://realai.org/meta-learning/)
         6. Memory
-    4. Reinforcement Learning
-        1. [Safe Reinforcement Learning](http://realai.org/rl/safety/)
-        2. [Agents](http://realai.org/rl/agents/)
-        3. [Model-Free Algorithms](http://realai.org/rl/model-free/)
+    4. [Reinforcement Learning](http://realai.org/RL/)
+        1. [Safe Reinforcement Learning](http://realai.org/RL/safety/)
+        2. [Agents](http://realai.org/RL/agents/)
+        3. [Model-Free Algorithms](http://realai.org/RL/model-free/)
         4. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
             * [Exploration](http://realai.org/exploration/)
             * [Empowerment](http://realai.org/empowerment/)
         5. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
         6. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-        7. [General Reinforcement Learning](http://realai.org/rl/general/)
+        7. [General Reinforcement Learning](http://realai.org/RL/general/)
         8. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
     5. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)

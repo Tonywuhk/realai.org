@@ -1,5 +1,5 @@
 ---
-permalink: /rl/safety/
+permalink: /RL/safety/
 ---
 # Safe Reinforcement Learning
 

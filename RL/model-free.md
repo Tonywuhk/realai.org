@@ -1,5 +1,5 @@
 ---
-permalink: /rl/model-free/
+permalink: /RL/model-free/
 mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
