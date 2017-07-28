@@ -11,7 +11,7 @@ permalink: /course/
 
 [GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
-* Text editor: [Vim](http://realai.org/tools/vim/)
+* Text editor: [Vim](http://realai.org/course/tools/vim/)
 * Programming language: [Python](http://realai.org/course/python/)
 
 The [Jupyter Notebook](http://jupyter.org/) is an open source project that was born out of the [IPython Project](https://ipython.org/), and is a good tool for interactive data science and scientific computing.
