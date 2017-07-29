@@ -18,7 +18,7 @@ mathjax: true
 ## Main Contents
 
 1. AI and Society ([Overview](http://realai.org/overview/))
-    1. [Progress](http://realai.org/progress/)
+    1. [Progress](http://realai.org/progress/): [Forecasts](http://realai.org/forecasts/)
     2. [Timing](http://realai.org/timing/)
     3. [Prosaic AI](http://realai.org/prosaic/)
     4. [Roadmaps](http://realai.org/roadmaps/)
