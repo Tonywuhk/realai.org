@@ -8,7 +8,7 @@ The basic idea of using artificial neural networks to build human-level intellig
 Since 2012, there have been rapid advances in various fronts towards the technology to build general intelligence. A common theme in these advances is that the basic ideas were discovered decades ago, long before it was practical to test them out in large scale. With enough computing power, natural extensions of those ideas demonstrated surprising successes in many cognitive tasks. At the RSA Conference on 23 February 2017, Alphabet chairman Eric Schmidt [said in an interview](https://youtu.be/-UViiNq-dxk?t=6m) that both he and Alphabet co-founder Larry Page now believe that simple algorithms can scale to reproduce human abilities.
 
 * Community Effort: [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics). *Electronic Frontier Foundation*.
-* What's Next: [Forecasts](http://realai.org/forecasts/)
+* What's Next: [Forecasts](http://realai.org/forecasts/).
 
 ## Deep Neural Networks
 

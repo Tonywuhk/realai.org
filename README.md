@@ -34,7 +34,8 @@ mathjax: true
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Research Groups](http://realai.org/safety/research-groups/)
  
-2. [Philosophy](http://realai.org/philosophy/) of Intelligence
+2. Understanding AI
+    1. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
     1. [Google Compute Engine](http://realai.org/course/GCE/): Ubuntu virtual machines
