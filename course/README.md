@@ -13,7 +13,7 @@ permalink: /course/
 [GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
 
 * Text editor: [Vim](http://realai.org/course/tools/vim/)
-* Text processing: [grep]((http://realai.org/course/tools/grep/), sed, awk, and regular expression
+* Text processing: [grep](http://realai.org/course/tools/grep/), sed, awk, and regular expression
 * Programming language: [Python](http://realai.org/course/python/)
 
 [TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/GCE/jupyter/).
