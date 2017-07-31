@@ -27,6 +27,11 @@ In June 2017, Apple's CEO Tim Cook for the first time [elaborated on](https://ww
 
 * 2017 July 21. [Microsoft Regains Turnaround Momentum on Strong Cloud Growth](https://www.bloomberg.com/news/articles/2017-07-20/microsoft-sales-profit-top-estimates-as-cloud-growth-marches-on). *Bloomberg Technology*.
 
+### Personalized Feed
+
+* 2017 July 19. [Google introduces the feed, a personalized stream of news on iOS and Android](https://www.theverge.com/2017/7/19/15994156/google-feed-personalized-news-stream-android-ios-app). *The Verge*.
+* 2017 July 26. [How The New Google Feed Can Outperform Facebook](https://www.forbes.com/sites/nelsongranados/2017/07/26/how-the-new-google-feed-can-outperform-facebook/). *Forbes*.
+
 ### Hardware
 
 Bristol, UK-based startup Graphcore received a [$30 million Series A](https://www.hpcwire.com/2016/11/01/graphcore-100x-speedup-pcie-plugin/) in November 2016, and a [$30 million Series B](https://www.hpcwire.com/2017/07/20/graphcore-readies-launch-16nm-colossus-ipu-chip/) in July 2017 to launch its Intelligent Processing Unit (IPU) before the end of 2017. Investors include Demis Hassabis, Zoubin Ghahramani, Pieter Abbeel, Greg Brockman, and Ilya Sutskever. Graphcore released [stunning "brain scans" images](http://www.wired.co.uk/article/ai-machine-learning-brain-scan) in February 2017.

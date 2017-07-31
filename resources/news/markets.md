@@ -40,4 +40,5 @@ permalink: /resources/news/markets/
 * 2016 June 13. [Microsoft Pays $26 Billion for LinkedIn in Biggest Deal Yet](https://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9). *Bloomberg*.
 * 2015 July 16. [Google Spikes 8% After Reporting Better-Than-Expected Q2 EPS Of $6.99](https://techcrunch.com/2015/07/16/google-q2-2015-earnings/). *TechCrunch*.
 
-AI News: [2017](http://realai.org/resources/news/), [2016](http://realai.org/resources/news/2016/), [2015](http://realai.org/resources/news/2015/), [2014](http://realai.org/resources/news/2014/), [2013](http://realai.org/resources/news/2013/), [2012](http://realai.org/resources/news/2012/)
+AI News: [2017](http://realai.org/resources/news/), [2016](http://realai.org/resources/news/2016/) 
+

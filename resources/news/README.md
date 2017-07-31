@@ -178,4 +178,4 @@ redirect_from: /news/
 * 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
 * 2017 January 2. [Summary of NIPS 2016](http://blog.evjang.com/2017/01/nips2016.html). *Eric Jang*.
 
-Older news: [2016](http://realai.org/resources/news/2016/), [2014](http://realai.org/resources/news/2014/) \| [Markets](http://realai.org/resources/news/markets/)
+Other news: [2016](http://realai.org/resources/news/2016/) \| [Markets](http://realai.org/resources/news/markets/)

@@ -31,11 +31,14 @@ The scope of an AI system ranges from classical reinforcement learning agents th
 
 [Integrated information theory](https://en.wikipedia.org/wiki/Integrated_information_theory) is a proposed fundamental theory of consciousness that, according to a Wired [report](https://www.wired.com/2013/11/christof-koch-panpsychism-consciousness/) in 2013, assigns to any complex system a number of how integrated it is, as a measure of consciousness.
 
+The attention schema theory (AST; [Webb & Graziano, 2015](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00500/full)) explains consciousness using the mechanics of [attention](http://realai.org/attention/). In an [introductory article](https://www.theatlantic.com/science/archive/2016/06/how-consciousness-evolved/485558/) published in June 2016, Graziano explained the development of mechanism capable of self-modelling in three stages: selective signal enhancement, overt attention, and covert attention. AST started as a model of one’s own covert attention and enabled the brain to attribute consciousness to itself.
+
 ### References
 
 * 2017 July 27, Yul H.R. Kang, Frederike H. Petzschner, Daniel M. Wolpert, and Michael N. Shadlen. [Piercing of Consciousness as a Threshold-Crossing Operation](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30784-4). *Current Biology*.
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
 * 2017 May 18, Karl Friston. [The mathematics of mind-time](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference). *Aeon*.
+* 2015 April 23, Taylor W. Webb and Michael S. A. Graziano. [The attention schema theory: a mechanistic account of subjective awareness](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00500/full). *Front. Psychol.*
 
 ## Creativity
 
