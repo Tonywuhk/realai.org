@@ -21,7 +21,7 @@ Givewell indicated in a August 2013 [blog](http://blog.givewell.org/2013/08/13/e
 
 ## AI as an EA Cause
 
-The [Machine Intelligence Research Institute](http://realai.org/safety/research-groups/#machine-intelligence-research-institute) was founded in 2000 on the premise that creating Friendly AI might be a particularly efficient way to do as much good as possible. Its then Executive Director, Luke Muehlhauser, [argued](https://intelligence.org/2013/06/05/friendly-ai-research-as-effective-altruism/) on 5 June 2013 that Friendly AI research is EA, focusing on the reduction of existential risk, but not the benefits such AIs could potentially produce. MIRI [considers](https://intelligence.org/2013/07/11/july-newsletter/) spreading EA as an indirect effort to influence AI development, and its Friendly AI research as a direct effort in the *long-term future* [focus area](http://lesswrong.com/lw/hx4/four_focus_areas_of_effective_altruism/) of EA.
+The [Machine Intelligence Research Institute](http://realai.org/safety/organizations/#machine-intelligence-research-institute) was founded in 2000 on the premise that creating Friendly AI might be a particularly efficient way to do as much good as possible. Its then Executive Director, Luke Muehlhauser, [argued](https://intelligence.org/2013/06/05/friendly-ai-research-as-effective-altruism/) on 5 June 2013 that Friendly AI research is EA, focusing on the reduction of existential risk, but not the benefits such AIs could potentially produce. MIRI [considers](https://intelligence.org/2013/07/11/july-newsletter/) spreading EA as an indirect effort to influence AI development, and its Friendly AI research as a direct effort in the *long-term future* [focus area](http://lesswrong.com/lw/hx4/four_focus_areas_of_effective_altruism/) of EA.
 
 Using a [framework](https://80000hours.org/articles/problem-framework/) to compare different global problems in terms of impact, 80,000 Hours produced a [list](https://80000hours.org/articles/cause-selection/) of global problems. As of March 2017, [risks from artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranked on top, and other problems on the list, such as global priorities research, biosecurity, world health, and climate change, can clearly use a lot of help from safe and beneficial AI.
 
@@ -29,7 +29,7 @@ In a [TED talk](https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_be
 
 ## Select List of Organizations
 
-Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety research groups](http://realai.org/safety/research-groups/).
+Below is a non-exhaustive list of organizations that are related to effetive altruism and not considered [AI safety organizations](http://realai.org/safety/organizations/).
 
 ### Centre for Effective Altruism
 
@@ -42,7 +42,7 @@ Below is a non-exhaustive list of organizations that are related to effetive alt
 
 CEA has 15 employees and 25 volunteers. Staff include
 
-* [Amy Willey Labenz](https://www.centreforeffectivealtruism.org/team/amy-willey-labenz/), Senior Events Manager, General Counsel. [Former COO](https://intelligence.org/2013/01/09/january-2013-newsletter/) of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
+* [Amy Willey Labenz](https://www.centreforeffectivealtruism.org/team/amy-willey-labenz/), Senior Events Manager, General Counsel. [Former COO](https://intelligence.org/2013/01/09/january-2013-newsletter/) of [MIRI](http://realai.org/safety/organizations/#machine-intelligence-research-institute).
 * [Harri Besceli](https://www.centreforeffectivealtruism.org/team/harri/), EA Groups Liaison.
 
 CEA operates the Internet portal [effectivealtruism.org](https://www.effectivealtruism.org/) and runs the following projects:
@@ -59,7 +59,7 @@ In the fiscal year ending on [30 June 2016](http://apps.charitycommission.gov.uk
 [Stiftung für Effektiven Altruismus](https://ea-stiftung.org/) ([Effective Altruism Foundation](https://ea-foundation.org/), aka EAF) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible. EAF was founded in August of 2015 in Basel, Switzerland. Its co-executive directors are Tobias Pulver and Ruairí Donnelly. It has the equivalent of 24 full-time [employees](https://ea-foundation.org/team/) working on the following projects:
 
 * [Raising for Effective Giving](https://reg-charity.org/) is a "meta-charity" that brings together high-earning professionals who want to maximize their positive impact on the world.
-* [Foundational Research Institute](https://foundational-research.org/)'s mission is to identify cooperative and effective strategies to reduce involuntary suffering. It's considered an [AI safety research group](http://realai.org/safety/research-groups/#foundational-research-institute) as its current [research](https://foundational-research.org/research/) focus is on the implications of smarter-than-human artificial intelligence.
+* [Foundational Research Institute](https://foundational-research.org/)'s mission is to identify cooperative and effective strategies to reduce involuntary suffering. It's considered an [AI safety research group](http://realai.org/safety/organizations/#foundational-research-institute) as its current [research](https://foundational-research.org/research/) focus is on the implications of smarter-than-human artificial intelligence.
 * [Sentience Politics](http://sentience-politics.org/) is an anti-speciesist think tank that strives towards a society that reflects the interests of all sentient beings, regardless of their species.
 * The *outreach* program is designed to spread EA to a wider audience. EAF is currently working to popularize EA within the German-speaking world through local groups in several cities by hosting regular lectures, discussion events, networking meetups, workshops, and panel discussions.
 
@@ -84,7 +84,7 @@ Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana)
 * [Elie Hassenfeld](http://www.openphilanthropy.org/about/team/elie-hassenfeld), Managing Director.
 * [Nick Beckstead](http://www.openphilanthropy.org/about/team/nick-beckstead), Program Officer, Scientific Research. He is also a Trustee of the Centre for Effective Altruism.
 * [Daniel Dewey](http://www.openphilanthropy.org/about/team/daniel-dewey), Program Officer, Potential Risks from Advanced Artificial Intelligence.
-* [Luke Muehlhauser](http://www.openphilanthropy.org/about/team/luke-muehlhauser), Research Analyst. He was previously the Executive Director of [MIRI](http://realai.org/safety/research-groups/#machine-intelligence-research-institute).
+* [Luke Muehlhauser](http://www.openphilanthropy.org/about/team/luke-muehlhauser), Research Analyst. He was previously the Executive Director of [MIRI](http://realai.org/safety/organizations/#machine-intelligence-research-institute).
 * [Helen Toner](http://www.openphilanthropy.org/about/team/helen-toner), Senior Research Analyst.
 
 In July 2017, OPP awarded a grant of $2.4 million over four years to the Montreal Institute for Learning Algorithms (MILA). A list of OPP's AI-related grants can be found in its [Grants Database](http://www.openphilanthropy.org/giving/grants) by applying "*Potential Risks from Advanced Artificial Intelligence*" to the criterion "FOCUS AREA". Disclosures there suggest that there are likely close relationships between the staff members of OPP and its grantees, possibly due to involvement in the EA community. Below are two examples where staff members share the same house:

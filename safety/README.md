@@ -7,7 +7,7 @@ permalink: /safety/
 
 * [Value Alignment](http://realai.org/safety/alignment/)
 
-The topic of AI safety has attracted the attention from many [research groups](http://realai.org/safety/research-groups/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
+The topic of AI safety has attracted the attention of many [organizations](http://realai.org/safety/organizations/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
 
 ## Links
 

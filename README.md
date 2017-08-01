@@ -32,7 +32,7 @@ mathjax: true
     9. [Safety](http://realai.org/safety/)
         1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
-        3. [Research Groups](http://realai.org/safety/research-groups/)
+        3. [Organizations](http://realai.org/safety/organizations/)
  
 2. Understanding AI
     1. [Philosophy](http://realai.org/philosophy/) of Intelligence

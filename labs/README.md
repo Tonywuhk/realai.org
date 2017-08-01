@@ -59,7 +59,7 @@ Below is an incomplete list of research groups around the world that potentially
 
 ## Links
 
-* [AI safety research groups](http://realai.org/safety/research-groups/)
+* Some [AI safety organizations](http://realai.org/safety/organizations/) also conduct technical AI research
 
 ## News Archive
 

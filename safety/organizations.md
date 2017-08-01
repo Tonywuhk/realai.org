@@ -1,7 +1,7 @@
 ---
-permalink: /safety/research-groups/
+permalink: /safety/organizations/
 ---
-# AI Safety Research Groups
+# AI Safety Organizations 
 
 Many research groups that work on AI safety are connected with [effective altruism](http://realai.org/safety/effective-altruism/) (EA).
 
