@@ -5,16 +5,23 @@ permalink: /course/
 
 ## Basic IT
 
+### Computers
+
 * Virtual Machines: [Google Compute Engine](http://realai.org/course/GCE/)
+
+### Tools
+
+* Operating System: [Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course
+* Text processing: [grep](http://realai.org/course/tools/grep/), sed, awk, and regular expressions
+* Text editor: [Vim](http://realai.org/course/tools/vim/) 
+* Version control system: [Git](http://realai.org/course/tools/git/)
+
+### Programming
+
 * Interactive Code Editor: [Jupyter Notebook](http://realai.org/course/jupyter/)
-
-[Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course.
-
-[GitHub](https://github.com/) is a popular code repository hosting site that uses the [Git](https://git-scm.com/) version control system. [Git How To](https://githowto.com/) offers a simple guided tour that walks through the fundamentals of Git.
-
-* Text editor: [Vim](http://realai.org/course/tools/vim/)
-* Text processing: [grep](http://realai.org/course/tools/grep/), sed, awk, and regular expression
 * Programming language: [Python](http://realai.org/course/python/)
+
+### Deep Learning
 
 [TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/GCE/jupyter/).
 
