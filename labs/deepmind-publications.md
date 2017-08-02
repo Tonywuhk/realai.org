@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 August 1, Kartik Goyal, Graham Neubig, Chris Dyer, and Taylor Berg-Kirkpatrick. [A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models](https://arxiv.org/abs/1708.00111). *arXiv:1708.00111*.
+* 2017 July 31, Kevin J Miller, Matthew M Botvinick, and Carlos D Brody. [Dorsal hippocampus contributes to model-based planning](https://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4613.html). *Nature Neuroscience*.
 * 2017 July 27, Matej Večerík, Todd Hester, Jonathan Scholz, Fumin Wang, Olivier Pietquin, Bilal Piot, Nicolas Heess, Thomas Rothörl, Thomas Lampe, and Martin Riedmiller. [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://arxiv.org/abs/1707.08817). *arXiv:1707.08817*. [video](https://www.youtube.com/watch?v=Vno6FGqhvDc&feature=youtu.be).
 * 2017 July 26, Irina Higgins, Arka Pal, Andrei A. Rusu, Loic Matthey, Christopher P Burgess, Alexander Pritzel, Matthew Botvinick, Charles Blundell, and Alexander Lerchner. [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475). *arXiv:1707.08475*. [video](https://youtu.be/sZqrWFl0wQ4).
 * 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/).
