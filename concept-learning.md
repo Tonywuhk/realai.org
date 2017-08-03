@@ -8,7 +8,7 @@ mathjax: true
 
 ### References
 
-* 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. [blog](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/).
+* 2017 July 12, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. [blog](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/).
 * 2016 September 20, Irina Higgins, Loic Matthey, Xavier Glorot, Arka Pal, Benigno Uria, Charles Blundell, Shakir Mohamed, and Alexander Lerchner. [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/abs/1606.05579). *arXiv:1606.05579*.
 
 ## Disentangled Representations
