@@ -29,8 +29,9 @@ In June 2017, Apple's CEO Tim Cook for the first time [elaborated on](https://ww
 
 ### Personalized Feed
 
-* 2017 July 19. [Google introduces the feed, a personalized stream of news on iOS and Android](https://www.theverge.com/2017/7/19/15994156/google-feed-personalized-news-stream-android-ios-app). *The Verge*.
 * 2017 July 26. [How The New Google Feed Can Outperform Facebook](https://www.forbes.com/sites/nelsongranados/2017/07/26/how-the-new-google-feed-can-outperform-facebook/). *Forbes*.
+* 2017 July 19. [Google’s New Feeds Show You the Internet You Want to See](https://www.wired.com/story/googles-new-feeds-show-you-the-internet-you-want-to-see). *Wired*.
+* 2017 July 19. [Google introduces the feed, a personalized stream of news on iOS and Android](https://www.theverge.com/2017/7/19/15994156/google-feed-personalized-news-stream-android-ios-app). *The Verge*.
 
 ### Hardware
 

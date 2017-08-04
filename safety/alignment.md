@@ -18,4 +18,5 @@ For a sophisticated reinforcement learning agent to act in a way aligned with hu
 
 ### References
 
-* 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*.
+* 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*. [code](https://github.com/nottombrown/rl-teacher).
+

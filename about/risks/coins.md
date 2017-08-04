@@ -37,6 +37,8 @@ On 30 May 2017, Ethereum [had higher 24-hour trading volume](https://cointelegra
 
 ## Exchanges
 
+* 2017 August 3. [Bitcoin Exchange Had Too Many Bitcoins](https://www.bloomberg.com/view/articles/2017-08-02/bitcoin-exchange-had-too-many-bitcoins). *Bloomberg View*.
+
 There are [dozens of](https://www.cryptocoincharts.info/markets/info) of cryptocurrency exchanges. On 7-8 May 2017, San Francisco-based [Kraken](https://www.kraken.com/) and Delaware-based [Poloniex](https://poloniex.com/) experienced DDoS attacks during which a large Ethereum sell order caused many leveraged positions to be liquidated. The Cointelegraph [reported on 15 May 2017](https://cointelegraph.com/news/bitcoin-exchanges-kraken-poloniex-to-be-scrutinized-for-possible-insider-trading-manipulation) that these exchanges were being scrutinized by a law firm.
 
 Prices of the same coin can vary widely on different exchanges. The discrepancy can be easily seen on [an OKCoin comparison page](https://www.okcoin.com/marketList.html) for BTC and LTC. There are good reasons for this apparent lack of arbitrage. For example, between April and May 2017, Crypto/USD pairs [went from premium to discount](https://medium.com/@Austerity_Sucks/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount-e7be193d7cb0) on Bitfinex, an exchange that was [hacked in August 2016](https://en.wikipedia.org/wiki/Bitfinex_hack).

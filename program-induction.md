@@ -9,8 +9,11 @@ The capability of inducing programs is a key to solving AI.
 
 [Ling et al. (2017)](https://arxiv.org/abs/1705.04146) built a model to generate human-readable answer *rationales* that led to correct answers to algebraic word problems. Frequently used math operations such as `Log` and `Sine` are provided to the model. They combined techniques from sequence to sequence framework, program generation, and made use of pointer networks to attend to input and output tokens stored in memory.
 
+[Ellis et al. (2017)](https://arxiv.org/abs/1707.09627) learn a CNN that proposes plausible drawing primitives to explain an image, which are then synthesized into programs by a state-of-the-art Sketch tool.
+
 ## References
 
+* 2017 August 1, Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua B. Tenenbaum. [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627). *arXiv:1707.09627*.
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.
 * 2017 April 21, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://arxiv.org/abs/1704.06611). *arXiv:1704.06611*.
 * 2016 November 28, Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, and Dario Amodei. [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945). *arXiv:1611.08945*.
