@@ -57,3 +57,13 @@ Now we can [run a short TensorFlow program](https://www.tensorflow.org/install/i
 
 ![](/assets/images/course-gce-jupyter-4.png)
 
+## (Optional) Installing Matplotlib
+
+[Matplotlib](https://matplotlib.org/) is a Python 2D plotting library that can be used in the Jupyter Notebook. To install:
+
+```bash
+sudo pip3 install matplotlib
+```
+
+This package is used in the [Reading MNIST Data](http://realai.org/course/jupyter/reading-MNIST-data.ipynb) session to plot the image of a handwritten digit.
+
