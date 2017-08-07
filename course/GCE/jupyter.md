@@ -5,7 +5,7 @@ permalink: /course/GCE/jupyter/
 
 *Last Updated: July 26, 2017*
 
-It is very easy to setup a remote [Jupyter Notebook](http://realai.org/course/GCE/jupyter/) with [Google Compute Engine](https://cloud.google.com/compute/). First we create a firewall rule. Then we create a virtual machine subject to that rule. Finally a few commands to install Jupyter, we're all set to launch and access it from the web.
+It is very easy to setup a remote [Jupyter Notebook](http://realai.org/course/jupyter/) with [Google Compute Engine](http://realai.org/course/GCE/). First we create a firewall rule. Then we create a virtual machine subject to that rule. Finally a few commands to install Jupyter, we're all set to launch and access it from the web.
 
 ## Create a Firewall Rule
 
@@ -47,7 +47,7 @@ Now Jupyter Notebook should be live on the web at `http://<External IP>:8888`. A
 
 ## (Optional) Testing Jupyter Notebook with TensorFlow
 
-Install TensorFlow:
+Install [TensorFlow](https://www.tensorflow.org/):
 
 ```bash
 sudo pip3 install tensorflow
@@ -65,5 +65,5 @@ Now we can [run a short TensorFlow program](https://www.tensorflow.org/install/i
 sudo pip3 install matplotlib
 ```
 
-This package is used in the [Reading MNIST Data](http://realai.org/course/jupyter/reading-MNIST-data.ipynb) session to plot the image of a handwritten digit.
+This package is used in the Reading MNIST Data ([on GitHub](https://github.com/real-ai/realai.org/blob/master/course/jupyter/reading-MNIST-data.ipynb)) session to plot the image of a handwritten digit.
 

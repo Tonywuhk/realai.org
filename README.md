@@ -13,7 +13,6 @@ mathjax: true
 * 2017 July 11, Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, and Alexander Lerchner. [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389). *arXiv:1707.03389*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Concept Learning](http://realai.org/concept-learning/))
 * 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*. ([Meta-Learning](http://realai.org/meta-learning/))
 * 2017 July 10, Nicholas Heess, Josh Merel, and Ziyu Wang. [Producing flexible behaviours in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/). *DeepMind Blog*. ([DeepMind](http://realai.org/labs/deepmind/publications/); [Robotics](http://realai.org/robotics/))
-* 2017 July 5. DeepMind [Goes to Alberta](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab) For First International Lab, [Thanked](https://twitter.com/JustinTrudeau/status/882648011616202755) by Justin Trudeau. *Bloomberg Technology & Twitter*. ([DeepMind](http://realai.org/labs/deepmind/); [Policies](http://realai.org/policies/))
 
 ## Main Contents
 
