@@ -18,5 +18,5 @@ title: Tools | Git
 
 * "Undo" the action of commit while leaving everything eles unchanged: `git reset --soft HEAD^`
 * Skip the staging step to commit all changes: `git commit -a -m "Update files"`
-* Show changes in `README.md` since the tip of `HEAD`: `git diff HEAD README.md`
+* Show changes in `README.md` since the tip of a commit (or `HEAD`): `git diff <commit hash> README.md`
 
