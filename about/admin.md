@@ -34,5 +34,5 @@ Real AI is currently supported by donations. Our bank account number is 390-6931
 
 ### Accounting
 
-Real AI is looking for an accounting firm for annual audits and regularly compiling books of accounts. Please contact [Jonathan Yan](mailto:jyan@realai.org) for further details.
+Real AI uses [Wave](https://www.waveapps.com/) for bookkeeping. We're currently looking for an accounting firm for annual audits. Please contact [Jonathan Yan](mailto:jyan@realai.org) for further details.
 

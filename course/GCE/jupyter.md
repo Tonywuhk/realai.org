@@ -65,5 +65,5 @@ Now we can [run a short TensorFlow program](https://www.tensorflow.org/install/i
 sudo pip3 install matplotlib
 ```
 
-This package is used in the Reading MNIST Data ([on GitHub](https://github.com/real-ai/realai.org/blob/master/course/jupyter/reading-MNIST-data.ipynb)) session to plot the image of a handwritten digit.
+This package is used in the Reading MNIST Data ([nbviewer](http://nbviewer.jupyter.org/url/realai.org/course/jupyter/reading-MNIST-data.ipynb), [GitHub](https://github.com/real-ai/realai.org/blob/master/course/jupyter/reading-MNIST-data.ipynb), [download](http://realai.org/course/jupyter/reading-MNIST-data.ipynb)) session of [Jupyter Notebook](http://realai.org/course/jupyter/) to plot the image of a handwritten digit.
 

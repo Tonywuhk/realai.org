@@ -7,6 +7,8 @@ Deep learning has achieved great successes in areas of artificial intelligence o
 
 It seems increasingly plausible that high-level machine intelligence could be built by scaling up current methods in deep learning, without qualitatively new ideas about "how intelligence works" ([Christiano, 2016](https://ai-alignment.com/prosaic-ai-control-b959644d79c2)). Complex intelligent behavior can emerge from generic learning objectives when deep neural network-based models have sufficient learning capacity, and training data contains sufficient richness and diversity. Moreover, similar behavior is difficult to induce by explicit engineering in simple environments as solutions found are often idiosyncratic because they overfit the learning objectives. Under this premise, the improvement of engineering capability will lead to the creation of AGI. In a July 2017 [online report](http://www.jefftk.com/p/conversation-with-an-ai-researcher), the view from an anonymous AI researcher at one of the main industry labs is that progress in ML is "almost entirely constrained by hardware and data."
 
+There are reasons to believe that Prosaic AI is inevitable. To answer the question of “how intelligence works,” we need to create a higher-level symbolic theory to explain the low-level behavior of the brain. Computational irreducibility ([Wolfram, 2002](https://store.wolfram.com/view/book/ISBN1579550088.str), [pp. 737](http://wolframscience.com/nks/p737--computational-irreducibility/)) implies that it “often won’t work, and instead the only way forward is just to explicitly run a computation to simulate the behavior of the system” ([Wolfram, 2017](http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/)).
+
 Our emphasis on Prosaic AI is about plausibility. Deep learning is only one way towards building AGI and we by no means imply that it is the only way. There are a lot of interesting discoveries that are motivated by symbolic AI, statistical machine learning, cognitive science, robotics, neuromorphic engineering, physics and other fields. Even inside machine learning, advanced systems can be built that do not use neural networks. They're promising directions but are beyond the current scope of Real AI’s efforts.
 
 ## Progress
@@ -22,10 +24,9 @@ In [Heess et al. (2017)](https://arxiv.org/abs/1707.02286), agents successfully 
 ## References
 
 * 2017 July 13, Adnan Darwiche. [Human-Level Intelligence or Animal-Like Abilities?](https://arxiv.org/abs/1707.04327) *arXiv:1707.04327*. [video](https://www.youtube.com/watch?v=UTzCwCic-Do).
-
 * 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*. [video](https://goo.gl/8rTx2F).
-
+* 2017 May 16, Stephen Wolfram. [A New Kind of Science: A 15-Year View](http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/). *Stephen Wolfram Blog*.
 * 2016 Novenber 19, Paul Christiano. [Prosaic AI alignment](https://ai-alignment.com/prosaic-ai-control-b959644d79c2). *[AI Alignment](https://ai-alignment.com/)*.
-
 * 2016 October 17, Nicolas Heess, Greg Wayne, Yuval Tassa, Timothy Lillicrap, Martin Riedmiller, and David Silver. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182). *arXiv:1610.05182*.
+* 2002 May 14, Stephen Wolfram. [A New Kind of Science](https://store.wolfram.com/view/book/ISBN1579550088.str). *Wolfram Media*. [site](https://www.wolframscience.com/).
 

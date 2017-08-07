@@ -7,5 +7,5 @@ The [Jupyter Notebook](http://jupyter.org/) is an [open-source](https://github.c
 
 ## Lab Sessions
 
-* Reading MNIST Data ([on GitHub](https://github.com/real-ai/realai.org/blob/master/course/jupyter/reading-MNIST-data.ipynb))
+* Reading MNIST Data ([view on nbviewer](http://nbviewer.jupyter.org/url/realai.org/course/jupyter/reading-MNIST-data.ipynb), [view on GitHub](https://github.com/real-ai/realai.org/blob/master/course/jupyter/reading-MNIST-data.ipynb), [download](http://realai.org/course/jupyter/reading-MNIST-data.ipynb))
 
