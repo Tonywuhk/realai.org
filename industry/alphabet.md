@@ -22,9 +22,14 @@ In June 2017, The European Commission [fined Google €2.42 billion](http://euro
 
 Google could also face [€1.12 billion in back taxes to France](https://www.bloomberg.com/news/articles/2017-07-11/google-faces-1-3-billion-french-ruling-amid-rising-tax-populism).
 
-### News
+### Code of Conduct 
 
+* 2017 August 8. [Note to employees from CEO Sundar Pichai](https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/). *Google Blog*.
 * 2017 August 8. [Google Fires Employee Behind Controversial Diversity Memo](https://www.bloomberg.com/news/articles/2017-08-08/google-fires-employee-behind-controversial-diversity-memo). *Bloomberg Technology*.
+
+### Lobbying
+
+* 2017 July 30. [Why is Google spending record sums on lobbying Washington?](https://www.theguardian.com/technology/2017/jul/30/google-silicon-valley-corporate-lobbying-washington-dc-politics). *The Guardian*.
 
 ## Waymo
 
