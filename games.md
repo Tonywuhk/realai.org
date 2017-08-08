@@ -17,6 +17,7 @@ In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-netw
 
 ## Starcraft
 
+* 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 April 19, Justesen and Risi. [Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft](http://sebastianrisi.com/wp-content/uploads/justesen_gecco17.pdf). *Proceedings of the Conference on Genetic and Evolutionary Computation (GECCO)*.
 * 2017 March 29, Peng Peng, Quan Yuan, Ying Wen, Yaodong Yang, Zhenkun Tang, Haitao Long, and Jun Wang. [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069). *arXiv:1703.10069*.
 * 2017 February 28, Jakob Foerster, Nantas Nardelli, Gregory Farquhar, Philip. H. S. Torr, Pushmeet Kohli, and Shimon Whiteson. [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1702.08887). *arXiv:1702.08887*.

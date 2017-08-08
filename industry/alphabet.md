@@ -22,6 +22,10 @@ In June 2017, The European Commission [fined Google €2.42 billion](http://euro
 
 Google could also face [€1.12 billion in back taxes to France](https://www.bloomberg.com/news/articles/2017-07-11/google-faces-1-3-billion-french-ruling-amid-rising-tax-populism).
 
+### News
+
+* 2017 August 8. [Google Fires Employee Behind Controversial Diversity Memo](https://www.bloomberg.com/news/articles/2017-08-08/google-fires-employee-behind-controversial-diversity-memo). *Bloomberg Technology*.
+
 ## Waymo
 
 ### Analyst's Opinions

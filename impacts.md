@@ -43,6 +43,11 @@ In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wir
 
 [Adam (2017)](https://arxiv.org/abs/1706.05143) warns that recent advances in machine learning has made it "possible to unleash incredibly powerful, human-like armies of social bots, in potentially well coordinated campaigns of deception and influence."
 
+## Links
+
+* [AIimpacts.org](http://aiimpacts.org/) aims to improve our understanding of the likely impacts of human-level artificial intelligence.
+* [AI Now](https://artificialintelligencenow.com/) is a New York-based research initiative working across disciplines to understand AI's social impacts.
+
 ## References
 
 * 2017 June 16, Terrence Adams. [AI-Powered Social Bots](https://arxiv.org/abs/1706.05143). *arXiv:1706.05143*.

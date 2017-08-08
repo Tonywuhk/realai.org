@@ -12,6 +12,7 @@ title: About | Risks
 
 ## CryptoCurrencies
 
+* 2017 August 7. [Cryptocurrency market cap nears $120B amid monster Bitcoin rally](https://www.investing.com/news/technology-news/cryptocurrency-market-cap-nears-120b-amid-monster-bitcoin-rally-515360). *Investing.com*.
 * 2017 July 18. [Ethereum Co-Founder Says Crypto Coin Market Is a Time-Bomb](https://www.bloomberg.com/news/articles/2017-07-18/ethereum-co-founder-says-crypto-coin-market-is-ticking-time-bomb). *Bloomberg Technology*.
 * 2017 July 11. [Ethereum is still crashing, and just fell below $US200](https://www.businessinsider.com.au/ethereum-has-lost-almost-20-of-its-value-in-the-last-24-hours-2017-7). *Business Insider Australia*.
 * 2017 July 10. [Will Bitcoin Tear Itself Apart?](https://www.bloomberg.com/news/articles/2017-07-10/bitcoin-risks-splintering-as-civil-war-enters-critical-month). *Bloomberg Technology*.

@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 July 20, Yaniv Taigman, Lior Wolf, Adam Polyak, and Eliya Nachmani. [Voice Synthesis for in-the-Wild Speakers via a Phonological Loop](https://arxiv.org/abs/1707.06588). *arXiv:1707.06588*.
 * 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
 * 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.

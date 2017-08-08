@@ -4,6 +4,7 @@ redirect_from: /news/
 ---
 # News
 
+* 2017 Aug 4. [$2 Million Donation from Eric and Wendy Schmidt Supports Launch of Program in Theoretical Machine Learning at the Institute for Advanced Study](https://www.ias.edu/news/schmidt-theoretical-machine-learning). *Institute for Advanced Study*.
 * 2017 July 25. [Khosla Ventures leads $50 million investment in Vicarious’ AI tech](https://venturebeat.com/2017/07/25/khosla-ventures-leads-50-million-investment-in-vicarious-ai-tech/amp/). *VentureBeat*.
 * 2017 July 20. [国务院印发《新一代人工智能发展规划》](http://www.gov.cn/xinwen/2017-07/20/content_5212064.htm) *www.gov.cn*.
 * 2017 July 15. [专访 UCL 教授汪军：中国能不能出现像 DeepMind 这样的企业？\| CCF-GAIR 2017](https://m.leiphone.com/news/201707/3tgq679xJMqKGhxM.html). *leiphone.com*.
