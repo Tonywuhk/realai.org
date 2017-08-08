@@ -37,10 +37,9 @@ mathjax: true
     1. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
-    1. [Google Compute Engine](http://realai.org/course/GCE/): Ubuntu virtual machines
-    2. Tools: bash \| [Git](http://realai.org/course/tools/git/) \| [grep](http://realai.org/course/tools/grep/) \| sed \| awk \| [Vim](http://realai.org/course/tools/vim/)
-    3. [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
-    4. TensorFlow
+    1. [System](http://realai.org/course/system/): [Google Compute Engine](http://realai.org/course/GCE/)
+    2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
+    3. Deep Learning in TensorFlow
 
 4. [Frontiers](http://realai.org/frontiers/)
     1. Outstanding Challenges
