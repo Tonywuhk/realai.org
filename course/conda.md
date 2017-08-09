@@ -10,5 +10,5 @@ The conda [test drive](https://conda.io/docs/test-drive.html) takes around 30 mi
 
 ## Lab Session
 
-* [Installing Sonnet and TensorFlow in a Conda environment](http://realai.org/course/lab/conda-tf-snt/)
+* [Installing Sonnet and TensorFlow in a Conda Environment](http://realai.org/course/lab/conda-tf-snt/)
 

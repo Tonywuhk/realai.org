@@ -17,6 +17,7 @@ The goal of this section is to set up productive environments for deep learning 
 
 ### Ubuntu Packages
 
+* [Ubuntu Package Search](https://packages.ubuntu.com/): URL shortcut 'http://packages.ubuntu.com/name' is available for the search on package names
 * Package management with [apt-get](https://help.ubuntu.com/community/AptGet/Howto)
 
 ### Python Packages
