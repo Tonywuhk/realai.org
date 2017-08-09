@@ -14,7 +14,7 @@ The goal of the [System](http://realai.org/course/system/) section is to set up 
 
 ## Deep Learning in TensorFlow
 
-[TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/GCE/jupyter/).
+[TensorFlow](https://www.tensorflow.org/) is one of the most popular [deep learning libraries](http://realai.org/course/lib/) that we will use to implement projects. We can set it up in a [Jupyter Notebook running on GCE](http://realai.org/course/lab/gce-jupyter/).
 
 ### Recurrent Neural Networks
 

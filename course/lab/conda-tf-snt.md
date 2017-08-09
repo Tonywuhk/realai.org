@@ -3,7 +3,9 @@ permalink: /course/lab/conda-tf-snt/
 ---
 # Lab - Installing Sonnet and TensorFlow in a Conda environment
 
-First create an [f1-micro](https://cloud.google.com/compute/pricing#predefined_machine_types) virtual machine with a Ubuntu 17.04 boot image in [Google Compute Engine](https://cloud.google.com/compute/). Upon start, the system’s `python -V` and `python3 -V` show versions “2.7.13” and “3.5.3” respectively. No administrative or root permissions are necessary for the following installations as `miniconda3` and new packages, including Python 3.6.1, will be installed under the home directory.
+*Last Updated: August 9, 2017*
+
+First create an [f1-micro](https://cloud.google.com/compute/pricing#predefined_machine_types) virtual machine with a Ubuntu 17.04 boot image in [Google Compute Engine](http://realai.org/course/google-compute-engine/). Upon start, the system’s `python -V` and `python3 -V` show versions “2.7.13” and “3.5.3” respectively. No administrative or root permissions are necessary for the following installations as `miniconda3` and new packages, including Python 3.6.1, will be installed under the home directory.
 
 ## Installing Conda
 

@@ -7,7 +7,7 @@ The goal of this section is to set up productive environments for deep learning 
 
 ## Basic Operations
 
-* Virtual Machines: [Google Compute Engine](http://realai.org/course/GCE/)
+* Virtual Machines: [Google Compute Engine](http://realai.org/course/google-compute-engine/)
 * Operating System: [Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 

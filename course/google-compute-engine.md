@@ -1,5 +1,6 @@
 ---
-permalink: /course/GCE/
+permalink: /course/google-compute-engine/
+redirect_from: /course/GCE/
 ---
 # Google Compute Engine
 
@@ -7,7 +8,7 @@ permalink: /course/GCE/
 
 ## Lab Sessions
 
-* [Using Remote Desktop to NetSurf on Xfce4 via Xrdp](http://realai.org/course/GCE/rdp-netsurf-xfce4/)
-* [Running Jupyter](http://realai.org/course/GCE/jupyter/)
-* [Neural Machine Translation on Cloud GPU](http://realai.org/course/GCE/gpu-tf-nmt/)
+* [Using Remote Desktop to NetSurf on Xfce4 via Xrdp](http://realai.org/course/lab/rdp-netsurf-xfce4/)
+* [Running Jupyter](http://realai.org/course/lab/jupyter/)
+* [Neural Machine Translation on Cloud GPU](http://realai.org/course/lab/gpu-tf-nmt/)
 

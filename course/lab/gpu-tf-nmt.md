@@ -1,5 +1,5 @@
 ---
-permalink: /course/GCE/gpu-tf-nmt/
+permalink: /course/lab/gpu-tf-nmt/
 ---
 # Lab - Neural Machine Translation on Cloud GPU
 
@@ -82,7 +82,7 @@ Type 'exit' to close the terminal, then STOP (DO NOT **DELETE**) the VM instance
 
 In Oregon, an "n1-standard-2" machine type costs [$0.095 per hour](https://cloud.google.com/compute/pricing#predefined_machine_types) and 1 GPU processor costs [$0.70 per hour](https://cloud.google.com/compute/pricing#gpus). We create a new VM in Zone "us-west1-b" using these parameters.
 
-![](http://realai.org/assets/images/course-tpu-tf-nmt-1.png)
+![](http://realai.org/course/lab/tpu-tf-nmt-1.png)
 
 On this new VM, we do a [native pip](https://www.tensorflow.org/install/install_linux#InstallingNativePip) TensorFlow installation:
 
@@ -121,5 +121,5 @@ python -m nmt.nmt \
 
 On this instance, our model trains at less than 0.30s per 100 steps, even a few times faster than what's reported in the tutorial!
 
-![](http://realai.org/assets/images/course-tpu-tf-nmt-2.png)
+![](http://realai.org/course/lab/tpu-tf-nmt-2.png)
 
