@@ -22,9 +22,8 @@ This [legacy page](http://realai.org/about/risks/coins/) contains more backgroun
 
 ## North Korea
 
-* 2017 July 30. [China Bets Trump Won't Resort to Strike Against North Korea](https://www.bloomberg.com/news/articles/2017-07-29/china-bets-trump-won-t-resort-to-military-strike-on-north-korea). *Bloomberg Politics*.
-* 2017 July 5. [U.S. Vows Tougher Action on North Korea After Missile Test](https://www.nytimes.com/2017/07/05/world/asia/north-korea-war-us-icbm.html). *New York Times*.
-* 2017 July 4. [North Korea Claims Its First Successful Launch of an ICBM](https://www.bloomberg.com/news/articles/2017-07-04/north-korea-claims-successful-intercontinental-missile-launch). *Bloomberg*.
+* 2017 August 8. [North Korea threatens strike on Guam](http://edition.cnn.com/2017/08/08/politics/north-korea-considering-guam-strike-trump/index.html). *CNN*.
+* 2017 August 8. [North Korea Crisis: How Events Have Unfolded Under Trump](http://www.nbcnews.com/news/world/north-korea-crisis-how-events-have-unfolded-under-trump-n753996). *NBC News*.
 
 ## United States
 

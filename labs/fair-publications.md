@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 ## 2017
 
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
+* 2017 August 7, Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). *arXiv:1708.02002*.
 * 2017 July 20, Yaniv Taigman, Lior Wolf, Adam Polyak, and Eliya Nachmani. [Voice Synthesis for in-the-Wild Speakers via a Phonological Loop](https://arxiv.org/abs/1707.06588). *arXiv:1707.06588*.
 * 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
 * 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.
@@ -174,6 +175,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2015 June 18, Rémi Lebret and Ronan Collobert. ["The Sum of Its Parts": Joint Learning of Word and Phrase Representations with Autoencoders](https://arxiv.org/abs/1506.05703). *arXiv:1506.05703*.
 * 2015 June 5, Antoine Bordes, Nicolas Usunier, Sumit Chopra, and Jason Weston. [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075). *arXiv:1506.02075*.
 * 2015 June 2, Alberto Garcia-Duran, Antoine Bordes, Nicolas Usunier, and Yves Grandvalet. [Combining Two And Three-Way Embeddings Models for Link Prediction in Knowledge Bases](https://arxiv.org/abs/1506.00999). *arXiv:1506.00999*.
+* 2015 April 3, Xinlei Chen, Hao Fang, Tsung-Yi Lin, Ramakrishna Vedantam, Saurabh Gupta, Piotr Dollar, and C. Lawrence Zitnick. [Microsoft COCO Captions: Data Collection and Evaluation Server](https://arxiv.org/abs/1504.00325). *arXiv:1504.00325*.
 * 2015 March 31, Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, and Rob Fergus. [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895). *arXiv:1503.08895*.
 * 2015 March 11, Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, and Mark Tygert. [A mathematical motivation for complex-valued convolutional networks](https://arxiv.org/abs/1503.03438). *arXiv:1503.03438*.
 * 2015 March 3, Armand Joulin and Tomas Mikolov. [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](https://arxiv.org/abs/1503.01007). *arXiv:1503.01007*.

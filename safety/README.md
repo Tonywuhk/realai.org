@@ -31,6 +31,7 @@ The topic of AI safety has attracted the attention of many [organizations](http:
 
 ## Research
 
+* 2017 August 8, Gopal P. Sarma and Nick J. Hay. [Robust Computer Algebra, Theorem Proving, and Oracle AI](https://arxiv.org/abs/1708.02553). *arXiv:1708.02553*.
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
 * 2017 April 10, El Mahdi El Mhamdi, Rachid Guerraoui, Hadrien Hendrikx, and Alexandre Maurer. [Can AIs learn to avoid human interruption?](https://arxiv.org/abs/1704.02882). *arXiv:1704.02882*.
 * 2017 April 3, Gopal P. Sarma. [Brief Notes on Hard Takeoff, Value Alignment, and Coherent Extrapolated Volition](https://arxiv.org/abs/1704.00783). *arXiv:1704.00783*.
