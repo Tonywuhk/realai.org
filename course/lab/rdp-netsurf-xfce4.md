@@ -35,7 +35,7 @@ sudo vi /etc/xrdp/startwm.sh
 
 The last line in `startwm.sh` should be `. /etc/X11/Xsession`. Replace it with `startxfce4`.
 
-![](http://realai.org/course/lab/gce-rdp-netsurf-xfce4-1.png)
+![](http://realai.org/course/lab/rdp-netsurf-xfce4-1.png)
 
 Now restart xrdp and the remote desktop will be up and running:
 
@@ -47,13 +47,13 @@ sudo service xrdp restart
 
 Enter the VM’s External IP in Windows’ Remote Desktop client, then log onto the VM using the password created earlier. Now we can access NetSurf from by clicking *Applications*, then *Internet* on the top-left corner of the remote desktop.
 
-![](http://realai.org/course/lab/gce-rdp-netsurf-xfce4-2.png)
+![](http://realai.org/course/lab/rdp-netsurf-xfce4-2.png)
 
 To set the default browser, from *Applications*, click *Settings*, then *Preferred Applications*. In the *Preferred Applications* dialog window, choose *Other* and enter `netsurf`.
 
-![](http://realai.org/course/lab/gce-rdp-netsurf-xfce4-3.png)
+![](http://realai.org/course/lab/rdp-netsurf-xfce4-3.png)
 
 Now we can launch the browser by clicking on the Earth icon at the bottom of the desktop:
 
-![](http://realai.org/course/lab/gce-rdp-netsurf-xfce4-4.png)
+![](http://realai.org/course/lab/rdp-netsurf-xfce4-4.png)
 

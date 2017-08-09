@@ -9,6 +9,6 @@ redirect_from: /course/GCE/
 ## Lab Sessions
 
 * [Using Remote Desktop to NetSurf on Xfce4 via Xrdp](http://realai.org/course/lab/rdp-netsurf-xfce4/)
-* [Running Jupyter](http://realai.org/course/lab/jupyter/)
+* [Running Jupyter](http://realai.org/course/lab/gce-jupyter/)
 * [Neural Machine Translation on Cloud GPU](http://realai.org/course/lab/gpu-tf-nmt/)
 
