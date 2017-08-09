@@ -12,3 +12,9 @@ Python can be launched from command line. Use `-c` to pass a program as string, 
 python3 -c "import tensorflow as tf; print(tf.__version__)"
 ```
 
+## System
+
+### Wheel
+
+[Wheel](https://pypi.python.org/pypi/wheel) ([documentation](http://wheel.rtfd.org/)) is a built-package format for Python. Follwing [PEP 427](https://www.python.org/dev/peps/pep-0427/), its [file name convention](https://www.python.org/dev/peps/pep-0427/#file-name-convention) is `{distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl`, where ABI means [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface).
+
