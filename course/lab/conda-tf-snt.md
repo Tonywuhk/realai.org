@@ -1,7 +1,7 @@
 ---
 permalink: /course/lab/conda-tf-snt/
 ---
-# Lab - Installing Sonnet and TensorFlow in a Conda environment
+# Lab - Installing Sonnet and TensorFlow in a Conda Environment
 
 *Last Updated: August 9, 2017*
 
@@ -20,7 +20,7 @@ Enter the command `source ~/.bashrc` for the new PATH to take effect. Now both `
 
 ## Installing TensorFlow
 
-[TensorFlow](https://www.tensorflow.org/) is an open-source software library for machine intelligence. One command `pip install tensorflow` is sufficient to install it for the conda root environment. Alternatively, we can follow the official [Installing with Anaconda](https://www.tensorflow.org/install/install_linux#InstallingAnaconda) instructions, with the [appropriate](https://www.tensorflow.org/install/install_linux#the_url_of_the_tensorflow_python_package) URL to the wheel for our version Python (3.6).
+[TensorFlow](https://www.tensorflow.org/) is an open-source software library for machine intelligence. One command `pip install tensorflow` is sufficient to install it for the conda root environment. Alternatively, we can follow the official [Installing with Anaconda](https://www.tensorflow.org/install/install_linux#InstallingAnaconda) instructions, with the [appropriate](https://www.tensorflow.org/install/install_linux#the_url_of_the_tensorflow_python_package) URL to the [wheel](http://realai.org/course/python/#wheel) for our version of Python (3.6).
 
 ```bash
 conda create -n tensorflow
@@ -33,7 +33,7 @@ Now `import tensorflow` is a valid Python command in the root environment, and a
 
 ## Installing Sonnet
 
-[Sonnet](https://github.com/deepmind/sonnet) is a library built on top of TensorFlow for building complex neural networks. TensorFlow is straightforward to install, but if we attempt to install Sonnet in the same way, `pip install dm-sonnet` returns an error message, “… No matching distribution found for dm-sonnet”. The [PyPI page](https://pypi.python.org/pypi/dm-sonnet/1.9) of `dm-sonnet` shows that it is stored as [wheel](http://realai.org/course/python/#wheel) files, whose ABI tags require either Python 2.7 or 3.4. Our Python is 3.6. This is where conda can be super useful, it allows us to create a Python 3.4 virtual environment:
+[Sonnet](https://github.com/deepmind/sonnet) is a library built on top of TensorFlow for building complex neural networks. TensorFlow is straightforward to install, but if we attempt to install Sonnet in the same way, `pip install dm-sonnet` returns an error message, “… No matching distribution found for dm-sonnet”. The [PyPI page](https://pypi.python.org/pypi/dm-sonnet/1.9) of `dm-sonnet` shows that it is stored as wheel files, whose ABI tags require either Python 2.7 or 3.4. Our Python is 3.6. This is where conda can be super useful, it allows us to create a Python 3.4 virtual environment:
 
 ```bash
 conda create -n sonnet python=3.4

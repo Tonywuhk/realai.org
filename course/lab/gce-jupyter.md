@@ -13,6 +13,8 @@ Click on the 3-line icon on the top left corner of cloud console, go to **Networ
 
 ![](http://realai.org/course/lab/gce-jupyter-1.png)
 
+**Exercise:** Follow the same steps to create a rule *tensorboard* for port 6006. [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard) is a suite of [TensorFlow](https://www.tensorflow.org/) visualization tools.
+
 ## Create a Virtual Machine
 
 Click on the 3-line icon on the top left corner of your [Cloud Console](https://console.cloud.google.com), go to **Compute Engine** and **VM instances**. Create a [f1-micro](https://cloud.google.com/compute/pricing#predefined_machine_types) machine with a [Ubuntu](https://www.ubuntu.com/) 16.04 LTS boot image.
@@ -47,7 +49,7 @@ Now Jupyter Notebook should be live on the web at `http://<External IP>:8888`. A
 
 ## (Optional) Testing Jupyter Notebook with TensorFlow
 
-Install [TensorFlow](https://www.tensorflow.org/):
+Install TensorFlow:
 
 ```bash
 sudo pip3 install tensorflow
