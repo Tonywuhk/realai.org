@@ -20,3 +20,5 @@ The goal of this section is to set up productive environments for deep learning 
 
 * [Wheel](https://pypi.python.org/pypi/wheel) ([documentation](http://wheel.rtfd.org/)) is a built-package format for Python with a specially formatted filename and the .whl extension.
 
+* [Lab](http://realai.org/course/lab/): [Installing Sonnet from Source](http://realai.org/course/lab/sonnet-source/)
+
