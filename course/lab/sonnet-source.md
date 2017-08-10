@@ -54,7 +54,7 @@ bazel build --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" :install
 ./bazel-bin/install /tmp/sonnet python3
 ```
 
-Now the temp directory `ls /tmp/sonnet/` should have a wheel `dm_sonnet-1.9-cp35-cp35m-linux_x86_64.whl`. `pip` install this wheel and the installation is complete.
+Now the temp directory `ls /tmp/sonnet/` should have a wheel `dm_sonnet-1.9-cp35-cp35m-linux_x86_64.whl`. `pip install` this wheel and the installation is complete.
 
 ```bash
 sudo pip install /tmp/sonnet/*.whl
@@ -75,20 +75,20 @@ Results in these two experiments should be the same. There is no speed advantage
 
 ## A Little Bit of Python (Optional)
 
-The `python3 -c "import sonnet as snt; import tensorflow as tf; print(snt.resampler(tf.constant([0.]), tf.constant([0.])))"` would fail if we didn’t `cd` out of the `sonnet/` directory at the end of “Installing Sonnet.” The error would trace to a line of code in [sonnet/python/ops/resampler.py](https://github.com/deepmind/sonnet/blob/master/sonnet/python/ops/resampler.py):
+The `python3 -c "import sonnet as snt; import tensorflow as tf; print(snt.resampler(tf.constant([0.]), tf.constant([0.])))"` would fail if we didn’t `cd` out of the `sonnet/` directory at the end of “Installing Sonnet.” The error would trace to a line 27 of [sonnet/python/ops/resampler.py](https://github.com/deepmind/sonnet/blob/de33c8a538c5641be4b548abb36b089881c815fa/sonnet/python/ops/resampler.py):
 
 ```python
 from sonnet.python.ops import gen_resampler
 ```
 
-This line attempts to import a Python [module](https://docs.python.org/2/tutorial/modules.html) called `gen_resampler` [from a package](https://docs.python.org/2/tutorial/modules.html#importing-from-a-package) called `sonnet.python.ops`. The module is located in `ls /usr/local/lib/python3.5/dist-packages/sonnet/python/ops/`, a subdirectory that depends on our choice in the `./configure` step of “Installing Sonnet.” But if we were in a directory called `sonnet/`, Python would look for the module in `ls sonnet/python/ops/` and the file `gen_resampler.py` wouldn’t be there! This behavior is based on the [modue search path](https://docs.python.org/2/tutorial/modules.html#the-module-search-path), and can be displayed in Python interpreter:
+This line attempts to import a Python [module](https://docs.python.org/2/tutorial/modules.html) called `gen_resampler` [from a package](https://docs.python.org/2/tutorial/modules.html#importing-from-a-package) called `sonnet.python.ops`. The module is located in `ls /usr/local/lib/python3.5/dist-packages/sonnet/python/ops/`, a subdirectory that depends on our choice in the `./configure` step of “Installing Sonnet.” But if we were in a directory called `sonnet/`, Python would look for the module in `ls sonnet/python/ops/` and the file `gen_resampler.py` wouldn’t be there! This behavior is based on the [modue search path](https://docs.python.org/2/tutorial/modules.html#the-module-search-path), and can be displayed in the Python interpreter:
 
 ```python
 import sys
 print(sys.path)
 ```
 
-We can superficially fix this problem by copying the missing files to our local directory, thus confirming that this is indeed the problem.
+We can superficially fix this problem by copying the missing files to our local directory, thus confirming that this is indeed the problem:
 
 ```bash
 cp /usr/local/lib/python3.5/dist-packages/sonnet/python/ops/gen_resampler.py 
