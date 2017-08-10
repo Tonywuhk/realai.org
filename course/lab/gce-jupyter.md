@@ -17,7 +17,7 @@ Click on the 3-line icon on the top left corner of cloud console, go to **Networ
 
 ## Create a Virtual Machine
 
-Click on the 3-line icon on the top left corner of your [Cloud Console](https://console.cloud.google.com), go to **Compute Engine** and **VM instances**. Create a [f1-micro](https://cloud.google.com/compute/pricing#predefined_machine_types) machine with a [Ubuntu](https://www.ubuntu.com/) 16.04 LTS boot image.
+Click on the 3-line icon on the top left corner of your [Cloud Console](https://console.cloud.google.com), go to **Compute Engine** and **VM instances**. Create a [f1-micro](https://cloud.google.com/compute/pricing#predefined_machine_types) machine with a [Ubuntu](http://realai.org/course/ubuntu/) 16.04 LTS boot image.
 
 ![](http://realai.org/course/lab/gce-jupyter-2.png)
 

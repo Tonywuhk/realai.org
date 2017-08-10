@@ -20,6 +20,6 @@ Ubuntu organizes files in a [hierarchical tree](https://help.ubuntu.com/communit
 
 ## Useful Commands
 
-*  [ln -s](https://ss64.com/bash/ln.html) <filename> <linkname> creates a symbolic link to file. On a newly created Ubuntu 16.04 instance, `/usr/bin/python` is a link to `/usr/bin/python2.7`. Removing the link then `sudo ln -s /usr/bin/python3.5 /usr/bin/python` changes the default `python` command to Python 3.5. But messing around in `/usr/bin` is not a good idea, as the change also breaks programs that depend on the old links.
+*  `ln -s <filename> <linkname>` creates a symbolic link to file ([man page](https://ss64.com/bash/ln.html)). On a new Ubuntu 16.04 instance, `/usr/bin/python` is a link to `/usr/bin/python2.7`. Removing the link then `sudo ln -s /usr/bin/python3.5 /usr/bin/python` changes the default `python` command to Python 3.5. But messing around in `/usr/bin` is not a good idea, as the change also breaks programs that depend on the old links.
 * `cat /etc/lsb-release` shows a machine running Ubuntu 16.04 is codenamed “xenial”.
 
