@@ -8,25 +8,11 @@ The goal of this section is to set up productive environments for deep learning 
 ## Basic Operations
 
 * Virtual Machines: [Google Compute Engine](http://realai.org/course/google-compute-engine/)
-* Operating System: [Ubuntu](https://www.ubuntu.com/) is a popular operating system that we will use during this course
+* Operating System: [Ubuntu](http://realai.org/course/ubuntu/) is a popular operating system that we will use during this course
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 
 * Version control system: [Git](http://realai.org/course/git/)
-
-## Installing Packages
-
-### Ubuntu Packages
-
-* [Ubuntu Package Search](https://packages.ubuntu.com/): URL shortcut 'http://packages.ubuntu.com/name' is available for the search on package names
-* Package management with [apt-get](https://help.ubuntu.com/community/AptGet/Howto)
-
-### Python Packages
-
-[Conda](http://realai.org/course/conda/) is both a package manager and an environment manager, effectively combining the functionalities of pip and virtualenv.
-
-[Pip](https://pypi.python.org/pypi/pip) is the PyPA recommended tool for installing ([pip install](https://pip.pypa.io/en/stable/reference/pip_install/)) Python packages. The [Python Package Index](https://pypi.python.org/pypi) (PyPI) is a repository of Python packages that can be installed using pip.
-
-When both source distributions and wheels are available, pip [prefers](https://packaging.python.org/tutorials/installing-packages/#source-distributions-vs-wheels) to [install from wheels](https://pip.pypa.io/en/stable/user_guide/#installing-from-wheels).
+* Python Packages: [conda](http://realai.org/course/conda/), [pip](http://realai.org/course/pip/)
 
 ## Installing Libraries from Source
 
