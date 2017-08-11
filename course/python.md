@@ -12,6 +12,8 @@ Python can be launched from command line. Use `-c` to pass a program as string, 
 python3 -c "import tensorflow as tf; print(tf.__version__)"
 ```
 
+Generally we should write Python code following [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/), but we will be using 2 spaces because of [TensorFlow](https://www.tensorflow.org/community/style_guide).
+
 ## System
 
 ### Wheel
