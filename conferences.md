@@ -10,7 +10,6 @@ permalink: /conferences/
 
 | Paper Due  | Dates              | Place                | Conference
 | ---------- | ------------------ | -------------------- | ----------
-|            | 2017/08/06 - 11    | Sydney, Australia    | [ICML 2017](https://2017.icml.cc/)
 |            | 2017/08/19 - 25    | Melbourne, Australia | [IJCAI 2017](http://ijcai-17.org/)
 |            | 2017/09/06 - 08    | New York, NY         | [CCN 2017](http://ccneuro.org/)
 |            | 2017/09/07 - 11    | Copenhagen, Denmark  | [EMNLP 2017](http://emnlp2017.net/)
@@ -21,8 +20,11 @@ permalink: /conferences/
 |            | 2017/04/24 - 26    | Toulon, France       | [ICLR 2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
 |            | 2018/06/18 - 23    | Salt Lake City, UT   | [CVPR 2018](http://cvpr2018.thecvf.com/)
 |            | 2018/07/15 - 20    | Melbourne, Australia | [ACL 2018](http://acl2018.org/)
+|            | 2017/08/06 - 11    | Sydney, Australia    | [ICML 2017](https://2017.icml.cc/)
 
 ### Past Meetings
+
+ICML: [2017](https://2017.icml.cc/), [2016](http://icml.cc/2016/), [2015](http://icml.cc/2015/), [2014](http://icml.cc/2014/), [2013](http://icml.cc/2013/), [2012](http://icml.cc/2012/)
 
 ACL: [2017](http://acl2017.org/), [2016](http://acl2016.org/), [2015](http://acl2015.org/), [2014](http://acl2014.org/), [2013](http://acl2013.org/site/), [2012](http://mirror.aclweb.org/acl2012/)
 
@@ -39,8 +41,6 @@ NIPS: [2016](https://nips.cc/Conferences/2016), [2015](https://nips.cc/Conferenc
 EMNLP: [2016](http://www.emnlp2016.net/), [2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/), [2014](http://emnlp2014.org/), [2013](http://hum.csse.unimelb.edu.au/emnlp2013/)
 
 IJCAI: [2016](http://ijcai-16.org/index.php/welcome/view/home), [2015](http://ijcai-15.org/), [2014](https://sites.google.com/site/ijcaischool2014/), [2013](http://ijcai-13.org/), 
-
-ICML: [2016](http://icml.cc/2016/), [2015](http://icml.cc/2015/), [2014](http://icml.cc/2014/), [2013](http://icml.cc/2013/), [2012](http://icml.cc/2012/)
 
 ### Analyses
 

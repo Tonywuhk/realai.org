@@ -15,7 +15,17 @@ In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-netw
 * 2017 June 14, Ken Kansky, Tom Silver, David A. Mély, Mohamed Eldawy, Miguel Lázaro-Gredilla, Xinghua Lou, Nimrod Dorfman, Szymon Sidor, Scott Phoenix, and Dileep George. [Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics](https://arxiv.org/abs/1706.04317). *arXiv:1706.04317*. [blog](https://www.vicarious.com/general-game-playing-with-schema-networks.html).
 * 2017 June 13, Harm van Seijen, Mehdi Fatemi, Joshua Romoff, Romain Laroche, Tavian Barnes, and Jeffrey Tsang. [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/abs/1706.04208). *arXiv:1706.04208*. [blog](http://www.maluuba.com/hra).
 
-## Starcraft
+## StarCraft
+
+[StarCraft](https://en.wikipedia.org/wiki/StarCraft) is a series of military science fiction real-time strategy video games developed by [Blizzard Entertainment](http://us.blizzard.com/en-us/company/about/). The first game, [StarCraft](https://en.wikipedia.org/wiki/StarCraft_(video_game)), was released for Windows on March 31, 1998. Its official sequel, [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty), released in July 2010, is the base game of the StarCraft II (SC2) series. It has two expansion packs, [StarCraft II: Heart of the Swarm](https://en.wikipedia.org/wiki/StarCraft_II:_Heart_of_the_Swarm) and [StarCraft II: Legacy of the Void](https://en.wikipedia.org/wiki/StarCraft_II:_Legacy_of_the_Void), released in March 2013 and November 2015, respectively.
+
+### StarCraft II
+
+There are three distinct *races* in SC2: Terran, Protoss, and Zerg, each with own strengths and weaknesses. Each race has unique units that fill specific roles on the battlefield. The most basic worker units harvest resources to expand base, add more units to a growing army, and create new buildings. In multiplayer matches, a player wins the game when all enemy’s buildings are wiped off the map or the other players surrender. A [guide](http://us.battle.net/sc2/en/game/guide/whats-sc2) for new players is available at SC2’s [official game site](http://us.battle.net/sc2/en/).
+
+The StarCraft II Learning Environment (SC2LE) consists of three sub-components: a Linux StarCraft II binary, the [StarCraft II API](https://github.com/Blizzard/s2client-proto) and [PySC2](https://github.com/deepmind/pysc2), a Python environment. PySC2 includes several [mini-games](https://github.com/deepmind/pysc2/blob/master/docs/mini_games.md) as small steps towards playing the full game.
+
+### StarCraft
 
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 April 19, Justesen and Risi. [Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft](http://sebastianrisi.com/wp-content/uploads/justesen_gecco17.pdf). *Proceedings of the Conference on Genetic and Evolutionary Computation (GECCO)*.
