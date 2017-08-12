@@ -33,7 +33,7 @@ A list of study materials to get ready for cutting-edge research in deep learnin
 ### Introduction to Deep Learning
 
 * 2017 September 11-15, *Wits University*. [South African Deep Learning Indaba](http://www.deeplearningindaba.com/).
-2017 August, *Coursera*. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (5 courses). [deeplearning.ai](https://www.deeplearning.ai/).
+* 2017 August, *Coursera*. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (5 courses). [deeplearning.ai](https://www.deeplearning.ai/).
 * 2017 Fall, *Manning Publications*. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet.
 * 2016 December, *MIT Press*. [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * 2016 September 24-25, *Stanford, CA*. [Deep Learning School](https://www.bayareadlschool.org/).
