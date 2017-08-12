@@ -3,7 +3,7 @@ permalink: /impacts/
 ---
 # Impacts
 
-Opinions from influential people [diverge](http://www.agreelist.org/s/advanced-artificial-intelligenc-4mtqyes0jrqy) on whether advanced AI will pose a serious risk to society within the next 50 years. Below we discuss in more details the likely impacts of AGI.
+Opinions from influential people [diverge](http://www.agreelist.org/s/advanced-artificial-intelligenc-4mtqyes0jrqy) on whether advanced AI will pose a serious risk to society within the next 50 years. Tesla CEO Elon Musk warned in August 2017 that AI poses “vastly” more risk than [North Korea](http://realai.org/about/risks/#north-korea). Below we discuss in more details the likely impacts of AGI.
 
 ## Public Administration
 
