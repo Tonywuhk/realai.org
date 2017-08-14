@@ -15,6 +15,7 @@ The topic of AI safety has attracted the attention of many [organizations](http:
 
 ## News
 
+* 2017 August 13. [Teaching A.I. Systems to Behave Themselves](https://www.nytimes.com/2017/08/13/technology/artificial-intelligence-safety-training.html). *New York Times*.
 * 2017 May 15. [Teaching Robots Right From Wrong](https://www.1843magazine.com/features/teaching-robots-right-from-wrong). *1843 Magazine*.
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*.
 * 2017 March 31, The Open Philanthropy Project awarded a grant of $30 million in general support to OpenAI. [*Open Philanthropy*](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support).
