@@ -19,6 +19,7 @@ permalink: /resources/demos/
 
 ### Image
 
+* 2017 August 13. Jin et al. [Create Anime Characters with A.I. !](http://make.girls.moe/technical_report.pdf) [GitHub](https://github.com/makegirlsmoe). [site](http://make.girls.moe/). [知乎](https://zhuanlan.zhihu.com/p/28488946).
 * 2017 July 13, Hui Fang. [Using Deep Learning to Create Professional-Level Photographs](https://research.googleblog.com/2017/07/using-deep-learning-to-create.html). *Google Research Blog*.
 * 2017 May 8, Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S. Lin, Tianhe Yu, and Alexei A. Efros. [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999). *arXiv:1705.02999*. [site](https://richzhang.github.io/ideepcolor/).
 * 2017 May 2, Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, and Sing Bing Kang. [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088). *arXiv:1705.01088*.

@@ -15,6 +15,7 @@ The [apt](https://help.ubuntu.com/lts/serverguide/apt.html) command is a powerfu
 Ubuntu organizes files in a [hierarchical tree](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview). Some standard directories include:
 
 * `/boot` contains files needed to start up the system.
+* `/tmp` is a place for temporary files. It is cleaned automatically, for example, by [tmpreaper](http://manpages.ubuntu.com/manpages/xenial/man8/tmpreaper.8.html).
 * `/usr/bin` contains executable (binary) files that are usually part of the operating system and installed by its package manager. For example, on a Ubuntu 16.04 virtual machine created from [Google Cloud Engine](http://realai.org/course/google-compute-engine/), both `python` and `python3` are from `/usr/bin`. Better not touch them without using `apt`.
 * `/usr/local/bin` contains the binary files that are usually installed by the local administrator, sometimes built from source. They use a “local” directory in order not to be disrupt system behavior.
 
