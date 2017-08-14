@@ -1,5 +1,5 @@
 ---
-permalink: /course/lib/
+permalink: /course/libraries/
 title: Libraries
 ---
 # Deep Learning Libraries
