@@ -12,7 +12,7 @@ title: Libraries
 
 ## PyTorch
 
-* [PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. This [repository](https://github.com/yunjey/pytorch-tutorial) provides tutorial code.
+* [PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) is a curated list of tutorials, projects, libraries, videos, papers, books and anything related.
 
 ## MXNet
 

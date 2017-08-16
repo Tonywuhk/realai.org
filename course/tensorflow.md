@@ -28,3 +28,8 @@ echo "jupyter notebook --ip=0.0.0.0 &" >> .bashrc
 source .bashrc
 ```
 
+## Further Reading
+
+* [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) is [Vahid Kazemi](https://twitter.com/VahidK)’s attempt to write a series of articles on effective TensorFlow usage, and to keep the content up to date with the latest releases of TensorFlow API.
+* 2017 January - June, Chip Huyen. [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/). [GitHub](https://github.com/chiphuyen/stanford-tensorflow-tutorials). This Stanford University course covers the fundamentals and contemporary usage of the TensorFlow library for deep learning research.
+

@@ -39,6 +39,10 @@ In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wir
 
 * 2017 July 12. [Scarily convincing fake video tool puts words in Obama’s mouth](http://www.telegraph.co.uk/technology/2017/07/12/scarily-convincing-fake-video-tool-puts-words-obamas-mouth/). *The Telegraph*.
 
+### Propaganda
+
+* 2017 July 4. [Future of humanity under threat from AI-controlled propaganda – Assange](https://www.rt.com/viral/392119-assange-humanity-ai-propaganda/). *RT*.
+
 ### Social Bots
 
 [Adam (2017)](https://arxiv.org/abs/1706.05143) warns that recent advances in machine learning has made it "possible to unleash incredibly powerful, human-like armies of social bots, in potentially well coordinated campaigns of deception and influence."

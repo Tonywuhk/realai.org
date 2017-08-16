@@ -8,6 +8,7 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ## Background
 
+* Miles Brundage. [Guide to working in AI policy and strategy](https://80000hours.org/articles/ai-policy-guide/). *80,000 Hours*. [Podcast](https://80000hours.org/2017/06/the-world-desperately-needs-ai-strategists-heres-how-to-become-one/).
 * 2017 Summer, Allan Dafoe. [Global Politics of AI](http://www.allandafoe.com/aiclass).
 
 ## Country Policies
