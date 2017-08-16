@@ -3,19 +3,20 @@ permalink: /safety/
 ---
 # Safety
 
-[AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. On this page, we consider how to ensure that the AI systems we develop will benefit the whole world.
+[AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. It has attracted the attention of many [organizations](http://realai.org/safety/organizations/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
+
+## Topics
 
 * [Value Alignment](http://realai.org/safety/alignment/)
 
-The topic of AI safety has attracted the attention of many [organizations](http://realai.org/safety/organizations/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
+## Resources
 
-## Links
-
+* 2017 August 15, Victoria Krakovna. [Introductory resources on AI safety research](https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/). *[Deep Safety](https://vkrakovna.wordpress.com/)*.
+* 2017 April 27. [Annontated bibliography of recommended materials](http://humancompatible.ai/bibliography). *[Center for Human-Compatible AI](http://humancompatible.ai/)*, UC Berkeley.
 * [Intelligent Agent Foundations Forum](https://agentfoundations.org/) is a publicly visible discussion forum for foundational mathematical research in "robust and beneficial" artificial intelligence.
 
 ## News
 
-* 2017 August 13. [Teaching A.I. Systems to Behave Themselves](https://www.nytimes.com/2017/08/13/technology/artificial-intelligence-safety-training.html). *New York Times*.
 * 2017 May 15. [Teaching Robots Right From Wrong](https://www.1843magazine.com/features/teaching-robots-right-from-wrong). *1843 Magazine*.
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*.
 * 2017 March 31, The Open Philanthropy Project awarded a grant of $30 million in general support to OpenAI. [*Open Philanthropy*](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support).
@@ -36,14 +37,10 @@ The topic of AI safety has attracted the attention of many [organizations](http:
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
 * 2017 April 10, El Mahdi El Mhamdi, Rachid Guerraoui, Hadrien Hendrikx, and Alexandre Maurer. [Can AIs learn to avoid human interruption?](https://arxiv.org/abs/1704.02882). *arXiv:1704.02882*.
 * 2017 April 3, Gopal P. Sarma. [Brief Notes on Hard Takeoff, Value Alignment, and Coherent Extrapolated Volition](https://arxiv.org/abs/1704.00783). *arXiv:1704.00783*.
-* 2016 July 27, Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, and Andrew Critch. [Alignment for Advanced Machine Learning Systems](https://intelligence.org/2016/07/27/alignment-machine-learning/). *Machine Intelligence Research Institute*.
-* 2016 June 21, Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565). *arXiv:1606.06565*.
-* 2015 January 12, Stuart Russell, Daniel Dewey, and Max Tegmark. [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf). *Future of Life Institute*.
-* 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/gp/product/0199678111/). *Oxford University Press*.
 
 ## Real AI
 
-Safe and beneficial intelligence is everywhere: trees release oxygen, food is grown in fields, and grid transmits electricity. These systems follow physical laws and their natural behavior, complex but not goal-driven, safely provides enormous benefits to human society. Our long-term vision is to build more such intelligence. A smart planet that automatically produces almost everything we need is a great place. Everyone will live well and prosper.
+Safe and beneficial intelligence is everywhere: trees release oxygen, food is grown in fields, and grid transmits electricity. These systems follow physical laws and their natural behavior, complex but not goal-driven, safely provides enormous benefits to human society. Our long-term vision is to build more such intelligence. A smart planet that automatically produces almost everything we need is a great place. Everyone will live well and prosper.  Below are some considerations on how to ensure that the AI systems we develop will benefit the whole world.
 
 Long version: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/).
 
