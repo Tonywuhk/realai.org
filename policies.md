@@ -6,6 +6,10 @@ permalink: /policies/
 
 In July 2017, Elon Musk [called on the government to proactively regulate AI](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai) when he spoke at the National Governors Association Summer Meeting in Rhode Island. In a Facebook Live session shortly afterwards,  Mark Zuckerberg called Elon Musk's doomsday AI predictions "[pretty irresponsible](http://www.cnbc.com/2017/07/24/mark-zuckerberg-elon-musks-doomsday-ai-predictions-are-irresponsible.html)." Elon Musk responded that Mark Zuckerberg's "[understanding of the subject is limited](http://money.cnn.com/2017/07/25/technology/elon-musk-mark-zuckerberg-ai-artificial-intelligence/index.html)", and added that a movie on the subject of AI was "[coming soon](https://twitter.com/elonmusk/status/889751762944512002)."
 
+## Background
+
+* 2017 Summer, Allan Dafoe. [Global Politics of AI](http://www.allandafoe.com/aiclass).
+
 ## Country Policies
 
 ### Canada
