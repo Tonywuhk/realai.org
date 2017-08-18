@@ -3,7 +3,7 @@ permalink: /labs/
 ---
 # Research Groups
 
-Below is an incomplete list of research groups around the world that potentially work on AGI or related technologies. There are also many [conferences](http://realai.org/conferences/) every year that attract researchers and industry leaders in this field.
+Below is an incomplete list of research groups around the world that potentially work on AGI or related technologies. There are also many [conferences](https://aideadlin.es/) every year that attract researchers and industry leaders in this field.
 
 ## Industry
 

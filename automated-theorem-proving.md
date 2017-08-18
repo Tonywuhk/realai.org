@@ -8,7 +8,7 @@ From counting to Clay Mathematics Institute's [Millennium Problems](http://www.c
 
 ## Resources
 
-* [Conferences](http://realai.org/resources/conferences/): AITP ([2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)), LPAR ([2017](http://easychair.org/smart-program/LPAR-21/LPAR-index.html)).
+* Conferences: AITP ([2017](http://aitp-conference.org/2017/), [2016](http://aitp-conference.org/2016/)), LPAR ([2017](http://easychair.org/smart-program/LPAR-21/LPAR-index.html)).
 * The [Deepmath](https://github.com/tensorflow/deepmath) project is a collaboration between Google Research and several universities that seeks to improve automated theorem proving using deep learning and other machine learning techniques.
 
 ## References

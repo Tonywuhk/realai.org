@@ -7,9 +7,11 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 August 17, Prithvijit Chattopadhyay, Deshraj Yadav, Viraj Prabhu, Arjun Chandrasekaran, Abhishek Das, Stefan Lee, Dhruv Batra, and Devi Parikh. [Evaluating Visual Conversational Agents via Cooperative Human-AI Games](https://arxiv.org/abs/1708.05122). *arXiv:1708.05122*.
 * 2017 August 8, Xiang Zhang and Yann LeCun. [Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?](https://arxiv.org/abs/1708.02657). *arXiv:1708.02657*.
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 August 7, Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). *arXiv:1708.02002*.
+* 2017 August 3, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502). *arXiv:1706.08502*.
 * 2017 July 20, Yaniv Taigman, Lior Wolf, Adam Polyak, and Eliya Nachmani. [Voice Synthesis for in-the-Wild Speakers via a Phonological Loop](https://arxiv.org/abs/1707.06588). *arXiv:1707.06588*.
 * 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
 * 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.

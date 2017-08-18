@@ -23,7 +23,7 @@ In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-netw
 
 There are three distinct *races* in SC2: Terran, Protoss, and Zerg, each with own strengths and weaknesses. Each race has unique units that fill specific roles on the battlefield. The most basic worker units harvest resources to expand base, add more units to a growing army, and create new buildings. In multiplayer matches, a player wins the game when all enemy’s buildings are wiped off the map or the other players surrender. A [guide](http://us.battle.net/sc2/en/game/guide/whats-sc2) for new players is available at SC2’s [official game site](http://us.battle.net/sc2/en/).
 
-The StarCraft II Learning Environment (SC2LE) consists of three sub-components: a Linux StarCraft II binary, the [StarCraft II API](https://github.com/Blizzard/s2client-proto) and [PySC2](https://github.com/deepmind/pysc2), a Python environment. PySC2 includes several [mini-games](https://github.com/deepmind/pysc2/blob/master/docs/mini_games.md) as small steps towards playing the full game.
+The StarCraft II Learning Environment (SC2LE; [Vinyals et al., 2017](https://arxiv.org/abs/1708.04782)) consists of three sub-components: a Linux StarCraft II binary, the [StarCraft II API](https://github.com/Blizzard/s2client-proto) and [PySC2](https://github.com/deepmind/pysc2), a Python environment. PySC2 includes several [mini-games](https://github.com/deepmind/pysc2/blob/master/docs/mini_games.md) as small steps towards playing the full game.
 
 ### StarCraft
 
@@ -47,6 +47,7 @@ Texas Hold'em Poker is a family of games that exhibit imperfect information, whe
 
 ## References
 
+* 2017 August 16, Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Küttler, John Agapiou, Julian Schrittwieser, John Quan, Stephen Gaffney, Stig Petersen, Karen Simonyan, Tom Schaul, Hado van Hasselt, David Silver, Timothy Lillicrap, Kevin Calderone, Paul Keet, Anthony Brunasso, David Lawrence, Anders Ekermo, Jacob Repp, and Rodney Tsing. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782). *arXiv:1708.04782*.
 * 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
 * 2017 January 6, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724). *arXiv:1701.01724*.
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.

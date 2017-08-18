@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 August 16, Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Küttler, John Agapiou, Julian Schrittwieser, John Quan, Stephen Gaffney, Stig Petersen, Karen Simonyan, Tom Schaul, Hado van Hasselt, David Silver, Timothy Lillicrap, Kevin Calderone, Paul Keet, Anthony Brunasso, David Lawrence, Anders Ekermo, Jacob Repp, and Rodney Tsing. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782). *arXiv:1708.04782*.
 * 2017 August 1, Hao Tang, Liang Lu, Lingpeng Kong, Kevin Gimpel, Karen Livescu, Chris Dyer, Noah A. Smith, and Steve Renals. [End-to-End Neural Segmental Models for Speech Recognition](https://arxiv.org/abs/1708.00531). *arXiv:1708.00531*.
 * 2017 August 1, Kartik Goyal, Graham Neubig, Chris Dyer, and Taylor Berg-Kirkpatrick. [A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models](https://arxiv.org/abs/1708.00111). *arXiv:1708.00111*.
 * 2017 July 31, Kevin J Miller, Matthew M Botvinick, and Carlos D Brody. [Dorsal hippocampus contributes to model-based planning](https://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4613.html). *Nature Neuroscience*.

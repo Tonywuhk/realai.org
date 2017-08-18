@@ -23,7 +23,7 @@ mathjax: true
     4. [Roadmaps](http://realai.org/roadmaps/)
     5. [Impacts](http://realai.org/impacts/): [Applications](http://realai.org/applications/)
     6. [Industry](http://realai.org/industry/)
-    7. [Research Groups](http://realai.org/labs/): [Conferences](http://realai.org/conferences/)
+    7. [Research Groups](http://realai.org/labs/):
         1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
         2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
         3. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)

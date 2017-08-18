@@ -1,7 +1,7 @@
 ---
 permalink: /industry/
 ---
-# Companies
+# Industry
 
 Large technology companies have poured enormous resources into AI, and are sponsors of some world-leading [research groups](http://realai.org/labs/).
 
@@ -40,6 +40,10 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 ## Regulations
 
 * 2017 July 20. [Should America’s Tech Giants Be Broken Up?](https://www.bloomberg.com/news/articles/2017-07-20/should-america-s-tech-giants-be-broken-up) *Bloomberg Businessweek*.
+
+## More Companies
+
+* [SenseTime](https://www.sensetime.com/) is a Chinese startup that was [valued at more than $1.5 billion](https://www.wsj.com/articles/saving-face-investment-in-recognition-technology-heats-up-in-china-1499763603) as of July 2017.  In an August 17 [report](https://zhuanlan.zhihu.com/p/28575934), QbitAI listed four business areas SenseTime is working in, mostly focused on applications of computer vision technology.
 
 ## Events
 
