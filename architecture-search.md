@@ -3,7 +3,9 @@ permalink: /architecture-search/
 ---
 # Architecture Search
 
-Manually designing deep neural networks requires a lot of expert knowledge, and is very time-consuming. Many techniques have been proposed to automate this process. [Negrinho & Gordon (2017)](https://arxiv.org/abs/1704.08792) used an extensible and modular language to describe expressive spaces of model parameters, which then can be searched using Monte Carlo tree search and sequential model-based optimization.
+Manually designing deep neural networks requires a lot of expert knowledge, and is very time-consuming. Many techniques have been proposed to automate this process. [Brock et al. (2017)](https://arxiv.org/abs/1708.05344) propose the SMASH method for architecture search. It learns an auxiliary HyperNet ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)) to generate a model’s weights based on its architecture, and uses the performance of these generated models on the validation error to approximate their performance when using normally trained weights. By using the generated weights, they can effectively search over a wide range of architectures with much less computation. They also develop a mechanism based on memory read-writes to encode architectures for the HyperNet. SMASH is validated on CIFAR-10 and CIFAR-100, STL-10, ModelNet10, and Imagenet32x32, achieving competitive performance.
+
+[Negrinho & Gordon (2017)](https://arxiv.org/abs/1704.08792) used an extensible and modular language to describe expressive spaces of model parameters, which then can be searched using Monte Carlo tree search and sequential model-based optimization.
 
 ## Evolutionary Algorithms
 
@@ -24,8 +26,10 @@ While gradient methods are very effective in learning the weights of neural conn
 
 ## References
 
+* 2017 August 18, Andrew Brock, Theodore Lim, J. M. Ritchie, and Nick Weston. [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344). *arXiv:1708.05344*. [code](https://github.com/ajbrock/SMASH). [video](https://www.youtube.com/watch?v=79tmPL9AL48).
 * 2017 July 21, Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V. Le. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012). *arXiv:1707.07012*.
 * 2017 July 16, Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, and Jun Wang. [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). *arXiv:1707.04873*.
 * 2017 April 28, Renato Negrinho and Geoff Gordon. [DeepArchitect: Automatically Designing and Training Deep Architectures](https://arxiv.org/abs/1704.08792). *arXiv:1704.08792*.
+* 2016 December 1, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
 * 2016 November 7, Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). *arXiv:1611.02167*.
 * 2016 November 5, Barret Zoph and Quoc V. Le. [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). *arXiv:1611.01578*.
