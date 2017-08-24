@@ -33,6 +33,8 @@ Google could also face [€1.12 billion in back taxes to France](https://www.blo
 
 ## Waymo
 
+According to a [report from The Atlantic on August 23, 2017](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/), Waymo conduct “structured testing” program at a secret base in the Central Valley they call Castle. There are also 25,000 virtual self-driving cars making their way through fully modeled versions of Austin, Mountain View, and Phoenix in a simulation called Carcraft.
+
 ### Analyst's Opinions
 
 Following its [recent deal](https://www.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html) with Lyft to collaborate on self-driving cars, Morgan Stanley's analyst Brian Nowak [wrote to clients around 23 May 2017](http://www.cnbc.com/2017/05/23/alphabets-self-driving-waymo-unit-could-be-worth-70-billion-more-than-gm-morgan-stanley-says.html) that as a potential spin-out candidate, Waymo could be worth $70 billion.

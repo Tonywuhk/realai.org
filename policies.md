@@ -24,6 +24,8 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### China
 
+* 2017 August 1. [China’s Plan to ‘Lead’ in AI: Purpose, Prospects, and Problems](https://www.newamerica.org/cybersecurity-initiative/blog/chinas-plan-lead-ai-purpose-prospects-and-problems/). *New America*.
+* 2017 July 20. [国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm). *www.gov.cn*.
 * 2017 June 29. [迈向大智能时代：我国新一代人工智能发展规划即将发布](http://news.xinhuanet.com/tech/2017-06/29/c_1121235630.htm). *XINHUANET.com*.
 * 2017 March 29. [工信部官员：鼓励成立人工智能行业组织 将编制发展白皮书](http://m.21jingji.com/article/20170329/herald/6e752f0dd952d7a53492d36cb27551ff.html). *21st Century Business Herald*.
 * 2017 March 5. [人工智能首次写入政府工作报告 2017年轻量级应用可能落地](http://m.21jingji.com/article/20170305/herald/496c009a2771888d3f957d9387560b03.html). *21st Century Business Herald*.
