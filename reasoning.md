@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Reasoning
 
-The ability of reasoning emcompasses "algebraically manipulating knowledge to answer a question" ([Bottou, 2011](https://arxiv.org/abs/1102.1808)). [Chollet (2017)](https://blog.keras.io/the-future-of-deep-learning.html) considers reasoning a "fundamental weakness of current models".
+The ability of reasoning emcompasses "algebraically manipulating knowledge to answer a question" ([Bottou, 2011](https://arxiv.org/abs/1102.1808)). [Chollet (2017)](https://blog.keras.io/the-future-of-deep-learning.html) considers reasoning a "fundamental weakness of current models". In an August 2017 [interview with QbitAI](http://mp.weixin.qq.com/s/ZNS-q7Y-6ZByHmFT0WzpvQ), Andrew Yao mentions reasoning as a potential venue for breakthrough towards AGI that is now hopeful to be found.
 
 ## Relation Networks
 
