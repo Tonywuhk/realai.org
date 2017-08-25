@@ -16,6 +16,10 @@ On 26 May 2017, Axios [reported](https://www.axios.com/exclusive-google-launches
 
 In a [research report](https://ark-invest.com/research/googles-ai) dated May 23, 2017, ARK Investment called Google a full stack AI company.
 
+### Retail
+
+[Google Express](https://express.google.com/) is an online shopping service in continental U.S. that lets its users shop from an array of stores all in one place. In August 2017, Google [entered a partnership with Walmart](https://www.blog.google/products/assistant/shop-walmart-and-more-your-favorite-stores-faster/) to sell its products on Google Home or Google Express.
+
 ### Legal Problems in Europe
 
 In June 2017, The European Commission [fined Google €2.42 billion](http://europa.eu/rapid/press-release_IP-17-1784_en.htm) for antitrust violations pertaining to its shopping comparison service. Regulators are also weighing [another record fine over its Android mobile operating system](http://www.reuters.com/article/us-eu-google-antitrust-exclusive-idUSKBN19Q1RU), and there is a third case involving its AdSense for Search platform. Google [tapped at least five top law firms](http://www.cnbc.com/2017/07/10/googles-eu-fine-top-law-firms-hired-to-fight-fine-sources.html) in Brussels to fight the regulatory battles.
