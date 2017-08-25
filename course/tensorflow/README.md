@@ -5,17 +5,17 @@ title: Course | TensorFlow
 ---
 # TensorFlow
 
-[TensorFlow](https://www.tensorflow.org/) is a technical term often mentioned in articles about artificial intelligence. It is the name of a software library that is designed for machine learning tasks. The objective of this course is to help readers with only everyday computer experience to grasp its basics as quickly as possible. In a few sessions, we hope that readers will attain the necessary background knowledge to access online content intended for TensorFlow practitioners, who are typically full-time developers with extensive programming experience.
+[TensorFlow](https://www.tensorflow.org/) is a technical term often mentioned by AI developers. It is the name of a software [library](https://en.wikipedia.org/wiki/Library_(computing)) that is designed for large-scale machine learning. The objective of this course is to help readers with only everyday computer experience to grasp its basics as quickly as possible. In a few sessions, we hope that readers will attain the necessary background knowledge to access online content intended for TensorFlow practitioners, who are typically full-time developers with extensive programming experience.
 
-To follow the main sequence, readers are advised to install the Chrome web browser and have a valid credit card that can be temporarily charged $1 in order to get a free Google cloud account.
+To follow the main sequence, readers are advised to install the Chrome web browser and have a valid credit card that can be temporarily charged $1 in order to get a free [Google cloud](https://cloud.google.com/) account.
 
 ## Contents
 
 * Main Sequence
   * Session 1: [IT 101](#it-101)
-  * Session 2. [Setting Up Your Computer](#setting-up-your-computer)
-  * Session 3. [Classifying Handwritten Digits](#classifying-handwritten-digits)
-  * Session 4. Deep Models
+  * Session 2: [Setting Up Your Computer](#setting-up-your-computer)
+  * Session 3: [Classifying Handwritten Digits](#classifying-handwritten-digits)
+  * Session 4: Deep Models
 * [Further Reading](#further-reading)
 * Topics
   * [Dynamic Batching](#dynamic-batching)
@@ -25,21 +25,19 @@ To follow the main sequence, readers are advised to install the Chrome web brows
 
 ### IT 101
 
-TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for most open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on GitHub.
+TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
-Within the scope of this sequence, TensorFlow can be viewed as an extension to the popular Python programming language. Readers can access both with Jupyter Notebook. Along with other concepts, they are illustrated in the diagram below:
+Within the scope of this sequence, TensorFlow can be viewed as an extension to the popular [Python](http://realai.org/course/python/) programming language. Readers can access both with [Jupyter Notebook](http://realai.org/course/jupyter/). Along with other concepts, they are illustrated in the diagram below:
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
-The actual architecture map is a lot more complex, for example, the part of TensorFlow we use in this sequence is only its Python API on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical cloud, and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the Python API is the most complete and the easiest to use. 
+The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the Python API is the most complete and the easiest to use. 
 
-Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines in the cloud. Interested readers can follow the steps below to run a simple AI agent to StarCraft II on a remote desktop:
+Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine). Interested readers can follow the steps below to run a simple AI agent that plays StarCraft II on a remote desktop:
 
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/lab/gce-sc2le/)
 
 ### Setting Up Your Computer
-
-## Basics
 
 Experiments in this section are conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-compute-engine/). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands, explained in more details at [Running Jupyter on Google Compute Engine](http://realai.org/course/lab/gce-jupyter/):
 
