@@ -15,7 +15,7 @@ To follow the main sequence, readers are advised to install the Chrome web brows
   * Session 1: [IT 101](#it-101)
   * Session 2: [Setting Up Your Computer](#setting-up-your-computer)
   * Session 3: [Classifying Handwritten Digits](#classifying-handwritten-digits)
-  * Session 4: Deep Models
+  * Session 4: [Deep Models](#deep-models)
 * [Further Reading](#further-reading)
 * Topics
   * [Dynamic Batching](#dynamic-batching)
@@ -53,6 +53,10 @@ source .bashrc
 ### Classifying Handwritten Digits
 
 TensorFlow programs usually involve two phases: the construction phase of building a computation graph, and the execution phase of running that graph in a session.
+
+### Deep Models
+
+![](http://realai.org/course/tensorflow/deep-models.png)
 
 ## Further Reading
 
