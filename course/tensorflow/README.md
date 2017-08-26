@@ -56,7 +56,7 @@ TensorFlow programs usually involve two phases: the construction phase of buildi
 
 ### Deep Models
 
-![](http://realai.org/course/tensorflow/deep-models.png)
+* Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/lab/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/lab/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/lab/solving-MNIST-by-convolution.ipynb))
 
 ## Further Reading
 
