@@ -53,6 +53,10 @@ For a step-by-step guide, see
 
 * [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
 
+After completing the above steps, our virtual machine should be fully functional with Jupyter, TensorFlow and TensorBoard:
+
+* Jupyter Notebook: [TensorFlow Basics](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/TensorFlow-basics.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/TensorFlow-basics.ipynb); [source](http://realai.org/course/tensorflow/TensorFlow-basics.ipynb))
+
 ### Classifying Handwritten Digits
 
 TensorFlow programs usually involve two phases: the construction phase of building a computation graph, and the execution phase of running that graph in a session.
