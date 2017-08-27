@@ -39,7 +39,7 @@ Fortunately we don’t need to know all these details to use TensorFlow, or to e
 
 ### Setting Up Your Computer
 
-Experiments in this section are conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-compute-engine/). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands, explained in more details at [Running Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/):
+Experiments in this section are conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-compute-engine/). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
@@ -47,8 +47,11 @@ sudo pip3 install jupyter matplotlib tensorflow
 echo >> .bashrc
 echo "# Start Jupyter Notebook" >> .bashrc
 echo "jupyter notebook --ip=0.0.0.0 &" >> .bashrc
-source .bashrc
 ```
+
+For a step-by-step guide, see
+
+* [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
 
 ### Classifying Handwritten Digits
 

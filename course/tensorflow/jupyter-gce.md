@@ -4,8 +4,8 @@ title: Course | TensorFlow | Running TensorFlow in Jupyter on Google Compute Eng
 ---
 [Home](http://realai.org/) > [Course](http://realai.org/course/)
 
-* > [Google Compute Engine](http://realai.org/course/google-compute-engine/) >
-* > [Jupyter Notebook](http://realai.org/course/jupyter/) >
+* &gt; [Google Compute Engine](http://realai.org/course/google-compute-engine/) >
+* &gt; [Jupyter Notebook](http://realai.org/course/jupyter/) >
 
 # Running TensorFlow in Jupyter on Google Compute Engine
 
@@ -15,7 +15,7 @@ It is very easy to run [TensorFlow](http://realai.org/course/tensorflow/) in a J
 
 ## Create Firewall Rules
 
-Click on the 3-line icon on the top left corner of cloud console, go to *Networking* and *Firewall rules*. Here we name the rule `jupyter` and use the same name as the *Target tag*. To allow incoming traffic from all over the Internet, we set *Source IP range* to be *0.0.0.0/0* ([CIDR notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation)), and *Specified protocal and port* to be `tcp:8888`, the default port to be used by Jupyter Notebook. Click *Create* to add this rule.
+Click on the 3-line icon on the top left corner of [cloud console](https://console.cloud.google.com/), go to *VPC Network* and *Firewall rules*, then click *CREATE FIREWALL RULE*. Here we name the rule `jupyter` and use the same name as the *Target tag*. To allow incoming traffic from all over the Internet, we set *Source IP range* to be *0.0.0.0/0* ([CIDR notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation)), and *Specified protocal and port* to be `tcp:8888`, the default port to be used by Jupyter Notebook. Click *Create* to add this rule.
 
 ![](http://realai.org/course/tensorflow/jupyter-gce-1.png)
 
