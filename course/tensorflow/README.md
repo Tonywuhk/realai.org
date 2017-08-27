@@ -63,7 +63,7 @@ TensorFlow programs usually involve two phases: the construction phase of buildi
 
 ### Deep Models
 
-* Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/lab/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/lab/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/lab/solving-MNIST-by-convolution.ipynb))
+* Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
 
 ## Further Reading
 
@@ -84,7 +84,7 @@ TensorFlow is designed to run static computation graphs in which the data flow f
 
 ## Resources
 
-* Links: [Python API Documentation](https://www.tensorflow.org/api_docs/python/) \| [Releases](https://github.com/tensorflow/tensorflow/tags) \| [Official Twitter](https://twitter.com/tensorflow)
+* Links: [Python API Documentation](https://www.tensorflow.org/api_docs/python/) \| [Releases](https://github.com/tensorflow/tensorflow/tags) ([latest](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)) \| [Official Twitter](https://twitter.com/tensorflow)
 * Higher-Level Libraries: [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
 * Related GitHub Repositories: [TensorBoard](https://github.com/tensorflow/tensorboard) \| [magenta](https://github.com/tensorflow/magenta) \| [Deepmath](https://github.com/tensorflow/deepmath)
 
