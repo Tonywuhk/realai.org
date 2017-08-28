@@ -1,7 +1,9 @@
 ---
-permalink: /resources/demos/
+permalink: /demos/
 ---
 # Demos
+
+Interesting demos are often precursors to useful [applications](http://realai.org/applications/).
 
 ## Overview
 

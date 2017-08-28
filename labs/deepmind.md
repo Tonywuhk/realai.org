@@ -43,7 +43,7 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 * 2016 August 4. [Who Should Control Our Thinking Machines?](https://www.bloomberg.com/features/2016-demis-hassabis-interview-issue/). *Bloomberg Businessweek*.
 * 2016 July 20. [DeepMind's AI will be in every Google data centre by the end of 2016](http://uk.businessinsider.com/google-deepmind-ai-in-every-company-data-centre-end-of-year-2016-7). *Business Insider UK*.
 * 2016 July 19. [Google Cuts Its Giant Electricity Bill With DeepMind-Powered AI](https://www.bloomberg.com/news/articles/2016-07-19/google-cuts-its-giant-electricity-bill-with-deepmind-powered-ai). *Bloomberg Technology*.
-* 2017 July 5. [Google DeepMind pairs with NHS to use machine learning to fight blindness](https://www.theguardian.com/technology/2016/jul/05/google-deepmind-nhs-machine-learning-blindness). *The Guardian*.
+* 2016 July 5. [Google DeepMind pairs with NHS to use machine learning to fight blindness](https://www.theguardian.com/technology/2016/jul/05/google-deepmind-nhs-machine-learning-blindness). *The Guardian*.
 * 2016 March 30. [What it takes to work at Google DeepMind — a London startup no one has ever left](http://www.businessinsider.com/heres-what-it-takes-to-work-at-google-deepmind-an-ai-lab-that-no-one-has-ever-left-2016-3). *Business Insider UK*.
 * 2016 February 16. [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
 * 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*.

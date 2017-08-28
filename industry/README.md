@@ -43,9 +43,11 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 
 * 2017 July 20. [Should America’s Tech Giants Be Broken Up?](https://www.bloomberg.com/news/articles/2017-07-20/should-america-s-tech-giants-be-broken-up) *Bloomberg Businessweek*.
 
-## More Companies
+## Community 
 
+* [Partnership on AI](http://realai.org/industry/pai/)
 * [SenseTime](https://www.sensetime.com/) is a Chinese startup that was [valued at more than $1.5 billion](https://www.wsj.com/articles/saving-face-investment-in-recognition-technology-heats-up-in-china-1499763603) as of July 2017.  In an August 17 [report](https://zhuanlan.zhihu.com/p/28575934), QbitAI listed four business areas SenseTime is working in, mostly focused on applications of computer vision technology.
+* [deeplearning.ai](https://www.deeplearning.ai/) is a project dedicated to disseminating AI knowledge, [announced](https://medium.com/@andrewng/deeplearning-ai-announcing-new-deep-learning-courses-on-coursera-43af0a368116) by deep learning "[visionary](https://venturebeat.com/2014/05/16/baidu-snatches-googles-deep-learning-visionary-andrew-ng-as-its-chief-scientist/)" Andrew Ng ([Twitter](https://twitter.com/AndrewYNg)) as the first of three new AI projects he had been working on. Andrew Ng was [raising a $150M AI fund](https://techcrunch.com/2017/08/15/andrew-ng-is-raising-a-150m-ai-fund/) in August 2017. Ng was former head of Baidu AI group, appointed as its Chief Scientist in May 2014 when Baidu [opened Silicon Valley Lab](http://ir.baidu.com/phoenix.zhtml?c=188488&p=irol-newsArticle&ID=1931950).
 
 ## Events
 

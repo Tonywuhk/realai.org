@@ -13,17 +13,15 @@ mathjax: true
 
 1. AI and Society ([Overview](http://realai.org/overview/))
     1. [Progress](http://realai.org/progress/): [Forecasts](http://realai.org/forecasts/)
-    2. [Timing](http://realai.org/timing/)
-    3. [Prosaic AI](http://realai.org/prosaic/)
-    4. [Roadmaps](http://realai.org/roadmaps/)
-    5. [Impacts](http://realai.org/impacts/): [Applications](http://realai.org/applications/)
-    6. [Industry](http://realai.org/industry/)
-    7. [Research Groups](http://realai.org/labs/):
+    2. [Timing](http://realai.org/timing/): [Prosaic AI](http://realai.org/prosaic/), [Roadmaps](http://realai.org/roadmaps/)
+    3. [Impacts](http://realai.org/impacts/): [Applications](http://realai.org/applications/), [Demos](http://realai.org/demos/)
+    4. [Industry](http://realai.org/industry/)
+    5. [Research Groups](http://realai.org/labs/):
         1. [DeepMind](http://realai.org/labs/deepmind/): [Publications](http://realai.org/labs/deepmind/publications/)
         2. [Google Brain](http://realai.org/labs/google-brain/): [Publications](http://realai.org/labs/google-brain/publications/)
         3. [FAIR](http://realai.org/labs/fair/): [Publications](http://realai.org/labs/fair/publications/)
-    8. [Policies](http://realai.org/policies/)
-    9. [Safety](http://realai.org/safety/)
+    6. [Policies](http://realai.org/policies/)
+    7. [Safety](http://realai.org/safety/)
         1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Organizations](http://realai.org/safety/organizations/)

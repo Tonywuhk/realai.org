@@ -27,7 +27,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 
 TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/#deep-learning-libraries). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
-Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#setting-up-your-computer), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on [Google Cloud Platform](http://realai.org/course/google-cloud-platform/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
+Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#setting-up-your-computer), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](http://realai.org/course/ubuntu/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
@@ -79,16 +79,7 @@ CNNs are directly applicable to a range of more advanced or recent image classif
 
 In August 2017, German commerce company [Zalando SE](http://www.zalando.com/) released [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), a data set of 60,000 training images and 10,000 test images in 28x28 grayscale, intended to serve as a direct drop-in replacement of the original MNISt dataset.
 
-#### CNN Applications
-
-In November 2016, a group of Google researchers used a deep CNN to identify diabetic retinopathy ([Gulshan et al., 2016](https://research.google.com/pubs/pub45732.html)), a leading cause of blindness among adults. In January 2017, a group of researchers from Stanford University trained a single CNN to identify skin cancer ([Esteva et al., 2017](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)).
-
-Even a simple model like the one we studied in this session is already close to adding value in the real world. In August 2016, it was reported that a Japanese farmer used a similar model to [sort cucumbers](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).
-
-### References
-
-* 2016 November 29, Varun Gulshan, Lily Peng, Marc Coram, Martin Stumpe, Derek Wu, Arunachalam Narayanaswamy, Subhashini Venugopalan, Kasumi Widner, Tom Madams, Jorge Cuadros, Ramasamy Kim, Rajiv Raman, Philip Q Nelson, Jessica Mega, and Dale Webster. [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://research.google.com/pubs/pub45732.html). *JAMA 2016*.
-* 2017 January 25, Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau, and Sebastian Thrun. [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html). *Nature*, 542(7639):115-118.
+A simple model like the one we studied in this session is already close to adding value in the real world. In August 2016, it was reported that a Japanese farmer used a similar model to [sort cucumbers](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).
 
 ## Further Reading
 

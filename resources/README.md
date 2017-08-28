@@ -4,8 +4,7 @@ permalink: /resources/
 # Resources
 
 * [Curriculum](http://realai.org/resources/curriculum/)
-* [Demos](http://realai.org/resources/demos/)
-* [News](http://realai.org/resources/news/) (2017): [2016](http://realai.org/resources/news/2016/) \| [Markets](http://realai.org/resources/news/markets/)
+* [News](http://realai.org/resources/news/)
 
 ## Funding
 

@@ -6,7 +6,7 @@ title: Libraries
 
 ## Deep Learning Libraries
 
-[TensorFlow](https://www.tensorflow.org/) ([Abadi et al., 2016](https://arxiv.org/abs/1605.08695)) is an open-source software library for machine intelligence. It supports higher-level libraries such as [Keras](https://keras.io/) ([Chollet, 2015](https://github.com/fchollet/keras)) and [Sonnet](https://github.com/deepmind/sonnet).
+[TensorFlow](https://www.tensorflow.org/) ([Abadi et al., 2016](https://arxiv.org/abs/1605.08695)) is an open-source software library for machine intelligence. It supports higher-level libraries such as [Keras](https://keras.io/) ([Chollet, 2015](https://github.com/fchollet/keras)) and [Sonnet](https://github.com/deepmind/sonnet) ([blog](https://deepmind.com/blog/open-sourcing-sonnet/)).
 
 [PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) is a curated list of tutorials, projects, libraries, videos, papers, books and anything related.
 
