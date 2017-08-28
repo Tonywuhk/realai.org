@@ -1,7 +1,7 @@
 ---
-permalink: /sources/
+permalink: /source/
 ---
-# Sources
+# Source
 
 ## Papers
 
