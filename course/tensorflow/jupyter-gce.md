@@ -4,7 +4,7 @@ title: Course | TensorFlow | Running TensorFlow in Jupyter on Google Compute Eng
 ---
 [Home](http://realai.org/) > [Course](http://realai.org/course/)
 
-* &gt; [Google Compute Engine](http://realai.org/course/google-compute-engine/) >
+* &gt; [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) > [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine) >
 * &gt; [Jupyter Notebook](http://realai.org/course/jupyter/) >
 
 # Running TensorFlow in Jupyter on Google Compute Engine

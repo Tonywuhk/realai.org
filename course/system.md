@@ -5,9 +5,9 @@ permalink: /course/system/
 
 The goal of this section is to set up productive environments for deep learning research.
 
-## Basic Operations
+## Basic IT 
 
-* Virtual Machines: [Google Compute Engine](http://realai.org/course/google-compute-engine/)
+* Cloud Computing: [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
 * Operating System: [Ubuntu](http://realai.org/course/ubuntu/) is a popular operating system that we will use during this course
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 

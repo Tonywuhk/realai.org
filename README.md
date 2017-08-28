@@ -34,7 +34,7 @@ mathjax: true
     1. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
-    1. [System](http://realai.org/course/system/): [Google Compute Engine](http://realai.org/course/google-compute-engine/)
+    1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
     2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
 

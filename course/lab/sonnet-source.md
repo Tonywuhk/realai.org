@@ -6,7 +6,7 @@ title: Course | Lab | Installing Sonnet from Source
 
 *Last Updated: August 10, 2017*
 
-From [Google Compute Engine](http://realai.org/course/google-compute-engine/), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 boot image.
+From [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 boot image.
 
 ## Installing Pip and TensorFlow
 

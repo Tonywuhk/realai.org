@@ -1,12 +1,14 @@
 ---
-permalink: /course/lab/gce-sc2le/
-title: Course | Lab | Running StarCraft II Learning Environment on Google Compute Engine
+permalink: /course/google-cloud-platform/gce-sc2le/
+title: Course | GCP | GCE | Running StarCraft II Learning Environment on Google Compute Engine
 ---
+[Home](http://realai.org/) > [Course](http://realai.org/course/) > [TensorFlow](http://realai.org/course/tensorflow/) > [IT 101](http://realai.org/course/tensorflow/#it-101) >
+
 # Running StarCraft II Learning Environment on Google Compute Engine
 
 *Last Updated: August 10, 2017*
 
-On [Google Compute Engine](http://realai.org/course/google-compute-engine/), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 boot image.
+On [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 boot image.
 
 ## Installing Conda
 
@@ -62,7 +64,7 @@ sudo service xrdp restart
 
 Connect to the remote desktop, open a terminal, and type `python -m pysc2.bin.agent --map Simple64`:
 
-![](http://realai.org/course/lab/gce-sc2le-1.png)
+![](http://realai.org/course/google-cloud-platform/gce-sc2le-1.png)
 
 The whole experiment took around 30 minutes of time, most of which was spent on downloading the `SC2.3.16.1.zip` file.
 
