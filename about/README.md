@@ -29,7 +29,7 @@ We believe that even a highly intelligent AI theorem prover will be safe to huma
 
 #### Longer-Term Contingencies
 
-A mathematical proof is essentially a piece of code written in a programming language of very limited expressiveness. As the scope of the language expands, the natural next steps are a code generation system in a high-level programming language, then a common sense reasoner in natural language. The last step lays a solid foundation upon which to build an AGI chatbot. When we notice any of the milestones is achieved, we will shift our technical goal to the next step. Each of these three steps after ATP seems to be worth around two years of solid AI progress worldwide, putting our AGI target at 2027.
+A mathematical proof is essentially a piece of code written in a programming language of very limited expressiveness. As the scope of the language expands, the natural next steps are a code generation system in a high-level programming language, then a common sense reasoner in a natural language. The last step lays a solid foundation upon which to build an AGI chatbot. When we notice any of the milestones is achieved, we will shift our technical goal to the next step. Each of these three steps after ATP seems to be worth around two years of solid AI progress worldwide, putting our AGI target at 2027.
 
 ## Team
 
