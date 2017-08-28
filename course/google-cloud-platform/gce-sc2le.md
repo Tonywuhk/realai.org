@@ -47,7 +47,7 @@ rm Melee.zip
 
 ## Installing a Remote Desktop and Play!
 
-Largely follow [these steps](http://realai.org/course/lab/rdp-netsurf-xfce4/). The main commands used are:
+Largely follow [these steps](http://realai.org/course/google-cloud-platform/rdp-netsurf-xfce4/). The main commands used are:
 
 ```bash
 sudo apt install xfce4
