@@ -25,7 +25,7 @@ To follow the main sequence, readers are advised to install the Chrome web brows
 
 ### IT 101
 
-TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
+TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/#deep-learning-libraries). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
 Within the scope of this sequence, TensorFlow can be viewed as an extension to the popular [Python](http://realai.org/course/python/) programming language. Readers can access both with [Jupyter Notebook](http://realai.org/course/jupyter/). Along with other concepts, they are illustrated in the diagram below:
 
@@ -95,6 +95,6 @@ TensorFlow is designed to run static computation graphs in which the data flow f
 ## Resources
 
 * Links: [Python API Documentation](https://www.tensorflow.org/api_docs/python/) \| [Releases](https://github.com/tensorflow/tensorflow/tags) ([latest](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)) \| [Official Twitter](https://twitter.com/tensorflow)
-* Higher-Level Libraries: [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
+* Higher-Level Libraries: [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [seq2seq](https://github.com/google/seq2seq) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
 * Related GitHub Repositories: [TensorBoard](https://github.com/tensorflow/tensorboard) \| [magenta](https://github.com/tensorflow/magenta) \| [Deepmath](https://github.com/tensorflow/deepmath)
 
