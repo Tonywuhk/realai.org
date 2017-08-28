@@ -61,11 +61,19 @@ After completing the above steps, our virtual machine should be fully functional
 
 In this session, we will build a [softmax regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) model in TensorFlow to classify handwritten digits:
 
-* Jupyter Notebook: [MNIST Softmax Regression](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/MNIST-softmax-regression.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/MNIST-softmax-regression.ipynb); [source](http://realai.org/course/tensorflow/MNIST-softmax-regression.ipynb)
+* Jupyter Notebook: [MNIST Softmax Regression](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/MNIST-softmax-regression.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/MNIST-softmax-regression.ipynb); [source](http://realai.org/course/tensorflow/MNIST-softmax-regression.ipynb))
+
+The softmax regression model achieves a classification error of around 7%. Nowadays MNIST is considered such a simple problem that such a high error rate is unacceptable.
 
 ### Deep Models
 
+In this session, we will build a [convolutional neural network](http://realai.org/course/convolutional-neural-network/) (CNN) for MNIST and achieve an error rate of around 1%:
+
 * Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
+
+CNNs are directly applicable to a range of more advanced or recent image classification tasks. The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) data sets are images in 10 and 100 classes, respectively. 
+
+In August 2017, German commerce company [Zalando SE](http://www.zalando.com/) released [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), a data set of 60,000 training images and 10,000 test images in 28x28 grayscale, intended to serve as a direct drop-in replacement of the original MNISt dataset.
 
 ## Further Reading
 
