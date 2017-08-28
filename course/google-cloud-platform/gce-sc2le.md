@@ -8,7 +8,7 @@ title: Course | GCP | GCE | Running StarCraft II Learning Environment on Google 
 
 *Last Updated: August 10, 2017*
 
-On [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 boot image.
+On [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine), create an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance with a Ubunbu 16.04 LTS boot image.
 
 ## Installing Conda
 
@@ -62,9 +62,13 @@ sudo vi /etc/xrdp/startwm.sh
 sudo service xrdp restart
 ```
 
-Connect to the remote desktop, open a terminal, and type `python -m pysc2.bin.agent --map Simple64`:
+Connect to the remote desktop, and find the sequence number of $DISPLAY that the X server uses by either entering `ls /tmp/.X11-unix`, or entering `who` after opening a terminal on the remote desktop. Assume the sequence number is 10, then we can launch StarCraft II in the remote desktop by entering in our original terminal the command:
 
-![](http://realai.org/course/google-cloud-platform/gce-sc2le-1.png)
+```bash
+DISPLAY=:10 python -m pysc2.bin.agent --map Simple64
+```
 
 The whole experiment took around 30 minutes of time, most of which was spent on downloading the `SC2.3.16.1.zip` file.
+
+![](http://realai.org/course/google-cloud-platform/gce-sc2le-1.png)
 

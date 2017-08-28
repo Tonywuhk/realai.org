@@ -6,6 +6,12 @@ title: Course | Ubuntu
 
 [Ubuntu](https://www.ubuntu.com/) is a distribution systems of Linux. It is open source, and based on the Debian architecture. [Canonical Ltd.](https://www.canonical.com/) is the leader of the Ubuntu Project, and maintains the [searchable](https://packages.ubuntu.com/) Ubuntu Package archive. A URL shortcut `http://packages.ubuntu.com/name` can be used to search on package names. The [Official Ubuntu Documentation](https://help.ubuntu.com/) only contains the Server Guide for Long Term Support (LTS) releases. As of August 2017, the [Ubuntu 16.04 Server Guide](https://help.ubuntu.com/lts/serverguide/index.html) is the most recent.
 
+## Bash
+
+[GNU Bash](https://www.gnu.org/software/bash/) is the shell used by default in terminals on Ubuntu. `man` is the system's manual pager. `man man` displays the manual page of `man` itself. In `man` you can type `/<regex>` to jump forward using [regular expressions](http://realai.org/course/text-processing/#regular-expressions), and use `n` and `N` to jump forward and backwards.
+
+A command can start with optional variable assignments such as `DISPLAY=:10.0`. This is part of a [simple command expansion](https://www.gnu.org/software/bash/manual/bashref.html#Simple-Command-Expansion), and is also documented in the "SHELL GRAMMAR" section of the man page of `bash`.
+
 ## Package Management
 
 The [apt](https://help.ubuntu.com/lts/serverguide/apt.html) command is a powerful command-line tool, which works with Ubuntu's Advanced Packaging Tool (APT). [Comparing](https://itsfoss.com/apt-vs-apt-get-difference/) with apt-get and apt-cache, it can be said that apt contains the most commonly used options from the two older tools.

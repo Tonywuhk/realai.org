@@ -5,7 +5,7 @@ permalink: /resources/
 
 * [Curriculum](http://realai.org/resources/curriculum/)
 * [Demos](http://realai.org/resources/demos/)
-* [News](http://realai.org/resources/news/) (2017): [2016](http://realai.org/resources/news/2016/), [2014](http://realai.org/resources/news/2014/) \| [Markets](http://realai.org/resources/news/markets/)
+* [News](http://realai.org/resources/news/) (2017): [2016](http://realai.org/resources/news/2016/) \| [Markets](http://realai.org/resources/news/markets/)
 
 ## Funding
 
@@ -42,4 +42,5 @@ permalink: /resources/
 * In [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), a group of like-minded developers and scientists hope to bring together machine learning practitioners to listen to each other's work.
 * [OpenReview](https://openreview.net/) aims to promote openness in scientific communication, particularly the peer review process.
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) on Reddit.
+* [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow] cover topics from the basic RL algorithms to advanced algorithms developed recent years.
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).

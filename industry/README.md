@@ -37,6 +37,8 @@ In June 2017, Apple's CEO Tim Cook for the first time [elaborated on](https://ww
 
 Bristol, UK-based startup Graphcore received a [$30 million Series A](https://www.hpcwire.com/2016/11/01/graphcore-100x-speedup-pcie-plugin/) in November 2016, and a [$30 million Series B](https://www.hpcwire.com/2017/07/20/graphcore-readies-launch-16nm-colossus-ipu-chip/) in July 2017 to launch its Intelligent Processing Unit (IPU) before the end of 2017. Investors include Demis Hassabis, Zoubin Ghahramani, Pieter Abbeel, Greg Brockman, and Ilya Sutskever. Graphcore released [stunning "brain scans" images](http://www.wired.co.uk/article/ai-machine-learning-brain-scan) in February 2017.
 
+* 2017 August 20. [China’s Bitmain dominates bitcoin mining. Now it wants to cash in on artificial intelligence](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/). *Quartz*.
+
 ## Regulations
 
 * 2017 July 20. [Should America’s Tech Giants Be Broken Up?](https://www.bloomberg.com/news/articles/2017-07-20/should-america-s-tech-giants-be-broken-up) *Bloomberg Businessweek*.

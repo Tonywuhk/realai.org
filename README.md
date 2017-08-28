@@ -8,8 +8,6 @@ mathjax: true
 
 * 2017 August 18, Andrew Brock, Theodore Lim, J. M. Ritchie, and Nick Weston. [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344). *arXiv:1708.05344*. [code](https://github.com/ajbrock/SMASH). ([Architecture Search](http://realai.org/architecture-search/))
 * 2017 August 9. [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/). ([DeepMind](http://realai.org/labs/deepmind/); [Starcraft II](http://realai.org/games/#starcraft-ii))
-* 2017 July 26, Irina Higgins, Arka Pal, Andrei A. Rusu, Loic Matthey, Christopher P Burgess, Alexander Pritzel, Matthew Botvinick, Charles Blundell, and Alexander Lerchner. [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475). *arXiv:1707.08475*. [video](https://youtu.be/sZqrWFl0wQ4). ([DeepMind](http://realai.org/labs/deepmind/publications/); [Transfer Learning](http://realai.org/transfer-learning/))
-* 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/). ([DeepMind](http://realai.org/labs/deepmind/publications/); [Model-Free Reinforcement Learning](http://realai.org/RL/model-free/))
 
 ## Main Contents
 

@@ -32,3 +32,7 @@ title: Course | Vim
 * Hit `I` and insert some text at the beginning of the first line
 * Hit `Esc` to exit visual block mode, the inserted text will appear shortly
 
+### Spell Checking
+
+The command `:setlocal spell spelllang=en_us` switches on spell checking, and the command `:setlocal nospell` switches it off. Use `zg` to add the word under cursor as a good word to the *spellfile*, a file that records good words that are not in vim's dictionary. By default, the spellfile is stored in the directory `~/.vim/spell`, and ends with `.add`. Vim automatically converts it to `.add.spl` for lookup.
+

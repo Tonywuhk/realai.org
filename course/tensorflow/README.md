@@ -7,7 +7,7 @@ title: Course | TensorFlow
 
 [TensorFlow](https://www.tensorflow.org/) is a technical term often mentioned by AI developers. It is the name of a software [library](https://en.wikipedia.org/wiki/Library_(computing)) that is designed for large-scale machine learning. The objective of this course is to help readers with only everyday computer experience to grasp its basics as quickly as possible. In a few sessions, we hope that readers will attain the necessary background knowledge to access online content intended for TensorFlow practitioners, who are typically full-time developers with extensive programming experience.
 
-To follow the main sequence, readers are advised to install the Chrome web browser and have a valid credit card that can be temporarily charged $1 in order to get a free [Google cloud](https://cloud.google.com/) account.
+To follow the main sequence, readers are advised to install the [Chrome](https://www.google.com/chrome/) web browser and have a valid credit card that can be temporarily charged $1 in order to get a free [Google Cloud](https://cloud.google.com/) account.
 
 ## Contents
 
@@ -27,13 +27,13 @@ To follow the main sequence, readers are advised to install the Chrome web brows
 
 TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/#deep-learning-libraries). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
-Within the scope of this sequence, TensorFlow can be viewed as an extension to the popular [Python](http://realai.org/course/python/) programming language. Readers can access both with [Jupyter Notebook](http://realai.org/course/jupyter/). Along with other concepts, they are illustrated in the diagram below:
+Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#setting-up-your-computer), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on [Google Cloud Platform](http://realai.org/course/google-cloud-platform/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
 The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the Python API is the most complete and the easiest to use. 
 
-Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine). Interested readers can follow the steps below to run a simple AI agent that plays StarCraft II on a remote desktop:
+Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/games/#starcraft-ii) on a remote desktop:
 
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
 
@@ -53,7 +53,11 @@ For a step-by-step guide, see
 
 * [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
 
-After completing the above steps, our virtual machine should be fully functional with Jupyter, TensorFlow and TensorBoard:
+#### TensorFlow Basics
+
+TensorFlow contains a hierarchy of modules. Public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases. 
+
+The virtual machine we set up earlier should be fully functional with Jupyter, TensorFlow and TensorBoard:
 
 * Jupyter Notebook: [TensorFlow Basics](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/TensorFlow-basics.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/TensorFlow-basics.ipynb); [source](http://realai.org/course/tensorflow/TensorFlow-basics.ipynb))
 
@@ -71,9 +75,20 @@ In this session, we will build a [convolutional neural network](http://realai.or
 
 * Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
 
-CNNs are directly applicable to a range of more advanced or recent image classification tasks. The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) data sets are images in 10 and 100 classes, respectively. 
+CNNs are directly applicable to a range of more advanced or recent image classification tasks. The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) data sets are images in 10 and 100 classes, respectively.
 
 In August 2017, German commerce company [Zalando SE](http://www.zalando.com/) released [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), a data set of 60,000 training images and 10,000 test images in 28x28 grayscale, intended to serve as a direct drop-in replacement of the original MNISt dataset.
+
+#### CNN Applications
+
+In November 2016, a group of Google researchers used a deep CNN to identify diabetic retinopathy ([Gulshan et al., 2016](https://research.google.com/pubs/pub45732.html)), a leading cause of blindness among adults. In January 2017, a group of researchers from Stanford University trained a single CNN to identify skin cancer ([Esteva et al., 2017](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)).
+
+Even a simple model like the one we studied in this session is already close to adding value in the real world. In August 2016, it was reported that a Japanese farmer used a similar model to [sort cucumbers](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).
+
+### References
+
+* 2016 November 29, Varun Gulshan, Lily Peng, Marc Coram, Martin Stumpe, Derek Wu, Arunachalam Narayanaswamy, Subhashini Venugopalan, Kasumi Widner, Tom Madams, Jorge Cuadros, Ramasamy Kim, Rajiv Raman, Philip Q Nelson, Jessica Mega, and Dale Webster. [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://research.google.com/pubs/pub45732.html). *JAMA 2016*.
+* 2017 January 25, Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau, and Sebastian Thrun. [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html). *Nature*, 542(7639):115-118.
 
 ## Further Reading
 

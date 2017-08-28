@@ -5,7 +5,7 @@ redirect_from: /course/GCP/
 
 # Google Cloud Platform
 
-[Cloud](https://en.wikipedia.org/wiki/Cloud_computing) is an IT infrastructure that offers a range of computing services to its users. [Google Cloud Platform](https://cloud.google.com/) (GCP) is the public cloud offered by Google. It consists of a set of physical assets, such as computers and hard disk drives, [around the globe](https://cloud.google.com/about/locations/). Commonly used GCP [services](https://cloud.google.com/docs/overview/cloud-platform-services) include computing & hosting, storage, networking, and big data. [Local currency billing and payments](https://support.google.com/cloud/answer/6224682) are available for a range of countries and regions.
+[Cloud](https://en.wikipedia.org/wiki/Cloud_computing) is an IT infrastructure that offers a range of computing services to its users. [Google Cloud Platform](https://cloud.google.com/) (GCP) is the public cloud offered by Google. It consists of a set of physical assets, such as computers and hard disk drives, [around the globe](https://cloud.google.com/about/locations/). Commonly used GCP [services](https://cloud.google.com/docs/overview/cloud-platform-services) include computing & hosting, storage, networking, and big data. [Local currency billing and payments](https://support.google.com/cloud/answer/6224682) are available for many countries and regions.
 
 ## Cloud Shell
 
@@ -13,7 +13,7 @@ redirect_from: /course/GCP/
 
 ## Google Compute Engine
 
-[Google Compute Engine](https://cloud.google.com/compute/) (GCE) is a GCP service that delivers scalable, high-performance virtual machines (VMs). It charges for usage based on a [pricing sheet](https://cloud.google.com/compute/pricing) but also offers a [free-trial](https://cloud.google.com/free/docs/frequently-asked-questions) for new customers. After sign-up, users will be able to manage [VM instances](https://console.cloud.google.com/compute/instances) of different machine types. These machine types typically have 1 to 64 virtual CPUs, 3.75 to 240GB memory and are charged at different rates. Each instance requires a disk to boot from. For example, a 10GB boot disk image can be chosen for a VM to run Ubuntu 16.04 [LTS](https://wiki.ubuntu.com/LTS). Virtual machines can be used for many purposes other than AI research. For those interested, a trading algorithm can be hosted in just [6 easy steps](https://robotwealth.com/run-trading-algorithms-google-cloud-platform-6-easy-steps/), as of July 2017.
+[Google Compute Engine](https://cloud.google.com/compute/) (GCE) is a GCP service that delivers scalable, high-performance virtual machines (VMs). It charges for usage based on a [pricing sheet](https://cloud.google.com/compute/pricing) but also offers a [free-trial](https://cloud.google.com/free/docs/frequently-asked-questions) for new customers. After sign-up, users will be able to manage [VM instances](https://console.cloud.google.com/compute/instances) of different machine types. These machine types typically have 1 to 64 virtual CPUs, 3.75 to 240 GB memory and are charged at different rates. Each instance requires a disk to boot from. For example, a 10 GB boot disk image can be chosen for a VM to run Ubuntu 16.04 [LTS](https://wiki.ubuntu.com/LTS). Virtual machines can be used for many purposes other than AI research. For those interested, a trading algorithm can be hosted in just [6 easy steps](https://robotwealth.com/run-trading-algorithms-google-cloud-platform-6-easy-steps/), as of July 2017.
 
 ### Lab Sessions
 
