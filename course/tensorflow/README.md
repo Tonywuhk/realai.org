@@ -59,7 +59,9 @@ After completing the above steps, our virtual machine should be fully functional
 
 ### Classifying Handwritten Digits
 
-TensorFlow programs usually involve two phases: the construction phase of building a computation graph, and the execution phase of running that graph in a session.
+In this session, we will build a [softmax regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) model in TensorFlow to classify handwritten digits:
+
+* Jupyter Notebook: [MNIST Softmax Regression](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/MNIST-softmax-regression.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/MNIST-softmax-regression.ipynb); [source](http://realai.org/course/tensorflow/MNIST-softmax-regression.ipynb)
 
 ### Deep Models
 
