@@ -4,6 +4,12 @@ mathjax: true
 ---
 # Games
 
+Deep learning methods have been applied to games of various genres such as arcade, open-world, real-time strategy, board, and text-based games. Prominent examples include [Atari 2600](#atari-2600), [StarCraft](#starcraft), [Dota 2](#dota-2), [Poker](#poker), and [Go](#go). In many arcade games, deep learning has achieved above human-level performance.
+
+## Recent Review
+
+* 2017 August 26, Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi. [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902). *arXiv:1708.07902*.
+
 ## Atari 2600
 
 On the Atari game Ms. Pac-Man, a reinforcement learning agent using the Hybrid Reward Architecture (HRA) achieved the maximum possible score of 999,990 points in less than 3,000 episodes ([van Seijen et al., 2017](https://arxiv.org/abs/1706.04208)). The overall \\(Q\\)-value function in the HRA is a weighted sum of individual \\(Q\\)-value functions whose weights correspond to in-game rewards for eating a pellet, blue ghost or fruit. The weights for Ms. Pac-Man to lose a life are set to -1,000. An *executive memory* records every sequence of actions that pass a level without any kill, so that they can be used for the same level. This particular technique contributes to achieving the maximum possible score, but does not generalize. It received a [negative review](https://www.theregister.co.uk/2017/06/15/microsoft_pac_man/) on The Register.
@@ -14,6 +20,10 @@ In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-netw
 
 * 2017 June 14, Ken Kansky, Tom Silver, David A. Mély, Mohamed Eldawy, Miguel Lázaro-Gredilla, Xinghua Lou, Nimrod Dorfman, Szymon Sidor, Scott Phoenix, and Dileep George. [Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics](https://arxiv.org/abs/1706.04317). *arXiv:1706.04317*. [blog](https://www.vicarious.com/general-game-playing-with-schema-networks.html).
 * 2017 June 13, Harm van Seijen, Mehdi Fatemi, Joshua Romoff, Romain Laroche, Tavian Barnes, and Jeffrey Tsang. [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/abs/1706.04208). *arXiv:1706.04208*. [blog](http://www.maluuba.com/hra).
+* 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
+* 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
+* 2014 July 10, Volodymyr Mnih,	Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html). *Nature*, 518(7450):529-533.
+* 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
 
 ## StarCraft
 
@@ -35,6 +45,10 @@ The StarCraft II Learning Environment (SC2LE; [Vinyals et al., 2017](https://arx
 
 The [StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/) ([history](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/history.shtml)) is organized by the [RTS Game AI Research Group](https://skatgame.net/mburo/) at the University of Alberta and sponsored by [AIIDE](http://aiide.org/) - AI and Interactive Digital Entertainment.
 
+### References
+
+* 2017 August 16, Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Küttler, John Agapiou, Julian Schrittwieser, John Quan, Stephen Gaffney, Stig Petersen, Karen Simonyan, Tom Schaul, Hado van Hasselt, David Silver, Timothy Lillicrap, Kevin Calderone, Paul Keet, Anthony Brunasso, David Lawrence, Anders Ekermo, Jacob Repp, and Rodney Tsing. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782). *arXiv:1708.04782*.
+
 ## Dota 2
 
 [Dota 2](http://www.dota2.com/) is a [multiplayer online battle arena](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) video game developed by [Valve Corporation](http://www.valvesoftware.com/), the creator of game platform [Steam](http://store.steampowered.com/) that distributes and manges thousands of games directly to a community of more than 65 million players around the world. Dota 2 is [free on Steam](http://store.steampowered.com/app/570/Dota_2/), and has a paid component of downloadable content, [The International 2017 Battle Pass](http://store.steampowered.com/app/633890/The_International_2017_Battle_Pass/). [The International](http://www.dota2.com/international/overview/) is a Dota 2 Championships event held in August 7-12, 2017 in Seattle, with a prize pool of over $24 million. [OpenAI](http://realai.org/labs/openai/) created a bot which [beats the world’s top professionals at 1v1 matches](https://blog.openai.com/dota-2/) under standard rules. The bot won a best-of-three match on mainstage at The International. Random players at the venue were given chances to challenge the bot and win a free [Shadow Fiend](http://www.dota2.com/hero/nevermore/) arcana. Dot Esports [reported](https://dotesports.com/dota-2/open-ai-one-on-one-competition-ti7-16617) that All 50 arcanas were snatched up by the end of the day. The winning strategy was [discussed on reddit](https://www.reddit.com/r/DotA2/comments/6t8qvs/openai_bots_were_defeated_atleast_50_times/). According to a [follow-up blog from OpenAI](https://blog.openai.com/more-on-dota-2/), it started research in a Dota environment no later than March 1st.
@@ -43,15 +57,12 @@ The [StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/
 
 Texas Hold'em Poker is a family of games that exhibit imperfect information, where players do not have full knowledge of past events. [Bowling et al. (2015)](http://science.sciencemag.org/content/347/6218/145) essentially weakly solved the heads-up limit version of the game. Using deep learning, [Moravčík & Schmid et al. (2017)](https://arxiv.org/abs/1701.01724) built a system that defeated professional players in the heads-up no-limit version. One of its co-authors, Michael Bowling, estimated in a [tweet](https://twitter.com/MichaelHBowling/status/838426697817067520) on 6 March 2017 that computer will beat pros at multi-player level in "a couple years".
 
+### References
+
+* 2017 January 6, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724). *arXiv:1701.01724*.
+* 2015 January 9, Michael Bowling, Neil Burch, Michael Johanson, and Oskari Tammelin. [Heads-up limit hold’em poker is solved](http://science.sciencemag.org/content/347/6218/145). *Science*, 347(6218):145-149.
+
 ## Go
 
-## References
-
-* 2017 August 16, Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Küttler, John Agapiou, Julian Schrittwieser, John Quan, Stephen Gaffney, Stig Petersen, Karen Simonyan, Tom Schaul, Hado van Hasselt, David Silver, Timothy Lillicrap, Kevin Calderone, Paul Keet, Anthony Brunasso, David Lawrence, Anders Ekermo, Jacob Repp, and Rodney Tsing. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782). *arXiv:1708.04782*.
-* 2017 March 10, Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864). *arXiv:1703.03864*.
-* 2017 January 6, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724). *arXiv:1701.01724*.
-* 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
+* 2016 March 15. AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
 * 2015 November 11, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
-* 2015 January 9, Michael Bowling, Neil Burch, Michael Johanson, and Oskari Tammelin. [Heads-up limit hold’em poker is solved](http://science.sciencemag.org/content/347/6218/145). *Science*, 347(6218):145-149.
-* 2014 July 10, Volodymyr Mnih,	Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html). *Nature*, 518(7450):529-533.
-* 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
