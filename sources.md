@@ -52,11 +52,6 @@ permalink: /source/
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).
 
-### Introductory Posts
-
-* 2017 May 28. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415). Slav Ivanov.
-* 2017 April 30. [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html). Piotr Migdał.
-
 ### Basic Computer Science
 
 * 2017 Winter, *Stanford University*. [MS&E 338: Reinforcement Learning](https://web.stanford.edu/class/msande338/). Benjamin Van Roy.
@@ -81,10 +76,6 @@ permalink: /source/
 * 2010 January 13, *Nature Reviews Neuroscience*. [The free-energy principle: a unified brain theory?](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf). Karl Friston.
 * 2004 November 29, *Springer*. [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/gp/product/3540221395). Marcus Hutter.
 * 1989, *Oxford University Press*. [The Emperor's New Mind](https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980). Roger Penrose.
-
-### Computer Vision
-
-* 2017 Spring, *Stanford University*. [CS 231N: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/). Fei-Fei Li, Andrej Karpathy, and Justin Johnson. [Lecture Collection](http://realai.org/about/risks/#north-korea).
 
 ### Natural Language Processing
 

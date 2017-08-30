@@ -17,8 +17,12 @@ The goal of this section is to set up productive environments for deep learning 
 ## Installing Libraries from Source
 
 * [Bazel](https://bazel.build/) ([documentation](https://docs.bazel.build/)), a fast and scalable build system that only builds what is necessary
-
 * [Wheel](https://pypi.python.org/pypi/wheel) ([documentation](http://wheel.rtfd.org/)) is a built-package format for Python with a specially formatted filename and the .whl extension.
-
 * [Lab](http://realai.org/course/lab/): [Installing Sonnet from Source](http://realai.org/course/lab/sonnet-source/)
+
+## Hardware
+
+For those who are interested in building a tangible computer:
+
+* 2017 May 28. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415). Slav Ivanov.
 

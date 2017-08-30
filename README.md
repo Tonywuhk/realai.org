@@ -24,9 +24,11 @@ mathjax: true
         1. Blog: [Towards Safe and Beneficial Intelligence](http://realai.org/blog/towards-safe-and-beneficial-intelligence/)
         2. [Effective Altruism](http://realai.org/safety/effective-altruism/)
         3. [Organizations](http://realai.org/safety/organizations/)
+        4. [Oracle AI](http://realai.org/safety/oracle-ai/)
  
 2. Understanding AI
-    1. [Philosophy](http://realai.org/philosophy/) of Intelligence
+    1. [Introduction](http://realai.org/introduction/)
+    2. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
 3. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
