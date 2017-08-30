@@ -5,6 +5,10 @@ permalink: /safety/
 
 [AI safety](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) ranks on top of the [list of the most urgent global issues](https://80000hours.org/articles/cause-selection/) (last updated in March 2017), a list developed by career advisor [80,000 Hours](https://80000hours.org/) to help young people choose careers. It has attracted the attention of many [organizations](http://realai.org/safety/organizations/) that often identify with [effective altruism](http://realai.org/safety/effective-altruism/).
 
+## Background
+
+* Future of Life Institute. [Benefits & Risks of Artificial Intelligence](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/).
+
 ## Topics
 
 * [Value Alignment](http://realai.org/safety/alignment/)

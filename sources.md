@@ -6,7 +6,7 @@ permalink: /source/
 ## Papers
 
 * Recent submissions on arXiv: [cs.LG](https://arxiv.org/list/cs.LG/recent) \| [cs.AI](https://arxiv.org/list/cs.AI/recent) \| [cs.CV](https://arxiv.org/list/cs.CV/recent) \| [cs.CL](https://arxiv.org/list/cs.CL/recent)
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) is built by [@karpathy](https://twitter.com/karpathy) to accerlerate research.
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week) is built by [@karpathy](https://twitter.com/karpathy) to accerlerate research.
 * Discussions: [Facebook](https://www.facebook.com/) \| [Twitter](https://twitter.com/) \| [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) \| [OpenReview](https://openreview.net/)
 * Collections: [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) \| [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
@@ -52,12 +52,6 @@ permalink: /source/
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).
 
-### Intuitive Understanding of AI
-
-* 2015 January 22, *[Wait but Why](http://waitbutwhy.com/)*. The AI Revolution: The Road to Superintelligence [(Part 1)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [(2015 January 27, Part 2)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html). Tim Urban.
-* 2014 September 3, *Oxford University Press*. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111). Nick Bostrom.
-* 2004, September 9, *Time Books*. [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). Jeff Hawkins.
-
 ### Introductory Posts
 
 * 2017 May 28. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415). Slav Ivanov.
@@ -76,9 +70,9 @@ permalink: /source/
 * 2017 September 11-15, *Wits University*. [South African Deep Learning Indaba](http://www.deeplearningindaba.com/).
 * 2017 August, *Coursera*. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (5 courses). [deeplearning.ai](https://www.deeplearning.ai/).
 * 2017 Fall, *Manning Publications*. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet.
+* 2017 June 26 - July 5, *Montreal, Canada*. [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/). [video lectures](http://videolectures.net/deeplearning2017_montreal/).
 * 2016 December, *MIT Press*. [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * 2016 September 24-25, *Stanford, CA*. [Deep Learning School](https://www.bayareadlschool.org/).
-* 2016 August 1-7, *Montreal, Canada*. [Deep Learning Summer School](https://sites.google.com/site/deeplearningsummerschool2016/). CIFAR and CRM. *To be renewed as 2017 June 26 - July 4, [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)*.
 * 2015 July 4, *The Spectator*. [A Statistical View of Deep Learning: Retrospective](http://blog.shakirm.com/2015/07/a-statistical-view-of-deep-learning-retrospective/). Shakir Mohamed.
 
 ### Related Background

@@ -31,7 +31,7 @@ Within the scope of this sequence, we can think of TensorFlow as an extension to
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
-The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the Python API is the most complete and the easiest to use. 
+The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
 
 Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/games/#starcraft-ii) on a remote desktop:
 
@@ -55,9 +55,9 @@ For a step-by-step guide, see
 
 #### TensorFlow Basics
 
-TensorFlow contains a hierarchy of modules. Public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases. 
+TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
 
-The virtual machine we set up earlier should be fully functional with Jupyter, TensorFlow and TensorBoard:
+The [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/) is a popular data set for basic machine learning exercises. The virtual machine set up earlier is well-equipped to handle MNIST tasks. Below we will show in Jupyter how to pass the data to TensorBlow, and take a look at a few images using [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard), a suite of visualization tools designed to work with TensorFlow:
 
 * Jupyter Notebook: [TensorFlow Basics](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/TensorFlow-basics.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/TensorFlow-basics.ipynb); [source](http://realai.org/course/tensorflow/TensorFlow-basics.ipynb))
 
@@ -75,7 +75,7 @@ In this session, we will build a [convolutional neural network](http://realai.or
 
 * Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
 
-CNNs are directly applicable to a range of more advanced or recent image classification tasks. The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) data sets are images in 10 and 100 classes, respectively.
+CNNs are directly applicable to more advanced or recent image classification tasks. The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) data sets are images in 10 and 100 classes, respectively.
 
 In August 2017, German commerce company [Zalando SE](http://www.zalando.com/) released [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), a data set of 60,000 training images and 10,000 test images in 28x28 grayscale, intended to serve as a direct drop-in replacement of the original MNISt dataset.
 
