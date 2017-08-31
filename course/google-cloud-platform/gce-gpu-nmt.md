@@ -8,7 +8,7 @@ title: Course | GCP | GCE | Neural Machine Translation using GPU
 
 *Last Updated: July 28, 2017*
 
-In this experiment, we walk through the steps to train a neural machine translation model with a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) on [Google cloud](https://cloud.google.com/).
+In this experiment, we walk through the steps to train a neural machine translation model with a [GPU](http://realai.org/course/tensorflow/#gpu) on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine).
 
 ## Prerequisites
 
