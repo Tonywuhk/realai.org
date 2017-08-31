@@ -4,6 +4,8 @@ redirect_from: /course/CNN/
 ---
 # Convolutional Neural Network
 
+A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN) is a neural network that makes substantial use of convolutions. As of August 2017, a [nicely presented overview](http://cs231n.github.io/convolutional-networks/) of CNN is maintained by a master's level computer science course (CS231n) from Stanford University on its course web site. In the [Deep Models](http://realai.org/course/tensorflow/#deep-models) and [GPU](http://realai.org/course/tensorflow/#gpu) sessions of our [TensorFlow](http://realai.org/course/tensorflow/) course, we walk through the basic steps of building a deep CNN model for the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+
 ## Convolution
 
 Other types of convolutions include dilated, transposed, and (spatial or depthwise) separable convolutions:

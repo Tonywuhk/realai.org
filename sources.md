@@ -63,7 +63,6 @@ permalink: /source/
 ### Introduction to Deep Learning
 
 * 2017 September 11-15, *Wits University*. [South African Deep Learning Indaba](http://www.deeplearningindaba.com/).
-* 2017 August, *Coursera*. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (5 courses). [deeplearning.ai](https://www.deeplearning.ai/).
 * 2017 Fall, *Manning Publications*. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet.
 * 2017 June 26 - July 5, *Montreal, Canada*. [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/). [video lectures](http://videolectures.net/deeplearning2017_montreal/).
 * 2016 December, *MIT Press*. [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
@@ -75,7 +74,6 @@ permalink: /source/
 * 2016 January, *Harvard University*. [The Fundamentals of Neuroscience](https://www.mcb80x.org/). David Cox.
 * 2010 January 13, *Nature Reviews Neuroscience*. [The free-energy principle: a unified brain theory?](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf). Karl Friston.
 * 2004 November 29, *Springer*. [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/gp/product/3540221395). Marcus Hutter.
-* 1989, *Oxford University Press*. [The Emperor's New Mind](https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980). Roger Penrose.
 
 ### Natural Language Processing
 

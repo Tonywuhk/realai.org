@@ -117,7 +117,7 @@ mkdir /tmp/nmt_model
 Finally, we are just one big command away from training an NMT model! The model will train 12000 steps. On our powerful GPU computer, it should just take a little more than one hour!
 
 ```bash
-python -m nmt.nmt \
+python3 -m nmt.nmt \
     --src=vi --tgt=en \
     --vocab_prefix=/tmp/nmt_data/vocab  \
     --train_prefix=/tmp/nmt_data/train \
