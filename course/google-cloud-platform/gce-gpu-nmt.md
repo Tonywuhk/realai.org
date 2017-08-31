@@ -6,7 +6,7 @@ title: Course | GCP | GCE | Neural Machine Translation using GPU
 
 # Neural Machine Translation using GPU on Google Compute Engine
 
-*Last Updated: July 28, 2017*
+*Last Updated: August 31, 2017*
 
 In this experiment, we walk through the steps to train a neural machine translation model with a [GPU](http://realai.org/course/tensorflow/#gpu) on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine).
 
@@ -14,7 +14,7 @@ In this experiment, we walk through the steps to train a neural machine translat
 
 * A Google cloud account with at least a few US dollars of credit. Typically, a user receives [$300 free credit](https://cloud.google.com/free/) over a [12-month trial period](https://cloud.google.com/free/docs/frequently-asked-questions#free-trial). A credit card is needed to create an account.
 
-* Join the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program). Membership is required for [cuDNN download](https://developer.nvidia.com/rdp/cudnn-download). Save the [Linux version](https://developer.nvidia.com/compute/machine-learning/cudnn/secure/v5.1/prod_20161129/8.0/cudnn-8.0-linux-x64-v5.1-tgz) of cuDNN v5.1 (Jan 20, 2017) for CUDA 8.0 in a directory on your local computer.
+* Join the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program). Membership is required for [cuDNN download](https://developer.nvidia.com/rdp/cudnn-download). Save the [Linux version](https://developer.nvidia.com/compute/machine-learning/cudnn/secure/v6/prod/8.0_20170307/cudnn-8.0-linux-x64-v6.0-tgz) of "cuDNN v6.0 (April 27, 2017), for CUDA 8.0" in a directory on your local computer.
 
 ## VM Instance
 
@@ -22,14 +22,14 @@ Create a virtual machine (VM) instance in [Compute Engine](https://console.cloud
 
 ## GPU Setup - CUDA
 
-[CUDA](https://en.wikipedia.org/wiki/CUDA) is a software created by NVIDIA that allows us to use its GPUs. First we need to ensure that our system has [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) installed:
+[CUDA](http://www.nvidia.com/object/cuda_home_new.html) (Compute Unified Device Architecture) is a toolkit created by [NVIDIA](http://www.nvidia.com) that allows us to use its GPUs. CUDA has an official [Installation Guide for Linux](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html). According to the Guide's [System Requirements](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system-requirements), we need to have [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) on our system:
 
 ```bash
 sudo apt-get update
 sudo apt-get install build-essential -y
 ```
 
-Now follow the [NVIDIA CUDA Installation Guide for Linux](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html):
+Now download CUDA from [CUDA Toolkit Download](https://developer.nvidia.com/cuda-downloads), then follow the Guide's [instructions for Ubuntu](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation):
 
 ```bash
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
@@ -47,10 +47,10 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY
 
 ## GPU Setup - cuDNN
 
-Click the gear icon on the upper right corner of the terminal, select the cuDNN file downloaded earlier, and upload it to the virtual machine. After the file is transferred to the cloud:
+[cuDNN](https://developer.nvidia.com/cudnn) provides highly-tuned building blocks specifically for deep learning, such as convolution, pooling, and normalization. Click the gear icon on the upper right corner of the terminal, select the cuDNN file downloaded earlier, and upload it to the VM. After the file is transferred to the cloud, follow these steps based on the official instructions for [Installing cuDNN on Linux](http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installlinux):
 
 ```bash
-tar -xzvf cudnn-8.0-linux-x64-v5.1.tgz
+tar -xzvf cudnn-8.0-linux-x64-v6.0.tgz
 sudo cp cuda/lib64/* /usr/local/cuda/lib64/
 sudo cp cuda/include/* /usr/local/cuda/include/
 ```
@@ -63,6 +63,8 @@ rm -rf cuda
 rm cudnn-8.0-linux-x64-v5.1.tgz
 ```
 
+The NVIDIA portion of the installation is now complete. Let's move to [TensorFlow](http://realai.org/course/tensorflow/).
+
 ## TensorFlow Setup
 
 Following the requirements on [official TensorFlow installation instructions](https://www.tensorflow.org/install/install_linux), we first install a library:
@@ -74,14 +76,12 @@ sudo apt-get install libcupti-dev -y
 Then we get pip from [Python Software Foundation](https://packaging.python.org/tutorials/installing-packages/):
 
 ```bash
-wget https://bootstrap.pypa.io/get-pip.py
-sudo python get-pip.py
-rm get-pip.py
+curl https://bootstrap.pypa.io/get-pip.py | sudo python3 get-pip.py
 ```
 
 ### Moving VM Instance
 
-Type 'exit' to close the terminal, then STOP (DO NOT **DELETE**) the VM instance on which we just installed GPU software. In [Snapshots](https://console.cloud.google.com/compute/snapshots), create a snapshot of this instance. Go back to "VM instances" and shut down the instance for which we already created a snapshot. Now it's time to get a powerful GPU computer.
+Type 'exit' to close the terminal, then STOP (DO NOT **DELETE**) the VM instance on which we just installed GPU software. In [Snapshots](https://console.cloud.google.com/compute/snapshots), create a snapshot of this instance. Go back to "VM instances" and `DELETE` the instance if you like since we've already created a snapshot. Now it's time to get a powerful GPU computer.
 
 In Oregon, an "n1-standard-2" machine type costs [$0.095 per hour](https://cloud.google.com/compute/pricing#predefined_machine_types) and 1 GPU processor costs [$0.70 per hour](https://cloud.google.com/compute/pricing#gpus). We create a new VM in Zone "us-west1-b" using these parameters.
 
@@ -92,6 +92,16 @@ On this new VM, we do a [native pip](https://www.tensorflow.org/install/install_
 ```bash
 sudo pip install tensorflow-gpu
 ```
+
+### Jupyter Notebook (Optional)
+
+If needed, install [Jupyter Notebook](http://realai.org/course/jupyter/):
+
+```bash
+sudo pip install jupyter
+```
+
+For readers who expect to use more VMs running TensorFlow on GPU, now is a good time to create an image or a snapshot. New VMs can be directly created in the future. To easily distinguish different installations, consider naming the image or snapshot with package names and versions such as `cuda8-0-cudnn6-0-pip3`.
 
 ## Basic Neural Machine Translation
 
@@ -122,7 +132,7 @@ python -m nmt.nmt \
     --metrics=bleu
 ```
 
-On this instance, our model trains at less than 0.30s per 100 steps, even a few times faster than what's reported in the tutorial!
+On this instance, our model trains at around 0.20s per step, even a few times faster than what's reported in the tutorial!
 
 ![](http://realai.org/course/google-cloud-platform/gce-gpu-nmt-2.png)
 

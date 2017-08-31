@@ -36,7 +36,7 @@ mathjax: true
     2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
 
-5. [Frontiers](http://realai.org/frontiers/)
+5. [Frontiers](http://realai.org/frontiers/) (excluding Deep Reinforcement Learning)
     1. Learning Goals
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
