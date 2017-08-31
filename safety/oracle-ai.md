@@ -6,7 +6,7 @@ title: Safety | Oracle AI
 
 An Oracle AI ([Armstrong et al., 2012](https://link.springer.com/article/10.1007/s11023-012-9282-2)), or *oracle*, is an AI system that doesn't act in the real world except by answering questions. Although it can only physically affect the world through its users, these users are vulnerable to manipulation if the oracle is superintelligent ([Bostrom, 2014](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111)).
 
-An oracle is called *domain-specific* if it is only queried for domain-specific tasks, e.g. [theorem proving](http://realai.org/automated-theorem-proving/). Motivated by the possibility that deficiencies in domain-specific AIs might be exploited by a larger AI system to manipulate its users, [Sarma & Hay (2017)](https://arxiv.org/abs/1708.02553) suggest possible lines of research and software projects within the scope to domain-specific oracles that perform mathematical computations.
+An oracle is called *domain-specific* if it is only queried for domain-specific tasks, e.g. [theorem proving](http://realai.org/automated-theorem-proving/). Motivated by the possibility that deficiencies in domain-specific AIs might be exploited by a larger AI system to manipulate its users, [Sarma & Hay (2017)](https://arxiv.org/abs/1708.02553) suggest possible lines of research and software projects within the scope of domain-specific oracles that perform mathematical computations.
 
 ## References
 

@@ -11,7 +11,8 @@ mathjax: true
 
 ## Main Contents
 
-1. AI and Society ([Overview](http://realai.org/overview/))
+1. [Overview](http://realai.org/overview/)
+2. AI and Society
     1. [Impacts](http://realai.org/impacts/):
         1. [Applications](http://realai.org/applications/) and [Demos](http://realai.org/demos/)
         2. [Progress](http://realai.org/progress/) and [Forecasts](http://realai.org/forecasts/)
@@ -26,22 +27,17 @@ mathjax: true
         3. [Organizations](http://realai.org/safety/organizations/)
         4. [Oracle AI](http://realai.org/safety/oracle-ai/)
  
-2. Understanding AI
+3. Understanding AI
     1. [Introduction](http://realai.org/introduction/)
     2. [Philosophy](http://realai.org/philosophy/) of Intelligence
 
-3. [Course](http://realai.org/course/)
+4. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
     2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
 
-4. [Frontiers](http://realai.org/frontiers/)
-    1. Outstanding Challenges
-        1. [Symbol Grounding](http://realai.org/symbol-grounding/)
-        2. World Model
-        3. [Planning](http://realai.org/planning/)
-        4. [Reasoning](http://realai.org/reasoning/)
-    2. Learning Goals
+5. [Frontiers](http://realai.org/frontiers/)
+    1. Learning Goals
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
         3. [Few-Shot Learning](http://realai.org/few-shot-learning/)
@@ -49,14 +45,14 @@ mathjax: true
         5. [Predictive Learning](http://realai.org/predictive-learning/)
         6. [Transfer Learning](http://realai.org/transfer-learning/)
         7. Unsupervised Learning
-    3. Learning Techniques
+    2. Learning Techniques
         1. [Attention](http://realai.org/attention/)
         2. [Curriculum Learning](http://realai.org/curriculum-learning/)
         3. [Hierarchical Learning](http://realai.org/hierarchical-learning/):          
         4. [Imitation Learning](http://realai.org/imitation-learning/)
         5. [Meta-Learning](http://realai.org/meta-learning/)
         6. Memory
-    4. [Reinforcement Learning](http://realai.org/RL/)
+    3. [Reinforcement Learning](http://realai.org/RL/)
         1. [Safe Reinforcement Learning](http://realai.org/RL/safety/)
         2. [Agents](http://realai.org/RL/agents/)
         3. [Model-Free Algorithms](http://realai.org/RL/model-free/)
@@ -67,7 +63,7 @@ mathjax: true
         6. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
         7. [General Reinforcement Learning](http://realai.org/RL/general/)
         8. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
-    5. Deep Learning
+    4. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
             * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
@@ -79,14 +75,21 @@ mathjax: true
         6. [Platforms](http://realai.org/learning-platforms/)
         7. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
         8. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
-    6. Experiments
+    5. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Games](http://realai.org/games/)
         5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-    7. [Neuroscience](http://realai.org/neuroscience/)
-    8. [Alternative Theories](http://realai.org/alternative-theories/)
-        
-5. Research
+    6. [Neuroscience](http://realai.org/neuroscience/)
+    7. [Alternative Theories](http://realai.org/alternative-theories/)
+ 
+6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/)
+    1. Outstanding Challenges
+        1. [Symbol Grounding](http://realai.org/symbol-grounding/)
+        2. World Model
+        3. [Planning](http://realai.org/planning/)
+        4. [Reasoning](http://realai.org/reasoning/)
+ 
+7. Research
 
