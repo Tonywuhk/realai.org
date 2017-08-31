@@ -16,6 +16,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
   * Session 2: [Setting Up Your Computer](#setting-up-your-computer)
   * Session 3: [Classifying Handwritten Digits](#classifying-handwritten-digits)
   * Session 4: [Deep Models](#deep-models)
+  * Session 5: [GPU](#gpu)
 * [Further Reading](#further-reading)
 * Topics
   * [Dynamic Batching](#dynamic-batching)
@@ -80,6 +81,16 @@ CNNs are directly applicable to more advanced or recent image classification tas
 In August 2017, German commerce company [Zalando SE](http://www.zalando.com/) released [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), a data set of 60,000 training images and 10,000 test images in 28x28 grayscale, intended to serve as a direct drop-in replacement of the original MNISt dataset.
 
 A simple model like the one we studied in this session is already close to adding value in the real world. In August 2016, it was reported that a Japanese farmer used a similar model to [sort cucumbers](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).
+
+### GPU
+
+[Graphic Processing Unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU) has become an indispensable device for large-scale deep learning projects today. A GPU has thousands of cores that can run in parallel, making it well-suited for the kind of numerical computations used in deep learning. A high-level library like TensorFlow goes through one or more intermediate layers to access a GPU. In a typical setup today with NVIDIA GPUs, a toolkit called [CUDA](http://www.nvidia.com/object/cuda_home_new.html) (Compute Unified Device Architecture) provides a development environment for high-performance GPU applications in general. A GPU-accelerated library [cuDNN](https://developer.nvidia.com/cudnn) provides highly-tuned building blocks specifically for deep learning, such as convolution, pooling, and normalization. These two components are major dependencies TensorFlow needs to run with GPU support. As of August 2017, TensorFlow 1.3.0 required CUDA 8.0 and cuDNN v6, and it was [anticipated](https://github.com/tensorflow/tensorflow/releases/tag/v1.3.0) that TensorFlow 1.4 would be released with cuDNN v7. The official TensorFlow installation page provides an up-to-date list of [NVIDIA requirements (Linux)](https://www.tensorflow.org/install/install_linux#nvidia_requirements_to_run_tensorflow_with_gpu_support). Following the steps below, we can build a VM on GCP with an [NVIDIA® Tesla® K80](http://www.nvidia.com/object/tesla-k80.html) GPU ([pricing](https://cloud.google.com/compute/pricing#gpus). Running the machine translation experiment is optional:
+
+* [Neural Machine Translation on Cloud GPU](http://realai.org/course/google-cloud-platform/gpu-tf-nmt/)
+
+On our newly built VM, the CNN model in the previous session that took over 16 minutes to train on 8 vCPUs should now only take less than 2 minutes! With more computing power, let’s build a CNN with more convolutional layers for CIFAR-10:
+
+* Deep CNN for CIFAR-10
 
 ## Further Reading
 

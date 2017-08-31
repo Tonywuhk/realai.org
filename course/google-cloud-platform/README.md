@@ -19,7 +19,7 @@ redirect_from: /course/GCP/
 
 * [Using Remote Desktop to NetSurf on Xfce4 via Xrdp](http://realai.org/course/google-cloud-platform/rdp-netsurf-xfce4/)
 * [TensorFlow](http://realai.org/course/tensorflow/) > [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
-* [Neural Machine Translation on Cloud GPU](http://realai.org/course/lab/gpu-tf-nmt/)
+* [Neural Machine Translation on Cloud GPU](http://realai.org/course/google-cloud-platform/gce-gpu-nmt/)
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
 
 ## Resources
