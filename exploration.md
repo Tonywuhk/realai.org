@@ -8,7 +8,7 @@ Exploration encourages agents to cover the space of possible strategies broadly 
 
 The **Bootstrapped DQN** ([Osband et al., 2016](https://arxiv.org/abs/1602.04621)) architecture consists of several "heads" independently branching off a shared network. In each episode, a random head is selected for exploration, then the agent follows the head's optimal policy to fill the replay buffer, including a random mask per step to indicate which heads will use this step's data when trained by the standard DQN algorithm.
 
-[Bellemare et al. (2016)](https://arxiv.org/abs/1606.01868) proposed a measure called *pseudo-count*, which can be derived from an arbitrary density model and is closely related to intrinsically motivated gains in information and prediction. [Ostrovski et al. (2017)](https://arxiv.org/abs/1703.01310) used PixelCNN ([van den Oord et al., 2016-Jan](https://arxiv.org/abs/1601.06759); [van den Oord et al., 2016-Jun](https://arxiv.org/abs/1606.05328)) to supply the pseudo-count, and improved the state of the art on several hard [Atari games](http://realai.org/games/#atari-2600).
+[Bellemare et al. (2016)](https://arxiv.org/abs/1606.01868) proposed a measure called *pseudo-count*, which can be derived from an arbitrary density model and is closely related to intrinsically motivated gains in information and prediction. [Ostrovski et al. (2017)](https://arxiv.org/abs/1703.01310) used PixelCNN ([van den Oord et al., 2016-Jan](https://arxiv.org/abs/1601.06759); [van den Oord et al., 2016-Jun](https://arxiv.org/abs/1606.05328)) to supply the pseudo-count, and improved the state of the art on several hard [Atari games](http://realai.org/environments/#atari-2600).
 
 ## Parametric Noise
 

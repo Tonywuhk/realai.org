@@ -62,7 +62,7 @@ sudo vi /etc/xrdp/startwm.sh
 sudo service xrdp restart
 ```
 
-Connect to the remote desktop, and find the sequence number of $DISPLAY that the X server uses by either entering `ls /tmp/.X11-unix`, or entering `who` after opening a terminal on the remote desktop. Assuming the sequence number is 10, then we can launch [StarCraft II](http://realai.org/games/#starcraft-ii) in the remote desktop by entering in our original terminal the command:
+Connect to the remote desktop, and find the sequence number of $DISPLAY that the X server uses by either entering `ls /tmp/.X11-unix`, or entering `who` after opening a terminal on the remote desktop. Assuming the sequence number is 10, then we can launch [StarCraft II](http://realai.org/environments/#starcraft-ii) in the remote desktop by entering in our original terminal the command:
 
 ```bash
 DISPLAY=:10 python -m pysc2.bin.agent --map Simple64

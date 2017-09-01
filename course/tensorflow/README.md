@@ -34,7 +34,7 @@ Within the scope of this sequence, we can think of TensorFlow as an extension to
 
 The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
 
-Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/games/#starcraft-ii) on a remote desktop:
+Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/environments/#starcraft-ii) on a remote desktop:
 
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
 

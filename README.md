@@ -7,7 +7,7 @@ mathjax: true
 ## What's New
 
 * 2017 August 18, Andrew Brock, Theodore Lim, J. M. Ritchie, and Nick Weston. [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344). *arXiv:1708.05344*. [code](https://github.com/ajbrock/SMASH). ([Architecture Search](http://realai.org/architecture-search/))
-* 2017 August 9. [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/). ([DeepMind](http://realai.org/labs/deepmind/); [Starcraft II](http://realai.org/games/#starcraft-ii))
+* 2017 August 9. [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/). ([DeepMind](http://realai.org/labs/deepmind/); [Starcraft II](http://realai.org/environments/#starcraft-ii))
 
 ## Main Contents
 
@@ -79,8 +79,7 @@ mathjax: true
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
-        4. [Games](http://realai.org/games/)
-        5. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
+        4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
     6. [Neuroscience](http://realai.org/neuroscience/)
     7. [Alternative Theories](http://realai.org/alternative-theories/)
  
@@ -90,6 +89,7 @@ mathjax: true
         2. World Model
         3. [Planning](http://realai.org/planning/)
         4. [Reasoning](http://realai.org/reasoning/)
+    2. [Environments](http://realai.org/environments/)
  
 7. Research
 

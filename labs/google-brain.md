@@ -15,7 +15,7 @@ On 12 March 2013, Google acquired DNNresearch, a startup founded by University o
 
 ## Brain Residency
 
-The [Google Brain Residency Program](https://research.google.com/teams/brain/residency/) was launched in October 2015. It is a 12-month role based in Mountain View, California. The first group of residents arrived in June 2016.
+The [Google Brain Residency Program](https://research.google.com/teams/brain/residency/) was launched in October 2015. It is a 12-month role based in Mountain View, California. The first group of residents arrived in June 2016. A year later, some [Brain](http://tinyclouds.org/residency/) [residents](http://colinraffel.com/blog/my-year-at-brain.html) shared their experiences online.
 
 ## Research
 

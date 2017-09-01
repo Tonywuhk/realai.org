@@ -29,17 +29,13 @@ permalink: /news/
 * 2017 June 16. [Wal-Mart drops 6%, Kroger dives 11% in premarket on Amazon-Whole Foods deal](http://www.cnbc.com/2017/06/16/wal-mart-drops-4-percent-kroger-dives-12-percent-in-premarket-on-amazon-whole-foods-deal.html). *CNBC*.
 * 2017 June 14. [Snapchat quietly revealed how it can put AI on your phone](https://qz.com/1005879/snapchat-quietly-revealed-how-it-can-put-ai-on-your-phone/). *Quartz*.
 * 2017 June 14. [Element AI, a platform for companies to build AI solutions, raises $102M](https://techcrunch.com/2017/06/14/element-ai-a-platform-for-companies-to-build-ai-solutions-raises-102m/). *TechCrunch*.
-* 2017 June 13. [Why is the language of transhumanists and religion so similar?](https://aeon.co/essays/why-is-the-language-of-transhumanists-and-religion-so-similar) *Aeon*.
 * 2017 June 13. [Uber Embraces Major Reforms as Travis Kalanick, the C.E.O., Steps Away](https://www.nytimes.com/2017/06/13/technology/uber-travis-kalanick-holder-report.html). *New York Times*.
 * 2017 June 12. [New system allows optical “deep learning”](https://news.mit.edu/2017/new-system-allows-optical-deep-learning-0612). *MIT News*.
 * 2017 June 9. [Nasdaq Megacaps Go Careening Off Course](https://www.bloomberg.com/news/articles/2017-06-09/megacap-tech-stumbling-to-worst-day-verus-dow-in-seven-months). *Bloomberg*.
 * 2017 June 9. [There's An AI Revolution Underway And It's Happening In Canada](https://www.forbes.com/sites/bijankhosravi/2017/06/09/theres-an-ai-revolution-underway-and-its-happening-in-canada/). *Forbes*.
 * 2017 June 9. [封面人物 \| 智胜——AI来啦！Are you ready?](http://www.nfpeople.com/story_view.php?id=13534) *Southern People Weekly*.
-* 2017 June 8. [Alphabet just sold its division that makes creepy walking robots to Softbank](http://www.cnbc.com/2017/06/08/alphabet-sells-boston-dynamics-and-schaft-to-softbank.html). *CNBC*.
 * 2017 June 5. [How AI Will Kickstart a National Defense Revolution](http://www.sixthtone.com/news/1000299/how-ai-will-kickstart-a-national-defense-revolution). *Sixth Tone*.
 * 2017 June 5. [Elon Musk Predicts When A.I. Will Completely Surpass Humans](https://www.inverse.com/article/32558-elon-musk-artificial-intelligence-humans). *Inverse*.
-* 2017 June 5. [WSJ Ends Google Users' Free Ride, Then Fades in Search Results](https://www.bloomberg.com/news/articles/2017-06-05/wsj-ends-google-users-free-ride-then-fades-in-search-results). *Bloomberg*.
-* 2017 June 5. [Google Brain Residency](http://tinyclouds.org/residency/). *Ryan Dahl*.
 * 2017 June 2. [Google Is Already Late to China’s AI Revolution](https://www.wired.com/2017/06/ai-revolution-bigger-google-facebook-microsoft/?mbid=social_twitter_onsiteshare). *Wired*.
 * 2017 June 1. [Here’s why China’s yuan spiked higher despite weak Caixin PMI data](http://www.cnbc.com/2017/06/01/heres-why-chinas-yuan-spiked-higher-despite-weak-caixin-pmi-data.html). *CNBC*.
 * 2017 May 30. [Uber fires self-driving car chief at center of court case](https://www.reuters.com/article/us-uber-alphabet-lawsuit-idUSKBN18Q2CW). *Reuters*.
@@ -50,7 +46,6 @@ permalink: /news/
 * 2017 May 26. [Wall Street to CEOs: The Future Is Now](https://www.wsj.com/articles/wall-street-to-ceos-the-future-is-now-1495791003). *The Wall Street Journal*.
 * 2017 May 26. [AlphaGo终于认输，而且“逼”队友古力认输，这是历史性的一场人机配对赛！](https://36kr.com/p/5077345.html) *36Kr*.
 * 2017 May 26. [Why 3,000 Scientists Think Nuclear Arsenals Make Us Less Safe](https://blogs.scientificamerican.com/observations/why-3-000-scientists-think-nuclear-arsenals-make-us-less-safe/). *Scientific American*.
-* 2017 May 26. [Apple Is Working on a Dedicated Chip to Power AI on Devices](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices). *Bloomberg Technology*.
 * 2017 May 26. [Google’s AlphaGo Trounces Humans—But It Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/). *Wired*.
 * 2017 May 25. [A Silicon Valley technical women’s group has cut ties with Uber, citing ‘continuing allegations’ about the treatment of female employees](https://www.recode.net/2017/5/25/15695166/silicon-valley-tech-womens-group-cuts-ties-uber-continuing-allegations-treatment-female-employees). *Recode*.
 * 2017 May 24. [Google’s AlphaGo Levels Up From Board Games to Power Grids](https://www.wired.com/2017/05/googles-alphago-levels-board-games-power-grids/). *Wired*.
@@ -74,7 +69,6 @@ permalink: /news/
 * 2017 May 16. [百度以近12亿元剥离游戏业务 未来将聚焦人工智能](http://news.xinhuanet.com/finance/2017-05/16/c_129605464.htm). *XinhuaNet.com*.
 * 2017 May 15. [$100M for a new Quebec research cluster in AI](http://nouvelles.umontreal.ca/en/article/2017/05/15/100m-for-a-new-quebec-research-cluster-in-ai/). *U de M Nouvelles*.
 * 2017 May 15. [AI Mines Hundreds of Thousands of News Articles Per Hour for Stock Tips](https://motherboard.vice.com/en_us/article/ai-mines-hundreds-of-thousands-of-news-articles-per-hour-for-stock-tips). *Motherboard*.
-* 2017 May 13. [Apple acquires AI company Lattice Data, a specialist in unstructured ‘dark data’, for $200M](https://techcrunch.com/2017/05/13/apple-acquires-ai-company-lattice-data-a-specialist-in-unstructured-dark-data/). *TechCrunch*.
 * 2017 May 13. [Stop Name-calling and Distortions in AI Ethics Discussions](http://blog.sciencenet.cn/blog-3270119-1054734.html). *ScienceNet.cn*.
 * 2017 May 11. [Traders Ask What Will Rouse Markets When Trump and Twitter Can't](https://www.bloomberg.com/news/articles/2017-05-11/traders-ask-what-will-rouse-markets-when-trump-and-twitter-can-t). *Bloomberg Markets*.
 * 2017 May 11. [Internet founder speaks out on AI fear, the singularity, and beautiful robots](https://www.businessesgrow.com/2017/05/11/internet-founder/). *Schaefer Marketing Solutions*.
@@ -101,8 +95,6 @@ permalink: /news/
 * 2017 May 3. [This ostrich robot doesn't need to think to run](https://www.engadget.com/2017/05/03/this-ostrich-robot-doesnt-need-to-think-to-run/). *Engadget*.
 * 2017 May 3. [Facebook shares dip from high as investors fret over costs, future profit](http://www.reuters.com/article/us-facebook-results-idUSKBN17Z2GY). *Reuters*.
 * 2017 May 3. [Fed Keeps Rates on Hold as Slowdown in Growth Seen Temporary](https://www.bloomberg.com/news/articles/2017-05-03/fed-refrains-from-rate-hike-while-maintaining-sunny-outlook). *Bloomberg Markets*.
-* 2017 May 2. [Apple Sells Fewer iPhones in Last Quarter, Shares Slide](https://www.bloomberg.com/news/articles/2017-05-02/apple-sells-fewer-iphones-in-latest-quarter-as-consumers-wait). *Bloomberg Technology*.
-* 2017 May 2. [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2017/05/apple-reports-second-quarter-results/). *Apple Newsroom*.
 * 2017 May 2. [AMD’s stock plunges to biggest loss in over 12 years](http://www.marketwatch.com/story/amds-stock-plunges-toward-biggest-loss-in-over-12-years-2017-05-02). *MarketWatch*.
 * 2017 May 2. [The Quantum Thermodynamics Revolution](https://www.quantamagazine.org/quantum-thermodynamics-revolution/). *Quanta Magazine*.
 * 2017 April 30. [Swedish Startup Uses AI to Figure Out What Dolphins Talk About](https://www.bloomberg.com/news/articles/2017-04-26/swedish-startup-uses-ai-to-figure-out-what-dolphins-talk-about). *Bloomberg Technology*.
@@ -138,12 +130,10 @@ permalink: /news/
 * 2017 April 19. [PC classic StarCraft is now free](http://www.theverge.com/2017/4/19/15353282/download-starcraft-1-free-brood-war-blizzard). *The Verge*.
 * 2017 April 19. [Baidu Will Release a Free Operating System for Self-Driving Cars](https://www.technologyreview.com/s/604220/baidu-will-release-a-free-operating-system-for-self-driving-cars/). *MIT Technology Review*.
 * 2017 April 19. [Reinforcement Learning or Evolutionary Strategies? Nature has a solution: Both.](https://medium.com/@awjuliani/reinforcement-learning-or-evolutionary-strategies-nature-has-a-solution-both-8bc80db539b3). *Medium*.
-* 2017 April 18. [Apple Readies iPhone Overhaul for Smartphone’s 10th Anniversary](https://www.bloomberg.com/news/articles/2017-04-18/apple-readies-iphone-overhaul-for-smartphone-s-10th-anniversary). *Bloomberg Technology*.
 * 2017 April 18. [NVIDIA and Facebook Team Up to Supercharge Caffe2 Deep Learning Framework](https://blogs.nvidia.com/blog/2017/04/18/caffe2/). *nvidia.com*.
 * 2017 April 18. [Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants'](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way). *The Guardian*.
 * 2017 April 14. [Learning to Love Intelligent Machines](https://www.wsj.com/articles/learning-to-love-intelligent-machines-1492174086). *Wall Street Journal*.
 * 2017 April 14. [That's quite a shot! Russian humanoid set for space learns how to shoot a gun with BOTH hands](http://www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns-shoot-gun-hands.html). *Daily Mail*.
-* 2017 April 14. [Apple granted autonomous car testing permit in California](http://www.foxnews.com/auto/2017/04/14/apple-granted-autonomous-car-testing-permit-in-california.html). *Fox News*.
 * 2017 April 14. [Facebook’s Perfect, Impossible Chatbot](https://www.technologyreview.com/s/604117/facebooks-perfect-impossible-chatbot/). *MIT Technology Review*.
 * 2017 April 14. [汤晓鸥：人工智能在中国有点过热了，我想泼泼冷水](http://www.leiphone.com/news/201704/A9RuQzPwYKKLkIJT.html). *leiphone.com*.
 * 2017 April 13. [Humble beginnings keep Microsoft-acquired Maluuba on the straight and narrow](http://www.montrealintechnology.com/humble-beginnings-keep-microsoft-acquired-maluuba-on-the-straight-and-narrow/). *Montreal in Technology*.
@@ -180,7 +170,6 @@ permalink: /news/
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 January 30. [Google has a higher antitrust risk under Trump because laws are 'rather vague'](http://www.cnbc.com/2017/01/30/google-antitrust-concerns-under-trump.html). *CNBC*.
 * 2017 January 27. [Partnership on AI Update](https://www.partnershiponai.org/2017/01/partnership-ai-update/). *Partnership on AI*.
-* 2017 January 26. [Apple Set to Join Amazon, Google, Facebook in AI Research Group](https://www.bloomberg.com/news/articles/2017-01-26/apple-said-to-join-amazon-google-facebook-in-ai-research-group). *Bloomberg Technology*.
 * 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
 * 2017 January 25. [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/press-releases/2017/01/25/artificial-inteltify-skin-cancer/). *Stanford News*.
 * 2017 January 20. [UCL students learn state-of-the-art AI in DeepMind partnership](https://www.ucl.ac.uk/news/students/012017/012017-200117-ucl-students-learn-state-of-the-art-AI-in-DeepMind-partnership). *UCL News*.
@@ -225,17 +214,12 @@ permalink: /news/
 * 2016 November 4. [Elon Musk: Robots will take your jobs, government will have to pay your wage](http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html). *CNBC*.
 * 2016 November 4. [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/). *DeepMind*.
 * 2016 October 28. [Self-driving car startup cancels first product because dealing with regulators and lawyers “isn’t worth it”](https://qz.com/822113/self-driving-car-startup-comma-ai-cancels-first-product-dealing-with-regulator-and-lawyers-isnt-worth-it/). *Quartz*.
-* 2016 October 17. [Apple hires CMU professor as director of AI research to smarten up Siri](https://techcrunch.com/2016/10/17/apple-hires-cmu-professor-as-director-of-ai-research-to-smarten-up-siri/). *TechCrunch*.
-* 2016 October 5. [Nick Bostrom: London's DeepMind is winning the global race to develop human-level artificial intelligence](http://www.businessinsider.com/nick-bostrom-deepmind-is-winning-the-ai-race-2016-10). *Business Insider UK*.
-* 2016 September 28. [Facebook, Amazon, Google, IBM and Microsoft come together to create the Partnership on AI](https://techcrunch.com/2016/09/28/facebook-amazon-google-ibm-and-microsoft-come-together-to-create-historic-partnership-on-ai/). *TechCrunch*.
-* 2016 September 22. [Facebook and Intel reign supreme in 'Doom' AI deathmatch](https://www.engadget.com/2016/09/22/facebook-and-intel-reign-supreme-in-doom-ai-deathmatch/). *Engadget*.
 * 2016 August 31. [Three Grand Challenges for Brain Science That Can Be Solved in 10 Years](https://www.technologyreview.com/s/602274/three-grand-challenges-for-brain-science-that-can-be-solved-in-10-years/). *MIT Technology Review*.
 * 2016 August 18. [Uber’s First Self-Driving Fleet Arrives in Pittsburgh This Month](https://www.bloomberg.com/news/features/2016-08-18/uber-s-first-self-driving-fleet-arrives-in-pittsburgh-this-month-is06r7on). *Bloomberg Technology*.
 * 2016 August 11. [Robots Could Make Universal Basic Income a Necessity](https://www.inverse.com/article/18443-automation-will-make-universal-basic-income-a-necessity). *Inverse*.
 * 2016 August 4. [Who Should Control Our Thinking Machines?](https://www.bloomberg.com/features/2016-demis-hassabis-interview-issue/). *Bloomberg Businessweek*.
 * 2016 July 21. [Google Sprints Ahead in AI Building Blocks, Leaving Rivals Wary](https://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wary). *Bloomberg Technology*.
 * 2016 July 21. [How the Brain Builds Memory Chains](https://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/). *Scientific American*.
-* 2016 July 19. [A Debate Over the Physics of Time](https://www.quantamagazine.org/20160719-time-and-cosmology/). *Quanta Magazine*.
 * 2016 July 7. [Exclusive: Why Microsoft is betting its future on AI](http://www.theverge.com/2016/7/7/12111028/microsoft-bot-framework-artificial-intelligence-satya-nadella-interview). *The Verge*.
 * 2016 June 23. [How Google is Remaking Itself as a “Machine Learning First” Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70). *Backchannel*.
 * 2016 June 20. [Deep Learning Pioneer Geoff Hinton Helps Shape Google's Drive To Put AI Everywhere](https://www.forbes.com/sites/peterhigh/2016/06/20/deep-learning-pioneer-geoff-hinton-helps-shape-googles-drive-to-put-ai-everywhere/). *Forbes*.
