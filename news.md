@@ -140,7 +140,6 @@ permalink: /news/
 * 2017 April 13. [Europe's battle with Silicon Valley is just beginning - here's why it matters](http://www.wired.co.uk/article/europes-battle-with-silicon-valley-is-just-beginning-heres-why-it-matters). *Wired UK*.
 * 2017 April 12. [Google, Facebook, Microsoft, IBM, Baidu and others just invested $80m into every AI company](https://medium.com/atomico/google-facebook-microsoft-ibm-baidu-and-others-just-invested-80m-into-every-ai-company-95dfcbe1ce11). *Medium*.
 * 2017 April 12. [The Countries Most (and Least) Likely to be Affected by Automation](https://hbr.org/2017/04/the-countries-most-and-least-likely-to-be-affected-by-automation). *Harvard Business Review*.
-* 2017 April 12. [【北大AI公开课】百度徐伟：AGI 2050年前实现可能性超50%](http://mp.weixin.qq.com/s/TM0SrdQiAkwTqY4JhNZ9cQ). *AI Era*.
 * 2017 April 11. [Fast Drawing for Everyone](https://www.blog.google/topics/machine-learning/fast-drawing-everyone/). *Google*.
 * 2017 April 11. [Is Neuroscience Limited by Tools or Ideas?](https://www.scientificamerican.com/article/is-neuroscience-limited-by-tools-or-ideas/). *Scientific American*.
 * 2017 April 10. [Sir Tim Berners-Lee lays out nightmare scenario where AI runs the financial world](http://www.techworld.com/social-media/sir-tim-berners-lee-lays-out-nightmare-scenario-where-ai-runs-world-economy-3657280/). *TechWorld*.
@@ -166,11 +165,8 @@ permalink: /news/
 * 2017 March 14. [Announcing Zoubin Ghahramani as Uber’s Chief Scientist](https://newsroom.uber.com/announcing-zoubin-ghahramani-as-ubers-chief-scientist/). *Uber Newsroom*.
 * 2017 March 13. [Intel buys driverless car technology firm Mobileye](http://www.bbc.com/news/business-39253422). *BBC*.
 * 2017 March 9. [Facebook’s AI Chief: Machines Could Learn Common Sense from Video](https://www.technologyreview.com/s/603803/facebooks-ai-chief-machines-could-learn-common-sense-from-video/). *MIT Technology Review*.
-* 2017 February 27. [Japanese Billionaire is creating a $100 billion investment fund to be a leading developer of AI for Kurzweil’s Technological Singularity](http://www.nextbigfuture.com/2017/02/japanese-billionaire-is-creating-100.html). *nextBIGfuture*.
 * 2017 February 20. [Changes in funding in the AI safety field](http://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/). *AI Impacts*.
 * 2017 January 30. [Google has a higher antitrust risk under Trump because laws are 'rather vague'](http://www.cnbc.com/2017/01/30/google-antitrust-concerns-under-trump.html). *CNBC*.
-* 2017 January 27. [Partnership on AI Update](https://www.partnershiponai.org/2017/01/partnership-ai-update/). *Partnership on AI*.
-* 2017 January 26. [Whatever happened to the DeepMind AI ethics board Google promised?](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board). *The Guardian*.
 * 2017 January 25. [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/press-releases/2017/01/25/artificial-inteltify-skin-cancer/). *Stanford News*.
 * 2017 January 20. [UCL students learn state-of-the-art AI in DeepMind partnership](https://www.ucl.ac.uk/news/students/012017/012017-200117-ucl-students-learn-state-of-the-art-AI-in-DeepMind-partnership). *UCL News*.
 * 2017 January 19. [Kristen Stewart (yes, that Kristen Stewart) just released a research paper on artificial intelligence](https://qz.com/889668/actress-kristen-stewart-yes-that-kristen-stewart-just-released-a-research-paper-on-artificial-intelligence/). *Quartz*.

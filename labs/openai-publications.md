@@ -4,10 +4,19 @@ mathjax: true
 ---
 # OpenAI Publications
 
-A list of papers published before the end of June 2017, where at least one coauthor is affiliated with OpenAI, in reverse chronological order:
+A list of papers where at least one coauthor is affiliated with [OpenAI](http://realai.org/labs/openai/), in reverse chronological order:
 
 ## 2017
 
+* 2017 August 28, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347). *arXiv:1707.06347*.
+* 2017 August 25, Coline Devin, Pieter Abbeel, Trevor Darrell, and Sergey Levine. [Deep Object-Centric Representations for Generalizable Robot Learning](https://arxiv.org/abs/1708.04225). *arXiv:1708.04225*.
+* 2017 August 4, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
+* 2017 July 25, Markus Wulfmeier, Ingmar Posner, and Pieter Abbeel. [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907). *arXiv:1707.07907*.
+* 2017 July 17, Carlos Florensa, David Held, Markus Wulfmeier, and Pieter Abbeel. [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300). *arXiv:1707.05300*.
+* 2017 July 11, YuXuan Liu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine. [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374). *arXiv:1707.03374*.
+* 2017 July 10, Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, and Wojciech Zaremba. [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495). *arXiv:1707.01495*.
+* 2017 July 1, Tambet Matiisen, Avital Oliver, Taco Cohen, and John Schulman. [Teacher-Student Curriculum Learning](https://arxiv.org/abs/1707.00183). *arXiv:1707.00183*.
+* 2017 June 16, Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell. [The Off-Switch Game](https://arxiv.org/abs/1611.08219). *arXiv:1611.08219*.
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*.
 * 2017 June 7, Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch. [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275). *arXiv:1706.02275*.
 * 2017 June 6, Matthias Plappert, Rein Houthooft, Prafulla Dhariwal, Szymon Sidor, Richard Y. Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, and Marcin Andrychowicz. [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905). *arXiv:1706.01905*.
