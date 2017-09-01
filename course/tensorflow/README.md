@@ -90,7 +90,7 @@ A simple model like the one we studied in this session is already close to addin
 
 On our newly built VM, the CNN model in the previous session that took over 16 minutes to train on 8 vCPUs should now only take less than 2 minutes! With more computing power, let’s build a CNN with more convolutional layers for CIFAR-10:
 
-* Deep CNN for CIFAR-10
+* Jupyter Notebook: [Deep CNN for CIFAR-10](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/deep-cnn-for-CIFAR-10.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/deep-cnn-for-CIFAR-10.ipynb); [source](http://realai.org/course/tensorflow/deep-cnn-for-CIFAR-10.ipynb))
 
 ## Further Reading
 
