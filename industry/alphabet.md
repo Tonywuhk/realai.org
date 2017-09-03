@@ -6,7 +6,7 @@ title: Companies/Alphabet
 
 ## Google
 
-### Artificial Intelligence
+### AI and Machine Learning 
 
 Google’s AI efforts are brought together under [Google.ai](https://google.ai/), a site focused on bringing the benefits of AI to everyone. Google’s [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc/) is a cluster of 1,000 [Cloud TPUs](https://cloud.google.com/tpu/) that support machine learning research for free. The Cloud TPUs are purpose-built for machine learning workloads, including both training and prediction, and each Cloud TPU deilvers up to 180 teraflops of performance. In contrast, [NVIDIA](http://realai.org/industry/nvidia/) claims its [Volta](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/) GPU delivers over 100 teraflops. According to a Google [blog post](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/), a machine learning supercomputer called “TPU pod” can be built with 64 TPUs to provide up to 11.5 petaflops of computation.
 
@@ -15,6 +15,10 @@ In July 2017, Google [launched](https://techcrunch.com/2017/07/26/ai-studio/) it
 On 26 May 2017, Axios [reported](https://www.axios.com/exclusive-google-launches-ai-investment-arm-2423046588.html) that Google launched a new venture capital program focused on AI. Google officially [announced](https://www.blog.google/topics/machine-learning/introducing-gradient-ventures/) Gradient Ventures in July. CNBC [reported](http://www.cnbc.com/2017/07/10/google-launches-gradient-ventures-to-invest-in-a-i-start-ups.html) that it would invest in 10 to 15 deals in 2017 and would typically commit $1 million to $8 million in each.
 
 In a [research report](https://ark-invest.com/research/googles-ai) dated May 23, 2017, ARK Investment called Google a full stack AI company.
+
+#### Talent
+
+According to a June 2016 [post](https://www.wired.com/2016/06/how-google-is-remaking-itself-as-a-machine-learning-first-company/) on Wired, internally Google has a Machine Learning Ninja Program, a four-week boot camp that pulls its talented coders from their teams to participate.
 
 ### Retail
 

@@ -75,7 +75,7 @@ permalink: /source/
 
 ### Deep Reinforcement Learning
 
-* 2017 Spring, *University of California, Berkeley*. [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/). Sergey Levine, John Schulman, Chelsea Finn.
+* 2017 Spring, *University of California, Berkeley*. [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/). Sergey Levine, Abhishek Gupta, Joshua Achiam. [/r/berkeleydeeprlcourse](https://www.reddit.com/r/berkeleydeeprlcourse/).
 * 2016 June 17, *DeepMind Technologies*. [Blog: Deep Reinforcement Learning](https://deepmind.com/blog/deep-reinforcement-learning/). David Silver.
 
 ### Generative Models

@@ -9,3 +9,7 @@ Business Insider [reported in July 2017](http://www.businessinsider.com/microsof
 
 * 2017 August 22. [Microsoft unveils Project Brainwave for real-time AI](https://www.microsoft.com/en-us/research/blog/microsoft-unveils-project-brainwave/). *Microsoft Research Blog*.
 
+## LinkedIn
+
+* 2016 June 13. [Microsoft Pays $26 Billion for LinkedIn in Biggest Deal Yet](https://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9). *Bloomberg*.
+

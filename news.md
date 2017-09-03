@@ -3,7 +3,6 @@ permalink: /news/
 ---
 # News
 
-* 2017 Aug 4. [$2 Million Donation from Eric and Wendy Schmidt Supports Launch of Program in Theoretical Machine Learning at the Institute for Advanced Study](https://www.ias.edu/news/schmidt-theoretical-machine-learning). *Institute for Advanced Study*.
 * 2017 July 25. [Khosla Ventures leads $50 million investment in Vicarious’ AI tech](https://venturebeat.com/2017/07/25/khosla-ventures-leads-50-million-investment-in-vicarious-ai-tech/amp/). *VentureBeat*.
 * 2017 July 19. [Tech’s 5 biggest players now worth $3 trillion](https://techcrunch.com/2017/07/19/techs-5-biggest-players-now-worth-3-trillion/). *Tech Crunch*.
 * 2017 July 15. [专访 UCL 教授汪军：中国能不能出现像 DeepMind 这样的企业？\| CCF-GAIR 2017](https://m.leiphone.com/news/201707/3tgq679xJMqKGhxM.html). *leiphone.com*.
@@ -190,35 +189,19 @@ permalink: /news/
 * 2016 December 5. [In OpenAI’s Universe, Computers Learn to Use Apps Like Humans Do](https://www.wired.com/2016/12/openais-universe-computers-learn-use-apps-like-humans/). *Wired*.
 * 2016 December 5. [OpenAI Universe](https://universe.openai.com/). *OpenAI*, *[Twitter](https://twitter.com/OpenAI/status/805661402937565184)*.
 * 2016 December 4. [NIPS 2016 & Research at Google](https://research.googleblog.com/2016/12/nips-2016-research-at-google.html). *Google Research Blog*.
-* 2016 December 3. [Open-sourcing DeepMind Lab](https://deepmind.com/blog/open-sourcing-deepmind-lab/). *DeepMind*, *[Twitter](https://twitter.com/DeepMindAI/status/805698876594339840)*.
 * 2016 December 1, Stephen Hawking. [This is the most dangerous time for our planet](https://www.theguardian.com/commentisfree/2016/dec/01/stephen-hawking-dangerous-time-planet-inequality). *The Guardian*.
-* 2016 November 23. [Twitter Cortex team loses some AI researchers](https://venturebeat.com/2016/11/23/twitter-cortex-team-loses-some-ai-researchers/). *VentureBeat*.
 * 2016 November 21. [Why tech giants like Google are investing in Montreal’s artificial intelligence research lab](https://www.thestar.com/business/2016/11/21/montreals-artificial-intelligence-research-lab-attracts-major-tech-firms-like-google.html). *Toronto Star*.
 * 2016 November 21. [Google opens new AI lab and invests $3.4M in Montreal-based AI research](https://techcrunch.com/2016/11/21/google-opens-new-ai-lab-and-invests-3-4m-in-montreal-based-ai-research/). *TechCrunch*.
 * 2016 November 15. [Trump Tech Meltdown Hits Fourth Day With Amazon Cut by $35 Billion](https://www.bloomberg.com/news/articles/2016-11-14/trump-tech-meltdown-hits-fourth-day-as-amazon-cut-by-35-billion). *Bloomberg*.
 * 2016 November 15. [Google commits to £1bn UK investment plan](http://www.bbc.com/news/business-37988095). *BBC*.
 * 2016 November 15. [Google commits to massive new London headquarters](https://www.theguardian.com/technology/2016/nov/15/google-commits-to-massive-new-london-hq). *The Guardian*.
 * 2016 November 15. [Google is making a big machine learning and AI push in cloud services](http://www.theverge.com/2016/11/15/13640420/google-cloud-service-machine-learning-ai-translation-computer-vision). *The Verge*.
-* 2016 November 15. [GE acquires Wise.io to deepen its machine learning stack](https://techcrunch.com/2016/11/15/ge-acquires-wise-io-to-deepen-its-machine-learning-stack/). *TechCrunch*.
 * 2016 November 15. [Salesforce touts AI research progress, beating Google, IBM, and Microsoft on question answering](https://venturebeat.com/2016/11/15/salesforce-touts-ai-research-progress-beating-google-ibm-and-microsoft-on-question-answering/). *VentureBeat*.
 * 2016 November 15. [Intel says it will spend $250 million to develop self-driving cars](http://www.theverge.com/2016/11/15/13641772/intel-250-million-self-driving-cars-la-auto-show). *The Verge*.
 * 2016 November 11. [Nvidia Stock Soars To Record High On 'Blowout' Earnings, Raised Guidance](http://www.investors.com/stock-lists/sector-leaders/nvidia-stock-soars-on-q3-beat-and-raise/). *Investor's Business Daily*.
 * 2016 November 9. [Silicon Valley Reels After Trump’s Election](https://www.nytimes.com/2016/11/10/technology/trump-election-silicon-valley-reels.html). *New York Times*.
 * 2016 November 9. [Silicon Valley Reels in Wake of Trump's Presidential Victory](https://www.bloomberg.com/news/articles/2016-11-09/tech-fears-the-unknown-with-a-president-trump). *Bloomberg Technology*.
-* 2016 November 7. [Startup Zoox’s Valuation Soars to $1.55 Billion](https://www.wsj.com/articles/startup-zooxs-valuation-soars-to-1-55-billion-1478514602). *Wall Street Journal*.
 * 2016 November 4. [AI isn't coming for our jobs, it's coming for our planet and will one day 'colonise the galaxy'](http://www.wired.co.uk/article/jurgen-schmidhuber-artificial-intelligence-very-deep-learning). *Wired UK*.
 * 2016 November 4. [Elon Musk: Robots will take your jobs, government will have to pay your wage](http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html). *CNBC*.
-* 2016 November 4. [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/). *DeepMind*.
-* 2016 October 28. [Self-driving car startup cancels first product because dealing with regulators and lawyers “isn’t worth it”](https://qz.com/822113/self-driving-car-startup-comma-ai-cancels-first-product-dealing-with-regulator-and-lawyers-isnt-worth-it/). *Quartz*.
-* 2016 August 31. [Three Grand Challenges for Brain Science That Can Be Solved in 10 Years](https://www.technologyreview.com/s/602274/three-grand-challenges-for-brain-science-that-can-be-solved-in-10-years/). *MIT Technology Review*.
-* 2016 August 18. [Uber’s First Self-Driving Fleet Arrives in Pittsburgh This Month](https://www.bloomberg.com/news/features/2016-08-18/uber-s-first-self-driving-fleet-arrives-in-pittsburgh-this-month-is06r7on). *Bloomberg Technology*.
-* 2016 August 11. [Robots Could Make Universal Basic Income a Necessity](https://www.inverse.com/article/18443-automation-will-make-universal-basic-income-a-necessity). *Inverse*.
-* 2016 August 4. [Who Should Control Our Thinking Machines?](https://www.bloomberg.com/features/2016-demis-hassabis-interview-issue/). *Bloomberg Businessweek*.
-* 2016 July 21. [Google Sprints Ahead in AI Building Blocks, Leaving Rivals Wary](https://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wary). *Bloomberg Technology*.
-* 2016 July 21. [How the Brain Builds Memory Chains](https://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/). *Scientific American*.
-* 2016 July 7. [Exclusive: Why Microsoft is betting its future on AI](http://www.theverge.com/2016/7/7/12111028/microsoft-bot-framework-artificial-intelligence-satya-nadella-interview). *The Verge*.
-* 2016 June 23. [How Google is Remaking Itself as a “Machine Learning First” Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70). *Backchannel*.
-* 2016 June 20. [Deep Learning Pioneer Geoff Hinton Helps Shape Google's Drive To Put AI Everywhere](https://www.forbes.com/sites/peterhigh/2016/06/20/deep-learning-pioneer-geoff-hinton-helps-shape-googles-drive-to-put-ai-everywhere/). *Forbes*.
-* 2016 June 13. [Microsoft Pays $26 Billion for LinkedIn in Biggest Deal Yet](https://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9). *Bloomberg*.
 * 2015 July 16. [Google Spikes 8% After Reporting Better-Than-Expected Q2 EPS Of $6.99](https://techcrunch.com/2015/07/16/google-q2-2015-earnings/). *TechCrunch*.
 

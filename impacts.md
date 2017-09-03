@@ -37,6 +37,7 @@ The empirical success of deep learning changed the thinking in many related disc
 
 In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wired opinion piece](https://www.wired.com/story/ai-will-make-forging-anything-entirely-too-easy/) that the growth of AI-enabled forgery technology would "transform the meaning of evidence and truth in domains across journalism, government communications, testimony in criminal justice, and, of course, national security."
 
+* 2017 August 29. [Researchers taught AI to write totally believable fake reviews, and the implications are terrifying](http://www.businessinsider.com/researchers-teach-ai-neural-network-write-fake-reviews-fake-news-2017-8). *Business Insider*.
 * 2017 July 12. [Scarily convincing fake video tool puts words in Obama’s mouth](http://www.telegraph.co.uk/technology/2017/07/12/scarily-convincing-fake-video-tool-puts-words-obamas-mouth/). *The Telegraph*.
 
 ### Propaganda

@@ -23,6 +23,10 @@ Our impression is echoed in [Hassabis et al. (2017)](http://www.cell.com/neuron/
 * 2016 August 11, Haiguang Wen, Junxing Shi, Yizhen Zhang, Kun-Han Lu, and Zhongming Liu. [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://arxiv.org/abs/1608.03425). *arXiv:1608.03425*.
 * 2016 May 26, Eric Jonas and Konrad Kording. [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). *bioRxiv:055624*.
 
+## Memory
+
+* 2016 July 21. [How the Brain Builds Memory Chains](https://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/). *Scientific American*.
+
 ## Spiking Neural Networks
 
 [Zenke & Ganguli (2017)](https://arxiv.org/abs/1705.11146) propose to train spiking neurons by a gradient descent rule that takes the form

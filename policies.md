@@ -34,6 +34,10 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 * 2017 February 16. [European parliament calls for robot law, rejects robot tax](http://www.reuters.com/article/us-europe-robots-lawmaking-idUSKBN15V2KM). *Reuters*.
 
+### Russia
+
+* 2017 September 1. [Putin: Leader in artificial intelligence will rule world](https://www.washingtonpost.com/business/technology/putin-leader-in-artificial-intelligence-will-rule-world/2017/09/01/969b64ce-8f1d-11e7-9c53-6a169beb0953_story.html). *The Washington Post*.
+
 ### Singapore
 
 * 2017 May 3. [Singapore to invest over $100 million in A.I. in next five years in smart nation, innovation hub push](http://www.cnbc.com/2017/05/03/singapores-national-research-foundation-to-invest-150-million-dollars-in-ai.html). *CNBC*.
@@ -58,12 +62,14 @@ In a [New York Times opinion](https://www.nytimes.com/2017/07/29/opinion/sunday/
 
 * 2017 February 9, Nick Bostrom. [Strategic Implications of Openness in AI Development](http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12403/full). *Global Policy*.
 
-### Universal Basic Income
+## Universal Basic Income
 
 In May 2017, Facebook CEO Mark Zuckerberg called for universal basic income ([CNBC](http://www.cnbc.com/2017/05/25/mark-zuckerberg-calls-for-universal-basic-income-at-harvard-speech.html)) to give everyone a cushion to try new ideas, during his [Harvard Commencement speech](http://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/). The call was [echoed a few days later](https://www.geek.com/tech-science-3/elon-musk-automation-will-force-universal-basic-income-1701217/) by Elon Musk at the World Government Summit in Dubai. Yuval Noah Harari wrote in an [opinion piece on Bloomberg View](https://www.bloomberg.com/view/articles/2017-06-04/universal-basic-income-is-neither-universal-nor-basic) that universal basic income (UBI) was neither universal nor basic. UBI initiatives were national or municipal, and it was unclear how to define "basic".
 
 In an empirical study, [Marinescu (2017)](http://rooseveltinstitute.org/no-strings-attached/) found that unconditional cash transfers significantly raised recipients' quality of life, and caused at most a moderate descrease in labor participation.
 
-## References
+* 2016 August 11. [Robots Could Make Universal Basic Income a Necessity](https://www.inverse.com/article/18443-automation-will-make-universal-basic-income-a-necessity). *Inverse*.
+
+### References
 
 * 2017 May 11, Ioana Marinescu. [No Strings Attached](http://rooseveltinstitute.org/no-strings-attached/). *Roosevelt Institute*.

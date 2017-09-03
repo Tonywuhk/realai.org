@@ -94,6 +94,8 @@ On our newly built VM, the CNN model in the previous session that took over 16 m
 
 ## Further Reading
 
+* The official TensorFlow [Tutorials](https://www.tensorflow.org/tutorials/) contains demonstrations of how to do specific tasks.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) is a tutorial designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 * [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) is [Vahid Kazemi](https://twitter.com/VahidK)’s attempt to write a series of articles on effective TensorFlow usage, and to keep the content up to date with the latest releases of TensorFlow API.
 * 2017 January - June, Chip Huyen. [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/). [GitHub](https://github.com/chiphuyen/stanford-tensorflow-tutorials). This Stanford University course covers the fundamentals and contemporary usage of the TensorFlow library for deep learning research.
 
