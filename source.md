@@ -14,7 +14,6 @@ permalink: /source/
 
 * General: [Google News](https://news.google.com/) \| [Bloomberg](https://www.bloomberg.com/) \| [The Guardian](https://www.theguardian.com/)
 * Finance: [Google Finance](https://finance.google.com) \| [Yahoo Finance](https://finance.yahoo.com/) \| [新浪财经](http://finance.sina.com.cn/) \| [东方财富网](http://www.eastmoney.com/)
-* Old [news](http://realai.org/news/) collected on this site
 
 ## Funding
 
@@ -31,6 +30,7 @@ permalink: /source/
 * Eric [Jang](http://blog.evjang.com/), technology, A.I., careers.
 * Andrej [Karpathy](http://karpathy.github.io/) blog.
 * In [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), a group of like-minded developers and scientists hope to bring together machine learning practitioners to listen to each other's work.
+* [Machine Thoughts](https://machinethoughts.wordpress.com/) is a blog that contains the thoughts of a thinking machine ([David McAllester](http://ttic.uchicago.edu/~dmcallester/), a long time academic AI researcher) on the nature of thought and on the nature of being a human machine.
 * The [Morning Paper](https://blog.acolyer.org/) covers an interesting/influential/important paper from the world of CS every weekday morning, as selected by [Adrian Colye](https://twitter.com/adriancolyer).
 * The [Neural Perspective](https://theneuralperspective.com/) is all about simplifying and democratizing deep learning concepts and applications.
 * [Piekniewski's](http://blog.piekniewski.info/) blog on limits of deep learning and where to go next with AI.

@@ -16,7 +16,9 @@ Below is a list of milestones that we forecast will be achieved based on our *su
 Financial Times [reported](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0) on March 17, 2017 that [DeepMind](http://realai.org/labs/deepmind/
 ) hoped to publish six more papers in highly regarded scientific journals [Nature](https://en.wikipedia.org/wiki/Nature_(journal)) or [Science](https://en.wikipedia.org/wiki/Science_(journal)) “within the next year”. DeepMind is an [Alphabet](http://realai.org/industry/alphabet/) subsidiary that has published [over two hundred papers](http://realai.org/labs/deepmind/publications/), including [three](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html) [Nature](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) [papers](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html) since February 2015. Given its track record, and the existence of [six](https://arxiv.org/abs/1706.01427) [high-quality](https://arxiv.org/abs/1706.06551) [preprint](https://arxiv.org/abs/1707.02286) [papers](https://arxiv.org/abs/1707.03389) [on](https://arxiv.org/abs/1707.06170) [arXiv](https://arxiv.org/abs/1707.06887), we are convinced of this estimate and assign a **90% confidence interval of ± 3 months** that six groundbreaking results will come from DeepMind by **March 17, 2018**.
 
-*Last Updated: July 29, 2017*
+A September 2017 [blog post](https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors/) suggests that "there is currently a significant effort at DeepMind based on deep inductive logic programming (Deep ILP) for bottom-up programs and that a paper will appear in the next few months."
+
+*Last Updated: September 4, 2017*
 
 ### Multi-Player No-Limit Poker
 

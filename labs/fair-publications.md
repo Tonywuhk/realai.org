@@ -7,8 +7,11 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 September 1, Naama Hadad, Lior Wolf, and Moni Shahar. [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199). *arXiv:1709.00199*.
+* 2017 August 31, Tomer Galanti and Lior Wolf. [Unsupervised Learning of Semantic Mappings](https://arxiv.org/abs/1709.00074). *arXiv:1709.00074*.
 * 2017 August 17, Prithvijit Chattopadhyay, Deshraj Yadav, Viraj Prabhu, Arjun Chandrasekaran, Abhishek Das, Stefan Lee, Dhruv Batra, and Devi Parikh. [Evaluating Visual Conversational Agents via Cooperative Human-AI Games](https://arxiv.org/abs/1708.05122). *arXiv:1708.05122*.
 * 2017 August 8, Xiang Zhang and Yann LeCun. [Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?](https://arxiv.org/abs/1708.02657). *arXiv:1708.02657*.
+* 2017 August 8, Holger Schwenk and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 August 7, Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). *arXiv:1708.02002*.
 * 2017 August 3, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502). *arXiv:1706.08502*.
@@ -46,7 +49,6 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 * 2017 April 23, Rahma Chaabouni, Ewan Dunbar, Neil Zeghidour, and Emmanuel Dupoux. [Learning weakly supervised multimodal phoneme embeddings](https://arxiv.org/abs/1704.06913). *arXiv:1704.06913*.
 * 2017 April 20, Sam Gross, Marc'Aurelio Ranzato, and Arthur Szlam. [Hard Mixtures of Experts for Large Scale Weakly Supervised Vision](https://arxiv.org/abs/1704.06363). *arXiv:1704.06363*.
 * 2017 April 18, Piotr Bojanowski and Armand Joulin. [Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310). *arXiv:1704.05310*.
-* 2017 April 13, Holger Schwenk, Ke Tran, Orhan Firat, and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
 * 2017 April 28, Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051). *arXiv:1704.00051*.
 * 2017 March 29, Gao Huang, Danlu Chen, Tianhong Li, Felix Wu, Laurens van der Maaten, and Kilian Q. Weinberger. [Multi-Scale Dense Convolutional Networks for Efficient Prediction](https://arxiv.org/abs/1703.09844). *arXiv:1703.09844*.
 * 2017 March 27, Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, Angeliki Lazaridou, Klemen Simonic, and Tomas Mikolov. [CommAI: Evaluating the first steps towards a useful general AI](https://arxiv.org/abs/1701.08954). *arXiv:1701.08954*.
