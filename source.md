@@ -41,35 +41,18 @@ permalink: /source/
 
 ## Study Materials
 
-* [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) is a basic machine learning and deep learning course in Korean, maintained by [hunkim](https://github.com/hunkim).
-* 2016 Autumn, *Stanford University*. [CS 229: Machine Learning](http://cs229.stanford.edu/). Andrew Ng and John Duchi.
-* 2016 Winter, *Stanford University*. [EE376A/Stats376A: Information Theory](http://web.stanford.edu/class/ee376a/). David Tse.
 * 2017 September 11-15, *Wits University*. [South African Deep Learning Indaba](http://www.deeplearningindaba.com/).
 * 2017 Fall, *Manning Publications*. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), Manning Early Access Program. Francois Chollet. [code](https://github.com/fchollet/deep-learning-with-python-notebooks).
 * 2017 June 26 - July 5, *Montreal, Canada*. [Deep Learning Summer School and Reinforcement Learning Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/). [video lectures](http://videolectures.net/deeplearning2017_montreal/).
-* 2016 December, *MIT Press*. [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-* 2016 September 24-25, *Stanford, CA*. [Deep Learning School](https://www.bayareadlschool.org/).
-* 2015 July 4, *The Spectator*. [A Statistical View of Deep Learning: Retrospective](http://blog.shakirm.com/2015/07/a-statistical-view-of-deep-learning-retrospective/). Shakir Mohamed.
-
-### Related Background
-
-* 2010 January 13, *Nature Reviews Neuroscience*. [The free-energy principle: a unified brain theory?](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf). Karl Friston.
-* 2004 November 29, *Springer*. [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/gp/product/3540221395). Marcus Hutter.
-
-### Natural Language Processing
-
-* 2017 March 5, *arXiv*. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619). Graham Neubig.
 * 2017 Hilary, *University of Oxford*. [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures). Phil Blunsom.
+* 2017 March 5, *arXiv*. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619). Graham Neubig.
 * 2017 Winter, *Stanford University*. [CS 224N / Ling 284: Natural Language Processing](http://web.stanford.edu/class/cs224n/). Chris Manning and Richard Socher.
-
-### Deep Reinforcement Learning
-
-* 2017 Spring, *University of California, Berkeley*. [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/). Sergey Levine, Abhishek Gupta, Joshua Achiam. [/r/berkeleydeeprlcourse](https://www.reddit.com/r/berkeleydeeprlcourse/).
-* 2016 June 17, *DeepMind Technologies*. [Blog: Deep Reinforcement Learning](https://deepmind.com/blog/deep-reinforcement-learning/). David Silver.
-
-### Generative Models
-
+* 2016 Winter, *Stanford University*. [EE376A/Stats376A: Information Theory](http://web.stanford.edu/class/ee376a/). David Tse.
 * 2016 December 31, *arXiv*. [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160). Ian Goodfellow.
+* 2016 December, *MIT Press*. [Deep Learning](http://www.deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+* 2016 Autumn, *Stanford University*. [CS 229: Machine Learning](http://cs229.stanford.edu/). Andrew Ng and John Duchi.
+* 2016 September 24-25, *Stanford, CA*. [Deep Learning School](https://www.bayareadlschool.org/).
 * 2016 June 19, *arXiv*. [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908). Carl Doersch.
 * 2016 June 16, *OpenAI*. [Blog: Generative Models](https://openai.com/blog/generative-models/). Andrej Karpathy, Pieter Abbeel, Greg Brockman, Peter Chen, Vicki Cheung, Rocky Duan, Ian Goodfellow, Durk Kingma, Jonathan Ho, Rein Houthooft, Tim Salimans, John Schulman, Ilya Sutskever, and Wojciech Zaremba.
+* 2015 July 4, *The Spectator*. [A Statistical View of Deep Learning: Retrospective](http://blog.shakirm.com/2015/07/a-statistical-view-of-deep-learning-retrospective/). Shakir Mohamed.
 

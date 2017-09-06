@@ -46,5 +46,6 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 * Eric S. Lander, Graham Walker, Michelle Mischke, Brian White, and Mary Ellen Wiltrout. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6). *MITx 7.00x*.
 * Leonard E. White. [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience). *Duke University*.
 * 2016 January, *Harvard University*. [The Fundamentals of Neuroscience](https://www.mcb80x.org/). David Cox.
+* 2010 January 13, *Nature Reviews Neuroscience*. [The free-energy principle: a unified brain theory?](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf). Karl Friston.
 * 2004 September 9, Jeff Hawkins. [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). *Time Books*.
 
