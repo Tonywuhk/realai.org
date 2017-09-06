@@ -1,5 +1,5 @@
 ---
-permalink: /philosophy/
+permalink: /background/philosophy/
 mathjax: true
 ---
 # Philosophy

@@ -1,5 +1,5 @@
 ---
-permalink: /introduction/
+permalink: /background/
 redirect_from: /101/
 ---
 # Introduction
@@ -12,5 +12,4 @@ redirect_from: /101/
 * 2016 September 8, Yuval Noah Harari. [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1910701874). *Harvill Secker*.
 * 2015 January 22, Tim Urban. The AI Revolution: The Road to Superintelligence [(Part 1)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [(2015 January 27, Part 2)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html). *[Wait but Why](http://waitbutwhy.com/)*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111). *Oxford University Press*. 
-* 2004 September 9, Jeff Hawkins. [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). *Time Books*. 
 

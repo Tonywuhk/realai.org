@@ -28,16 +28,20 @@ mathjax: true
         3. [Organizations](http://realai.org/safety/organizations/)
         4. [Oracle AI](http://realai.org/safety/oracle-ai/)
  
-3. Understanding AI
-    1. [Introduction](http://realai.org/introduction/)
-    2. [Philosophy](http://realai.org/philosophy/) of Intelligence
+3. Understanding AI (Background)
+    1. [Introduction](http://realai.org/background/)
+    2. [Neuroscience](http://realai.org/background/neuroscience/) 
+    3. Cognitive Science
+    4. Physics as [Computation](http://realai.org/background/computation/)
+    5. [Philosophy](http://realai.org/background/philosophy/) of Intelligence
 
 4. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
     2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
+    4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
-5. [Frontiers](http://realai.org/frontiers/) (excluding Deep Reinforcement Learning)
+5. [Frontiers](http://realai.org/frontiers/) (excluding DRL)
     1. Learning Goals
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
@@ -63,7 +67,6 @@ mathjax: true
         5. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
         6. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
         7. [General Reinforcement Learning](http://realai.org/RL/general/)
-        8. [Reinforcement Learning Implemtations](http://realai.org/rl-code/)
     4. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
@@ -81,10 +84,9 @@ mathjax: true
         2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-    6. [Neuroscience](http://realai.org/neuroscience/)
     7. [Alternative Theories](http://realai.org/alternative-theories/)
  
-6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/)
+6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/) (DRL)
     1. Outstanding Challenges
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model

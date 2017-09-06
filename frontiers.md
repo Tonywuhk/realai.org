@@ -12,9 +12,9 @@ The most crucial ability of an intelligent system is the ability of learning. To
 
 As a result, the system should have the ability of reasoning, attention, and memory, build an internal world model, and understand language in a way that is [grounded](http://realai.org/symbol-grounding/) in this model.
 
-Since 2012, deep learning has achieved phenomenal success or shown great potential in many areas, e.g., [vision](http://realai.org/computer-vision/), language, autonomous driving, [program induction](http://realai.org/program-induction/), and [automated theorem proving](http://realai.org/automated-theorem-proving/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, we have already implemented many [deep learning](http://realai.org/deep-learning-implementation/) and [reinforcement learning](http://realai.org/rl-code/) systems. Advances in deep learning currently power many applications at production-scale.
+Since 2012, deep learning has achieved phenomenal success or shown great potential in many areas, e.g., [vision](http://realai.org/computer-vision/), language, autonomous driving, [program induction](http://realai.org/program-induction/), and [automated theorem proving](http://realai.org/automated-theorem-proving/). Although we still lack a deep [theoretical understanding](http://realai.org/deep-learning-theory/) of how this is accomplished, we have already implemented many [deep learning systems](http://realai.org/deep-learning-implementation/). Advances in deep learning currently power many applications at production-scale.
 
-Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
+Presently, we focus on deep learning, an area in machine learning inspired by [neuroscience](http://realai.org/background/neuroscience/). Our focus will shift to [other areas](http://realai.org/frontiers/) if they show more promise towards AGI.
 
 ### Deep Learning
 

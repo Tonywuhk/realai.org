@@ -1,5 +1,5 @@
 ---
-permalink: /neuroscience/
+permalink: /background/neuroscience/
 mathjax: true
 ---
 # Neuroscience
@@ -40,3 +40,11 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 ### References
 
 * 2017 May 31, Friedemann Zenke and Surya Ganguli. [SuperSpike: Supervised learning in multi-layer spiking neural networks](https://arxiv.org/abs/1705.11146). *arXiv:1705.11146*.
+
+## Further Reading
+
+* Eric S. Lander, Graham Walker, Michelle Mischke, Brian White, and Mary Ellen Wiltrout. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6). *MITx 7.00x*.
+* Leonard E. White. [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience). *Duke University*.
+* 2016 January, *Harvard University*. [The Fundamentals of Neuroscience](https://www.mcb80x.org/). David Cox.
+* 2004 September 9, Jeff Hawkins. [On Intelligence](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562). *Time Books*.
+
