@@ -28,4 +28,5 @@ Deep Learning Framework: [TensorFlow](http://realai.org/course/tensorflow/)
 ## Information Theory
 
 * 2017 March 1. [Special cases of Shannon entropy](https://terrytao.wordpress.com/2017/03/01/special-cases-of-shannon-entropy/). Terence Tao.
+* 2016 Winter, *Stanford University*. [EE376A/Stats376A: Information Theory](http://web.stanford.edu/class/ee376a/). David Tse.
 

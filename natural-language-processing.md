@@ -1,5 +1,6 @@
 ---
-permalink: /nlp/
+permalink: /natural-language-processing/
+redirect_from: /NLP/
 ---
 # Natural Language Processing
 
@@ -18,3 +19,10 @@ permalink: /nlp/
 ### References
 
 * 2017 May 11, Romain Paulus, Caiming Xiong, and Richard Socher. [Your tl;dr by an ai: a deep reinforced model for abstractive summarization](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization). *Salesforce MetaMind*.
+
+## Further Reading
+
+* 2017 Hilary, *University of Oxford*. [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures). Phil Blunsom.
+* 2017 March 5, *arXiv*. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619). Graham Neubig.
+* 2017 Winter, *Stanford University*. [CS 224N / Ling 284: Natural Language Processing](http://web.stanford.edu/class/cs224n/). Chris Manning and Richard Socher.
+

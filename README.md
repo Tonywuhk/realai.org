@@ -28,12 +28,11 @@ mathjax: true
         3. [Organizations](http://realai.org/safety/organizations/)
         4. [Oracle AI](http://realai.org/safety/oracle-ai/)
  
-3. Understanding AI (Background)
-    1. [Introduction](http://realai.org/background/)
-    2. [Neuroscience](http://realai.org/background/neuroscience/) 
-    3. Cognitive Science
-    4. Physics as [Computation](http://realai.org/background/computation/)
-    5. [Philosophy](http://realai.org/background/philosophy/) of Intelligence
+3. Understanding AI ([Background](http://realai.org/background/))
+    1. [Neuroscience](http://realai.org/background/neuroscience/) 
+    2. Cognitive Science
+    3. Physics as [Computation](http://realai.org/background/computation/)
+    4. [Philosophy](http://realai.org/background/philosophy/) of Intelligence
 
 4. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
@@ -81,7 +80,7 @@ mathjax: true
         8. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
     5. Experiments
         1. [Vision](http://realai.org/computer-vision/)
-        2. [Language](http://realai.org/nlp/): [Program Induction](http://realai.org/program-induction/)
+        2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
     7. [Alternative Theories](http://realai.org/alternative-theories/)
