@@ -60,6 +60,8 @@ There are three distinct *races* in SC2: Terran, Protoss, and Zerg, each with ow
 
 The StarCraft II Learning Environment (SC2LE; [Vinyals et al., 2017](https://arxiv.org/abs/1708.04782)) consists of three sub-components: a Linux StarCraft II binary, the [StarCraft II API](https://github.com/Blizzard/s2client-proto) and [PySC2](https://github.com/deepmind/pysc2), a Python environment. PySC2 includes several [mini-games](https://github.com/deepmind/pysc2/blob/master/docs/mini_games.md) as small steps towards playing the full game.
 
+* 2017 August 30, Chris Hoyean Song. [StarCraft II RL Tutorial 1](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/). *personal blog*.
+
 ##### StarCraft
 
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.

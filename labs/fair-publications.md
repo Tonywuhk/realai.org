@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 September 2, Marek Rei, Luana Bulat, Douwe Kiela, and Ekaterina Shutova. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575). *arXiv:1709.00575*.
+* 2017 September 1, Cinna Wu, Mark Tygert, and Yann LeCun. [Hierarchical loss for classification](https://arxiv.org/abs/1709.01062). *arXiv:1709.01062*.
 * 2017 September 1, Naama Hadad, Lior Wolf, and Moni Shahar. [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199). *arXiv:1709.00199*.
 * 2017 August 31, Tomer Galanti and Lior Wolf. [Unsupervised Learning of Semantic Mappings](https://arxiv.org/abs/1709.00074). *arXiv:1709.00074*.
 * 2017 August 17, Prithvijit Chattopadhyay, Deshraj Yadav, Viraj Prabhu, Arjun Chandrasekaran, Abhishek Das, Stefan Lee, Dhruv Batra, and Devi Parikh. [Evaluating Visual Conversational Agents via Cooperative Human-AI Games](https://arxiv.org/abs/1708.05122). *arXiv:1708.05122*.

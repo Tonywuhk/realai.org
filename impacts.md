@@ -13,7 +13,7 @@ It is conceivable that blackbox AI algorithms could be employed to make importan
 
 [Harari (2017)](https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book) predicted that within decades AI would outperform humans in most jobs, causing large number of people to become unemployable. The unemployed masses would be kept occupied and content by virtual reality games. In June 2017, Michael Bloomberg [suggested in Bloomberg Businessweek](https://www.bloomberg.com/news/articles/2017-06-22/what-we-need-and-don-t-need-from-government-in-the-robot-age) that governments experiment with direct employment programs to keep working-age adults in the labor market, performing jobs that produce some public benefits, however limited. 
 
-MIT Technology Review reported in June 2017 that the issue of jobs [came up regularly in China](https://www.technologyreview.com/s/608183/chinas-tech-moguls-warn-of-ais-troubling-trajectory/). For example, Alibaba's Jack Ma [warned in June 2017](http://www.businessinsider.com/alibaba-stock-price-jack-ma-artificial-intelligence-machine-learning-may-cause-world-war-iii-2017-6) at a [conference](http://gateway17.com/speakers/) that the **Third World War** could be caused by the worker displacement from these new technologies and the economic stress it could place on political systems.
+MIT Technology Review reported in June 2017 that the issue of jobs [came up regularly in China](https://www.technologyreview.com/s/608183/chinas-tech-moguls-warn-of-ais-troubling-trajectory/).
 
 List of news articles related to job losses:
 
@@ -24,6 +24,8 @@ List of news articles related to job losses:
 * 2017 April 27. [Artificial intelligence will replace half of all jobs in the next decade, says widely followed technologist](http://www.cnbc.com/2017/04/27/kai-fu-lee-robots-will-replace-half-of-all-jobs.html). *CNBC*. 
 
 ## National Security
+
+Influential technology leaders have warned that progress in AI may lead to World War III. Alibaba’s Jack Ma [told CNBC in June 2017](https://www.cnbc.com/2017/06/21/alibabas-jack-ma-says-people-will-work-four-hours-a-day-in-30-years.html) that the cause is “with machine learning and artificial intelligence eliminating jobs.” Following Putin’s [statement](https://www.theverge.com/2017/9/4/16251226/russia-ai-putin-rule-the-world) that whoever leads in AI will rule the world, Elon Musk [warned in September 2017](https://www.theguardian.com/technology/2017/sep/04/elon-musk-ai-third-world-war-vladimir-putin) that “competition for AI superiority at national level” is the most likely cause.
 
 * 2017 July 21. [AI Could Revolutionize War As Much As Nukes](https://www.wired.com/story/ai-could-revolutionize-war-as-much-as-nukes/). *Wired*.
 
