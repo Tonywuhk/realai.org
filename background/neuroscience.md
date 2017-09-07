@@ -41,6 +41,14 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 
 * 2017 May 31, Friedemann Zenke and Surya Ganguli. [SuperSpike: Supervised learning in multi-layer spiking neural networks](https://arxiv.org/abs/1705.11146). *arXiv:1705.11146*.
 
+## Some Theories of Intelligence
+
+Neuroscience has spurred many attempts at building machine intelligence, such as [Hierarchical Temporal Memory](http://numenta.org/) ([Hawkins et al., 2016](http://numenta.com/biological-and-machine-intelligence/)) and [Feynman Machine](https://hackernoon.com/feynman-machine-a-new-approach-for-cortical-and-machine-intelligence-5855c0e61a70).
+
+* 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
+
+### References
+
 ## Further Reading
 
 * Eric S. Lander, Graham Walker, Michelle Mischke, Brian White, and Mary Ellen Wiltrout. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6). *MITx 7.00x*.

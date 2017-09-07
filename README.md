@@ -30,7 +30,7 @@ mathjax: true
  
 3. Understanding AI ([Background](http://realai.org/background/))
     1. [Neuroscience](http://realai.org/background/neuroscience/) 
-    2. Cognitive Science
+    2. [Cognitive Science](http://realai.org/background/cognitive-science/)
     3. Physics as [Computation](http://realai.org/background/computation/)
     4. [Philosophy](http://realai.org/background/philosophy/) of Intelligence
 
@@ -40,7 +40,7 @@ mathjax: true
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
     4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
-5. [Frontiers](http://realai.org/frontiers/) (excluding DRL)
+5. [Machine Learning](http://realai.org/machine-learning/) (excluding DRL)
     1. Learning Goals
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
@@ -83,7 +83,6 @@ mathjax: true
         2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
-    7. [Alternative Theories](http://realai.org/alternative-theories/)
  
 6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/) (DRL)
     1. Outstanding Challenges
