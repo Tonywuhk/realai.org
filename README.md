@@ -40,7 +40,7 @@ mathjax: true
     3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
     4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
-5. [Machine Learning](http://realai.org/machine-learning/) (excluding DRL)
+5. [Machine Learning](http://realai.org/machine-learning/) (excluding RL)
     1. Learning Goals
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
@@ -56,17 +56,7 @@ mathjax: true
         4. [Imitation Learning](http://realai.org/imitation-learning/)
         5. [Meta-Learning](http://realai.org/meta-learning/)
         6. Memory
-    3. [Reinforcement Learning](http://realai.org/RL/)
-        1. [Safe Reinforcement Learning](http://realai.org/RL/safety/)
-        2. [Agents](http://realai.org/RL/agents/)
-        3. [Model-Free Algorithms](http://realai.org/RL/model-free/)
-        4. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
-            * [Exploration](http://realai.org/exploration/)
-            * [Empowerment](http://realai.org/empowerment/)
-        5. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-        6. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-        7. [General Reinforcement Learning](http://realai.org/RL/general/)
-    4. Deep Learning
+    3. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
             * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
@@ -78,19 +68,29 @@ mathjax: true
         6. [Platforms](http://realai.org/learning-platforms/)
         7. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
         8. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
-    5. Experiments
+    4. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
  
-6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/) (DRL)
+6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/) (Deep RL; DRL)
     1. Outstanding Challenges
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model
         3. [Planning](http://realai.org/planning/)
         4. [Reasoning](http://realai.org/reasoning/)
     2. [Environments](http://realai.org/environments/)
- 
+    3. [Agents](http://realai.org/RL/agents/)
+    4. [Model-Free Algorithms](http://realai.org/RL/model-free/)
+    5. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
+        1. [Exploration](http://realai.org/exploration/)
+        2. [Empowerment](http://realai.org/empowerment/)
+    6. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
+    7. [Reinforcement Learning](http://realai.org/RL/)
+        1. [Safe Reinforcement Learning](http://realai.org/RL/safety/)
+        2. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
+        3. [General Reinforcement Learning](http://realai.org/RL/general/)
+
 7. Research
 

@@ -45,9 +45,9 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 
 Neuroscience has spurred many attempts at building machine intelligence, such as [Hierarchical Temporal Memory](http://numenta.org/) ([Hawkins et al., 2016](http://numenta.com/biological-and-machine-intelligence/)) and [Feynman Machine](https://hackernoon.com/feynman-machine-a-new-approach-for-cortical-and-machine-intelligence-5855c0e61a70).
 
-* 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
-
 ### References
+
+* 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
 
 ## Further Reading
 
