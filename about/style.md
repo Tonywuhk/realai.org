@@ -38,9 +38,9 @@ On any page, *Heading 1* should be used at most once near the top of a page. Thi
 
 A full citation includes the following pieces of information, commonly in this order:
 
-* Date Published, List of Authors. Title and Link. *Publication Venue*. additional resources.
+* Date Published, List of Authors. Title and Link. *Publication Venue*. (optional) additional resources.
 
-Details are specified in a [Python script](http://realai.org/about/cite-arxiv.py) that outputs a full citation based on arXiv information, or its functional equivalent in [PowerShell](http://realai.org/about/equivalent-to-cite-arxiv-py.ps1).
+Details are specified in a [Python script](https://github.com/real-ai/realai.org/blob/master/about/cite-arxiv.py) that outputs a full citation based on arXiv information, or its functional equivalent in [PowerShell](https://github.com/real-ai/realai.org/blob/master/about/equivalent-to-cite-arxiv-py.ps1).
 
 #### Punctuation
 
