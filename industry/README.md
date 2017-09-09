@@ -13,7 +13,7 @@ Large technology companies have poured enormous resources into AI, and are spons
 * [NVIDIA Corporation](http://realai.org/industry/nvidia/)
 * [Tencent Holdings Limited](http://realai.org/industry/tencent/)
 
-In July 2017, the first five companies in the above list were worth [more than $3 trillion](https://techcrunch.com/2017/07/19/techs-5-biggest-players-now-worth-3-trillion/).
+By market capitalization, the first five companies in the above list are also the five [largest](http://www.dogsofthedow.com/largest-companies-by-market-cap.htm) [companies](http://www.iweblists.com/us/commerce/MarketCapitalization.html) in the U.S. In July 2017, they were worth [more than $3 trillion](https://techcrunch.com/2017/07/19/techs-5-biggest-players-now-worth-3-trillion/) when combined.
 
 In July 2017, AI Era published a [report](https://www.sohu.com/a/157091076_473283) (in Chinese) comparing the AI labs in Baidu, Tencent and Alibaba.
 

@@ -8,7 +8,6 @@ mathjax: true
 
 * 2017 September 7, Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Mudumba, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, and Yoshua Bengio. [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349). *arXiv:1709.02349*. ([Chatbot](http://realai.org/chatbot/))
 * 2017 August 18, Andrew Brock, Theodore Lim, J. M. Ritchie, and Nick Weston. [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344). *arXiv:1708.05344*. [code](https://github.com/ajbrock/SMASH). ([Architecture Search](http://realai.org/architecture-search/))
-* 2017 August 9. [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/). ([DeepMind](http://realai.org/labs/deepmind/); [Starcraft II](http://realai.org/environments/#starcraft-ii))
 
 ## Main Contents
 

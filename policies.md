@@ -44,12 +44,12 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### United Kingdom
 
-* 2017 September 6. [Self-driving cars must have technology to prevent use in terror, lawmakers say](https://www.theguardian.com/technology/2017/sep/06/self-driving-cars-terrorism-cybersecurity-technology). *The Guardian*.
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
 
 ### United States
 
+* 2017 September 6. [Self-driving cars must have technology to prevent use in terror, lawmakers say](https://www.theguardian.com/technology/2017/sep/06/self-driving-cars-terrorism-cybersecurity-technology). *The Guardian*.
 * 2017 June 13. [U.S. Weighs Restricting Chinese Investment in Artificial Intelligence](https://www.nytimes.com/reuters/2017/06/13/technology/13reuters-usa-china-artificialintelligence.html). *New York Times*.
 * 2017 May 23. [Trump budget makes heavy cuts to science research](http://thehill.com/policy/technology/334764-trump-budget-would-make-heavy-cuts-to-science). *The Hill*.
 * 2017 May 5. [America’s ‘Miracle Machine’ is in desperate need of, well, a miracle](https://www.washingtonpost.com/opinions/americas-miracle-machine-is-in-desperate-need-of-well-a-miracle/2017/05/05/daafbe6a-30e7-11e7-9534-00e4656c22aa_story.html). *Washinton Post*.

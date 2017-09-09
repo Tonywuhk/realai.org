@@ -5,7 +5,7 @@ permalink: /about/admin/
 
 ## Basic Information
 
-Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([weather forecast](http://www.hko.gov.hk/contente.htm), [holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016.
+Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016.
 
 ## Governance
 
