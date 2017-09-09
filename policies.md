@@ -44,6 +44,7 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### United Kingdom
 
+* 2017 September 6. [Self-driving cars must have technology to prevent use in terror, lawmakers say](https://www.theguardian.com/technology/2017/sep/06/self-driving-cars-terrorism-cybersecurity-technology). *The Guardian*.
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
 

@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Google Brain, in
 
 ## 2017
 
+* 2017 August 24, Danijar Hafner, James Davidson, and Vincent Vanhoucke. TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow. [PDF](https://drive.google.com/file/d/0B20Yn-GSaVHGMVlPanRTRlNIRlk/view).
 * 2017 August 24, Xinchen Yan, Mohi Khansari, Yunfei Bai, Jasmine Hsu, Arkanath Pathak, Arbhinav Gupta, James Davidson, and Honglak Lee. [Learning Grasping Interaction with Geometry-aware 3D Representations](https://arxiv.org/abs/1708.07303). *arXiv:1708.07303*.
 * 2017 July 21, Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V. Le. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012). *arXiv:1707.07012*.
 * 2017 July 13, Marc Pickett, Ayush Sekhari, and James Davidson. [A Brief Study of In-Domain Transfer and Learning from Fewer Samples using A Few Simple Priors](https://arxiv.org/abs/1707.03979). *arXiv:1707.03979*.

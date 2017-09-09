@@ -18,11 +18,19 @@ DeepMind has two main lines of business: Research and Applied. Its organized eff
 
 When Google acquired DeepMind, it [agreed to establish an ethics board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). The Guardian [reported in January 2017](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board) that the board was internal and discussed confidential matters, it had convened and progressed well. It can also be inferred from [an official job ad](https://deepmind.com/careers/655890/) that DeepMind has an "Ethics & Impact team".
 
-## Organized Research
+## Competitive Advantages
+
+In a July 2017 [interview](https://www.leiphone.com/news/201707/3tgq679xJMqKGhxM.html), UCL professor [Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) explained why there wasn't a company like DeepMind in China. Wang noted that venture capital investors were unlikely to fund long-term fundamental research, and universities lacked mechanism for a large number of PhD students to collaborate.
+
+### Location
+
+According to [Rowan (2015)](http://www.wired.co.uk/article/deepmind), DeepMind stayed in London partly because of a talent advantage. On Silicon Valley, Hassabis noted that "if you're focusing on a long-term goal, the Valley can be a bubble."
+
+### Organized Research
 
 According to a [Financial Times report on March 17, 2017](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0), DeepMind’s researchers are organised into four main groups including “Neuroscience” and “Frontiers”, each consisting of smaller teams with deeper specialties. "Strike teams" can be formed temporarily to achieve a particular goal. Resources are allocated to projects by team leaders including Hassabis and head of research Shane Legg, who said "It’s sort of a bubbling cauldron of ideas, and exploration, and testing things out, and finding out what seems to be working and why — or why not."
 
-### Progress
+#### Progress
 
 In June 2017, DeepMind [described in a blog](https://deepmind.com/blog/neural-approach-relational-reasoning/) a simple neural net module called Relation Network (RN) that can reason about pairwise relations of objects. It was "One of the most important deep learning papers of the year, thus far", according to a [tweet from @NandoDF](https://twitter.com/NandoDF/status/871979114726641664).
 
@@ -36,6 +44,7 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 
 * 2017 June 6. [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/). *DeepMind Blog*.
 * 2017 March 17. [DeepMind’s social agenda plays to its AI strengths](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0). *Financial Times*.
+* 2017 January 3. [DeepMind’s work in 2016: a round-up](https://deepmind.com/blog/deepmind-round-up-2016/). *DeepMind*.
 * 2016 December 19. [Alphabet's DeepMind unit could be expanded to 1,000 people](http://uk.businessinsider.com/alphabet-deepmind-could-be-expanded-1000-people-google-london-report-2016-12). *Business Insider UK*.
 * 2016 December 10. [DeepMind cofounder: Being in London was key to our success](http://uk.businessinsider.com/deepmind-cofounder-london-success-google-2016-12). *Business Insider UK*.
 * 2016 November 9. [Oxford and Cambridge are losing AI researchers to DeepMind](http://uk.businessinsider.com/oxbridge-ai-researchers-to-deepmind-2016-11). *Business Insider UK*.
@@ -46,7 +55,7 @@ In March 2017, a machine learning expert [believed](http://www.afr.com/brand/cha
 * 2016 July 5. [Google DeepMind pairs with NHS to use machine learning to fight blindness](https://www.theguardian.com/technology/2016/jul/05/google-deepmind-nhs-machine-learning-blindness). *The Guardian*.
 * 2016 March 30. [What it takes to work at Google DeepMind — a London startup no one has ever left](http://www.businessinsider.com/heres-what-it-takes-to-work-at-google-deepmind-an-ai-lab-that-no-one-has-ever-left-2016-3). *Business Insider UK*.
 * 2016 February 16. [The superhero of artificial intelligence: can this genius keep it in check?](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago). *The Guardian*.
-* 2015 June 22. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*.
+* 2015 June 22, David Rowan. [DeepMind: inside Google's super-brain](http://www.wired.co.uk/article/deepmind). *Wired UK*.
 * 2014 January 27. [Google buys UK artificial intelligence startup Deepmind for £400m](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind). *The Guardian*.
 * 2014 January 26. [Google Acquires Artificial Intelligence Startup DeepMind For More Than $500M](https://techcrunch.com/2014/01/26/google-deepmind/). *TechCrunch*.
 * 2014 January 26. [Exclusive: Google to Buy Artificial Intelligence Startup DeepMind for $400M](https://www.recode.net/2014/1/26/11622732/exclusive-google-to-buy-artificial-intelligence-startup-deepmind-for). *Recode*.

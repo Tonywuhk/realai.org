@@ -21,6 +21,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 * [Further Reading](#further-reading)
 * Topics
   * [Dynamic Batching](#dynamic-batching)
+  * [Imperative Mode](#imperative-mode)
 * [Resources](#resources)
 
 ## Main Sequence
@@ -33,7 +34,7 @@ Within the scope of this sequence, we can think of TensorFlow as an extension to
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
-The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and mobile. It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
+The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and [mobile](https://www.tensorflow.org/mobile/). It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
 
 Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/environments/#starcraft-ii) on a remote desktop:
 
@@ -45,7 +46,7 @@ Experiments in this section are conducted on an [n1-standard-1](https://cloud.go
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
-sudo pip3 install jupyter matplotlib tensorflow
+sudo pip install jupyter matplotlib tensorflow
 echo >> .bashrc
 echo "# Start Jupyter Notebook" >> .bashrc
 echo "jupyter notebook --ip=0.0.0.0 &" >> .bashrc
@@ -112,6 +113,10 @@ A recurrent neural network (RNN) is a class of neural networks that have been wi
 
 TensorFlow is designed to run static computation graphs in which the data flow for each input is the same. Multiple inputs can then be easily batched together to take advantage of modern parallel computing hardware. This is not enough for some research cases where each distinct input may have a different computation graph. To address this challenge, Google [released](https://research.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html) in February 2017 [TensorFlow Fold](https://github.com/tensorflow/fold/), a new library built on top of TensorFlow. It builds a separate computation graph from each input, then automatically combines these graph for batching, both within and across inputs. This is well suited for [implementing](https://github.com/tensorflow/fold/blob/master/tensorflow_fold/g3doc/sentiment.ipynb) a Tree-LSTM ([Tai et al., 2015](https://arxiv.org/abs/1503.00075)) model, where a batch of inputs ([s-expressions](https://en.wikipedia.org/wiki/S-expression) encoded as strings) are transformed into multiple input graphs, which are treated by the dynamic batching algorithm ([Looks et al., 2017](https://arxiv.org/abs/1702.02181)) as a single disconnected graph for automatic batching. The requirement of a fixed computation graph as input limits the applicability of TensorFlow Fold. For example, in the SPINN architecture ([Bowman & Gauthier et al., 2016](https://arxiv.org/abs/1603.06021)), the computation graphs depend on the values of the input, and are not fixed at the time input examples are loaded. It is relatively straightforward to [implement](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/) ([GitHub](https://github.com/jekbradbury/examples/tree/spinn/snli)) batching (and unbatching) in this case with PyTorch, which natively supports dynamic computation graph. As of August 2017, dynamic graph support is an [open issue](https://github.com/tensorflow/tensorflow/issues/12321) in TensorFlow.
 
+### Imperative Mode
+
+TensorFlow's programming paradigm is [declarative](https://en.wikipedia.org/wiki/Declarative_programming): a dataflow graph is first defined, then sent to a session to run. Long-time Python users can experience difficulties adapting to TensorFlow if they're used to Python's [imperative](https://en.wikipedia.org/wiki/Imperative_programming) style. [TensorFlow Eager](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/python/eager) is under active development as of September 2017, and could be a new imperative mode in TensorFlow, according to an [answer](https://stackoverflow.com/questions/45967895/what-is-tensorflow-eager-code-for) on Stack Overflow.
+
 #### References
 
 * 2017 February 22, Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, and Peter Norvig. [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/abs/1702.02181). *arXiv:1702.02181*.
@@ -121,6 +126,6 @@ TensorFlow is designed to run static computation graphs in which the data flow f
 ## Resources
 
 * Links: [Python API Documentation](https://www.tensorflow.org/api_docs/python/) \| [Releases](https://github.com/tensorflow/tensorflow/tags) ([latest](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)) \| [Official Twitter](https://twitter.com/tensorflow)
-* Higher-Level Libraries: [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [seq2seq](https://github.com/google/seq2seq) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
+* Higher-Level Libraries: [TensorFlow Agents](https://github.com/tensorflow/agents) \| [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [seq2seq](https://github.com/google/seq2seq) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
 * Related GitHub Repositories: [TensorBoard](https://github.com/tensorflow/tensorboard) \| [magenta](https://github.com/tensorflow/magenta) \| [Deepmath](https://github.com/tensorflow/deepmath)
 
