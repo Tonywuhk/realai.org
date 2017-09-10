@@ -5,7 +5,7 @@ title: Course | Deep Learning
 ---
 # Deep Learning
 
-Deep learning is machine learning with large-scale "deep" computing architectures, such as [convolutional neural networks](http://realai.org/course/convolutional-neural-network/) (CNNs) and recurrent neural networks (RNNs). It is a key enabler of the rapid [progress](http://realai.org/progress/) in AI since 2013, and is surprisingly easy when learned properly. [Howard (2017)](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/) stated that only "high school math, one year of coding experience, and seven weeks of study" were required to "become a world-class deep learning practitioner," and even that would be too slow as students started to use more productive [deep learning libraries](http://realai.org/course/deep-learning-libraries.md) such as [PyTorch](http://pytorch.org/).
+Deep learning is machine learning with large-scale "deep" computing architectures, such as [convolutional neural networks](http://realai.org/course/convolutional-neural-network/) (CNNs) and recurrent neural networks (RNNs). It is a key enabler of the rapid [progress](http://realai.org/progress/) in AI since 2013, and is surprisingly easy when learned properly. [Howard (2017)](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/) stated that only "high school math, one year of coding experience, and seven weeks of study" were required to "become a world-class deep learning practitioner," and even that would be too slow as students started to use more productive [deep learning libraries](http://realai.org/course/deep-learning-libraries/) such as [PyTorch](http://pytorch.org/).
 
 ## Further Reading
 

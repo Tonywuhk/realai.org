@@ -46,3 +46,7 @@ Details are specified in a [Python script](https://github.com/real-ai/realai.org
 
 A string that must be typed exactly such as a URL should be quoted as inline code, which has backticks around it in Markdown.
 
+#### Capitalization
+
+We use the default rules at [Capitalize My Title](https://capitalizemytitle.com/) for title and headings.
+
