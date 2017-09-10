@@ -58,7 +58,7 @@ We can [run a short TensorFlow program](https://www.tensorflow.org/install/insta
 
 ![](http://realai.org/course/tensorflow/jupyter-gce-4.png)
 
-The first line [imports](https://docs.python.org/3.5/reference/import.html) TensorFlow as a Python [module](https://docs.python.org/3.5/tutorial/modules.html). The second line creates a constant tensor, which forms a simple computation graph with just one node. TensorFlow programs usually involve two phases: the construction phase of building a computation graph, and the execution phase of running that graph in a session. The latter phase starts with the third line that initiates a session. In the final line, the session runs the constant to obtain its value.
+The first line [imports](https://docs.python.org/3.5/reference/import.html) TensorFlow as a Python [module](https://docs.python.org/3.5/tutorial/modules.html). The second line creates a constant tensor, which forms a simple computation graph with just one node. The third line initiates a session. In the final line, the session runs the constant to obtain its value.
 
 ## (Optional) Installing Matplotlib
 

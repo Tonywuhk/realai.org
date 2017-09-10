@@ -2,6 +2,7 @@
 permalink: /course/tensorflow/
 redirect_from: /course/TF/
 title: Course | TensorFlow
+mathjax: true
 ---
 # TensorFlow
 
@@ -13,7 +14,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 
 * Main Sequence
   * Session 1: [IT 101](#it-101)
-  * Session 2: [Setting Up Your Computer](#setting-up-your-computer)
+  * Session 2: [TensorFlow Basics](#tensorflow-basics)
   * Session 3: [Classifying Handwritten Digits](#classifying-handwritten-digits)
   * Session 4: [Deep Models](#deep-models)
   * Session 5: [GPU](#gpu)
@@ -30,7 +31,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 
 TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/#deep-learning-libraries). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
-Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#setting-up-your-computer), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](http://realai.org/course/ubuntu/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
+Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#tensorflow-basics), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](http://realai.org/course/ubuntu/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
@@ -40,7 +41,11 @@ Fortunately we don’t need to know all these details to use TensorFlow, or to e
 
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
 
-### Setting Up Your Computer
+### TensorFlow Basics
+
+TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
+
+#### Setting Up Your Computer
 
 Experiments in this section are conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
 
@@ -56,13 +61,62 @@ For a step-by-step guide, see
 
 * [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
 
-#### TensorFlow Basics
+#### Define and Run
 
-TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
+TensorFlow programs usually involve two phases: the construction phase of building a computation graph, and the execution phase of running that graph in a session. For example, to calculate the gradient of
+
+$$
+  y = \frac{1}{6}( x_{00}^2 + x_{01}^2 + … + x_{22}^2 )
+$$
+
+with respect to \\(x\\), in the TensorFlow program below, we first define the computation graph from \\(x\\) to \\(y)\\, then use [`tf.gradients`](https://www.tensorflow.org/api_docs/python/tf/gradients) to define the gradient step:
+
+```python
+import tensorflow as tf
+
+x = tf.Variable(tf.ones([2, 3], tf.float32))
+y = tf.reduce_mean(x ** 2)
+x_grad = tf.gradients(y, x)
+
+with tf.Session() as sess:
+  sess.run(x.initializer)
+  print(sess.run(x_grad))
+```
+
+The actual computations don’t happen until inside the [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) and correctly produce the same derivatives for all components of \\(x\\).
+
+```
+[array([[ 0.33333334,  0.33333334,  0.33333334],
+       [ 0.33333334,  0.33333334,  0.33333334]], dtype=float32)]
+```
+
+In a define-by-run framework like [PyTorch](http://pytorch.org/), there is no clear separation of building and computing a graph:
+
+```python
+import torch
+from torch.autograd import Variable
+
+x = Variable(torch.ones(2, 3), requires_grad=True)
+y = (x ** 2).mean()
+y.backward()
+
+print(x.grad)
+```
+
+The derivatives are printed right after all computation steps are fully specified:
+
+```
+Variable containing:
+ 0.3333  0.3333  0.3333
+ 0.3333  0.3333  0.3333
+[torch.FloatTensor of size 2x3]
+```
+
+#### Looking at Data 
 
 The [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/) is a popular data set for basic machine learning exercises. The virtual machine set up earlier is well-equipped to handle MNIST tasks. Below we will show in Jupyter how to pass the data to TensorBlow, and take a look at a few images using [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard), a suite of visualization tools designed to work with TensorFlow:
 
-* Jupyter Notebook: [TensorFlow Basics](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/TensorFlow-basics.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/TensorFlow-basics.ipynb); [source](http://realai.org/course/tensorflow/TensorFlow-basics.ipynb))
+* Jupyter Notebook: [MNIST Data](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/MNIST-data.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/MNIST-data.ipynb); [source](http://realai.org/course/tensorflow/MNIST-data.ipynb))
 
 ### Classifying Handwritten Digits
 
