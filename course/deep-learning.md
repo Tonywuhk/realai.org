@@ -5,6 +5,8 @@ title: Course | Deep Learning
 ---
 # Deep Learning
 
+Deep learning is machine learning with large-scale "deep" computing architectures, such as [convolutional neural networks](http://realai.org/course/convolutional-neural-network/) (CNNs) and recurrent neural networks (RNNs). It is a key enabler of the rapid [progress](http://realai.org/progress/) in AI since 2013, and is surprisingly easy when learned properly. [Howard (2017)](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/) stated that only "high school math, one year of coding experience, and seven weeks of study" were required to "become a world-class deep learning practitioner," and even that would be too slow as students started to use more productive [deep learning libraries](http://realai.org/course/deep-learning-libraries.md) such as [PyTorch](http://pytorch.org/).
+
 ## Further Reading
 
 * [fast.ai](http://www.fast.ai/) is dedicated to making the power of deep learning accessible to all. As of August 2017, it offers two 7-week courses: [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) and [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html). Part 1 covers basic CNN and RNN. Part 2 covers more advanced projects such as style transfer, GAN, attention, and memory.
@@ -21,4 +23,8 @@ title: Course | Deep Learning
 * 2016 December 31, *arXiv*. [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160). Ian Goodfellow.
 * 2016 June 19, *arXiv*. [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908). Carl Doersch.
 * 2016 June 16, *OpenAI*. [Blog: Generative Models](https://openai.com/blog/generative-models/). Andrej Karpathy, Pieter Abbeel, Greg Brockman, Peter Chen, Vicki Cheung, Rocky Duan, Ian Goodfellow, Durk Kingma, Jonathan Ho, Rein Houthooft, Tim Salimans, John Schulman, Ilya Sutskever, and Wojciech Zaremba.
+
+## References
+
+* 2017 September 8, Jeremy Howard ([twitter](https://twitter.com/jeremyphoward)). [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/). *fast.ai*.
 

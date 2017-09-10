@@ -37,7 +37,7 @@ mathjax: true
 4. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
     2. Programming in [Python 3](http://realai.org/course/python/) with [Jupyter Notebook](http://realai.org/course/jupyter/)
-    3. Deep Learning in [TensorFlow](http://realai.org/course/tensorflow/)
+    3. [Deep Learning](http://realai.org/course/deep-learning/) in [TensorFlow](http://realai.org/course/tensorflow/)
     4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
 5. [Machine Learning](http://realai.org/machine-learning/) (excluding RL)

@@ -37,7 +37,7 @@ Now the VM instance is running, and on the *VM instances* page it should be assi
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
-sudo pip3 install tensorflow jupyter
+sudo pip install tensorflow jupyter
 ```
 
 The first line downloads a pip installation script, passes it to [Python 3](http://realai.org/course/python/), which runs the script to install pip. In the second line, pip is [run with the superuser privileges](https://en.wikipedia.org/wiki/Sudo) to install TensorFlow and Jupyter Notebook.
@@ -65,7 +65,7 @@ The first line [imports](https://docs.python.org/3.5/reference/import.html) Tens
 [Matplotlib](https://matplotlib.org/) is a Python 2D plotting library that can be used in the Jupyter Notebook. To install:
 
 ```bash
-sudo pip3 install matplotlib
+sudo pip install matplotlib
 ```
 
 This package is used in the Reading MNIST Data ([nbviewer](http://nbviewer.jupyter.org/url/realai.org/course/lab/reading-MNIST-data.ipynb), [GitHub](https://github.com/real-ai/realai.org/blob/master/course/lab/reading-MNIST-data.ipynb), [download](http://realai.org/course/lab/reading-MNIST-data.ipynb)) session of [Jupyter Notebook](http://realai.org/course/jupyter/) to plot the image of a handwritten digit.

@@ -29,7 +29,7 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 
 ### IT 101
 
-TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/libraries/#deep-learning-libraries). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
+TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/deep-learning-libraries/). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
 Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In the [next session](#tensorflow-basics), we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](http://realai.org/course/ubuntu/), install TensorFlow, and use [Jupyter Notebook](http://realai.org/course/jupyter/) for hands-on experiments. These concepts are illustrated in the diagram below:
 
@@ -69,7 +69,7 @@ $$
   y = \frac{1}{6}( x_{00}^2 + x_{01}^2 + … + x_{22}^2 )
 $$
 
-with respect to \\(x\\), in the TensorFlow program below, we first define the computation graph from \\(x\\) to \\(y)\\, then use [`tf.gradients`](https://www.tensorflow.org/api_docs/python/tf/gradients) to define the gradient step:
+with respect to \\(x\\), in the TensorFlow program below, we first define the computation graph from \\(x\\) to \\(y\\), then use [`tf.gradients`](https://www.tensorflow.org/api_docs/python/tf/gradients) to define the gradient step:
 
 ```python
 import tensorflow as tf
@@ -90,7 +90,7 @@ The actual computations don’t happen until inside the [`tf.Session`](https://w
        [ 0.33333334,  0.33333334,  0.33333334]], dtype=float32)]
 ```
 
-In a define-by-run framework like [PyTorch](http://pytorch.org/), there is no clear separation of building and computing a graph:
+In a *define-by-run* framework like [PyTorch](http://pytorch.org/), there is no clear separation of building and computing a graph:
 
 ```python
 import torch
