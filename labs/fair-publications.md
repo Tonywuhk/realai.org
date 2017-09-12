@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with Facebook AI Rese
 
 ## 2017
 
+* 2017 September 8, Alexander Peysakhovich and Adam Lerer. [Prosocial learning agents solve generalized Stag Hunts better than selfish ones](https://arxiv.org/abs/1709.02865). *arXiv:1709.02865*.
 * 2017 September 2, Marek Rei, Luana Bulat, Douwe Kiela, and Ekaterina Shutova. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575). *arXiv:1709.00575*.
 * 2017 September 1, Cinna Wu, Mark Tygert, and Yann LeCun. [Hierarchical loss for classification](https://arxiv.org/abs/1709.01062). *arXiv:1709.01062*.
 * 2017 September 1, Naama Hadad, Lior Wolf, and Moni Shahar. [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199). *arXiv:1709.00199*.

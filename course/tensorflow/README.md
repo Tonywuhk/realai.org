@@ -43,7 +43,7 @@ Fortunately we don’t need to know all these details to use TensorFlow, or to e
 
 ### TensorFlow Basics
 
-TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [tf.contrib](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
+TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [`tf.contrib`](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
 
 #### Setting Up Your Computer
 
