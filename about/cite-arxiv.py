@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 # Standard library imports, sorted alphabetically
 import datetime

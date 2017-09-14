@@ -10,6 +10,8 @@ title: Course | Git
 
 [GitHub](https://github.com/) is a popular code repository hosting site that uses Git. [GitHub Pages](https://pages.github.com/) allow websites to be hosted directly from a user's repository. A GitHub Pages site can be [created with the Jekyll Theme Chooser](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/).
 
+A GitHub Pages site can be [set up locally on a Linux machine](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#platform-linux) with Jekyll and Bundler, even if the Linux machine is a [subsystem](http://realai.org/course/windows/#windows-subsystem-for-linux) on *Windows*!
+
 ## Links
 
 * Documentation: [Reference](https://git-scm.com/docs).

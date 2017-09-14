@@ -51,7 +51,7 @@ Experiments in this section are conducted on an [n1-standard-1](https://cloud.go
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
-sudo pip install jupyter matplotlib tensorflow
+sudo pip install tensorflow jupyter matplotlib
 echo >> .bashrc
 echo "# Start Jupyter Notebook" >> .bashrc
 echo "jupyter notebook --ip=0.0.0.0 &" >> .bashrc
@@ -60,6 +60,12 @@ echo "jupyter notebook --ip=0.0.0.0 &" >> .bashrc
 For a step-by-step guide, see
 
 * [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
+
+A known issue is that sometimes `tensorboard` reports an error message of `No module named 'html5lib.filters.base'`. It can be fixed by issuing an extra [`pip`](http://realai.org/course/pip/) command to reinstall `html5lib`:
+
+```bash
+sudo pip install html5lib==0.99999999
+```
 
 #### Define and Run
 
@@ -119,6 +125,15 @@ The [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/) is
 * Jupyter Notebook: [MNIST Data](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/MNIST-data.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/MNIST-data.ipynb); [source](http://realai.org/course/tensorflow/MNIST-data.ipynb))
 
 ### Classifying Handwritten Digits
+
+To quickly build the working environment at the end of last session, first create an n1-standard-1 VM with tcp access to ports 6006 and 8888, then run the 5-line bash script at the beginning of [Setting Up Your Computer](#setting-up-your-computer), followed by
+
+```bash
+source .bashrc
+wget http://realai.org/course/tensorflow/MNIST-data.ipynb
+```
+
+The notebook from last session should appear on a Jupyter Notebook that is accessible online.
 
 In this session, we will build a [softmax regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) model in TensorFlow to classify handwritten digits:
 
