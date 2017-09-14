@@ -36,3 +36,8 @@ Real AI is currently supported by donations. Our bank account number is 390-6931
 
 Real AI uses [Wave](https://www.waveapps.com/) for bookkeeping. We're currently looking for an accounting firm for annual audits. Please contact [Jonathan Yan](mailto:jyan@realai.org) for further details.
 
+#### Wave References
+
+* [How to create a bill](https://support.waveapps.com/hc/en-us/articles/208622026)
+* [How do I handle depreciation and amortization?](https://support.waveapps.com/hc/en-us/articles/208623506)
+
