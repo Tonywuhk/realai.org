@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 
 ## 2017
 
+* 2017 September 14, Chelsea Finn, Tianhe Yu, Tianhao Zhang, Pieter Abbeel, and Sergey Levine. [One-Shot Visual Imitation Learning via Meta-Learning](https://arxiv.org/abs/1709.04905). *arXiv:1709.04905*.
+* 2017 September 13, Jakob N. Foerster, Richard Y. Chen, Maruan Al-Shedivat, Shimon Whiteson, Pieter Abbeel, and Igor Mordatch. [Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326). *arXiv:1709.04326*. [blog](https://blog.openai.com/learning-to-model-other-minds/).
 * 2017 August 28, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347). *arXiv:1707.06347*.
 * 2017 August 25, Coline Devin, Pieter Abbeel, Trevor Darrell, and Sergey Levine. [Deep Object-Centric Representations for Generalizable Robot Learning](https://arxiv.org/abs/1708.04225). *arXiv:1708.04225*.
 * 2017 August 4, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.

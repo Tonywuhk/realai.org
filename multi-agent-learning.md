@@ -3,6 +3,8 @@ permalink: /multi-agent-learning/
 ---
 # Multi-Agent Learning
 
+Humans are great at reasoning about the future behavior of other humans. To reach a high-level intelligence, a [DRL](http://realai.org/deep-reinforcement-learning/) agent very likely needs to have a sense of a "theory of mind" about humans. Such a theory will be so complex that it is impractical to be explicitly coded by hand, or modelled by a simple mathematical formula like a few terms of second order derivatives. Instead, it should be learned, likely in a multi-agent environment. It's not yet clear what architectural choices can induce the effective learning of other agents' very complex behavior. Ideally, such an architecture doesn't make too much *specific* assumptions on details, and can accommodate arbitrary complexity that occurs in the real-world environment, whether it's about another learning agent or a simpler entity, say a tree.
+
 [Le et al. (2017)](https://arxiv.org/abs/1703.03121) applied an [imitation learning](http://realai.org/imitation-learning/) approach to jointly learn a latent coordination model of multiple agents along with their individual policies.
 
 ## Communication
