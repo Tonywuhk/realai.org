@@ -1,9 +1,9 @@
 ---
-permalink: /labs/google-brain/publications/
+permalink: /research-groups/publications/google-brain/
 ---
 # Google Brain Publications
 
-A list of papers where at least one coauthor is affiliated with Google Brain, in reverse chronological order:
+A list of papers where at least one coauthor is affiliated with [Google Brain](http://realai.org/research-groups/google-brain/), in reverse chronological order:
 
 ## 2017
 

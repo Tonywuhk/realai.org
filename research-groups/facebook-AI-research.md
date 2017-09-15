@@ -1,6 +1,6 @@
 ---
-permalink: /labs/fair/
-title: Labs/Facebook AI Research
+permalink: /research-groups/facebook-AI-research/
+redirect_from: /research-groups/FAIR/
 ---
 
 # Facebook AI Research

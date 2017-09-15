@@ -1,10 +1,10 @@
 ---
-permalink: /labs/openai/publications/
+permalink: /research-groups/publications/openai/
 mathjax: true
 ---
 # OpenAI Publications
 
-A list of papers where at least one coauthor is affiliated with [OpenAI](http://realai.org/labs/openai/), in reverse chronological order:
+A list of papers where at least one coauthor is affiliated with [OpenAI](http://realai.org/research-groups/openai/), in reverse chronological order:
 
 ## 2017
 

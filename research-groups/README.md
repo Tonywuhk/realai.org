@@ -1,5 +1,6 @@
 ---
-permalink: /labs/
+permalink: /research-groups/
+redirect_from: /labs/
 ---
 # Research Groups
 
@@ -7,14 +8,14 @@ Below is an incomplete list of research groups around the world that potentially
 
 ## Industry
 
-* [DeepMind](http://realai.org/labs/deepmind/) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/labs/deepmind/publications/)
+* [DeepMind](http://realai.org/research-groups/deepmind/) (Demis Hassabis, Shane Legg): [About](https://deepmind.com/about/), [Homepage](https://deepmind.com/), [Publications](http://realai.org/research-groups/publications/deepmind/)
   * People: Alex Graves, Koray Kavukcuoglu, Volodymyr Mnih, Danilo Rezende, David Silver, Greg Wayne, Daan Wierstra, Raia Hadsell, Nando de Freitas, Phil Blunsom, Timothy Lillicrap, Oriol Vinyals, Simon Osindero, Matthew Botvinick, Yee Whye Teh, Chris Dyer, Murray Shanahan
   * DeepMind Alberta ([Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/))
-* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/labs/google-brain/publications/)
+* [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/research-groups/publications/google-brain/)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), [Quoc V. Le](https://research.google.com/pubs/QuocLe.html), [Ian Goodfellow](https://research.google.com/pubs/105214.html)
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
   * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
-* [Facebook AI Research](http://realai.org/labs/fair/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/labs/fair/publications/)
+* [Facebook AI Research](http://realai.org/research-groups/facebook-AI-research/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/research-groups/publications/facebook-AI-research/)
   * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
 * [Microsoft Maluuba](http://www.maluuba.com/): [Publications](http://www.maluuba.com/publications)
 * [Uber AI Labs](https://www.uber.com/info/ailabs/) ([Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/))
@@ -33,8 +34,8 @@ Below is an incomplete list of research groups around the world that potentially
 
 ## Nonprofits
 
-* [OpenAI](http://realai.org/labs/openai/) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Homepage](https://openai.com/), [Publications](http://realai.org/labs/openai/publications/)
-* [Vector Institute for Artificial Intelligence](http://realai.org/labs/vector-institute/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
+* [OpenAI](http://realai.org/research-groups/openai/) (Ilya Sutskever, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)): [Forum](https://discuss.openai.com/), [Homepage](https://openai.com/), [Publications](http://realai.org/research-groups/publications/openai/)
+* [Vector Institute for Artificial Intelligence](http://realai.org/research-groups/vector-institute/) ([Geoffrey Hinton](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Hinton_Bio.pdf), [Richard Zemel](https://s3.ca-central-1.amazonaws.com/vectorinstitute.ai/resources/Zemel_Bio.pdf))
 * [IDSIA](http://www.idsia.ch/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Allen Institute for Artificial Intelligence](http://allenai.org/)
 

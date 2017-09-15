@@ -1,6 +1,5 @@
 ---
-permalink: /labs/google-brain/
-title: Labs/Google Brain
+permalink: /research-groups/google-brain/
 ---
 
 # Google Brain
@@ -23,8 +22,10 @@ In an August 2017 [lecture](https://blog.ycombinator.com/jeff-deans-lecture-for-
 
 ## Sources
 
+* 2017 September 9, Google Brain Team. AMA: [We are the Google Brain team. Wed love to answer your questions (again)](https://www.reddit.com/r/MachineLearning/comments/6z51xb/we_are_the_google_brain_team_wed_love_to_answer/). *Reddit*, [r/MachineLearning/](https://www.reddit.com/r/MachineLearning/).
 * 2017 August 7. [Jeff Dean’s Lecture for YC AI](https://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/). *Y Combinator*.
 * 2017 January 5. [Google Brain Residency Program - 7 months in and looking ahead](https://research.googleblog.com/2017/01/google-brain-residency-program-7-months_5.html). *Google Research Blog*.
+* 2016 August 4, Google Brain Team. [AMA: We are the Google Brain team. We'd love to answer your questions about machine learning.](https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/) *Reddit*, [r/MachineLearning/](https://www.reddit.com/r/MachineLearning/).
 * 2013 March 12. [Google acquires voice and image research firm DNNresearch](https://venturebeat.com/2013/03/12/google-dnnresearch/). *VentureBeat*.
 * 2013 March 12. [Google Scoops Up Neural Networks Startup DNNresearch To Boost Its Voice And Image Search Tech](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/). *TechCrunch*.
 

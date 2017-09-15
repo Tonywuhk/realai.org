@@ -5,7 +5,7 @@ permalink: /roadmaps/
 
 ## Outstanding Challenges
 
-During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, Demis Hassabis from [DeepMind](http://realai.org/labs/deepmind/) gave a talk on the morning of January 7 titled "Exploration into Optimality". At the [beginning of the talk](https://youtu.be/otJKzpNWZT4?t=28s), the problem of solving intelligence was cast in the framework of reinforcement learning. Near the [end of the talk](https://youtu.be/otJKzpNWZT4?t=20m32s), the following area were listed as key problems to be solved to get close to AGI:
+During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, Demis Hassabis from [DeepMind](http://realai.org/research-groups/deepmind/) gave a talk on the morning of January 7 titled "Exploration into Optimality". At the [beginning of the talk](https://youtu.be/otJKzpNWZT4?t=28s), the problem of solving intelligence was cast in the framework of reinforcement learning. Near the [end of the talk](https://youtu.be/otJKzpNWZT4?t=20m32s), the following area were listed as key problems to be solved to get close to AGI:
 
 * Imagination-based Planning with Generative Models
 * Hierarchical Planning

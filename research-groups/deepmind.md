@@ -1,6 +1,5 @@
 ---
-permalink: /labs/deepmind/
-title: Labs/DeepMind
+permalink: /research-groups/deepmind/
 ---
 # DeepMind
 
@@ -12,7 +11,7 @@ On 23 October 2014, Google [announced on its Europe blog](https://europe.googleb
 
 DeepMind's [official records](https://beta.companieshouse.gov.uk/company/07386350) are available from [Companies House](https://www.gov.uk/government/organisations/companies-house).
 
-DeepMind has two main lines of business: Research and Applied. Its organized efforts in research has yielded a long list of [publications](http://realai.org/labs/deepmind/publications/).
+DeepMind has two main lines of business: Research and Applied. Its organized efforts in research has yielded a long list of [publications](http://realai.org/research-groups/publications/deepmind/).
 
 ## Ethics
 

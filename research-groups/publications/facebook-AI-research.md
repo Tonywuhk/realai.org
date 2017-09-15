@@ -1,9 +1,9 @@
 ---
-permalink: /labs/fair/publications/
+permalink: /research-groups/publications/facebook-AI-research/
 ---
 # Facebook AI Research Publications
 
-A list of papers where at least one coauthor is affiliated with Facebook AI Research, in reverse chronological order:
+A list of papers where at least one coauthor is affiliated with [Facebook AI Research](http://realai.org/research-groups/facebook-AI-research/), in reverse chronological order:
 
 ## 2017
 

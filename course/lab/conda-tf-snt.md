@@ -56,7 +56,7 @@ To test our installation, enter `python -c "import sonnet as snt; import tensorf
 
 ## (Optional) Running Differentiable Neural Computer
 
-These packages are enough to begin running [DeepMind](http://realai.org/labs/deepmind/)’s [implementation](https://github.com/deepmind/dnc) of the [Differentiable Neural Computer](https://deepmind.com/research/dnc/), a memory-augmented neural network [published in Nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz) in October 2016. Within conda’s `sonnet` environment:
+These packages are enough to begin running [DeepMind](http://realai.org/research-groups/deepmind/)’s [implementation](https://github.com/deepmind/dnc) of the [Differentiable Neural Computer](https://deepmind.com/research/dnc/), a memory-augmented neural network [published in Nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz) in October 2016. Within conda’s `sonnet` environment:
 
 ```bash
 git clone https://github.com/deepmind/dnc.git

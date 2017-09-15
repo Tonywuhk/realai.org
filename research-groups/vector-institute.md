@@ -1,6 +1,5 @@
 ---
-permalink: /labs/vector-institute/
-title: Labs/Vector Institute
+permalink: /research-groups/vector-institute/
 ---
 # Vector Institute
 

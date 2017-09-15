@@ -1,8 +1,6 @@
 ---
-permalink: /labs/openai/
-title: Labs/OpenAI
+permalink: /research-groups/openai/
 ---
-
 # OpenAI
 
 OpenAI is a non-profit AI research company founded on [December 11, 2015](https://blog.openai.com/introducing-openai/) for which prominent tech executives have [pledged $1bn](http://www.bbc.com/news/technology-35082344).

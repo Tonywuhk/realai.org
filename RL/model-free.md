@@ -109,7 +109,7 @@ augmented by the gradient of an entropy regularization term with respect to the 
 
 [Schulman et al. (2017)](https://arxiv.org/abs/1704.06440) showed that entropy-regularized Q-learning is exactly equivalent to a policy gradient method.
 
-[Proximal Policy Optimization](https://blog.openai.com/openai-baselines-ppo/) (PPO) is a class of reinforcement learning algorithms released by [OpenAI](http://realai.org/labs/openai/) on July 20, 2017, and has become the default reinforcement learning algorithm there.
+[Proximal Policy Optimization](https://blog.openai.com/openai-baselines-ppo/) (PPO) is a class of reinforcement learning algorithms released by [OpenAI](http://realai.org/research-groups/openai/) on July 20, 2017, and has become the default reinforcement learning algorithm there.
 
 ## Episodic Control
 

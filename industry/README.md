@@ -3,7 +3,7 @@ permalink: /industry/
 ---
 # Industry
 
-Large technology companies have poured enormous resources into AI, and are sponsors of some world-leading [research groups](http://realai.org/labs/).
+Large technology companies have poured enormous resources into AI, and are sponsors of some world-leading [research groups](http://realai.org/research-groups/).
 
 * [Alphabet Inc.](http://realai.org/industry/alphabet/)
 * [Facebook, Inc.](http://realai.org/industry/facebook/)
