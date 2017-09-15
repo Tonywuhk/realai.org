@@ -7,7 +7,9 @@ mathjax: true
 
 [Deep reinforcement learning](http://realai.org/deep-reinforcement-learning/) (DRL) agents learn from interactions with the environments. Since 2013, DRL environments have become increasingly more flexible and sophisticated.
 
-[OpenAI Gym](https://gym.openai.com/) supports teaching agents everything from walking to playing games like Pong or Go. OpenAI's [Universe](https://universe.openai.com/) is a software platform for measuring and training AI acrosss many games, websites and other applications. As of June 2017, there is an attempt to [remake Universe](https://blog.aqnichol.com/2017/06/11/why-im-remaking-openai-universe/) that avoids Flash and VNC. A bunch of HTML5 games are wrapped in a single API in project [μniverse](https://github.com/unixpickle/muniverse).
+[OpenAI Gym](https://github.com/openai/gym) is a toolkit for developing and comparing RL algorithms. It supports teaching agents everything from walking to playing games like Pong or Go. Following [the closure of OpenAI Gym's website](https://www.reddit.com/r/MachineLearning/comments/6zvlm2/d_openai_closing_down_gym_toolkit_website/) in September 2017, [Montréal.AI](http://www.montreal.ai/) offered in a [tweet](https://twitter.com/Montreal_AI/status/908108070026399745) to maintain the website and create an enhanced version of OpenAI Gym.
+
+OpenAI's [Universe](https://universe.openai.com/) is a software platform for measuring and training AI across many games, websites and other applications. As of June 2017, there is an attempt to [remake Universe](https://blog.aqnichol.com/2017/06/11/why-im-remaking-openai-universe/) that avoids Flash and VNC. A bunch of HTML5 games are wrapped in a single API in project [μniverse](https://github.com/unixpickle/muniverse).
 
 * 2016 December 5. [Universe](https://blog.openai.com/universe/). *OpenAI*.
 * 2016 April 27. [OpenAI Gym Beta](https://blog.openai.com/openai-gym-beta/). *OpenAI*.

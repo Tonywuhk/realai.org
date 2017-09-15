@@ -1,5 +1,6 @@
 ---
-permalink: /about/style/
+permalink: /about/style-guide/
+redirect_from: /about/style/
 ---
 # Style Guide
 

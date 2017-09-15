@@ -25,6 +25,7 @@ Below is an incomplete list of research groups around the world that potentially
 * [Tencent AI Lab](http://ai.tencent.com/ailab/):
   * Seattle (俞栋)
 * [Twitter Cortex](https://cortex.twitter.com/)
+* 今日头条 ([Hang Li](http://www.hangli-hl.com/index.html); [moving](http://m.21jingji.com/article/20170915/herald/2956233aa62fd47d52f9bf0908fb4f32.html))
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Citadel](https://www.citadel.com/) ([邓力](https://www.microsoft.com/en-us/research/people/deng/))
 * [Element AI](https://www.elementai.com/research)

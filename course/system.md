@@ -7,8 +7,10 @@ The goal of this section is to set up productive environments for deep learning 
 
 ## Basic IT 
 
-* Cloud Computing: [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)
-* Operating System: [Ubuntu](http://realai.org/course/ubuntu/) is a popular operating system that we will use during this course
+* Cloud Computing:
+  * Google products: [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) \| [G Suite](http://realai.org/course/g-suite/)
+* Operating System: [Ubuntu](http://realai.org/course/ubuntu/) and [Windows](http://realai.org/course/windows/) are popular operating systems that we will use during this course
+* Information [security](http://realai.org/course/security/) contains effective practices to prevent data loss
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 
 * Version control system: [Git](http://realai.org/course/git/)
