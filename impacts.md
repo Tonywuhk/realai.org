@@ -31,7 +31,7 @@ Influential technology leaders have warned that progress in AI may lead to World
 
 ## Academic Research
 
-The empirical success of deep learning changed the thinking in many related disciplines such as [image processing](https://sinews.siam.org/Details-Page/deep-deep-trouble) where researchers had mixed feelings of disgust and envy towards the trend. They pondered whether they should insist on their old, more rigorous ways of research or pivot to deep learning that lacked mathematical elegance and offered very little interprepretability of the solutions or understanding of the underlying data.
+The empirical success of deep learning changed the thinking in many related disciplines such as [image processing](https://sinews.siam.org/Details-Page/deep-deep-trouble) where researchers had mixed feelings of disgust and envy towards the trend. They pondered whether they should insist on their old, more rigorous ways of research or pivot to deep learning that lacked mathematical elegance and offered very little interpretability of the solutions or understanding of the underlying data.
 
 ## Dangers
 
@@ -49,6 +49,10 @@ In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wir
 ### Social Bots
 
 [Adam (2017)](https://arxiv.org/abs/1706.05143) warns that recent advances in machine learning has made it "possible to unleash incredibly powerful, human-like armies of social bots, in potentially well coordinated campaigns of deception and influence."
+
+### Information Security
+
+* 2017 September 15. [Artificial intelligence just made guessing your password a whole lot easier](http://www.sciencemag.org/news/2017/09/artificial-intelligence-just-made-guessing-your-password-whole-lot-easier). *Science*. [arXiv](https://arxiv.org/abs/1709.00440).
 
 ## Links
 
