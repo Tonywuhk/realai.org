@@ -1,6 +1,9 @@
 ---
-permalink: /course/convolutional-neural-network/
-redirect_from: /course/CNN/
+permalink: /course/deep-learning/convolutional-neural-network/
+redirect_from:
+  - /course/DL/CNN/
+  - /course/DL/convolutional-neural-network/
+  - /course/deep-learning/CNN/
 ---
 # Convolutional Neural Network
 

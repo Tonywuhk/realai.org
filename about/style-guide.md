@@ -8,11 +8,13 @@ This page describes the conventions used on [realai.org](http://realai.org/) sit
 
 ## Site Structure
 
-### URL Path
-
 There are three navigation links on top of all HTML pages of this site: Home, Sources and About. Main contents are accessed from [Home](http://realai.org/). The [Sources](http://realai.org/sources/) page is a collection of relevant links and can be used as a portal. Company and site-specific pages are under [About](http://realai.org/about/) and their URLs start with `.../about/`.
 
-In general, a page's URL path is consistent with its logical place on this site. The final segment of a page's URL path is the same as its title, where spaces are replaced by `-`, letters are lower-case except acronyms such as AI, RNN, etc. For convenience, some pages allow [redirects](https://help.github.com/articles/redirects-on-github-pages/), where the final segment of a page's URL is replaced by a commonly accepted acronym or a shorter description of its title.
+### URL Path
+
+In general, a page's URL path is consistent with its logical place on this site. The final segment of a page's URL path is the same as its title, where spaces are replaced by `-`, letters are lower-case except acronyms such as AI, RNN, etc. An **exception** is that when different pages would share the same title based on their URL paths, the titles would then be customized to reflect their differences.
+
+For convenience, some pages allow [redirects](https://help.github.com/articles/redirects-on-github-pages/), where one or more segments of a page's URL are replaced by a commonly accepted acronym or a shorter description of its title.
 
 ### Logical Path
 
