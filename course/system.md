@@ -13,7 +13,7 @@ The goal of this section is to set up productive environments for deep learning 
 * Information [security](http://realai.org/course/security/) contains effective practices to prevent data loss
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 
-* Version control system: [Git](http://realai.org/course/git/)
+* Version control system: [Git](http://realai.org/course/git/), [GitHub](http://realai.org/course/github/)
 * Python Packages: [conda](http://realai.org/course/conda/), [pip](http://realai.org/course/pip/)
 
 ## Installing Libraries from Source

@@ -28,7 +28,6 @@ Below is an incomplete list of research groups around the world that potentially
 * 今日头条 ([Hang Li](http://www.hangli-hl.com/index.html); [moving](http://m.21jingji.com/article/20170915/herald/2956233aa62fd47d52f9bf0908fb4f32.html))
 * [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Citadel](https://www.citadel.com/) ([邓力](https://www.microsoft.com/en-us/research/people/deng/))
-* [Element AI](https://www.elementai.com/research)
 * [GoodAI](https://www.goodai.com/)
 * [Numenta](http://numenta.com/)
 * [Cogitai](http://www.cogitai.com/)

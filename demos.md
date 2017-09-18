@@ -47,3 +47,8 @@ Interesting demos are often precursors to useful [applications](http://realai.or
 ## Robotics
 
 * 2017 May 16, OpenAI. [Robots that Learn](https://blog.openai.com/robots-that-learn/). [video](https://player.vimeo.com/video/217578517).
+
+## Accounting
+
+* 2017 September 15, Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. [Detection of Anomalies in Large Scale Accounting Data using Deep  Autoencoder Networks](https://arxiv.org/abs/1709.05254). *arXiv:1709.05254*.
+
