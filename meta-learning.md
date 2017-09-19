@@ -8,17 +8,17 @@ Meta-learning occurs at a higher level than standard learning and improves the l
 
 ## Related Topics
 
-* [Few-Shot Learning](http://realai.org/few-shot-learning/): The empasis is on learning to solve tasks using only a small number of samples.
+* [Few-Shot Learning](http://realai.org/few-shot-learning/): The emphasis is on learning to solve tasks using only a small number of samples.
 
 ## Overview
 
-[Mishra & Rohaninejad et al. (2017)](https://arxiv.org/abs/1707.03141) propse temporal-convolution-based meta-learner (TCML), a deep stack of dilated 1D-convolutions over the temporal dimension. It is simple and generic, has no particular strategy or algorithm encoded into it, and can be viewed as a flavor of RNN that can remember information through the activations of the network rather than through an explicit memory module.
+[Mishra & Rohaninejad et al. (2017)](https://arxiv.org/abs/1707.03141) propose temporal-convolution-based meta-learner (TCML), a deep stack of dilated 1D-convolutions over the temporal dimension. It is simple and generic, has no particular strategy or algorithm encoded into it, and can be viewed as a flavor of RNN that can remember information through the activations of the network rather than through an explicit memory module.
 
 Based on the standard learning task that is targeted at the lower level by the meta learner, research in this area can be further organized into the following lines:
 
 ## Reinforcement Learning
 
-An agent can be trained across many different tasks to meta-learn a reinforcment learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively structured ([Wang et al., 2016](https://arxiv.org/abs/1611.05763)) and unstructured ([Duan et al., 2016](https://arxiv.org/abs/1611.02779)) distributions of tasks.
+An agent can be trained across many different tasks to meta-learn a reinforcement learning procedure that rapidly and efficiently adapts to a new task. Works have been done focusing on relatively structured ([Wang et al., 2016](https://arxiv.org/abs/1611.05763)) and unstructured ([Duan et al., 2016](https://arxiv.org/abs/1611.02779)) distributions of tasks.
 
 ## Learning to Optimize 
 
@@ -29,6 +29,10 @@ A standard learning architecture can be made more flexible and efficient when it
 In a standard neural network learning setup, the update rules of the network's weights can also be learned using guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
 It is plausible that in some deep learning architectures, a network can dynamically change the topology of another network. We hope to cover this direction in the future.
+
+### Recent Review
+
+* 2017 September 12, Ke Li. [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/). *Berkeley Artificial Intelligence Research*.
 
 ## References
 

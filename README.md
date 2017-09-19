@@ -67,7 +67,7 @@ mathjax: true
         5. [Generative Models](http://realai.org/generative-models/)
         6. [Platforms](http://realai.org/learning-platforms/)
         7. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
-        8. [Deep Learning Implementations](http://realai.org/deep-learning-implementation/)
+        8. [Deep Learning Implementations](http://realai.org/deep-learning/implementation/)
     4. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)

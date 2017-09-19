@@ -14,7 +14,7 @@ Below is an incomplete list of research groups around the world that potentially
 * [Google Brain](https://research.google.com/teams/brain/) ([Jeffrey Dean](https://research.google.com/pubs/jeff.html)): [Publications](http://realai.org/research-groups/publications/google-brain/)
   * [People](https://research.google.com/people/BrainTeam.html): [Samy Bengio](https://research.google.com/pubs/bengio.html), [Quoc V. Le](https://research.google.com/pubs/QuocLe.html), [Ian Goodfellow](https://research.google.com/pubs/105214.html)
   * Google Brain Toronto ([Geoffrey E. Hinton](https://research.google.com/pubs/GeoffreyHinton.html))
-  * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html))
+  * Google Brain Montreal ([Hugo Larochelle](https://research.google.com/pubs/105144.html)): Marc G. Bellemare
 * [Facebook AI Research](http://realai.org/research-groups/facebook-AI-research/) ([Yann LeCun](http://yann.lecun.com/)): [Publications](http://realai.org/research-groups/publications/facebook-AI-research/)
   * [People](https://research.fb.com/people/?letter=&cat=13): [Rob Fergus](https://research.fb.com/people/fergus-rob/), [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), [Léon Bottou](https://research.fb.com/people/bottou-leon/), [Ronan Collobert](https://research.fb.com/people/collobert-ronan/), [Jason Weston](https://research.fb.com/people/weston-jason/)
 * [Microsoft Maluuba](http://www.maluuba.com/): [Publications](http://www.maluuba.com/publications)

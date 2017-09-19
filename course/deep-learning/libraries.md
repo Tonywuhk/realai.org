@@ -1,13 +1,16 @@
 ---
 permalink: /course/deep-learning/libraries/
 redirect_from: /course/DL/libraries/
-title: Deep Learning Libraries
+title: DL Libraries
 ---
 # Deep Learning Libraries
 
 [TensorFlow](https://www.tensorflow.org/) ([Abadi et al., 2016](https://arxiv.org/abs/1605.08695)) is an open-source software library for machine intelligence. It supports higher-level libraries such as [Keras](https://keras.io/) ([Chollet, 2015](https://github.com/fchollet/keras)) and [Sonnet](https://github.com/deepmind/sonnet) ([blog](https://deepmind.com/blog/open-sourcing-sonnet/)).
 
-[PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) is a curated list of tutorials, projects, libraries, videos, papers, books and anything related. [AllenNLP](http://allennlp.org/) is an open-source NLP research library built on PyTorch, by the [Allen Institute for Artificial Intelligence](http://allenai.org/) in close collaboration with other researchers.
+[PyTorch](http://pytorch.org/) is a deep learning framework that puts Python first. [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) is a curated list of tutorials, projects, libraries, videos, papers, books and anything related. As of September 2017, Windows support for PyTorch is still an [outstanding issue](https://github.com/pytorch/pytorch/issues/494). Libaries built on PyTorch include:
+
+* [AllenNLP](http://allennlp.org/), an open-source NLP research library built on PyTorch, by the [Allen Institute for Artificial Intelligence](http://allenai.org/) in close collaboration with other researchers.
+* [FAIR Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq-py), a sequence-to-sequence learning toolkit from [Facebook AI Research](http://realai.org/research-groups/facebook-AI-research/).
 
 [MXNet](http://mxnet.io/) is a flexible and efficient library for deep learning. [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) is an [ambitious](https://twitter.com/zacharylipton/status/888096437187207168) roadmap to an interactive deep learning book.
 
