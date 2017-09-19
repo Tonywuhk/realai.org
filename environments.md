@@ -29,7 +29,7 @@ On 15 February 2017, Microsoft [announced](https://blogs.microsoft.com/next/2017
 
 ## Games
 
-Deep learning methods have been applied to games of various genres such as arcade, open-world, real-time strategy, board, and text-based games. Prominent examples include [Atari 2600](#atari-2600), [StarCraft](#starcraft), [Dota 2](#dota-2), [Poker](#poker), and [Go](#go). In many arcade games, deep learning has achieved above human-level performance.
+Deep learning methods have been applied to games of various genres such as arcade, open-world, real-time strategy, board, and text-based games. Prominent examples include [Atari 2600 games](#the-arcade-learning-environment), [StarCraft](#starcraft), [Dota 2](#dota-2), [Poker](#poker), and [Go](#go). In many arcade games, deep learning has achieved above human-level performance.
 
 ### Video Games
 
@@ -37,7 +37,15 @@ Deep learning methods have been applied to games of various genres such as arcad
 
 * 2017 August 26, Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi. [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902). *arXiv:1708.07902*.
 
-#### Atari 2600
+#### The Arcade Learning Environment
+
+[The Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) (ALE) is a simple object-oriented framework that allows researchers and hobbyists to develop AI agents for [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) games. It was introduced by [Bellemare et al. (2013)](https://arxiv.org/abs/1207.4708) in July 2012.
+
+##### Recent Review
+
+* 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
+
+##### Results
 
 On the Atari game Ms. Pac-Man, a reinforcement learning agent using the Hybrid Reward Architecture (HRA) achieved the maximum possible score of 999,990 points in less than 3,000 episodes ([van Seijen et al., 2017](https://arxiv.org/abs/1706.04208)). The overall \\(Q\\)-value function in the HRA is a weighted sum of individual \\(Q\\)-value functions whose weights correspond to in-game rewards for eating a pellet, blue ghost or fruit. The weights for Ms. Pac-Man to lose a life are set to -1,000. An *executive memory* records every sequence of actions that pass a level without any kill, so that they can be used for the same level. This particular technique contributes to achieving the maximum possible score, but does not generalize. It received a [negative review](https://www.theregister.co.uk/2017/06/15/microsoft_pac_man/) on The Register.
 
@@ -51,6 +59,7 @@ In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-netw
 * 2016 February 4, Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783). *arXiv:1602.01783*.
 * 2014 July 10, Volodymyr Mnih,	Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html). *Nature*, 518(7450):529-533.
 * 2013 December 19, Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602). *arXiv:1312.5602*.
+* 2013 June 21, Marc G. Bellemare, Yavar Naddaf, Joel Veness, and Michael Bowling. [The Arcade Learning Environment: An Evaluation Platform for General Agents](https://arxiv.org/abs/1207.4708). *arXiv:1207.4708*.
 
 #### StarCraft
 

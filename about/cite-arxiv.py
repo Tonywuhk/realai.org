@@ -34,13 +34,7 @@ def cite(id):
     item = parse.entries[0]
     
     dt = datetime.datetime.strptime(item.date[:10], "%Y-%m-%d")
-    date = dt.strftime("%Y %B %-d")
-    # In Python 3.6 or higher, can also use formatted string literals:
-    #
-    # date = f'{dt:%Y} {dt:%B} {dt.day}'
-    #
-    # See https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-    
+    date = f'{dt:%Y} {dt:%B} {dt.day}'
     xauthors = item.authors
     la = len(item.authors)
     
@@ -54,7 +48,7 @@ def cite(id):
     else:
         authors = xauthors[0].name
 
-    title = item.title.replace('\n', '')
+    title = " ".join(item.title.split())
 
     # Line breaks before binary operators 
     cite = ('* ' + date + ', ' + authors + '. [' + title + '](https://arxiv.org/abs/'
