@@ -5,9 +5,9 @@ permalink: /sources/
 
 ## Papers
 
-* Recent submissions on arXiv: [cs.LG](https://arxiv.org/list/cs.LG/recent) \| [cs.AI](https://arxiv.org/list/cs.AI/recent) \| [cs.CV](https://arxiv.org/list/cs.CV/recent) \| [cs.CL](https://arxiv.org/list/cs.CL/recent)
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week) is built by [@karpathy](https://twitter.com/karpathy) to accerlerate research.
-* Discussions: [Facebook](https://www.facebook.com/) \| [Twitter](https://twitter.com/) \| [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) \| [OpenReview](https://openreview.net/)
+* Recent submissions on arXiv: [cs.LG](https://arxiv.org/list/cs.LG/recent) \| [cs.AI](https://arxiv.org/list/cs.AI/recent) \| [cs.CV](https://arxiv.org/list/cs.CV/recent) \| [cs.CL](https://arxiv.org/list/cs.CL/recent) and [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week)
+* Discussions: [Facebook](https://www.facebook.com/) \| [Twitter](https://twitter.com/) \| [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* Conferences: [AI Conference Deadlines](https://aideadlin.es/) \| [OpenReview](https://openreview.net/)
 * Collections: [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) \| [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) \| [Distill](http://distill.pub/)
 
 ## News

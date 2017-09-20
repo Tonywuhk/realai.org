@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with [Facebook AI Res
 
 ## 2017
 
+* 2017 September 18, Simon S. Du, Jason D. Lee, and Yuandong Tian. [When is a Convolutional Filter Easy To Learn?](https://arxiv.org/abs/1709.06129) *arXiv:1709.06129*.
 * 2017 September 8, Alexander Peysakhovich and Adam Lerer. [Prosocial learning agents solve generalized Stag Hunts better than selfish ones](https://arxiv.org/abs/1709.02865). *arXiv:1709.02865*.
 * 2017 September 2, Marek Rei, Luana Bulat, Douwe Kiela, and Ekaterina Shutova. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575). *arXiv:1709.00575*.
 * 2017 September 1, Cinna Wu, Mark Tygert, and Yann LeCun. [Hierarchical loss for classification](https://arxiv.org/abs/1709.01062). *arXiv:1709.01062*.

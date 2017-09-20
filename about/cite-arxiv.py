@@ -50,9 +50,13 @@ def cite(id):
 
     title = " ".join(item.title.split())
 
+    dot = '.'
+    if title[-1] in ".?!":
+        dot = ''
+
     # Line breaks before binary operators 
     cite = ('* ' + date + ', ' + authors + '. [' + title + '](https://arxiv.org/abs/'
-            + id + '). *arXiv:' + id + '*.')
+            + id + ')' + dot + ' *arXiv:' + id + '*.')
 
     return cite
     
