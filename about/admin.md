@@ -1,13 +1,24 @@
 ---
-permalink: /about/admin/
+permalink: /about/corporate-administration/
+redirect_from: /about/admin/
 ---
 # Corporate Administration
 
 ## Basic Information
 
-Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016.
+Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016. Our registered address is
+
+```
+West Wing, 2/F,
+822 Lai Chi Kok Road
+Lai Chi Kok
+```
 
 ## Governance
+
+### Registrations
+
+We file [annual returns](http://www.cr.gov.hk/en/compliance/PrivateCompany.htm) with the [Companies Registry](http://www.cr.gov.hk/en/home/index.htm), and pay [Business Registration Fee and Levy](http://www.ird.gov.hk/eng/pdf/brfee_table.pdf) to the [Inland Revenue Department](http://www.ird.gov.hk/eng/welcome.htm).
 
 ### Annual General Meeting
 
@@ -15,7 +26,7 @@ In general, a Hong Kong company must hold an annual general meeting (AGM) every 
 
 ### Company Directors
 
-The [Companies Registry](http://www.cr.gov.hk/en/home/index.htm) advises all directors to read this [Guide](http://www.cr.gov.hk/en/publications/docs/director_guide-e.pdf) on directors' duties.
+The Companies Registry advises all directors to read this [Guide](http://www.cr.gov.hk/en/publications/docs/director_guide-e.pdf) on directors' duties.
 
 ### Company Secretary
 
@@ -23,7 +34,19 @@ A private Hong Kong company [must have](http://www.cr.gov.hk/en/faq/faq01.htm#02
 
 ## Finance 
 
-Real AI is currently supported by donations. Our bank account number is 390-693182-883, [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12). Please note that we are **not**, and do not intend to be, a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong. We plan to include in our Articles of Association clauses that state precisely and clearly our objectives, and do not expect to pay any dividends in the foreseeable future.
+### Payment Methods
+
+We use the following methods to send and receive payments:
+
+* Regular cheque
+* [e-Cheque](https://bank.hangseng.com/1/2/e-services/e-Cheque). More information about the e-Cheque service can be found in a [press release](http://www.hkma.gov.hk/eng/key-information/press-releases/2015/20151211-4.shtml) by [HKMA](http://www.hkma.gov.hk/eng/index.shtml) in December 2015
+* *more will be added later...*
+
+Our bank account details are:
+
+* Account Name: **Real AI Limited**
+* Account Number: 390-693182-883
+* Banking Information: [Hang Seng Bank](https://bank.hangseng.com/1/2/business/bank-accounts/integrated-business-solutions/faq#12)
 
 ### Funding History
 
@@ -31,6 +54,8 @@ Real AI is currently supported by donations. Our bank account number is 390-6931
 | ---------- | -----------------------:| -------------------------:|
 | 2016/12/19 |                  10,000 |                HKD 10,000 |
 | 2017/04/25 |                   2,900 |               HKD 290,000 |
+
+Please note that although we have a socially-aligned [mission](http://realai.org/about/#mission), we are *not*, and do not intend to be, a [charity under section 88](http://www.ird.gov.hk/eng/tax/ach_tgc.htm) of the Inland Revenue Ordinance in Hong Kong. We plan to include in our Articles of Association clauses that state precisely and clearly our objectives, and do not expect to pay any dividends in the foreseeable future.
 
 ### Accounting
 
