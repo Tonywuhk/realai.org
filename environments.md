@@ -37,6 +37,12 @@ Deep learning methods have been applied to games of various genres such as arcad
 
 * 2017 August 26, Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi. [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902). *arXiv:1708.07902*.
 
+#### Unity ML Agents
+
+[Unity Machine Learning Agents](https://github.com/Unity-Technologies/ml-agents) allows researchers and developers to create games and simulations using the [Unity Editor](https://unity3d.com/unity/editor) which serve as environments where intelligent agents can be trained through a Python API. It was [introduced in September 2017](https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/) by [Unity Technologies](https://unity3d.com/), the developer of [the leading global game industry software](https://unity3d.com/public-relations). Unity was reportedly [worth $2.6 billion](https://venturebeat.com/2017/05/25/why-unity-was-able-to-raise-400-million-at-a-2-6-billion-valuation/) as of May 2017.
+
+In an earlier [blog post](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-blog-entries/), it was stated that Unity believed the progress in deep learning was going to change how games were built, from the generation of texture and 3D-models, to the programming of non playable characters.
+
 #### The Arcade Learning Environment
 
 [The Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) (ALE) is a simple object-oriented framework that allows researchers and hobbyists to develop AI agents for [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) games. It was introduced by [Bellemare et al. (2013)](https://arxiv.org/abs/1207.4708) in July 2012.

@@ -28,11 +28,18 @@ In September 2017, Google [paid $1.1 billion](https://www.reuters.com/article/us
 
 [Google Express](https://express.google.com/) is an online shopping service in continental U.S. that lets its users shop from an array of stores all in one place. In August 2017, Google [entered a partnership with Walmart](https://www.blog.google/products/assistant/shop-walmart-and-more-your-favorite-stores-faster/) to sell its products on Google Home or Google Express.
 
-## Legal Problems in Europe
+## Europe
+
+### Legal Problems
 
 In June 2017, The European Commission [fined Google €2.42 billion](http://europa.eu/rapid/press-release_IP-17-1784_en.htm) for antitrust violations pertaining to its shopping comparison service. Regulators are also weighing [another record fine over its Android mobile operating system](http://www.reuters.com/article/us-eu-google-antitrust-exclusive-idUSKBN19Q1RU), and there is a third case involving its AdSense for Search platform. Google [tapped at least five top law firms](http://www.cnbc.com/2017/07/10/googles-eu-fine-top-law-firms-hired-to-fight-fine-sources.html) in Brussels to fight the regulatory battles.
 
 Google could also face [€1.12 billion in back taxes to France](https://www.bloomberg.com/news/articles/2017-07-11/google-faces-1-3-billion-french-ruling-amid-rising-tax-populism).
+
+### London Headquarters
+
+* 2016 November 15. [Google commits to 1bn UK investment plan](http://www.bbc.com/news/business-37988095). *BBC*.
+* 2016 November 15. [Google commits to massive new London headquarters](https://www.theguardian.com/technology/2016/nov/15/google-commits-to-massive-new-london-hq). *The Guardian*.
 
 ## Code of Conduct 
 
