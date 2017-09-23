@@ -24,7 +24,7 @@ An agent can be trained across many different tasks to meta-learn a reinforcemen
 
 A standard learning architecture can be made more flexible and efficient when its internal dynamics is also learned from data. Conceptually, this dynamics learning occurs at a higher level than the learning implemented by the standard architecture, thus falls within the scope of meta-learning. When these new architectures are widely used, they will become less "meta" and more closely aligned with advances in architecture design.
 
-[Andrychowicz et al. (2016)](https://arxiv.org/abs/1606.04474) show that update rules modeled by learned LSTMs outperform generic, hand-designed [learning rules](http://realai.org/learning-rules/) such as Adam and RMSProp. [Wichrowska et al. (2017)](https://arxiv.org/abs/1703.04813) introduce a hierarchical RNN optimizer and achieve better generalization to new problems and large number of optimization steps.
+[Andrychowicz et al. (2016)](https://arxiv.org/abs/1606.04474) show that update rules modeled by learned LSTMs outperform generic, hand-designed [learning rules](http://realai.org/learning-rules/) such as Adam and RMSProp. [Wichrowska et al. (2017)](https://arxiv.org/abs/1703.04813) introduce a hierarchical RNN optimizer and achieve better generalization to new problems and large number of optimization steps. [Bello & Zoph et al. (2017)](https://arxiv.org/abs/1709.07417) train a RNN controller to search the space of mathematical expressions of update rules and discover rules that perform better than commonly used optimizers such as Adam and RMSProp.
 
 In a standard neural network learning setup, the update rules of the network's weights can also be learned using guided policy search ([Li & Malik, 2016](https://arxiv.org/abs/1606.01885)). More generally, meta-learning can be applied to black-box optimizations ([Chen et al., 2016](https://arxiv.org/abs/1611.03824)) and neural architecture search ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)). In HyperNetworks ([Ha et al., 2016](https://arxiv.org/abs/1609.09106)), one network can dynamically generate weights for another network.
 
@@ -36,6 +36,7 @@ It is plausible that in some deep learning architectures, a network can dynamica
 
 ## References
 
+* 2017 September 21, Irwan Bello, Barret Zoph, Vijay Vasudevan, and Quoc V. Le. [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417). *arXiv:1709.07417*.
 * 2017 July 11, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
 * 2017 March 14, Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, and Jascha Sohl-Dickstein. [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). *arXiv:1703.04813*.
 * 2016 December 1, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.

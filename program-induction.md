@@ -11,8 +11,11 @@ The capability of inducing programs is a key to solving AI.
 
 [Ellis et al. (2017)](https://arxiv.org/abs/1707.09627) learn a CNN that proposes plausible drawing primitives to explain an image, which are then synthesized into programs by a state-of-the-art Sketch tool.
 
+[Becker & Gottschlich (2017)](https://arxiv.org/abs/1709.05703) use genetic algorithms to create software programs in [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck), an esoteric programming language. More materials can be found in the first author's blog posts ([Part 1](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/), [Part 2](http://www.primaryobjects.com/2013/03/04/pushing-the-limits-of-self-programming-artificial-intelligence/), and [Part 3](http://www.primaryobjects.com/2015/01/05/self-programming-artificial-intelligence-learns-to-use-functions/)) in 2013 and 2015.
+
 ## References
 
+* 2017 September 17, Kory Becker and Justin Gottschlich. [AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms](https://arxiv.org/abs/1709.05703). *arXiv:1709.05703*.
 * 2017 August 1, Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua B. Tenenbaum. [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627). *arXiv:1707.09627*.
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.
 * 2017 April 21, Jonathon Cai, Richard Shin, and Dawn Song. [Making Neural Programming Architectures Generalize via Recursion](https://arxiv.org/abs/1704.06611). *arXiv:1704.06611*.

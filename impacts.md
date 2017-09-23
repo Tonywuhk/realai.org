@@ -27,6 +27,7 @@ List of news articles related to job losses:
 
 Influential technology leaders have warned that progress in AI may lead to World War III. Alibaba’s Jack Ma [told CNBC in June 2017](https://www.cnbc.com/2017/06/21/alibabas-jack-ma-says-people-will-work-four-hours-a-day-in-30-years.html) that the cause is “with machine learning and artificial intelligence eliminating jobs.” Following Putin’s [statement](https://www.theverge.com/2017/9/4/16251226/russia-ai-putin-rule-the-world) that whoever leads in AI will rule the world, Elon Musk [warned in September 2017](https://www.theguardian.com/technology/2017/sep/04/elon-musk-ai-third-world-war-vladimir-putin) that “competition for AI superiority at national level” is the most likely cause.
 
+* 2017 September 21. [Artificial intelligence - the arms race we may not be able to control](http://thehill.com/opinion/technology/351725-artificial-intelligence-is-the-new-arms-race-we-may-not-be-able-to-control). *TheHill.com*.
 * 2017 July 21. [AI Could Revolutionize War As Much As Nukes](https://www.wired.com/story/ai-could-revolutionize-war-as-much-as-nukes/). *Wired*.
 
 ## Academic Research

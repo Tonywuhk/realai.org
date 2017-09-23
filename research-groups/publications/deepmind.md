@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 September 21, Jörg Bornschein, Andriy Mnih, Daniel Zoran, and Danilo J. Rezende. [Variational Memory Addressing in Generative Models](https://arxiv.org/abs/1709.07116). *arXiv:1709.07116*.
 * 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
 * 2017 September 15, Brendan O'Donoghue, Ian Osband, Remi Munos, and Volodymyr Mnih. [The Uncertainty Bellman Equation and Exploration](https://arxiv.org/abs/1709.05380). *arXiv:1709.05380*.
 * 2017 August 16, Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Küttler, John Agapiou, Julian Schrittwieser, John Quan, Stephen Gaffney, Stig Petersen, Karen Simonyan, Tom Schaul, Hado van Hasselt, David Silver, Timothy Lillicrap, Kevin Calderone, Paul Keet, Anthony Brunasso, David Lawrence, Anders Ekermo, Jacob Repp, and Rodney Tsing. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782). *arXiv:1708.04782*.

@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 September 21, Irwan Bello, Barret Zoph, Vijay Vasudevan, and Quoc V. Le. [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417). *arXiv:1709.07417*.
 * 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
 * 2017 September 8, Danijar Hafner, James Davidson, and Vincent Vanhoucke. [TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow](https://arxiv.org/abs/1709.02878). *arXiv:1709.02878*.
 * 2017 August 24, Xinchen Yan, Mohi Khansari, Yunfei Bai, Jasmine Hsu, Arkanath Pathak, Arbhinav Gupta, James Davidson, and Honglak Lee. [Learning Grasping Interaction with Geometry-aware 3D Representations](https://arxiv.org/abs/1708.07303). *arXiv:1708.07303*.
