@@ -6,7 +6,7 @@ mathjax: true
 
 ## Background
 
-Neuroscience can provide a rich source of inspiration for new types of AI algorithms and architectures, as well as help validate existing techniques, for example, based on if they mimic a function within the brain ([Summerfield et al., 2017](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)). Looking forward, they believe that neuroscience will become "indispensable" for tackling unsolved problems.
+Neuroscience can provide a rich source of inspiration for new types of AI algorithms and architectures, as well as help validate existing techniques ([Hassabis, 2012](http://www.nature.com/nature/journal/v482/n7386/full/482462a.html)), for example, based on if they mimic a function within the brain. Looking forward, [Summerfield et al. (2017)](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/) believe that neuroscience will become "indispensable" for tackling unsolved problems.
 
 The contribution of neuroscience to AI progress is further explained in [Hassabis et al. (2017)](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3), a review paper published in July 2017, where it is stated that "if one scratches the surface, one can uncover many cases in which recent developments have been inspired and guided by neuroscientific considerations." They then provide four examples: attention, episodic memory, working memory, and continual learning.
 
@@ -25,6 +25,7 @@ We broadly share this belief that neuroscience has been and will continue to be 
 * 2016 September 3, Jason J. Moore, Pascal M. Ravassard, David Ho, Lavanya Acharya, Ashley L. Kees, Cliff Vuong, and Mayank R. Mehta. [Dynamics of cortical dendritic membrane potential and spikes in freely behaving rats](http://science.sciencemag.org/content/early/2017/03/08/science.aaj1497). *Science*.
 * 2016 August 11, Haiguang Wen, Junxing Shi, Yizhen Zhang, Kun-Han Lu, and Zhongming Liu. [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://arxiv.org/abs/1608.03425). *arXiv:1608.03425*.
 * 2016 May 26, Eric Jonas and Konrad Kording. [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). *bioRxiv:055624*.
+* 2012 February 22, Demis Hassabis. Model the brain's algorithms. In [Turing centenary: Is the brain a good model for machine intelligence?](http://www.nature.com/nature/journal/v482/n7386/full/482462a.html) *Nature*, 482(7386):462-463.
 
 ## Imagination
 
