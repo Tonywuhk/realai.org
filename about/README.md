@@ -11,7 +11,7 @@ Many of today’s [problems](https://80000hours.org/articles/cause-selection/), 
 
 ## Activities
 
-Real AI’s activities can be broadly divided into two areas: Strategy and Research.
+Real AI is organized by [functions and roles](http://realai.org/about/organization/), whose activities can be broadly divided into two areas: Strategy and Research.
 
 ### Strategy
 
