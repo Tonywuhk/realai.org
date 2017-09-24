@@ -8,7 +8,7 @@ According to [information on Wikipedia accessed in September 2017](https://en.wi
 
 ## AI and Machine Learning 
 
-Google’s AI efforts are brought together under [Google.ai](https://google.ai/), a site focused on bringing the benefits of AI to everyone. Google’s [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc/) is a cluster of 1,000 [Cloud TPUs](https://cloud.google.com/tpu/) that support machine learning research for free. The Cloud TPUs are purpose-built for machine learning workloads, including both training and prediction, and each Cloud TPU deilvers up to 180 teraflops of performance. In contrast, [NVIDIA](http://realai.org/industry/nvidia/) claims its [Volta](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/) GPU delivers over 100 teraflops. According to a Google [blog post](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/), a machine learning supercomputer called “TPU pod” can be built with 64 TPUs to provide up to 11.5 petaflops of computation.
+Google’s AI efforts are brought together under [Google.ai](https://google.ai/), a site focused on bringing the benefits of AI to everyone. Google’s [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc/) is a cluster of 1,000 [Cloud TPUs](https://cloud.google.com/tpu/) that support machine learning research for free. The Cloud TPUs are purpose-built for machine learning workloads, including both training and prediction, and each Cloud TPU delivers up to 180 teraflops of performance. In contrast, [NVIDIA](http://realai.org/industry/nvidia/) claims its [Volta](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/) GPU delivers over 100 teraflops. According to a Google [blog post](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/), a machine learning supercomputer called “TPU pod” can be built with 64 TPUs to provide up to 11.5 petaflops of computation.
 
 In July 2017, Google [launched](https://techcrunch.com/2017/07/26/ai-studio/) its own AI studio, [Google Developers Launchpad](https://developers.google.com/startups/studio/), a full-service studio that provides tailored technical and product support to Artificial Intelligence and Machine Learning startups, all in one place.
 
@@ -19,6 +19,8 @@ In a [research report](https://ark-invest.com/research/googles-ai) dated May 23,
 ### Talent
 
 According to a June 2016 [post](https://www.wired.com/2016/06/how-google-is-remaking-itself-as-a-machine-learning-first-company/) on Wired, internally Google has a Machine Learning Ninja Program, a four-week boot camp that pulls its talented coders from their teams to participate.
+
+Google Brain Toronto was launched in March 2017. According to a Google Official Canada Blog [post authored by Geoffrey Hinton](https://canada.googleblog.com/2017/03/canadas-ai-moment.html) and published on the day of launch, Google is committed to supporting Canada's amazing AI moment.
 
 ## Hardware
 

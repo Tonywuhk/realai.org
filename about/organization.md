@@ -14,7 +14,7 @@ As a private research company based in Hong Kong, Real AI needs to conduct resea
 
 ## Roles
 
-We consider the satisfactory fulfillment of each role each year as roughly one unit of *effort*. The number in the parentheses after each role indicates how many roles we expect are needed to develop AGI by 2027. As of September 2017, the roles below add up 260 units of efforts to develop safe and beneficial AGI on schedule. 
+We consider the satisfactory fulfillment of each role each year as roughly one unit of *effort*. The number in the parentheses after each role indicates how many roles we expect are needed to develop AGI by 2027. As of September 2017, the roles below add up to 260 units of efforts for developing safe and beneficial AGI on schedule.
 
 * **Deep Reinforcement Learning Research** (4): push the frontiers of deep reinforcement learning knowledge related to developing AGI systems.
 * **Machine Learning Research** (2): focus on other important learning topics such as continual and transfer learning, curriculum, memory, etc.

@@ -30,3 +30,7 @@ In July 2017, Prof. Bowling joined DeepMind to colead its [newly created researc
 
 ## Research
 
+## Other Forecasts
+
+* 2017 January 4, Miles Brundage. [My AI Forecasts--Past, Present, and Future (Main Post)](http://www.milesbrundage.com/blog-posts/my-ai-forecasts-past-present-and-future-main-post). *Personal Blog*.
+
