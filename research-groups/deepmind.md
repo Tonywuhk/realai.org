@@ -25,7 +25,9 @@ In a July 2017 [interview](https://www.leiphone.com/news/201707/3tgq679xJMqKGhxM
 
 According to [Rowan (2015)](http://www.wired.co.uk/article/deepmind), DeepMind stayed in London partly because of a talent advantage. On Silicon Valley, Hassabis noted that "if you're focusing on a long-term goal, the Valley can be a bubble."
 
-### Organized Research
+### Research Strategy
+
+In a [July 2017 interview with The Verge](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview), Hassabis stated that "one of our big founding principles was that embodied cognition is key." This means to induce intelligence from "sensory and motor streams."
 
 According to a [Financial Times report on March 17, 2017](https://www.ft.com/content/cada14c4-d366-11e6-b06b-680c49b4b4c0), DeepMind’s researchers are organised into four main groups including “Neuroscience” and “Frontiers”, each consisting of smaller teams with deeper specialties. "Strike teams" can be formed temporarily to achieve a particular goal. Resources are allocated to projects by team leaders including Hassabis and head of research Shane Legg, who said "It’s sort of a bubbling cauldron of ideas, and exploration, and testing things out, and finding out what seems to be working and why — or why not."
 

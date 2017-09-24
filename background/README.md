@@ -2,7 +2,11 @@
 permalink: /background/
 redirect_from: /101/
 ---
-# Introduction
+# Background
+
+Due to the relative ease of becoming a "world-class deep learning practitioner" ([Howard, 2017](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)), mainstream AI researchers typically lack in-depth understanding of related academic fields such as [neuroscience](http://realai.org/background/neuroscience/), [cognitive science](http://realai.org/background/cognitive-science/), physics as [computation](http://realai.org/background/computation/), and [philosophy](http://realai.org/background/philosophy/). This problem is exacerbated by the fact that these fields are often large and steeped in their own traditions. In neuroscience, for example, there's something like 50,000 papers a year and it's "quite difficult to be expert" in it ([Vincent, 2017](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)).
+
+## Introduction
 
 ## Further Reading
 
@@ -12,4 +16,9 @@ redirect_from: /101/
 * 2016 September 8, Yuval Noah Harari. [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1910701874). *Harvill Secker*.
 * 2015 January 22, Tim Urban. The AI Revolution: The Road to Superintelligence [(Part 1)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [(2015 January 27, Part 2)](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html). *[Wait but Why](http://waitbutwhy.com/)*.
 * 2014 September 3, Nick Bostrom. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111). *Oxford University Press*. 
+
+## References
+
+* 2017 September 8, Jeremy Howard ([twitter](https://twitter.com/jeremyphoward)). [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/). *fast.ai*.
+* 2017 July 19, James Vincent. [DeepMind's founder says to build better computer brains, we need to look at our own](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview). *The Verge*.
 

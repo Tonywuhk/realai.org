@@ -58,6 +58,10 @@ In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wir
 
 * 2017 September 15. [Artificial intelligence just made guessing your password a whole lot easier](http://www.sciencemag.org/news/2017/09/artificial-intelligence-just-made-guessing-your-password-whole-lot-easier). *Science*. [arXiv](https://arxiv.org/abs/1709.00440).
 
+## AI Race
+
+* 2017 September 21. [AI Pioneer Andrew Ng: There's Room for Multiple Winners in the AI Race](https://www.thestreet.com/story/14314125/1/andrew-ng-artificial-intelligence.html). *TheStreet*.
+
 ## Links
 
 * [AIimpacts.org](http://aiimpacts.org/) aims to improve our understanding of the likely impacts of human-level artificial intelligence.

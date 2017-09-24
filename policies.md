@@ -36,6 +36,7 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### Russia
 
+* 2017 September 22. [Putin reveals fears that robots with artificial intelligence will one day 'eat us' and asks head of Russia's largest tech firm how soon it will happen](http://www.dailymail.co.uk/news/article-4909172/Putin-reveals-fears-robots-one-day-eat-us.html). *Daily Mail*.
 * 2017 September 1. [Putin: Leader in artificial intelligence will rule world](https://www.washingtonpost.com/business/technology/putin-leader-in-artificial-intelligence-will-rule-world/2017/09/01/969b64ce-8f1d-11e7-9c53-6a169beb0953_story.html). *The Washington Post*.
 
 ### Singapore

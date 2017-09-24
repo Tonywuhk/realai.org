@@ -1,7 +1,9 @@
 ---
-permalink: /memory-augmented-neural-networks/
+permalink: /memory/
 ---
-# Memory Augmented Neural Networks
+# Memory
+
+Memory is a significant idea inspired by [neuroscience](/background/neuroscience/), from which we know that there are different types of memory systems in the brain, such as short-term working memory and episodic memory. Traditionally neural networks don't have much memory and adding memory to them hasn't yet shown widespread evidence of promise. Consequently, this is a relatively neglected area in the science towards AGI.
 
 ## Episodic Memory
 

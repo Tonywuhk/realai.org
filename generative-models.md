@@ -3,6 +3,8 @@ permalink: /generative-models/
 ---
 # Generative Models
 
+Generative models are likely what humans and some other animals rely on for [planning](http://realai.org/planning/).
+
 ## Variational Autoencoders
 
 A subset of latent variables in a VAE can be made interpretable by applying semi-supervised learning, where labels are supplied for these variables ([Siddharth et al., 2017](https://arxiv.org/abs/1706.00400)).

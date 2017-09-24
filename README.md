@@ -54,11 +54,10 @@ mathjax: true
         3. [Hierarchical Learning](http://realai.org/hierarchical-learning/):          
         4. [Imitation Learning](http://realai.org/imitation-learning/)
         5. [Meta-Learning](http://realai.org/meta-learning/)
-        6. Memory
+        6. [Memory](http://realai.org/memory/)
     3. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
-            * [Memory Augmented Neural Networks](http://realai.org/memory-augmented-neural-networks/)
             * Neural Interface
         2. [Learning Rules](http://realai.org/learning-rules/)
         3. Evolutionary Algorithms
@@ -92,5 +91,5 @@ mathjax: true
         2. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
         3. [General Reinforcement Learning](http://realai.org/RL/general/)
 
-7. Research
+7. [Research](http://realai.org/research/)
 
