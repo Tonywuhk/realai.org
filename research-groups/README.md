@@ -34,9 +34,9 @@ Below is an incomplete list of research groups around the world that potentially
 
 ### The Curious AI Company
 
-[The Curious AI Company](https://thecuriousaicompany.com/) is an AGI research company founded in 2015 in Helsinki, Finland. It received an EUR 800,000 seed investment according an [October 2015 TechCrunch report](https://techcrunch.com/2015/10/02/do-androids-dream-of-curious/). In September 2017, Wired [reported](http://www.wired.co.uk/article/harri-valpola-curious-ai-artificial-intelligence-third-wave) that it "just raised $3.67 million in funding", which is "an impressive sum for a company that has no products and is only interested in research."
+[The Curious AI Company](https://thecuriousaicompany.com/) is an AGI research company founded in 2015 in Helsinki, Finland. It received a EUR 800,000 seed investment according to an [October 2015 TechCrunch report](https://techcrunch.com/2015/10/02/do-androids-dream-of-curious/). In September 2017, Wired [reported](http://www.wired.co.uk/article/harri-valpola-curious-ai-artificial-intelligence-third-wave) that it "just raised $3.67 million in funding", which is "an impressive sum for a company that has no products and is only interested in research."
 
-By comparison, it can be inferred from [official records](https://beta.companieshouse.gov.uk/company/07386350) that in its fiscal year ended 2013, DeepMind issued 2,509,233 new Series C preferred shares at 9.90 pounds each share, which amounts to perhaps more than 10 times the amount Curious AI raised, at a reasonable exchange rate in 2013. That was before deep learning was hot. Talking about being impressive...
+By comparison, it can be inferred from [official records](https://beta.companieshouse.gov.uk/company/07386350) that in its fiscal year ended 2013, DeepMind issued 2,509,233 new Series C preferred shares at 9.90 pounds each share, which amounts to perhaps more than 10 times the amount Curious AI raised, at a reasonable exchange rate in 2013.
 
 ## Nonprofits
 
