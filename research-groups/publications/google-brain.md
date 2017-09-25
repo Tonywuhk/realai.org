@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 September 22, Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, and Vincent Vanhoucke. [Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping](https://arxiv.org/abs/1709.07857). *arXiv:1709.07857*.
 * 2017 September 21, Irwan Bello, Barret Zoph, Vijay Vasudevan, and Quoc V. Le. [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417). *arXiv:1709.07417*.
 * 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
 * 2017 September 8, Danijar Hafner, James Davidson, and Vincent Vanhoucke. [TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow](https://arxiv.org/abs/1709.02878). *arXiv:1709.02878*.
@@ -43,6 +44,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 * 2017 May 19, Florian Tramèr, Alexey Kurakin, Nicolas Papernot, Dan Boneh, and Patrick McDaniel. [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). *arXiv:1705.07204*.
 * 2017 May 18, Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, and Vincent Dumoulin. [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830). *arXiv:1705.06830*.
 * 2017 May 16, Dieterich Lawson, George Tucker, Chung-Cheng Chiu, Colin Raffel, Kevin Swersky, and Navdeep Jaitly. [Learning Hard Alignments with Variational Inference](https://arxiv.org/abs/1705.05524). *arXiv:1705.05524*.
+* 2017 March 15, Daniel Hewlett, Alexandre Lacoste, Llion Jones, Illia Polosukhin, Andrew Fandrianto, Jay Han, Matthew Kelcey, and David Berthelot. [WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia](https://arxiv.org/abs/1608.03542). *arXiv:1608.03542*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.
 * 2017 May 9, Zbigniew Wojna, Alex Gorban, Dar-Shyang Lee, Kevin Murphy, Qian Yu, Yeqing Li, and Julian Ibarz. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/abs/1704.03549). *arXiv:1704.03549*.
 * 2017 May 5, Ming Sun, Anirudh Raju, George Tucker, Sankaran Panchapagesan, Gengshen Fu, Arindam Mandal, Spyros Matsoukas, Nikko Strom, and Shiv Vitaladevuni. [Max-Pooling Loss Training of Long Short-Term Memory Networks for Small-Footprint Keyword Spotting](https://arxiv.org/abs/1705.02411). *arXiv:1705.02411*.

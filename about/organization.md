@@ -14,7 +14,7 @@ As a private research company based in Hong Kong, Real AI needs to conduct resea
 
 ## Roles
 
-We consider the satisfactory fulfillment of each role each year as roughly one unit of *effort*. The number in the parentheses after each role indicates how many roles we expect are needed to develop AGI by 2027. As of September 2017, the roles below add up to 260 units of efforts for developing safe and beneficial AGI on schedule.
+We consider the satisfactory fulfillment of each role each year as roughly one unit of *effort*. The number in the parentheses after each role indicates how many roles we expect are needed to develop AGI by 2027. As of September 2017, the roles below add up to 270 units of efforts for developing safe and beneficial AGI on schedule.
 
 * **Deep Reinforcement Learning Research** (4): push the frontiers of deep reinforcement learning knowledge related to developing AGI systems.
 * **Machine Learning Research** (2): focus on other important learning topics such as continual and transfer learning, curriculum, memory, etc.
@@ -26,11 +26,13 @@ We consider the satisfactory fulfillment of each role each year as roughly one u
 * **Web Development** (1): maintain all aspects of realai.org web site.
 * **Public Speaking** (1): the public speaking role mainly contributes to Outreach by presenting at talks, seminars, courses and other events.
 * **EA Liaison** (1): liaise with the effective altruism community to continuously maintain our goal of benefiting others as much as possible.
+* **Investor Relations** (1): maintain relationship with current and potential company shareholders.
 * **Finance** (1): process payments, maintain company accounts, arrange audit and tax.
 * **Compliance** (1): review all corporate activities to ensure compliance with laws and regulations.
 * **Human Resources** (2): hiring and benefits, also contributes to Management by monitoring global talent movements.
+* **Corporate Service** (1): maintain a productive physical environment for the company, with an emphasis on business continuity until 2027.
 * **Industry Research** (1): conduct research on the AI industry including both for-profit and non-profit actors, likely work in close collaboration with the Human Resources role.
-* **Business Development** (2): set overall corporate strategy, assist other roles in their work.
+* **Business Development** (1): set overall corporate strategy, assist other roles in their work.
 
 ### Non-Productive or External Positions
 

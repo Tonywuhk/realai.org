@@ -51,6 +51,10 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 * [Vicarious](https://www.vicarious.com/) is a Union City, California-based startup developing AGI for robots. In July 2017, it [raised $50 million](https://venturebeat.com/2017/07/25/khosla-ventures-leads-50-million-investment-in-vicarious-ai-tech/) in a round led by Khosla Ventures.
 * [Element AI](https://www.elementai.com/) is an AI solutions provider co-founded in 2016 by established entrepreneur Jean-François Gagné and leading AI researcher Yoshua Bengio in the deep learning hub of Montreal. It [raised a Series A round of $102 million](https://techcrunch.com/2017/06/14/element-ai-a-platform-for-companies-to-build-ai-solutions-raises-102m/) in June 2017.
 
+## Talent War
+
+In a [September 2017 article](https://www.bloomberg.com/news/articles/2017-09-24/in-battle-for-talent-one-startup-founder-tries-unlimited-pay) on Bloomberg Technology, which reported $3 million pay packages offered by a startup to lure top AI talent, it was also mentioned that "another startup recently agreed to a package worth $30 million over four years if certain targets are met." Such a package is unlikely to attract *top* talent among those who make long-term career choices based on pay packages, because as recent as February 2017, [a 33-year-old hedge fund star was awarded $250 million pay package at Och-Ziff](https://www.forbes.com/sites/nathanvardi/2017/02/15/33-year-old-hedge-fund-star-james-levin-awarded-250-million-pay-package-amid-och-ziff-stock-debacle/), according to Forbes.
+
 ## Events
 
 * Google I/O: [2017.05.17](https://events.google.com/io/), [2016](https://events.google.com/io2016/), [2015](https://events.google.com/io2016/)
