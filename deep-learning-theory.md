@@ -11,7 +11,7 @@ Many of the successes in deep learning can be attributed to the availability of 
 
 * 2017 July 10, Chen Sun, Abhinav Shrivastava, Saurabh Singh, and Abhinav Gupta. [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968). *arXiv:1707.02968*.
 * 2017 June 5, Alessandro Achille and Stefano Soatto. [On the Emergence of Invariance and Disentangling in Deep Representations](https://arxiv.org/abs/1706.01350). *arXiv:1706.01350*.
-* 2017 April 29, Ravid Shwartz-Ziv and Naftali Tishby. [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810). *arXiv:1703.00810*.
+* 2017 April 29, Ravid Shwartz-Ziv and Naftali Tishby. [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810). *arXiv:1703.00810*. [video](https://www.youtube.com/watch?v=bLqJHjXihK8). [news](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/).
 * 2017 April 26, Shai Shalev-Shwartz, Ohad Shamir, and Shaked Shammah. [Failures of Gradient-Based Deep Learning](https://arxiv.org/abs/1703.07950). *arXiv:1703.07950*.
 
 ## Information Theory

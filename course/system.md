@@ -11,10 +11,15 @@ The goal of this section is to set up productive environments for deep learning 
   * Google products: [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) \| [G Suite](http://realai.org/course/g-suite/)
 * Operating System: [Ubuntu](http://realai.org/course/ubuntu/) and [Windows](http://realai.org/course/windows/) are popular operating systems that we will use during this course
 * Information [security](http://realai.org/course/security/) contains effective practices to prevent data loss
+* Terminal: [tmux](https://github.com/tmux/tmux/wiki) ([cheat sheet](https://tmuxcheatsheet.com/)) is a terminal multiplexer that is available in nearly all UNIX-like operating systems
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 
 * Version control system: [Git](http://realai.org/course/git/), [GitHub](http://realai.org/course/github/)
 * Python Packages: [conda](http://realai.org/course/conda/), [pip](http://realai.org/course/pip/)
+
+### Amazon Web Services
+
+* 2017 September 20. [Pre-configured Amazon AWS deep learning AMI with Python](http://www.pyimagesearch.com/2017/09/20/pre-configured-amazon-aws-deep-learning-ami-with-python/). *PyImageSearch*.
 
 ## Installing Libraries from Source
 

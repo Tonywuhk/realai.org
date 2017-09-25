@@ -20,6 +20,7 @@ permalink: /sources/
 
 * [AI Grant](https://aigrant.org/) is a non-profit, distributed AI research lab that sponsors AI projects.
 * [Effective Altruism Grants](https://www.effectivealtruism.org/grants/) provides grants to help individuals work on promising projects. According to 80,000 Hours, AI risk is the [top-ranked most urgent global issue](https://80000hours.org/articles/cause-selection/).
+* [Enterprise Support Scheme](http://www.itf.gov.hk/l-eng/ESS.asp) is a major funding initiative designed to encourage the private sector to invest in research and development.
 * The [General AI Challenge](https://www.general-ai-challenge.org/) is made up of multiple rounds, each designed to tackle a crucial research problem in human-level AI development. It offers $5 million in total cash prizes.
 * [Kaggle](https://www.kaggle.com/) runs competitions to challenge participants with real-world machine learning problems.
 
