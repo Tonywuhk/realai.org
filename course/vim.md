@@ -12,6 +12,12 @@ title: Course | Vim
 * [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
 
+## Progression
+
+After a few months of typical `vim` experience, beginners might find the following article helpful:
+
+* 2017 September 24. [Learning Vim: What I Wish I Knew](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7). *Hacker Noon*.
+
 ## Useful Tricks
 
 ### Search and Replace

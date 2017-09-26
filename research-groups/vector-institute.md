@@ -10,9 +10,12 @@ The [Vector Institute](http://vectorinstitute.ai/) is an independent, non-profit
 | Name             | Position                                       | Source Date                                                     |
 | ---------------- | ---------------------------------------------- | --------------------------------------------------------------- |
 | Ed Clark         | Chair                                          | [2017 March 28](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html) |
+| Garth Bibson     | Chief Executive Officer                        | [2017 September 25](https://beta.theglobeandmail.com/report-on-business/international-business/new-vector-ai-institute-ceo-garth-gibson-facing-tough-decisions/article36393422/) |
 | Geoffrey Hinton  | Chief Scientific Advisor                       | [2017 March 28](http://ca.reuters.com/article/businessNews/idCAKBN17003A-OCABS) |
 | Richard Zemel    | Research Director                              | [2017 March 28](https://www.thestar.com/news/gta/2017/03/28/new-toronto-institute-aims-to-be-worldwide-supplier-of-artificial-intelligence-capability.html) |
 | Tomi Poutanen    | Interim Industry Services Development Director |  |
+
+According to a September 2017 [report](https://beta.theglobeandmail.com/report-on-business/international-business/new-vector-ai-institute-ceo-garth-gibson-facing-tough-decisions/article36393422/), Toronto-born Garth Gibson will start on January 2, 2018 to lead the Vector Institute as its CEO. Also from the report, "The CEO needs to be very strong in terms of supporting the academics in choosing research areas." Prof. Gibson [stated on his CMU homepage](http://www.cs.cmu.edu/~./garth/) that he is interested in "large-scale parallelism in computer systems and its implications."
 
 ## News Archive
 

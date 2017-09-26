@@ -11,6 +11,10 @@ permalink: /computer-vision/
 
 [Li et al. (2017)](https://arxiv.org/abs/1703.10332) added an additional continue/stop action to the Recurrent Visual Attention Model ([Mnih et al., 2014](https://arxiv.org/abs/1406.6247)), and saved the average computation time.
 
+## Datasets
+
+* 2017 September 20. [Announcing the Matterport3D Research Dataset](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/). *Matterport*.
+
 ## References
 
 * 2017 April 18, Joel Janai, Fatma Güney, Aseem Behl, and Andreas Geiger. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://arxiv.org/abs/1704.05519). *arXiv:1704.05519*.

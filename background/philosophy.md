@@ -33,8 +33,13 @@ The scope of an AI system ranges from classical reinforcement learning agents th
 
 The attention schema theory (AST; [Webb & Graziano, 2015](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00500/full)) explains consciousness using the mechanics of [attention](http://realai.org/attention/). In an [introductory article](https://www.theatlantic.com/science/archive/2016/06/how-consciousness-evolved/485558/) published in June 2016, Graziano explained the development of mechanism capable of self-modelling in three stages: selective signal enhancement, overt attention, and covert attention. AST started as a model of one’s own covert attention and enabled the brain to attribute consciousness to itself.
 
+### Implications
+
+Theories of consciousness can inspire algorithmic choices in deep learning. [Bengio (2017)](https://arxiv.org/abs/1709.08568) defines the *conscious state* as a very low-dimensional vector derived from the representation state of an RNN by a form of attention mechanism.
+
 ### References
 
+* 2017 September 25, Yoshua Bengio. [The Consciousness Prior](https://arxiv.org/abs/1709.08568). *arXiv:1709.08568*.
 * 2017 July 27, Yul H.R. Kang, Frederike H. Petzschner, Daniel M. Wolpert, and Michael N. Shadlen. [Piercing of Consciousness as a Threshold-Crossing Operation](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30784-4). *Current Biology*.
 * 2017 May 22, Neil D. Lawrence. [Living Together: Mind and Machine Intelligence](https://arxiv.org/abs/1705.07996). *arXiv:1705.07996*.
 * 2017 May 18, Karl Friston. [The mathematics of mind-time](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference). *Aeon*.

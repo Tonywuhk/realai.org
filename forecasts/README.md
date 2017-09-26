@@ -10,6 +10,7 @@ Below is a list of milestones that we forecast will be achieved based on our *su
 * 2018 March 17 (± 3 months). [Groundbreaking Results from DeepMind](#groundbreaking-results-from-deepmind).
 * 2019 March 6 (± 3 months). [Multi-Player No-Limit Poker](#multi-player-no-limit-poker).
 * 2021 July 19 (± 12 months). [Proving Mathematical Theorems](http://realai.org/forecasts/proving-mathematical-theorems/).
+* 2022 September 24 (± 12 months). [StarCraft](#starcraft).
 
 ### Groundbreaking Results from DeepMind
 
@@ -27,6 +28,12 @@ Multi-player no-limit [Texas hold’em](https://en.wikipedia.org/wiki/Texas_hold
 In July 2017, Prof. Bowling joined DeepMind to colead its [newly created research office in Edmonton, Alberta](https://deepmind.com/blog/deepmind-office-canada-edmonton/). DeepMind is the Alphabet subsidiary that developed [AlphaGo](https://deepmind.com/research/alphago/), the first computer program to achieve superhuman performance in the ancient Chinese game of [Go](https://en.wikipedia.org/wiki/Go_(game)).
 
 *Last Updated: July 29, 2017*
+
+### StarCraft
+
+According to a [CBC News](http://www.cbc.ca/news) report [posted](http://www.cbc.ca/news/canada/newfoundland-labrador/artificial-intelligence-robots-battle-memorial-university-starcraft-1.4298844) on September 24, 2017, [David Churchill](http://www.cs.mun.ca/~dchurchill/) predicts that AI is about five years off from being able to beat StarCraft world champions. Churchill is an assistant professor with the [computer science department](http://www.mun.ca/computerscience/) of Memorial University of Newfoundland. He has organized and run the [AIIDE StarCraft AI Competition](http://www.starcraftaicompetition.com/) since 2011. The confidence interval of ± 12 months is currently based on our subjective estimate only.
+
+*Last Updated: September 26, 2017*
 
 ## Research
 
