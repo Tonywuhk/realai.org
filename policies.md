@@ -30,6 +30,10 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 * 2017 March 29. [工信部官员：鼓励成立人工智能行业组织 将编制发展白皮书](http://m.21jingji.com/article/20170329/herald/6e752f0dd952d7a53492d36cb27551ff.html). *21st Century Business Herald*.
 * 2017 March 5. [人工智能首次写入政府工作报告 2017年轻量级应用可能落地](http://m.21jingji.com/article/20170305/herald/496c009a2771888d3f957d9387560b03.html). *21st Century Business Herald*.
 
+### Estonia
+
+* 2017 September 25. [Estonia considers a kratt law to legalise Artifical Intelligence (AI)](https://medium.com/e-residency-blog/estonia-starts-public-discussion-legalising-ai-166cb8e34596). *Medium*.
+
 ### European Union
 
 * 2017 February 16. [European parliament calls for robot law, rejects robot tax](http://www.reuters.com/article/us-europe-robots-lawmaking-idUSKBN15V2KM). *Reuters*.

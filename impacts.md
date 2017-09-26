@@ -26,6 +26,10 @@ List of news articles related to job losses:
 * 2016 November 4. [AI isn't coming for our jobs, it's coming for our planet and will one day 'colonise the galaxy'](http://www.wired.co.uk/article/jurgen-schmidhuber-artificial-intelligence-very-deep-learning). *Wired UK*.
 * 2016 November 4. [Elon Musk: Robots will take your jobs, government will have to pay your wage](http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html). *CNBC*.
 
+### Coping Strategies
+
+In a [September 2017 interview](https://opendemocracy.net/digitaliberties/gains-from-ai-could-mean-humans-live-for-leisure), Miles Brundage, a researcher at the Future of Humanity Institute, recommended that, over the very long term, and especially for young people, "it may make sense to not invest one's own identity too much in their ability to do a job better or more cheaply than machines indefinitely."
+
 ## National Security
 
 Influential technology leaders have warned that progress in AI may lead to World War III. Alibaba’s Jack Ma [told CNBC in June 2017](https://www.cnbc.com/2017/06/21/alibabas-jack-ma-says-people-will-work-four-hours-a-day-in-30-years.html) that the cause is “with machine learning and artificial intelligence eliminating jobs.” Following Putin’s [statement](https://www.theverge.com/2017/9/4/16251226/russia-ai-putin-rule-the-world) that whoever leads in AI will rule the world, Elon Musk [warned in September 2017](https://www.theguardian.com/technology/2017/sep/04/elon-musk-ai-third-world-war-vladimir-putin) that “competition for AI superiority at national level” is the most likely cause.
