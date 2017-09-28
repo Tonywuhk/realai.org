@@ -27,6 +27,10 @@ We broadly share this belief that neuroscience has been and will continue to be 
 * 2016 May 26, Eric Jonas and Konrad Kording. [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). *bioRxiv:055624*.
 * 2012 February 22, Demis Hassabis. Model the brain's algorithms. In [Turing centenary: Is the brain a good model for machine intelligence?](http://www.nature.com/nature/journal/v482/n7386/full/482462a.html) *Nature*, 482(7386):462-463.
 
+## Prediction and Reward
+
+* 2017 September 13, Yuji K. Takahashi, Hannah M. Batchelor, Bing Liu, Akash Khanna, Marisela Morales, Geoffrey Schoenbaum. [Dopamine Neurons Respond to Errors in the Prediction of Sensory Features of Expected Rewards](http://www.cell.com/neuron/fulltext/S0896-6273(17)30740-7). *Neuron*, 95(6):1395-1405.
+
 ## Imagination
 
 * 2009 March 30, Demis Hassabis and Eleanor A. Maguire. [The construction system of the brain](http://rstb.royalsocietypublishing.org/content/364/1521/1263.long). *Philosophical Transactions of the Royal Society B*, 364(1521): 1263-71.

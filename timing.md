@@ -46,7 +46,9 @@ During the [Beneficial AI 2017](https://futureoflife.org/bai-2017/) conference, 
 
 ### Ray Kurzweil
 
-Ray [Kurzweil](http://www.kurzweilai.net/) predicted in his 2005 book [The Singularity Is Near: When Humans Transcend Biology](http://singularity.com/) that strong AI would emerge around 2029. He has kept his prediction since then, and in an [IEEE report](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#RayKurzweil) on 31 May 2017, reiterated his belief that computer would exceed human capabilities by 2029. As of August 2017, Kurzweil leads a team of about 35 people at Google that powers Smart Reply, according to [Wired](https://www.wired.com/story/what-is-ray-kurzweil-up-to-at-google-writing-your-emails/).
+Ray [Kurzweil](http://www.kurzweilai.net/) predicted in his 2005 book [The Singularity Is Near: When Humans Transcend Biology](http://singularity.com/) that strong AI would emerge around 2029. He has kept his prediction since then, and in an [IEEE report](http://spectrum.ieee.org/computing/software/humanlevel-ai-is-right-around-the-corner-or-hundreds-of-years-away#RayKurzweil) on 31 May 2017, reiterated his belief that computer would exceed human capabilities by 2029. He elaborated further in a [video](https://futurism.com/videos/ray-kurzweil-singularity-will-arrive-by-2045/) that 2029 is the year he believes "we will have completed the reverse engineering of the human brain." Note that building AGI doesn't necessarily requires that.
+
+As of August 2017, Kurzweil leads a team of about 35 people at Google that powers Smart Reply, according to [Wired](https://www.wired.com/story/what-is-ray-kurzweil-up-to-at-google-writing-your-emails/).
 
 ### Nick Bostrom
 
