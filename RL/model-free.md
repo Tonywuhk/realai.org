@@ -4,33 +4,7 @@ mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
 
-A Markov Decision Process is defined by a tuple \\(M=(\mathcal{S},\mathcal{A},\mathcal{P},r,\rho_0,\gamma,T)\\), in which \\(\mathcal{S}\\) is a state set, \\(\mathcal{A}\\) an action set, \\(\mathcal{P}: \mathcal{S}\times\mathcal{A}\times\mathcal{S} \rightarrow [0,1]\\) a transition probability distribution, \\(r: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\\) a reward function, \\(\rho_0: \mathcal{S} \rightarrow [0,1]\\) an initial state distribution, \\(\gamma \in [0,1]\\) a discount factor, and \\(T\\) a horizon.
-
-At time \\(t\\) an agent observes the state \\(s\_t\\) of the environment and produces an action \\(a\_t \sim \pi(\cdot \| s\_t)\\), then the environment transitions to a new state \\(s\_{t+1} \sim p(\cdot \| s\_t, a\_t)\\), and the agent receives a reward \\(r\_t = r(s\_t, a\_t)\\). The total accumulated reward from time \\(t\\) is
-
-$$
-  R_t = r_t + \gamma r_{t+1} + \gamma^2 r_{t+2} + ...
-$$
-
-The goal of the agent is to optimize its policy \\(\pi: \mathcal{S}\times\mathcal{A} \rightarrow \mathbb{R}\_+ \\), such that the *action-value function*
-
-$$
-  Q^\pi (s,a) = \mathbb{E}[R_0 | S_0=s, A_0=a, \pi]
-$$
-
-is maximized. The optimal action-value function \\(Q^\*(s,a) = \max\_\pi Q^\pi(s,a)\\) is achieved when the agent follows an optimal policy \\(\pi^\*\\). The \\(n\\)-step \\(Q\\)-value is defined as
-
-$$
-  Q^{(n)} (s,a) = r_t + \gamma r_{t+1} + ... + \gamma^{N-1} r_{t+N-1} + \gamma^n \max_{a'} Q(s_{t+N}, a').
-$$
-
-Similarly, the *state-value function*
-
-$$
-  V^\pi (s) = \mathbb{E}[R_0 | S_0=s, \pi],
-$$
-
-and the optimal state-value function \\(V^\*(s) = \max\_\pi V^\pi(s)\\). The *advantage function* is defined as \\(A^\pi (s,a) = Q^\pi(s,a) - V^\pi(s)\\). The true \\(Q^\*(s, a)\\) and \\(V^\*(s)\\) are often too complex for interesting problems, so in practice we learn a parameterized version \\(Q(s, a; \theta)\\) and \\(V(s; \theta_v)\\).
+The algorithms below assume that we have set up a [Markov Decision Process](http://realai.org/course/reinforcement-learning/markov-decision-process/).
 
 ## Value Based Reinforcement Learning Algorithms
 
