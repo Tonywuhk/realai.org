@@ -45,6 +45,20 @@ Theories of consciousness can inspire algorithmic choices in deep learning. [Ben
 * 2017 May 18, Karl Friston. [The mathematics of mind-time](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference). *Aeon*.
 * 2015 April 23, Taylor W. Webb and Michael S. A. Graziano. [The attention schema theory: a mechanistic account of subjective awareness](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00500/full). *Front. Psychol.*
 
+## Utilities
+
+The word utility has been defined in various ways. In the philosophical context of utilitarianism, it is about the well-being of sentient entities. As an ethical theory, the core concept of utilitarianism is that we should "bring about a world in which every individual has the highest possible level of well-being" ([de Lazari-Radek & Singer, 2017](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)). Implicitly assumed here, is that the utility of the *world* is in a function defined on individual utilities:
+
+$$
+U = F(u_0, u_1, ..., u_N),
+$$
+
+where \\(U\\) is the utility of the world, and the \\(u_i\\)'s are the utilities of properly defined individuals. This is a strong assumption and severely restricts the space of goals for agents developed under the principles in deep [reinforcement learning](http://realai.org/course/reinforcement-learning/), which typically includes the optimization of a target that can be framed as a form of "utility." We plan to rigorously dispute this view. Our current thinking is [being developed as a blog post](http://realai.org/blog/goals-and-utilities/).
+
+### References
+
+* 2017 July 27, Katarzyna de Lazari-Radek and Peter Singer. [Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795). *Oxford University Press*.
+
 ## Creativity
 
 Not only machine learning-based AI systems can have creativity, it is also likely prevalent in environments where learned policies are much closer to optimal than human policies. When AI acts in a way that is more optimal than normal human policies, it can appear creative from human’s perspective. In a modern example, an AI system AlphaGo learned to play the ancient Chinese game of Go using tree-based planning with machine intuition learned from a large number of self-played games. From AlphaGo’s perspective, its Go moves are the natural results of its algorithm. Some of the moves will be surprising for the intuitive part of AlphaGo, if tree search returns a solution that is previously considered a poor move based only on machine intuition. When AlphaGo makes a winning move that is difficult for humans to think of, but interpretable after it is played, such moves are often considered creative by expert human players, simply because human players interpret Go moves differently.
