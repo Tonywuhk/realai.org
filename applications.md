@@ -17,6 +17,6 @@ A list of applications that productively make use of recent advances in AI.
 
 ## Financial Markets Applications
 
-According to a [Bloomberg Technology report](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain) in June 2017, a hedge fund is testing models that mimic trades of its portfolio managers. The work of execution traders are also being automated.
+According to a [Bloomberg Technology report](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain) in June 2017, a hedge fund is testing models that mimic trades of its portfolio managers. The work of execution traders are also being automated. In September 2017, Bloomberg Markets [reported](https://www.bloomberg.com/news/features/2017-09-27/the-massive-hedge-fund-betting-on-ai) that AI generated profits for Man Group, but its engineers couldn't explain why the AI was executing the trades it was making.
 
 * 2017 June 30, Zhengyao Jiang, Dixing Xu, and Jinjun Liang. [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059). *arXiv:1706.10059*.

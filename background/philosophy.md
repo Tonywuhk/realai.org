@@ -53,7 +53,7 @@ $$
 U = F(u_0, u_1, ..., u_N),
 $$
 
-where \\(U\\) is the utility of the world, and the \\(u_i\\)'s are the utilities of properly defined individuals. This is a strong assumption and severely restricts the space of goals for agents developed under the principles in deep [reinforcement learning](http://realai.org/course/reinforcement-learning/), which typically includes the optimization of a target that can be framed as a form of "utility." We plan to rigorously dispute this view. Our current thinking is [being developed as a blog post](http://realai.org/blog/goals-and-utilities/).
+where \\(U\\) is the utility of the world, and the \\(u_i\\)'s are the utilities of properly defined individuals. \\(F\\) usually is just a simple sum of its input variables. Weights of a weighted sum can be written into the individual utilities. These are strong assumptions and severely restrict the space of goals for agents developed under the principles in deep [reinforcement learning](http://realai.org/course/reinforcement-learning/), which typically includes the optimization of a target that can be framed as a form of "utility." We plan to rigorously dispute this view. Our current thinking is [being developed as a blog post](http://realai.org/blog/goals-and-utilities/).
 
 ### References
 
