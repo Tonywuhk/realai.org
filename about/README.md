@@ -3,7 +3,7 @@ permalink: /about/
 ---
 # About Real AI
 
-Real AI is an [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) research company based in Hong Kong. Unlike traditional companies, our [activities](#activities) are not profit-driven. We align ourselves with [effective altruism](http://realai.org/safety/effective-altruism/) and aim to benefit others as much as possible.
+Real AI is an [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) research company based in [Hong Kong](http://realai.org/about/hong-kong/). Unlike traditional companies, our [activities](#activities) are not profit-driven. We align ourselves with [effective altruism](http://realai.org/safety/effective-altruism/) and aim to benefit others as much as possible.
 
 ## Mission
 
