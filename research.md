@@ -12,8 +12,8 @@ As of September 2017, our concept of an AGI system is a [chatbot](http://realai.
 * Hardware: [Windows](http://realai.org/course/windows/)-based PC, laptop, or [(Google) cloud](http://realai.org/course/google-cloud-platform/) computers
 * Operating System: [Ubuntu](http://realai.org/course/ubuntu/)
 * Programming Language: [Python 3](http://realai.org/course/python/) (managed by [Conda](http://realai.org/course/conda/))
-* Development Environment: [Jupyter](http://realai.org/course/jupyter/), tmux and [vim](http://realai.org/course/vim/)
-* Documentation: realai.org [viewed on the web](http://realai.org/), a Jekyll site on [GitHub](/course/system/github.md)
+* Development Environment: [Jupyter](http://realai.org/course/jupyter/), tmux and [vim](course/system/vim.md)
+* Documentation: realai.org [viewed on the web](http://realai.org/), a Jekyll site on [GitHub](course/system/github.md)
 * Source: realai.org [viewed on GitHub](https://github.com/real-ai/realai.org)
 * Deep Learning Library: PyTorch
 

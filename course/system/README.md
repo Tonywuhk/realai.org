@@ -14,7 +14,7 @@ The goal of this section is to set up productive environments for deep learning 
 * Information [security](http://realai.org/course/security/) contains effective practices to prevent data loss
 * Terminal: [tmux](https://github.com/tmux/tmux/wiki) ([cheat sheet](https://tmuxcheatsheet.com/)) is a terminal multiplexer that is available in nearly all UNIX-like operating systems
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
-* Text editor: [Vim](http://realai.org/course/vim/) 
+* Text editor: [Vim](vim.md) 
 * Version control system: [Git](http://realai.org/course/git/), [GitHub](github.md)
 * Python Packages: [conda](http://realai.org/course/conda/), [pip](http://realai.org/course/pip/)
 

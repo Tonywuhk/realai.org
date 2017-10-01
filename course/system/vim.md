@@ -1,6 +1,5 @@
 ---
-permalink: /course/vim/
-title: Course | Vim
+redirect_from: /vim/
 ---
 # Vim
 
@@ -41,4 +40,8 @@ After a few months of typical `vim` experience, beginners might find the followi
 ### Spell Checking
 
 The command `:setlocal spell spelllang=en_us` switches on spell checking, and the command `:setlocal nospell` switches it off. Use `zg` to add the word under cursor as a good word to the *spellfile*, a file that records good words that are not in vim's dictionary. By default, the spellfile is stored in the directory `~/.vim/spell`, and ends with `.add`. If vim complains that spellfile is not set, simply `touch` an empty file like `.vim/spell/en.utf-8.add`. Vim will automatically convert it to `.add.spl` for lookup.
+
+### Navigation
+
+* Use `gf` to follow a link to a new file, and use `:bf` to return
 
