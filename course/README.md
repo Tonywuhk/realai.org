@@ -13,15 +13,15 @@ The goal of the [System](http://realai.org/course/system/) section is to set up 
 
 ## Programming in Python
 
-* Programming language: [Python](http://realai.org/course/python/)
+* Programming language: [Python](python.md)
 * Interactive Code Editor: [Jupyter Notebook](http://realai.org/course/jupyter/)
 
 ## Deep Learning in TensorFlow
 
 * [Deep Learning](http://realai.org/course/deep-learning/)
-* [TensorFlow](http://realai.org/course/tensorflow/)
+* [TensorFlow](tensorflow/README.md)
 
 ## Theory
 
-* [Logic](/course/logic.md)
+* [Logic](logic.md)
 
