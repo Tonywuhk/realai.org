@@ -41,3 +41,5 @@ bundle exec jekyll serve
 
 [Jekyll](https://jekyllrb.com/) is a simple software framework that transforms plain text into static websites and blogs. It also powers GitHub Pages.
 
+[Jekyll Relative Links](https://github.com/benbalter/jekyll-relative-links) is a Jekyll plugin to convert relative links to Markdown files to their rendered equivalents. It works with pages with custom permalinks too. As of December 2016, this is how [relative links for GitHub Pages](https://github.com/blog/2290-relative-links-for-github-pages) work.
+

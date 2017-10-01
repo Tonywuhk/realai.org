@@ -21,5 +21,7 @@ The goal of the [System](http://realai.org/course/system/) section is to set up 
 * [Deep Learning](http://realai.org/course/deep-learning/)
 * [TensorFlow](http://realai.org/course/tensorflow/)
 
-## Logic
+## Theory
+
+* [Logic](/course/logic.md)
 

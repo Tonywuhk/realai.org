@@ -12,7 +12,7 @@ permalink: /sources/
 
 ## News
 
-* General: [Google News](https://news.google.com/) \| [Bloomberg](https://www.bloomberg.com/) \| [The Guardian](https://www.theguardian.com/)
+* General: [Google News](https://news.google.com/) \| [The Guardian](https://www.theguardian.com/)
 * Finance: [Google Finance](https://finance.google.com) \| [Yahoo Finance](https://finance.yahoo.com/) \| [新浪财经](http://finance.sina.com.cn/) \| [东方财富网](http://www.eastmoney.com/)
 * Hong Kong: [Weather](http://www.hko.gov.hk/contente.htm) \| [無綫新聞](http://news.tvb.com/)
 
