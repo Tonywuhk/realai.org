@@ -1,6 +1,5 @@
 ---
-permalink: /course/github/
-title: Course | System | GitHub
+redirect_from: /GitHub/
 ---
 # GitHub
 
@@ -40,6 +39,8 @@ bundle exec jekyll serve
 ### Jekyll
 
 [Jekyll](https://jekyllrb.com/) is a simple software framework that transforms plain text into static websites and blogs. It also powers GitHub Pages.
+
+Static [pages](https://jekyllrb.com/docs/pages/) on Jekyll site are not date-based. They can be [Markdown](https://daringfireball.net/projects/markdown/) files inside folders and subfolders. By default, pages retain exactly the same folder structure in `_site` as they do in the source directory. The only exception is that if a [permalink](https://jekyllrb.com/docs/permalinks/) is declared in the page's front matter, the URL specified in permalink will be used in `_site` instead of the page's default URL.
 
 ## Relative Links
 

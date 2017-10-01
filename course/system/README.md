@@ -1,5 +1,6 @@
 ---
 permalink: /course/system/
+redirect_from: /system/
 ---
 # System
 
@@ -14,7 +15,7 @@ The goal of this section is to set up productive environments for deep learning 
 * Terminal: [tmux](https://github.com/tmux/tmux/wiki) ([cheat sheet](https://tmuxcheatsheet.com/)) is a terminal multiplexer that is available in nearly all UNIX-like operating systems
 * [Text processing](http://realai.org/course/text-processing/) with grep, sed, awk, and regular expressions
 * Text editor: [Vim](http://realai.org/course/vim/) 
-* Version control system: [Git](http://realai.org/course/git/), [GitHub](http://realai.org/course/github/)
+* Version control system: [Git](http://realai.org/course/git/), [GitHub](github.md)
 * Python Packages: [conda](http://realai.org/course/conda/), [pip](http://realai.org/course/pip/)
 
 ### Amazon Web Services
