@@ -41,5 +41,11 @@ bundle exec jekyll serve
 
 [Jekyll](https://jekyllrb.com/) is a simple software framework that transforms plain text into static websites and blogs. It also powers GitHub Pages.
 
-[Jekyll Relative Links](https://github.com/benbalter/jekyll-relative-links) is a Jekyll plugin to convert relative links to Markdown files to their rendered equivalents. It works with pages with custom permalinks too. As of December 2016, this is how [relative links for GitHub Pages](https://github.com/blog/2290-relative-links-for-github-pages) work.
+## Relative Links
+
+A relative link is a [URI reference](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#URI_references) that takes the form of a trailing component of a full [URL](https://en.wikipedia.org/wiki/URL), which is a specific type of URI. When specified in an [HTML href attribute](https://www.w3schools.com/TagS/att_a_href.asp), a relative URL points to a file within a web site.
+
+There are two common ways to [document a project on GitHub](https://guides.github.com/features/wikis/): README files and wikis. A [README file](https://help.github.com/articles/about-readmes/) is often the first item a GitHub.com visitor will see. GitHub [recommends](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files) using relative links to refer to other files within a repository, and has supported [relative links in markup files](https://github.com/blog/1395-relative-links-in-markup-files) since 2013.
+
+[Jekyll Relative Links](https://github.com/benbalter/jekyll-relative-links) is a Jekyll plugin to convert relative links to Markdown files to their rendered equivalents. It works with pages with custom permalinks too. As of December 2016, this is how [relative links for GitHub Pages](https://github.com/blog/2290-relative-links-for-github-pages) work. It was also [added](https://github.com/github/pages-gem/pull/360) around the same time to [GitHub Pages Ruby Gem](https://github.com/github/pages-gem), a simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
 
