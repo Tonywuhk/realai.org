@@ -4,7 +4,7 @@ redirect_from: /background/CogSci/
 ---
 # Cognitive Science
 
-Cognitive science is the interdisciplinary, scientific study of the mind and its processes. Cognitive scientists borrow from fields such as linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology.
+Cognitive science is the interdisciplinary, scientific study of the mind and its processes. Cognitive scientists borrow from fields such as linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology. [Tenenbaum (2017)](https://www.youtube.com/watch?v=Z3mFBEOH2y4) characterizes the cognitive science perspective of AI as "reverse engineering the mind." Using Marr's three [levels of analysis](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)#Levels_of_analysis), he sees cognitive science perspective as a top-down one, starting from computational theory, moving down through various algorithmic aspects before arriving at implementation, whereas the [neuroscience](neuroscience.md) perspective, very very roughly, is bottom-up.
 
 ## AGI Projects
 
@@ -21,5 +21,6 @@ The OpenCog AGI engine is a component underlying the "Sophia" Hanson Robotics ro
 ## References
 
 * 2017 September 22, Ben Goertzel, Julia Mossbridge, Eddie Monroe, David Hanson, and Gino Yu. [Humanoid Robots as Agents of Human Consciousness Expansion](https://arxiv.org/abs/1709.07791). *arXiv:1709.07791*.
+* 2017 September 6, [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). [The cognitive science perspective: Reverse-engineering the mind](https://www.youtube.com/watch?v=Z3mFBEOH2y4) (video). *[CCN](http://ccneuro.org/) 2017*.
 * 2014, Ben Goertzel, Cassio Pennachin, Nil Geisweiller. [Engineering General Intelligence, Part 1](http://www.springer.com/gp/book/9789462390263). *Atlantis Press*.
 

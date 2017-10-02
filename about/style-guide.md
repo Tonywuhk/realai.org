@@ -43,7 +43,7 @@ A full citation includes the following pieces of information, commonly in this o
 
 * Date Published, List of Authors. Title and Link. *Publication Venue*. (optional) additional resources.
 
-Details are specified in a [Python script](https://github.com/real-ai/realai.org/blob/master/about/cite-arxiv.py) (requires [feedparser](https://pypi.python.org/pypi/feedparser)) that outputs a full citation based on arXiv information.
+Details are specified in a [Python script](https://github.com/real-ai/realai.org/blob/master/about/cite_arxiv.py) (requires [feedparser](https://pypi.python.org/pypi/feedparser)) that outputs a full citation based on arXiv information.
 
 #### Punctuation
 

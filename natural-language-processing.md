@@ -12,6 +12,10 @@ redirect_from: /NLP/
 
 * 2017 June 15, Mike Lewis, Denis Yarats, Yann N. Dauphin, Devi Parikh, and Dhruv Batra. [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf). *Facebook Artificial Intelligence Research*. [blog](https://code.facebook.com/posts/1686672014972296). [code](https://github.com/facebookresearch/end-to-end-negotiator).
 
+## Neural Machine Translation
+
+* 2017 September 22, Philipp Koehn. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arXiv:1709.07809*.
+
 ## Abstractive Summarization
 
 [Paulus et al. (2017)](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization) proposed a reinforcement learning model with intra-decoder attention, and achieved state-of-the-art results on the CNN/Daily Mail dataset.

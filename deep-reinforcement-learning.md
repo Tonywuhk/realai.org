@@ -8,8 +8,8 @@ Deep reinforcement learning (DRL) is a subfield that uses deep learning algorith
 
 ### Recent Review
 
+* 2017 September 28, Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, and Anil Anthony Bharath. [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866). *arXiv:1708.05866*.
 * 2017 September 15, Yuxi Li. [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274). *arXiv:1701.07274*.
-* 2017 August 19, Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, and Anil Anthony Bharath. [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866). *arXiv:1708.05866*.
 
 ### References
 

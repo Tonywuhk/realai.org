@@ -6,12 +6,13 @@ permalink: /sources/
 ## Papers
 
 * Recent submissions on arXiv: [cs.LG](https://arxiv.org/list/cs.LG/recent) \| [cs.AI](https://arxiv.org/list/cs.AI/recent) \| [cs.CV](https://arxiv.org/list/cs.CV/recent) \| [cs.CL](https://arxiv.org/list/cs.CL/recent) and [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week)
-* Discussions: [Facebook](https://www.facebook.com/) \| [Twitter](https://twitter.com/) \| [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * Conferences: [AI Conference Deadlines](https://aideadlin.es/) \| [OpenReview](https://openreview.net/)
 * Collections: [brylevkirill/notes](https://github.com/brylevkirill/notes) \| [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) \| [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) \| [Distill](http://distill.pub/)
 
 ## News
 
+* AI: [Facebook](https://www.facebook.com/) \| [Twitter](https://twitter.com/) \| [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* 人工智能: [机器之心](https://www.jiqizhixin.com/) \| [人工智能学家](http://www.aitists.com/)
 * General: [Google News](https://news.google.com/) \| [The Guardian](https://www.theguardian.com/)
 * Finance: [Google Finance](https://finance.google.com) \| [Yahoo Finance](https://finance.yahoo.com/) \| [新浪财经](http://finance.sina.com.cn/) \| [东方财富网](http://www.eastmoney.com/)
 * Hong Kong: [Weather](http://www.hko.gov.hk/contente.htm) \| [無綫新聞](http://news.tvb.com/)

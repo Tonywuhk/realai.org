@@ -24,7 +24,8 @@ def process_id(input):
     if match.group(1) == None:
         prefix = yymm + "."
     else:
-        prefix = yymm[0:(5-len(match.group(1)))] + match.group(1)
+        input_prefix = match.group(1).rjust(3, '0')
+        prefix = yymm[0:(5-len(input_prefix))] + input_prefix 
     return prefix + match.group(2).rjust(5, '0')
 
 def cite(id):
