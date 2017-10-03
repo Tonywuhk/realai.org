@@ -31,7 +31,7 @@ mathjax: true
     1. [Neuroscience](http://realai.org/background/neuroscience/) 
     2. [Cognitive Science](http://realai.org/background/cognitive-science/)
     3. Physics as [Computation](http://realai.org/background/computation/)
-    4. [Philosophy](http://realai.org/background/philosophy/) of Intelligence
+    4. [Philosophy](background/philosophy/README.md) of Intelligence
 
 4. [Course](http://realai.org/course/)
     1. [System](http://realai.org/course/system/): [Google Cloud Platform](http://realai.org/course/google-cloud-platform/)

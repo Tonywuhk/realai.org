@@ -4,6 +4,10 @@ mathjax: true
 ---
 # Philosophy
 
+## Topics
+
+* [Identity](identity.md)
+
 ## What Is Intelligence?
 
 Many systems operating inside an environment exhibit a certain degree of complexity. Intelligence is such complexity as perceived by us. This definition is first of all subjective, and our subjective views can differ greatly. Take the weather as an example, in ancient times, people resorted to myths for an explanation, implicitly assuming intelligence. In 2003, [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) [quoted](https://web.stanford.edu/dept/news/pr/03/wolfram129.html) the aphorism “the weather has a mind of its own,” and [explained in a 2017 blog](http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/) that its fluid dynamics is the same in computational sophistication as the electrical processes in human brains, a [point](http://www.wolframscience.com/nks/p844--historical-perspectives/) made in his book “[A New Kind of Science](https://www.wolframscience.com/).” However, most people today clearly do not consider the weather intelligent, largely because we’ve already had a reasonably good understanding of atmospheric sciences. Other examples include:
