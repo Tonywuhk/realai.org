@@ -1,5 +1,6 @@
 ---
-permalink: /RL/model-free/
+permalink: /deep-reinforcement-learning/model-free/
+redirect_from: /DRL/model-free/
 mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms
@@ -85,6 +86,8 @@ augmented by the gradient of an entropy regularization term with respect to the 
 
 [Proximal Policy Optimization](https://blog.openai.com/openai-baselines-ppo/) (PPO) is a class of reinforcement learning algorithms released by [OpenAI](http://realai.org/research-groups/openai/) on July 20, 2017, and has become the default reinforcement learning algorithm there.
 
+[Kahn et al. (2017)](https://arxiv.org/abs/1709.10489) propose a generalized computation graph that subsumes value-based model-free methods and model-based methods. They instantiate this graph to learn navigation and collision avoidance mechanisms on a real-world RC car.
+
 ## Episodic Control
 
 Gradient-based learning is generally very slow and consumes a lot of data. When data is limited, agents can use episodic memory to remember past experiences, and quickly learn suboptimal policies that perform reasonably well. In [Blundell et al. (2016)](https://arxiv.org/abs/1606.04460), the maximum cumulative reward for each state-action pair is maintained in the memory:
@@ -111,6 +114,7 @@ where the learning rate \\(\alpha\\) could have a high value. State representati
 
 ## References
 
+* 2017 September 29, Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, and Sergey Levine. [Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation](https://arxiv.org/abs/1709.10489). *arXiv:1709.10489*. [code](https://github.com/gkahn13/gcg).
 * 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/).
 * 2017 May 21, Nir Levine, Tom Zahavy, Daniel J. Mankowitz, Aviv Tamar, and Shie Mannor. [Shallow Updates for Deep Reinforcement Learning](https://arxiv.org/abs/1705.07461). *arXiv:1705.07461*.
 * 2017 May 14, Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. [Discrete Sequential Prediction of Continuous Actions for Deep RL](https://arxiv.org/abs/1705.05035). *arXiv:1705.05035*.

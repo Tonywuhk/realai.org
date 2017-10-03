@@ -79,17 +79,17 @@ mathjax: true
         3. [Planning](http://realai.org/planning/)
         4. [Reasoning](http://realai.org/reasoning/)
     2. [Environments](http://realai.org/environments/)
-    3. [Agents](http://realai.org/RL/agents/)
+    3. [Agents](deep-reinforcement-learning/agents.md)
         1. [Chatbot](http://realai.org/chatbot/)
-    4. [Model-Free Algorithms](http://realai.org/RL/model-free/)
+    4. [Model-Free Algorithms](deep-reinforcement-learning/model-free.md)
     5. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
         1. [Exploration](http://realai.org/exploration/)
         2. [Empowerment](http://realai.org/empowerment/)
     6. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-    7. [Reinforcement Learning](http://realai.org/RL/)
-        1. [Safe Reinforcement Learning](http://realai.org/RL/safety/)
-        2. [Multi-Agent Learning](http://realai.org/multi-agent-learning/)
-        3. [General Reinforcement Learning](http://realai.org/RL/general/)
+    7. Reinforcement Learning Topics
+        1. [Safe Reinforcement Learning](deep-reinforcement-learning/safety.md)
+        2. [Multi-Agent Learning](multi-agent-learning.md)
+        3. [General Reinforcement Learning](deep-reinforcement-learning/general.md)
 
 7. [Research](http://realai.org/research/)
 

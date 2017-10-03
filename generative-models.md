@@ -7,6 +7,10 @@ Generative models are likely what humans and some other animals rely on for [pla
 
 ## Variational Autoencoders
 
+The variational autoencoders (VAE) framework combines a neural-network based inference model with a neural-network based generative model. For an overview, see
+
+* 2017 [September 30](https://twitter.com/dpkingma/status/914277278602821633), Diederik P. Kingma. [Variational Inference & Deep Learning: A New Synthesis](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf) (PDF). *Dropbox*.
+
 A subset of latent variables in a VAE can be made interpretable by applying semi-supervised learning, where labels are supplied for these variables ([Siddharth et al., 2017](https://arxiv.org/abs/1706.00400)).
 
 ### References

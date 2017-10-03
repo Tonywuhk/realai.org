@@ -1,5 +1,6 @@
 ---
-permalink: /RL/safety/
+permalink: /deep-reinforcement-learning/safety/
+redirect_from: /DRL/safety/
 ---
 # Safe Reinforcement Learning
 
