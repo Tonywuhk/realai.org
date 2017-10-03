@@ -12,9 +12,9 @@ In May 2011, Business Insider [reported](http://www.businessinsider.com/the-stat
 
 On 12 March 2013, Google acquired DNNresearch, a startup founded by University of Toronto's professor Geoffrey Hinton and two of his grad students ([TechCrunch](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/), [VentureBeat](http://venturebeat.com/2013/03/12/google-dnnresearch/)). According to a [leiphone.com report](https://www.leiphone.com/news/201704/A9RuQzPwYKKLkIJT.html), Google paid $50 million.
 
-## Brain Residency
+## Google AI Residency
 
-The [Google Brain Residency Program](https://research.google.com/teams/brain/residency/) was launched in October 2015. It is a 12-month role based in Mountain View, California. The first group of residents arrived in June 2016. A year later, some [Brain](http://tinyclouds.org/residency/) [residents](http://colinraffel.com/blog/my-year-at-brain.html) shared their experiences online.
+The [Google AI Residency Program](https://research.google.com/teams/brain/residency/) is a 12-month research training role based in Mountain View, California. The program will start in summer 2018. As of October 2017, [applications](https://g.co/airesidency/apply) are expected to be open until January 2018, results finalized by end of March 2018. This program was previously known as the [Google Brain Residency Program](https://research.google.com/teams/brain/residency/), which was launched in October 2015. The first group of Brain residents arrived in June 2016. A year later, some [Brain](http://tinyclouds.org/residency/) [residents](http://colinraffel.com/blog/my-year-at-brain.html) shared their experiences online.
 
 ## Research
 
