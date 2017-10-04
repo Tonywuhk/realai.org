@@ -56,11 +56,14 @@ Maybe flat minima don’t exist in random data and are somehow easier to find th
 
 [Weller (2017)](https://openreview.net/forum?id=SJR9L5MQ-) provides a brief survey on transparency and reviews settings where it may be unhelpful.
 
+[Gu et al. (2017)](https://arxiv.org/abs/1708.06733) is able to create *BadNet*, a maliciously trained neural network that incorporates a backdoor. In a somewhat realistic setting, a maliciously trained U.S. street sign classifier identifies stop signs as speed limits when a special ticker is added to the stop sign.
+
 ### Cognitive Psychology
 
 [Ritter & Barrett et al. (2017)](https://arxiv.org/abs/1706.08606) use cognitive psychology to study the one-shot word learning Matching Networks and an Inception Baseline model. They find that the networks prefer to categorize objects according to shape rather than color.
 
 ### References
 
+* 2017 August 22, Tianyu Gu, Brendan Dolan-Gavitt, and Siddharth Garg. [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733). *arXiv:1708.06733*.
 * 2017 July 4, Adrian Weller. [Challenges for Transparency](https://openreview.net/forum?id=SJR9L5MQ-). *OpenReview*.
 * 2017 June 26, Samuel Ritter, David G. T. Barrett, Adam Santoro, and Matt M. Botvinick. [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](https://arxiv.org/abs/1706.08606). *arXiv:1706.08606*.
