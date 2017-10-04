@@ -15,7 +15,15 @@ DeepMind has two main lines of business: Research and Applied. Its organized eff
 
 ## Ethics
 
-When Google acquired DeepMind, it [agreed to establish an ethics board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). The Guardian [reported in January 2017](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board) that the board was internal and discussed confidential matters, it had convened and progressed well. It can also be inferred from [an official job ad](https://deepmind.com/careers/655890/) that DeepMind has an "Ethics & Impact team".
+When Google acquired DeepMind, it [agreed to establish an ethics board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). The Guardian [reported in January 2017](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board) that the board was internal and discussed confidential matters. When asked about the board in January 2016, DeepMind co-founder Demis Hassabis replied that it had convened and was "progressing very well." It can also be inferred from [an official job ad](https://deepmind.com/careers/655890/) that DeepMind has an "Ethics & Impact team".
+
+### DeepMind Ethics & Society
+
+#### Creation
+
+On October 3, 2017, DeepMind announced in a [blog post](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/) the creation of [DeepMind Ethics & Society](https://deepmind.com/applied/deepmind-ethics-society/) (DMES), a new research unit that aims to help technologists put ethics into practice, and to help society anticipate and direct the impact of AI so that it works for the benefit of all. The unit is co-led by Verity Harding ([LinkedIn](https://www.linkedin.com/in/verity-harding-b8390b9b/); [Twitter](https://twitter.com/verityharding)) and Sean Legassick ([LinkedIn](https://www.linkedin.com/in/seanlegassick/); [Twitter](https://twitter.com/seanlegassick)).
+
+According to a [Wired UK](http://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence) report about the creation of DMES, the unit has been in development for the past 18 months. Its full-time team will swell from around 8 currently to around 25 people within the next 12 months. DMES initially has six external fellows, including Oxford professor Nick Bostrom, and they have not signed any non-disclosure agreements. DMES is separate to the firms secretive internal ethics and safety board, which has been reasonably successful, but aims at challenges that arise specifically from general intelligence, says DeepMind co-founder Mustafa Suleyman. It is further noted in a [report by The Guardian](https://www.theguardian.com/technology/2017/oct/04/google-deepmind-ai-artificial-intelligence-ethics-group-problems) that it remains a mystery who is on it, what they discuss, or even whether it has officially met. Nonetheless, the creation of DMES is  the hallmark of a change in attitude from DeepMind over the past year, which has seen the company reassess its previously closed and secretive outlook.
 
 ## Competitive Advantages
 

@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 October 3. [Why we launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/). *DeepMind*. ([DeepMind](research-groups/deepmind.md); [Wired UK](http://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence); [The Guardian](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board))
 * 2017 September 7, Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Mudumba, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, and Yoshua Bengio. [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349). *arXiv:1709.02349*. ([Chatbot](http://realai.org/chatbot/))
 
 ## Main Contents
