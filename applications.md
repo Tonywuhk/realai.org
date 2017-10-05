@@ -5,11 +5,19 @@ permalink: /applications/
 
 A list of applications that productively make use of recent advances in AI.
 
-* 2017 August 3. [Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations](https://venturebeat.com/2017/08/03/facebook-now-uses-caffe2-deep-learning-for-the-sites-4-5-billion-daily-translations/). *VentureBeat*.
 * 2017 May 24. [The Machine Intelligence Behind Gboard](https://research.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html). *Google Research Blog*.
 * 2017 May 11. [Neural Network-Generated Illustrations in Allo](https://research.googleblog.com/2017/05/neural-network-generated-illustrations.html). *Google Research Blog*.
-* 2016 September 27. [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html). *Google Research Blog*.
 * 2015 November 3. [Computer, respond to this email.](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html) *Google Research Blog*.
+
+## Machine Translation
+
+* 2017 October 4. [Google's Pixel Buds translation will change the world](https://www.engadget.com/2017/10/04/google-pixel-buds-translation-change-the-world/). *EnGadget*.
+* 2017 August 3. [Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations](https://venturebeat.com/2017/08/03/facebook-now-uses-caffe2-deep-learning-for-the-sites-4-5-billion-daily-translations/). *VentureBeat*.
+* 2016 September 27. [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html). *Google Research Blog*.
+
+## Speech Synthesis
+
+* 2017 October 4. [WaveNet launches in the Google Assistant](https://deepmind.com/blog/wavenet-launches-google-assistant/). *DeepMind Blog*.
 
 ## APIs
 

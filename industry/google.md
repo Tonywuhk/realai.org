@@ -24,7 +24,7 @@ Google Brain Toronto was launched in March 2017. According to a Google Official 
 
 ## Hardware
 
-In September 2017, Google [paid $1.1 billion](https://www.reuters.com/article/us-htc-m-a-google/google-bets-anew-on-smartphones-pays-1-1-billion-for-htcs-pixel-division-idUSKCN1BW06L) for [HTC](https://en.wikipedia.org/wiki/HTC)'s Pixel division.
+In September 2017, Google [paid $1.1 billion](https://www.reuters.com/article/us-htc-m-a-google/google-bets-anew-on-smartphones-pays-1-1-billion-for-htcs-pixel-division-idUSKCN1BW06L) for [HTC](https://en.wikipedia.org/wiki/HTC)'s Pixel division. Google announced Pixel 2 ([TechCrunch report](https://techcrunch.com/2017/10/04/this-is-the-google-pixel-2-arriving-october-17-for-649/) on October 4, 2017, arriving October 17 for $649.
 
 ## Retail
 

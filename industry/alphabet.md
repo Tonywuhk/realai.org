@@ -13,7 +13,7 @@ It was [announced on August 10, 2015](https://googleblog.blogspot.hk/2015/08/goo
 
 ### Waymo
 
-According to a [report from The Atlantic on August 23, 2017](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/), Waymo conduct “structured testing” program at a secret base in the Central Valley they call Castle. There are also 25,000 virtual self-driving cars making their way through fully modeled versions of Austin, Mountain View, and Phoenix in a simulation called Carcraft.
+According to a [report from The Atlantic on August 23, 2017](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/), Waymo conduct “structured testing” program at a secret base in the Central Valley they call Castle. There are also 25,000 virtual self-driving cars making their way through fully modeled versions of Austin, Mountain View, and Phoenix in a simulation called Carcraft. Silicon Valley Business Journal [reported in October 2017](https://www.bizjournals.com/sanjose/news/2017/10/03/waymo-to-launch-ride-sharing-service-if-it-can-get.html) that according to The Information, Waymo wants to launch the first commercial ride-sharing service with no human safety drivers as soon as this fall.
 
 #### Analyst's Opinions
 

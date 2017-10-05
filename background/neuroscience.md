@@ -57,12 +57,13 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 
 * 2017 May 31, Friedemann Zenke and Surya Ganguli. [SuperSpike: Supervised learning in multi-layer spiking neural networks](https://arxiv.org/abs/1705.11146). *arXiv:1705.11146*.
 
-## Some Theories of Intelligence
+## Approaches to Intelligence
 
-Neuroscience has spurred many attempts at building machine intelligence, such as [Hierarchical Temporal Memory](http://numenta.org/) ([Hawkins et al., 2016](http://numenta.com/biological-and-machine-intelligence/)) and [Feynman Machine](https://hackernoon.com/feynman-machine-a-new-approach-for-cortical-and-machine-intelligence-5855c0e61a70).
+Neuroscience has spurred many attempts at building machine intelligence, such as [Hierarchical Temporal Memory](http://numenta.org/) ([Hawkins et al., 2016](http://numenta.com/biological-and-machine-intelligence/)), [Feynman Machine](https://hackernoon.com/feynman-machine-a-new-approach-for-cortical-and-machine-intelligence-5855c0e61a70), and [Simple Cortex]([Di Giorgio, 2017](https://arxiv.org/abs/1710.01347)). They typically seek to build systems that mimic the human brain at a finer level of detail than what's common in deep learning.
 
 ### References
 
+* 2017 October 3, David Di Giorgio. [Simple Cortex: A Model of Cells in the Sensory Nervous System](https://arxiv.org/abs/1710.01347). *arXiv:1710.01347*.
 * 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
 
 ## Further Reading
