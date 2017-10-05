@@ -74,9 +74,13 @@ Responding to the [survey results](https://arxiv.org/abs/1705.08807) mentioned i
 
 According to a February 2017 [TechCrunch report](https://techcrunch.com/2017/02/27/superintelligent-ai-explains-softbanks-push-to-raise-a-100bn-vision-fund/), Softbank CEO **Masayoshi Son** believed that in 30 years, the world would see singularity, in the form of superintelligence robots.
 
-Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution had been very profound and surprised him, accroding to [a report by Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements).
+Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution had been very profound and surprised him, according to [a report by Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-01-19/google-s-sergey-brin-surprised-by-speed-of-ai-advancements).
 
 ## Predictions Based on Computational Power
 
 In July 2015, Tim Dettmers [estimated](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/) that we would reach the brain's computational power in 2078. He also presented scenarios in which we'd reach it earlier, in 2037 and 2053.
+
+## Speed of Improvement
+
+WaveNet was [introduced on September 8, 2016](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), when it needed 1 second to generate just 0.02 seconds of audio. By [October 4, 2017](https://deepmind.com/blog/wavenet-launches-google-assistant/), it can produce 20 seconds of higher quality audio in 1 second, that is "1,000 times faster" and better.
 

@@ -47,10 +47,10 @@ OpenAI Baselines contains another [sample script](https://github.com/openai/base
 ```bash
 wget http://realai.org/course/reinforcement-learning/mp4-cartpole.py
 xvfb-run -s "-screen 0 1400x900x24" bash
-python mp4_cartpole.py 
+python mp4-cartpole.py
 cd /tmp/CartPole
 sudo python3 -m http.server 80
 ```
 
-The last line above sets up a HTTP server so that now we can download MP4 files from the web. [Here](DQN-agent-on-CartPole-1.mp4) is one of the files generated following the instructions above.
+The last line above sets up a HTTP server so that now we can download MP4 files from our virtual machine at its External IP address. [Here](DQN-agent-on-CartPole-1.mp4) is one of the files generated following the instructions above.
 

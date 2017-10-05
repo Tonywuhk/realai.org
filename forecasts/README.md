@@ -37,6 +37,12 @@ According to a [CBC News](http://www.cbc.ca/news) report [posted](http://www.cbc
 
 ## Research
 
+Future work of [Pascanu & Li et al. (2017)](https://arxiv.org/abs/1707.06170) should "explore using RNNs or local navigation within the tree to handle variable sized sets of route choices for the manager" component of the Imagination-based Planner (IBP).
+
+### References
+
+* 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*.
+
 ## Other Forecasts
 
 * 2017 January 4, Miles Brundage. [My AI Forecasts--Past, Present, and Future (Main Post)](http://www.milesbrundage.com/blog-posts/my-ai-forecasts-past-present-and-future-main-post). *Personal Blog*.
