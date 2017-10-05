@@ -18,6 +18,8 @@ In reinforcement learning (RL), agents learn to maximize numerical rewards provi
 
 [OpenAI Baselines](https://github.com/openai/baselines) is an open-source collection of [OpenAI](http://realai.org/research-groups/openai/)'s reinforcement learning implementations. According to their [blog](https://blog.openai.com/openai-baselines-dqn/), it is OpenAI's internal effort to reproduce published results. As of 25 May 2017, these implementations include [DQN](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html), [Double Q Learning](https://arxiv.org/abs/1509.06461), [Prioritized Replay](https://arxiv.org/abs/1511.05952), [Dueling DQN](https://arxiv.org/abs/1511.06581), [ACKTR and A2C](https://blog.openai.com/baselines-acktr-a2c/), using Python 3 and [TensorFlow](https://www.tensorflow.org/).
 
+* [DQN Agent on CartPole](DQN-agent-on-CartPole.md)
+
 ## Further Reading
 
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.

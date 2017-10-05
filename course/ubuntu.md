@@ -12,6 +12,8 @@ title: Course | Ubuntu
 
 A command can start with optional variable assignments such as `DISPLAY=:10.0`. This is part of a [simple command expansion](https://www.gnu.org/software/bash/manual/bashref.html#Simple-Command-Expansion), and is also documented in the "SHELL GRAMMAR" section of the man page of `bash`.
 
+[Shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) (aka hashbang) at the beginning of a script allows it to be run as a program. If a Python script is intended for use as a bash command, it is a good practice to let its first line be `#!/usr/bin/env python`, where `env` makes sure python is found in case it's not in exactly the default location on the current Unix systems.
+
 ## Package Management
 
 The [apt](https://help.ubuntu.com/lts/serverguide/apt.html) command is a powerful command-line tool, which works with Ubuntu's Advanced Packaging Tool (APT). [Comparing](https://itsfoss.com/apt-vs-apt-get-difference/) with apt-get and apt-cache, it can be said that apt contains the most commonly used options from the two older tools.
@@ -24,6 +26,11 @@ Ubuntu organizes files in a [hierarchical tree](https://help.ubuntu.com/communit
 * `/tmp` is a place for temporary files. It is cleaned automatically, for example, by [tmpreaper](http://manpages.ubuntu.com/manpages/xenial/man8/tmpreaper.8.html).
 * `/usr/bin` contains executable (binary) files that are usually part of the operating system and installed by its package manager. For example, on a Ubuntu 16.04 virtual machine created from [Google Cloud Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine), both `python` and `python3` are from `/usr/bin`. Better not touch them without using `apt`.
 * `/usr/local/bin` contains the binary files that are usually installed by the local administrator, sometimes built from source. They use a “local” directory in order not to be disrupt system behavior.
+
+## User Management
+
+* `sudo adduser <newuser>` adds a new user from a non-root user with sudo privileges
+* `su <username>` switches to the account of "username"
 
 ## Useful Commands
 

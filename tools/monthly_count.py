@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import sys
+from datetime import datetime
 from pathlib import Path
 
 YEARS = ['2017', '2016', '2015', '2014']
@@ -30,12 +31,14 @@ def monthly_count(text):
         for year in YEARS:
             yy_mm = year + ' ' + month
             count = text.count(yy_mm)
-            print("{:>5}".format(count), end='')
-
             if year in totals:
                 totals[year] += count
             else:
                 totals[year] = 0
+ 
+            if datetime.today() < datetime.strptime(yy_mm, "%Y %B"):
+                count = '--'
+            print("{:>5}".format(count), end='')
         print()
     print('-----------------------------')
     print('Total    ', end='')
