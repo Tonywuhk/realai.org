@@ -7,11 +7,21 @@ permalink: /research-groups/deepmind/
 
 [DeepMind](https://deepmind.com/) Technologies Limited is a private limited company incorporated on September 23, 2010. Until November 15, 2010, its name was "FRIARS 2022 LIMITED". Google acquired DeepMind for more than $500M, as [reported by TechCrunch on January 26, 2014](https://techcrunch.com/2014/01/26/google-deepmind/), or £400m as [understood by the Guardian](https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind). In a [Wired UK report on June 22, 2015](http://www.wired.co.uk/article/deepmind), DeepMind's cofounder and chief executive Demis Hassabis reflected on why he sold the company, "I realised that there's maybe not enough time in one lifetime to both build a Google-sized company and solve AI. Would I be happier looking back on building a multi-billion business or helping solve intelligence? It was an easy choice. And there was something Larry said to me: 'I spent 15 years building Google -- why don't you just come and take advantage of the opportunity we've built here?' I didn't have a good answer to that."
 
-On 23 October 2014, Google [announced on its Europe blog](https://europe.googleblog.com/2014/10/teaming-up-with-oxford-university-on.html) that Oxford's AI research teams Dark Blue Labs and Vision Factory would join DeepMind. This news was reported by [TechCrunch](https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford/) and [The Guardian](https://www.theguardian.com/technology/2014/oct/23/google-uk-artificial-intelligence-startups-machine-learning-dark-blue-labs-vision-factory). In July 2017, DeepMind [opened](https://deepmind.com/blog/deepmind-office-canada-edmonton/) its first ever international AI research office in Edmonton, Canada, which would be led by [University of Alberta](https://www.ualberta.ca/) professors [Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) and Patrick Pilarski. The opening was reported by [Edmonton Journal](http://edmontonjournal.com/business/local-business/paula-simons-global-head-snap-googles-deepmind-sets-up-shop-in-edmonton) and [Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab).
-
-DeepMind's [official records](https://beta.companieshouse.gov.uk/company/07386350) are available from [Companies House](https://www.gov.uk/government/organisations/companies-house).
+On 23 October 2014, Google [announced on its Europe blog](https://europe.googleblog.com/2014/10/teaming-up-with-oxford-university-on.html) that Oxford's AI research teams Dark Blue Labs and Vision Factory would join DeepMind. This news was reported by [TechCrunch](https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford/) and [The Guardian](https://www.theguardian.com/technology/2014/oct/23/google-uk-artificial-intelligence-startups-machine-learning-dark-blue-labs-vision-factory).
 
 DeepMind has two main lines of business: Research and Applied. Its organized efforts in research has yielded a long list of [publications](http://realai.org/research-groups/publications/deepmind/).
+
+## Locations
+
+According to [Rowan (2015)](http://www.wired.co.uk/article/deepmind), DeepMind stayed in London partly because of a talent advantage. On Silicon Valley, Hassabis noted that "if you're focusing on a long-term goal, the Valley can be a bubble."
+
+### Edmonton Office
+
+In July 2017, DeepMind [opened](https://deepmind.com/blog/deepmind-office-canada-edmonton/) its first ever international AI research office in Edmonton, Canada, which would be led by [University of Alberta](https://www.ualberta.ca/) professors [Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) and Patrick Pilarski. The opening was reported by [Edmonton Journal](http://edmontonjournal.com/business/local-business/paula-simons-global-head-snap-googles-deepmind-sets-up-shop-in-edmonton) and [Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab).
+
+### Montreal Office
+
+In October 2017, DeepMind [opened](https://deepmind.com/blog/strengthening-our-commitment-canadian-research/) an office in Montreal, in close collaboration with McGill University. It will be led by [Doina Precup](http://cs.mcgill.ca/~dprecup/), Associate Professor in the School of Computer Science at McGill. Doina will be supported by Shibl Mourad who will head up the engineering and program management teams at DeepMind Montreal and DeepMind Alberta.
 
 ## Ethics
 
@@ -33,10 +43,6 @@ According to a [Wired UK](http://www.wired.co.uk/article/deepmind-ethics-and-soc
 
 In a July 2017 [interview](https://www.leiphone.com/news/201707/3tgq679xJMqKGhxM.html), UCL professor [Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) explained why there wasn't a company like DeepMind in China. Wang noted that venture capital investors were unlikely to fund long-term fundamental research, and universities lacked mechanism for a large number of PhD students to collaborate.
 
-### Location
-
-According to [Rowan (2015)](http://www.wired.co.uk/article/deepmind), DeepMind stayed in London partly because of a talent advantage. On Silicon Valley, Hassabis noted that "if you're focusing on a long-term goal, the Valley can be a bubble."
-
 ### Research Strategy
 
 In a [July 2017 interview with The Verge](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview), Hassabis stated that "one of our big founding principles was that embodied cognition is key." This means to induce intelligence from "sensory and motor streams."
@@ -52,6 +58,15 @@ In June 2017, DeepMind [described in a blog](https://deepmind.com/blog/neural-ap
 DeepMind Applied is led by Mustafa Suleyman, and works in two sectors: [DeepMind Health](https://deepmind.com/applied/deepmind-health/) and [DeepMind for Google](https://deepmind.com/applied/deepmind-for-google/).
 
 In March 2017, a machine learning expert [believed](http://www.afr.com/brand/chanticleer/google-will-disrupt-funds-management-says-machine-learning-expert-20170329-gv93jc) that a new powerful **fund management** machine would likely emerge from DeepMind.
+
+## Financials
+
+Quartz [reported](https://qz.com/1095833/how-much-googles-deepmind-ai-research-costs-goog/) in October 2017 that DeepMind lost £123.5 million on £40.2 million of revenue in the previous year. DeepMind's [official records](https://beta.companieshouse.gov.uk/company/07386350) are available from [Companies House](https://www.gov.uk/government/organisations/companies-house). According to these records:
+
+| (£)            | 2016          | 2015          | 2014          |
+| -------------- | -------------:| -------------:| -------------:|
+| Turnover       |    40,283,597 | -             | -             |
+| Operating Loss | (123,528,400) | (54,162,443)  | (38,182,149)  |
 
 ## Sources
 

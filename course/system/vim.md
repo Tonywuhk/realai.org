@@ -11,10 +11,9 @@ redirect_from: /vim/
 * [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
 
-## Progression
+## Learning
 
-After a few months of typical `vim` experience, beginners might find the following article helpful:
-
+* 2017 October 6. [How To Learn Vim: A Four Week Plan](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85). *Medium*.
 * 2017 September 24. [Learning Vim: What I Wish I Knew](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7). *Hacker Noon*.
 
 ## Useful Tricks
