@@ -15,6 +15,7 @@ The capability of inducing programs is a key to solving AI.
 
 ## References
 
+* 2017 October 4, Danfei Xu, Suraj Nair, Yuke Zhu, Julian Gao, Animesh Garg, Li Fei-Fei, and Silvio Savarese. [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://arxiv.org/abs/1710.01813). *arXiv:1710.01813*. [site](https://stanfordvl.github.io/ntp/).
 * 2017 September 17, Kory Becker and Justin Gottschlich. [AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms](https://arxiv.org/abs/1709.05703). *arXiv:1709.05703*.
 * 2017 August 1, Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua B. Tenenbaum. [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627). *arXiv:1707.09627*.
 * 2017 May 11, Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. [Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems](https://arxiv.org/abs/1705.04146). *arXiv:1705.04146*.

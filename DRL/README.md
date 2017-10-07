@@ -1,6 +1,5 @@
 ---
-permalink: /deep-reinforcement-learning/
-redirect_from: /DRL/
+permalink: /DRL/
 ---
 # Deep Reinforcement Learning
 

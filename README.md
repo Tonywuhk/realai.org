@@ -41,10 +41,11 @@ mathjax: true
     4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
 5. [Machine Learning](http://realai.org/machine-learning/) (excluding RL)
-    1. Learning Goals
+    1. Learning Outcomes
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
-        3. [Few-Shot Learning](http://realai.org/few-shot-learning/)
+        3. [Meta-Learning](http://realai.org/meta-learning/)
+            * [Few-Shot Learning](http://realai.org/few-shot-learning/)
         4. [Multi-Task Learning](http://realai.org/multi-task-learning/)
         5. [Predictive Learning](http://realai.org/predictive-learning/)
         6. [Transfer Learning](http://realai.org/transfer-learning/)
@@ -52,10 +53,9 @@ mathjax: true
     2. Learning Techniques
         1. [Attention](http://realai.org/attention/)
         2. [Curriculum Learning](http://realai.org/curriculum-learning/)
-        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/):          
+        3. [Hierarchical Learning](http://realai.org/hierarchical-learning/)
         4. [Imitation Learning](http://realai.org/imitation-learning/)
-        5. [Meta-Learning](http://realai.org/meta-learning/)
-        6. [Memory](http://realai.org/memory/)
+        5. [Memory](http://realai.org/memory/)
     3. Deep Learning
         1. [Network Architecture](http://realai.org/network-architecture/)
             * [Architecture Search](http://realai.org/architecture-search/)
@@ -73,24 +73,25 @@ mathjax: true
         3. [Robotics](http://realai.org/robotics/): Autonomous Driving
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
  
-6. [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/) (Deep RL; DRL)
-    1. Outstanding Challenges
+6. [DRL](DRL/README.md) (Deep RL; Deep Reinforcement Learning)
+    1. [Learning Algorithms](DRL/learning-algorithms.md)
+    2. Learning Targets
+        1. [Intrinsic Motivation](DRL/intrinsic-motivation.md)
+            * [Exploration](DRL/exploration.md)
+            * [Empowerment](DRL/empowerment.md)
+        2. [Auxiliary Tasks](DRL/auxiliary-tasks.md)
+    3. [Environments](DRL/environments.md)
+    4. [Agents](DRL/agents.md)
+        1. [Chatbot](http://realai.org/chatbot/)
+    5. Outstanding Challenges
         1. [Symbol Grounding](http://realai.org/symbol-grounding/)
         2. World Model
         3. [Planning](http://realai.org/planning/)
         4. [Reasoning](http://realai.org/reasoning/)
-    2. [Environments](http://realai.org/environments/)
-    3. [Agents](deep-reinforcement-learning/agents.md)
-        1. [Chatbot](http://realai.org/chatbot/)
-    4. [Model-Free Algorithms](deep-reinforcement-learning/model-free.md)
-    5. [Intrinsic Motivation](http://realai.org/intrinsic-motivation/)
-        1. [Exploration](http://realai.org/exploration/)
-        2. [Empowerment](http://realai.org/empowerment/)
-    6. [Auxiliary Tasks](http://realai.org/auxiliary-tasks/)
-    7. Reinforcement Learning Topics
-        1. [Safe Reinforcement Learning](deep-reinforcement-learning/safety.md)
+    6. Topics
+        1. [Safety](DRL/safety.md)
         2. [Multi-Agent Learning](multi-agent-learning.md)
-        3. [General Reinforcement Learning](deep-reinforcement-learning/general.md)
+        3. [General Reinforcement Learning](DRL/general.md)
 
 7. [Research](http://realai.org/research/)
 

@@ -1,5 +1,5 @@
 ---
-permalink: /auxiliary-tasks/
+permalink: /DRL/auxiliary-tasks/
 ---
 # Auxiliary tasks
 

@@ -1,6 +1,5 @@
 ---
-permalink: /deep-reinforcement-learning/model-free/
-redirect_from: /DRL/model-free/
+permalink: /DRL/learning-algorithms/
 mathjax: true
 ---
 # Model-Free Reinforcement Learning Algorithms

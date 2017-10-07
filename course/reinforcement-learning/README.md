@@ -1,12 +1,13 @@
 ---
 permalink: /course/reinforcement-learning/
 redirect_from:
+  - /RL/
   - /course/RL/
   - /course/DRL/
 ---
 # Reinforcement Learning
 
-In reinforcement learning (RL), agents learn to maximize numerical rewards provided by an [environment](../../environments.md) that is influenced by the agents' actions. The agents can learn to explicitly build models of their environment, which they then use for [planning](../../planning.md). This type of learning is referred to as model-based, as opposed to the simpler [model-free algorithms](../../DRL/model-free.md) where agents learn actions directly. When reward signals are sparse, learning is often helped by giving the agents [auxiliary tasks](../../auxiliary-tasks.md) that are believed to be helpful for the completion of their original task. Some auxiliary tasks depend so little on the specifics of the original task that they effectively become the agents' [intrinsic motivations](../../intrinsic-motivation.md). When it is not clear what the rewards should be, it is possible for the agents to infer the reward function from demonstrations, using an [imitation learning](../../imitation-learning.md) method called inverse reinforcement learning.
+In reinforcement learning (RL), agents learn to maximize numerical rewards provided by an [environment](../../environments.md) that is influenced by the agents' actions. The agents can learn to explicitly build models of their environment, which they then use for [planning](../../planning.md). This type of learning is referred to as model-based, as opposed to the simpler model-free [algorithms](../../DRL/learning-algorithms.md) where agents learn actions directly. When reward signals are sparse, learning is often helped by giving the agents [auxiliary tasks](../../auxiliary-tasks.md) that are believed to be helpful for the completion of their original task. Some auxiliary tasks depend so little on the specifics of the original task that they effectively become the agents' [intrinsic motivations](../../intrinsic-motivation.md). When it is not clear what the rewards should be, it is possible for the agents to infer the reward function from demonstrations, using an [imitation learning](../../imitation-learning.md) method called inverse reinforcement learning.
 
 ## Contents
 

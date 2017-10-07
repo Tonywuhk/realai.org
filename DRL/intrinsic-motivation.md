@@ -1,5 +1,5 @@
 ---
-permalink: /intrinsic-motivation/
+permalink: /DRL/intrinsic-motivation/
 mathjax: true
 ---
 # Intrinsic Motivation
@@ -9,8 +9,8 @@ The rewards reinforcement learning agents receive are commonly interpreted as si
 There are many approaches ([Oudeyer & Kaplan, 2008](http://www.lucs.lu.se/LUCS/139/oudeyer.pdf)) to intrinsic motivation, some commonly used ones include:
 
 * [Prediction](http://realai.org/predictive-learning/)
-* [Exploration](http://realai.org/exploration/)
-* [Empowerment](http://realai.org/empowerment/)
+* [Exploration](exploration.md)
+* [Empowerment](empowerment.md)
 
 Intrinsic motivation can depend on the architecture of agents, while agnosticity in the specifics of tasks is maintained. [Florensa et al. (2017)](https://arxiv.org/abs/1704.03012) designed a single proxy reward that encodes the prior about useful high level bahaviors, then combined Stochastic Neural Networks with mutual information to encourage diversity of skills.
 

@@ -1,11 +1,10 @@
 ---
-permalink: /environments/
-title: DRL | Environments
+permalink: /DRL/environments/
 mathjax: true
 ---
 # Environments
 
-[Deep reinforcement learning](http://realai.org/deep-reinforcement-learning/) (DRL) agents learn from interactions with the environments. Since 2013, DRL environments have become increasingly more flexible and sophisticated.
+Deep reinforcement learning ([DRL](README.md)) agents learn from interactions with the environments. Since 2013, DRL environments have become increasingly more flexible and sophisticated.
 
 ## OpenAI Gym
 
@@ -59,7 +58,7 @@ In an earlier [blog post](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-b
 
 On the Atari game Ms. Pac-Man, a reinforcement learning agent using the Hybrid Reward Architecture (HRA) achieved the maximum possible score of 999,990 points in less than 3,000 episodes ([van Seijen et al., 2017](https://arxiv.org/abs/1706.04208)). The overall \\(Q\\)-value function in the HRA is a weighted sum of individual \\(Q\\)-value functions whose weights correspond to in-game rewards for eating a pellet, blue ghost or fruit. The weights for Ms. Pac-Man to lose a life are set to -1,000. An *executive memory* records every sequence of actions that pass a level without any kill, so that they can be used for the same level. This particular technique contributes to achieving the maximum possible score, but does not generalize. It received a [negative review](https://www.theregister.co.uk/2017/06/15/microsoft_pac_man/) on The Register.
 
-In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-networks-artificial-intelligence-atari-demo/) that AI company [Vicarious](https://www.vicarious.com/) developed Schema Networks. In [Kansky et al. (2017)](https://arxiv.org/abs/1706.04317), specific Schema Networks are designed for the Atari game Breakout, and after training, they outperform the general learning algorithms [A3C](http://realai.org/rl/model-free/) in several variations of Breakout.
+In June 2017, Wired [reported](https://www.wired.com/story/vicarious-schema-networks-artificial-intelligence-atari-demo/) that AI company [Vicarious](https://www.vicarious.com/) developed Schema Networks. In [Kansky et al. (2017)](https://arxiv.org/abs/1706.04317), specific Schema Networks are designed for the Atari game Breakout, and after training, they outperform the general [learning algorithms](learning-algorithms.md) A3C in several variations of Breakout.
 
 ##### References
 

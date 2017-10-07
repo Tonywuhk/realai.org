@@ -1,6 +1,5 @@
 ---
-permalink: /deep-reinforcement-learning/general/
-redirect_from: /DRL/general/
+permalink: /DRL/general/
 ---
 # General Reinforcement Learning
 

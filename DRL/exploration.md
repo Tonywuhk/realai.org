@@ -1,5 +1,5 @@
 ---
-permalink: /exploration/
+permalink: /DRL/exploration/
 mathjax: true
 ---
 # Exploration

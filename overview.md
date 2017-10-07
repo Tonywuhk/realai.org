@@ -1,4 +1,4 @@
----
+
 permalink: /overview/
 ---
 # Overview
@@ -23,7 +23,7 @@ Broadly speaking, whenever we apply deep neural networks to machine learning pro
 
 Since 2013, deep learning methods have significantly accelerated progress in reinforcement learning, leading to a young field of its own called deep reinforcement learning (DRL). DRL research directly addresses core challenges on the path to AGI, especially on the time dimension, such as [reasoning](http://realai.org/reasoning/) and [planning](http://realai.org/planning/). Unlike “timeless” deep learning, however, DRL has yet to find compelling commercial applications and is mainly used in the domain of [games](http://realai.org/environments/#games). Here and elsewhere on this site, we normally use the narrow interpretation of deep learning, in order to clearly distinguish it from DRL, which is not widely used in everyday life at present, but has enormous near-term potential towards AGI.
 
-The remainder of the site is organized as follows: The [Background](http://realai.org/background/) section covers academic disciplines that are relevant to understanding AI based on science and reasoning. The [Course](http://realai.org/course/) section provides a technical foundation for readers to understand and implement frontline research results. [Machine Learning](http://realai.org/machine-learning/) contains brief surveys of relevant fields that support the identification of an academic area that will most likely lead to the first successful AGI development. At present, these surveys point to one area, [Deep Reinforcement Learning](http://realai.org/deep-reinforcement-learning/), for which we conduct an extensive literature review. Finally we describe our own Research that is not yet covered by the existing literature.
+The remainder of the site is organized as follows: The [Background](http://realai.org/background/) section covers academic disciplines that are relevant to understanding AI based on science and reasoning. The [Course](http://realai.org/course/) section provides a technical foundation for readers to understand and implement frontline research results. [Machine Learning](http://realai.org/machine-learning/) contains brief surveys of relevant fields that support the identification of an academic area that will most likely lead to the first successful AGI development. At present, these surveys point to one area, [Deep Reinforcement Learning](DRL/README.md), for which we conduct an extensive literature review. Finally we describe our own Research that is not yet covered by the existing literature.
 
 ## References
 

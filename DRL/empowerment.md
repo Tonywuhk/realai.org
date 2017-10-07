@@ -1,5 +1,5 @@
 ---
-permalink: /empowerment/
+permalink: /DRL/empowerment/
 ---
 # Empowerment
 
