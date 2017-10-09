@@ -14,8 +14,13 @@ The IU agent seeks to maximize the expected value of all tasks while following a
 
 The Imagination-Augmented Agent (I2A) uses a model-based path to provide additional information to a traditional [model-free](model-free.md) RL agent. In the model-based path, the agent can "imagine" trajectories by simulating the environment. An environment model provides simulations based on the agent's imagined actions. Multiple simulations can be aggregated to help the agent decide its eventual action. The agent can tolerate imperfections in the environment model's predictions because it can learn how to extract useful information from the simulation results. In [Weber & Racanière et al. (2017)](https://arxiv.org/abs/1707.06203), the model-free portion is an [A3C agent](model-free.md#asynchronous-advantage-actor-critic-agent). They demonstrate the performance of I2A agents in two challenging game environments: Sokoban and MiniPacman.
 
+## Rainbow
+
+*Rainbow* is a single agent that learns to play Atari 2600 games. It integrates complementary [learning algorithms](learning-algorithms.md) in order to achieve better performance and data efficiency.  [Hessel et al. (2017)](https://arxiv.org/abs/1710.02298) introduce the Rainbow agent that integrates a selection of six extensions to the DQN algorithm: double Q-learning, prioritized replay, dueling networks, multi-step learning, distributional RL, and noisy nets. Their agent achieves a new state-of-the-art median score of 223% across 57 Atari games in the no-ops regime.
+
 ## References
 
+* 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*
 * 2017 July 19, Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, and Daan Wierstra. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203). *arXiv:1707.06203*. [video](https://drive.google.com/open?id=0B4tKsKnCCZtQY2tTOThucHVxUTQ). [blog](https://deepmind.com/blog/agents-imagine-and-plan/).
 * 2017 July 11, Serkan Cabi, Sergio Gómez Colmenarejo, Matthew W. Hoffman, Misha Denil, Ziyu Wang, and Nando de Freitas. [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300). *arXiv:1707.03300*.
 

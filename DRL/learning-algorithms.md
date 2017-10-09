@@ -2,9 +2,9 @@
 permalink: /DRL/learning-algorithms/
 mathjax: true
 ---
-# Model-Free Reinforcement Learning Algorithms
+# Learning Algorithms
 
-The algorithms below assume that we have set up a [Markov Decision Process](http://realai.org/course/reinforcement-learning/markov-decision-process/).
+The algorithms below assume that we have set up a [Markov Decision Process](http://realai.org/course/reinforcement-learning/markov-decision-process/). Many of these algorithms are complementary to each other and can be used in an integrated single [agent](agents.md) such as *Rainbow*.
 
 ## Value Based Reinforcement Learning Algorithms
 

@@ -23,6 +23,11 @@ A list of applications that productively make use of recent advances in AI.
 
 * 2017 June 15. [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html). *Google Research Blog*.
 
+## Energy
+
+* 2017 March 13. [Google's Deepmind wants to cut 10% off the entire UK's energy bill](http://uk.businessinsider.com/google-deepmind-wants-to-cut-ten-percent-off-entire-uk-energy-bill-using-artificial-intelligence-2017-3). *Business Insider UK*.
+* 2016 July 20. [DeepMind AI Reduces Google Data Centre Cooling Bill by 40%](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/). *DeepMind Blog*.
+
 ## Financial Markets Applications
 
 According to a [Bloomberg Technology report](https://www.bloomberg.com/news/articles/2017-06-28/fund-manager-who-traded-for-cohen-trains-algos-to-copy-his-brain) in June 2017, a hedge fund is testing models that mimic trades of its portfolio managers. The work of execution traders are also being automated. In September 2017, Bloomberg Markets [reported](https://www.bloomberg.com/news/features/2017-09-27/the-massive-hedge-fund-betting-on-ai) that AI generated profits for Man Group, but its engineers couldn't explain why the AI was executing the trades it was making.

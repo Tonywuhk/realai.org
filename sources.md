@@ -6,7 +6,7 @@ permalink: /sources/
 ## Papers
 
 * Recent submissions on arXiv: [cs.LG](https://arxiv.org/list/cs.LG/recent) \| [cs.AI](https://arxiv.org/list/cs.AI/recent) \| [cs.CV](https://arxiv.org/list/cs.CV/recent) \| [cs.CL](https://arxiv.org/list/cs.CL/recent)
-* Monitors: [Deep Learning Monitor](https://deeplearn.org/) and [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week)
+* Monitors: [Deep Learning Monitor](https://deeplearn.org/) \| [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/toptwtr?timefilter=week) \| [SciRate/cs](https://scirate.com/arxiv/cs)
 * Conferences: [AI Conference Deadlines](https://aideadlin.es/) \| [OpenReview](https://openreview.net/)
 * Collections: [brylevkirill/notes](https://github.com/brylevkirill/notes) \| [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) \| [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) \| [Distill](http://distill.pub/)
 

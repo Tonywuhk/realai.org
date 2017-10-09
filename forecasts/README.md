@@ -39,8 +39,11 @@ According to a [CBC News](http://www.cbc.ca/news) report [posted](http://www.cbc
 
 Future work of [Pascanu & Li et al. (2017)](https://arxiv.org/abs/1707.06170) should "explore using RNNs or local navigation within the tree to handle variable sized sets of route choices for the manager" component of the Imagination-based Planner (IBP).
 
+[Hessel et al. (2017)](https://arxiv.org/abs/1710.02298) introduce the first *Rainbow* agent that integrates six extensions to the DQN algorithm and achieves new state-of-the-art results in Atari games. There are many more algorithmic components that they're not able to include, which would be promising candidates for further experiments. Several such components include pure policy-based RL algorithms, episodic control, exploration methods other than noisy nets, hierarchical RL, and auxiliary tasks.
+
 ### References
 
+* 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*.
 * 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*.
 
 ## Other Forecasts

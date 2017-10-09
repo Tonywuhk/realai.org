@@ -6,8 +6,8 @@ mathjax: true
 
 ## What's New
 
+* 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*. ([DeepMind](research-groups/deepmind.md); [Agents](DRL/agents.md))
 * 2017 October 3. [Why we launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/). *DeepMind*. ([DeepMind](research-groups/deepmind.md); [Wired UK](http://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence); [The Guardian](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board))
-* 2017 September 7, Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Mudumba, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, and Yoshua Bengio. [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349). *arXiv:1709.02349*. ([Chatbot](http://realai.org/chatbot/))
 
 ## Main Contents
 
@@ -40,7 +40,7 @@ mathjax: true
     3. [Deep Learning](http://realai.org/course/deep-learning/) in [TensorFlow](http://realai.org/course/tensorflow/)
     4. Deep [Reinforcement Learning](http://realai.org/course/reinforcement-learning/)
 
-5. [Machine Learning](http://realai.org/machine-learning/) (excluding RL)
+5. [Machine Learning](machine-learning/README.md) (excluding RL)
     1. Learning Outcomes
         1. [Concept Learning](http://realai.org/concept-learning/)
         2. [Continual Learning](http://realai.org/continual-learning/)
@@ -70,7 +70,7 @@ mathjax: true
     4. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)
-        3. [Robotics](http://realai.org/robotics/): Autonomous Driving
+        3. [Robotics](http://realai.org/robotics/): [Autonomous Driving](machine-learning/autonomous-driving.md)
         4. [Automated Theorem Proving](http://realai.org/automated-theorem-proving/)
  
 6. [DRL](DRL/README.md) (Deep RL; Deep Reinforcement Learning)
