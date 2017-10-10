@@ -60,9 +60,11 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 * 2017 May 5. [America’s ‘Miracle Machine’ is in desperate need of, well, a miracle](https://www.washingtonpost.com/opinions/americas-miracle-machine-is-in-desperate-need-of-well-a-miracle/2017/05/05/daafbe6a-30e7-11e7-9534-00e4656c22aa_story.html). *Washinton Post*.
 * 2017 June 14. [U.S. weighs restricting Chinese investment in artificial intelligence](http://www.reuters.com/article/us-usa-china-artificialintelligence-idUSKBN1942OX). *Reuters*.
 
-## Global Collaboration
+## Global Initiatives
 
-In a [New York Times opinion](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html) published on July 29, 2017, [Gary Marcus](http://www.psych.nyu.edu/gary/) claimed the progress of AI was “stuck” and called for an international AI mission to move it forward. As an example of such a mission, he looked at [CERN](https://en.wikipedia.org/wiki/CERN) “with envy”.
+* In a [New York Times opinion](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html) published on July 29, 2017, [Gary Marcus](http://www.psych.nyu.edu/gary/) claimed the progress of AI was “stuck” and called for an international AI mission to move it forward. As an example of such a mission, he looked at [CERN](https://en.wikipedia.org/wiki/CERN) “with envy”.
+
+* [The AI Initiative](http://ai-initiative.org/) is an initiative of [The Future Society](http://www.thefuturesociety.org/) at Harvard Kennedy School dedicated to the rise of Artificial Intelligence. Created in 2015, it gathers students, researchers, alumni, faculty and experts from Harvard and beyond, interested in understanding the consequences of the rise of Artificial Intelligence. Its mission is to help shape the global AI policy framework.
 
 ## Research
 

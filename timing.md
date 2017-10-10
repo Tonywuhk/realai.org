@@ -80,7 +80,9 @@ Alphabet co-founder **Sergey Brin** said in January 2017 that the AI revolution 
 
 In July 2015, Tim Dettmers [estimated](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/) that we would reach the brain's computational power in 2078. He also presented scenarios in which we'd reach it earlier, in 2037 and 2053.
 
-## Speed of Improvement
+## Pace of Improvement
 
 WaveNet was [introduced on September 8, 2016](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), when it needed 1 second to generate just 0.02 seconds of audio. By [October 4, 2017](https://deepmind.com/blog/wavenet-launches-google-assistant/), it can produce 20 seconds of higher quality audio in 1 second, that is "1,000 times faster" and better.
+
+According to an [October public tweet](https://twitter.com/DynamicWebPaige/status/915326707107844097), Google's new neural machine translation system has around 500 lines of TensorFlow code, and performs better than its old translation system of around 500,000 lines of stats-focused code.
 
