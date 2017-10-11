@@ -1,5 +1,4 @@
 ---
-permalink: /multi-agent-learning/
 ---
 # Multi-Agent Learning
 
@@ -27,8 +26,13 @@ Symbolic communication between neural networks can also be learned within an age
 
 [Perolat & Leibo et al. (2017)](https://arxiv.org/abs/1707.06600) study deep RL agents’ emergent behavior in a game with common-pool resources. In the game, apples grow faster when there are more apples nearby, and no apples grow in a completely harvested local area. Over time, agents learn strategies to protect resource from depletion.
 
+## Environments
+
+[Bansal et al. (2017)](https://arxiv.org/abs/1710.03748) introduce four competitive environments, *Run to Goal*, *You Shall Not Pass*, *Sumo* and *Kick and Defend*. These are 3D environments with simulated physics developed using the MuJoCo framework. Agents have continuous control and their key skills include balance, dexterity and manipulation.
+
 ## References
 
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
 * 2017 July 20, Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Charles Beattie, Karl Tuyls, and Thore Graepel. [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600). *arXiv:1707.06600*.
 * 2017 May 31, Serhii Havrylov and Ivan Titov. [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192). *arXiv:1705.11192*.
 * 2017 May 24, Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, and Shimon Whiteson. [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926). *arXiv:1705.08926*.

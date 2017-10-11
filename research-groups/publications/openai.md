@@ -8,6 +8,8 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 
 ## 2017
 
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641). *arXiv:1710.03641*. [site](https://sites.google.com/view/adaptation-via-metalearning).
 * 2017 September 28, Ashvin Nair, Bob McGrew, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel. [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://arxiv.org/abs/1709.10089). *arXiv:1709.10089*.
 * 2017 September 28, Aravind Rajeswaran, Vikash Kumar, Abhishek Gupta, John Schulman, Emanuel Todorov, and Sergey Levine. [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087). *arXiv:1709.10087*.
 * 2017 September 14, Chelsea Finn, Tianhe Yu, Tianhao Zhang, Pieter Abbeel, and Sergey Levine. [One-Shot Visual Imitation Learning via Meta-Learning](https://arxiv.org/abs/1709.04905). *arXiv:1709.04905*.
@@ -16,14 +18,17 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 * 2017 August 25, Coline Devin, Pieter Abbeel, Trevor Darrell, and Sergey Levine. [Deep Object-Centric Representations for Generalizable Robot Learning](https://arxiv.org/abs/1708.04225). *arXiv:1708.04225*.
 * 2017 August 4, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
 * 2017 July 25, Markus Wulfmeier, Ingmar Posner, and Pieter Abbeel. [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907). *arXiv:1707.07907*.
+* 2017 July 24, Anish Athalye and Ilya Sutskever. [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397). *arXiv:1707.07397*.
 * 2017 July 17, Carlos Florensa, David Held, Markus Wulfmeier, and Pieter Abbeel. [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300). *arXiv:1707.05300*.
 * 2017 July 11, YuXuan Liu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine. [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374). *arXiv:1707.03374*.
 * 2017 July 10, Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, and Wojciech Zaremba. [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495). *arXiv:1707.01495*.
 * 2017 July 1, Tambet Matiisen, Avital Oliver, Taco Cohen, and John Schulman. [Teacher-Student Curriculum Learning](https://arxiv.org/abs/1707.00183). *arXiv:1707.00183*.
+* 2017 June 16, Chung-Cheng Chiu, Dieterich Lawson, Yuping Luo, George Tucker, Kevin Swersky, Ilya Sutskever, and Navdeep Jaitly. [An online sequence-to-sequence model for noisy speech recognition](https://arxiv.org/abs/1706.06428). *arXiv:1706.06428*.
 * 2017 June 16, Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell. [The Off-Switch Game](https://arxiv.org/abs/1611.08219). *arXiv:1611.08219*.
 * 2017 June 12, Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, and Dario Amodei. [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). *arXiv:1706.03741*.
 * 2017 June 7, Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch. [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275). *arXiv:1706.02275*.
 * 2017 June 6, Matthias Plappert, Rein Houthooft, Prafulla Dhariwal, Szymon Sidor, Richard Y. Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, and Marcin Andrychowicz. [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905). *arXiv:1706.01905*.
+* 2017 June 6, Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, and Roger Grosse. [On the Quantitative Analysis of Decoder-Based Generative Models](https://arxiv.org/abs/1611.04273). *arXiv:1611.04273*.
 * 2017 June 5, Richard Y. Chen, John Schulman, Pieter Abbeel, and Szymon Sidor. [UCB and InfoGain Exploration via \\(\boldsymbol{Q}\\)-Ensembles](https://arxiv.org/abs/1706.01502). *arXiv:1706.01502*.
 * 2017 May 30, Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel. [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528). *arXiv:1705.10528*.
 * 2017 May 17, David Held, Xinyang Geng, Carlos Florensa, and Pieter Abbeel. [Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366). *arXiv:1705.06366*.
@@ -31,7 +36,9 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 * 2017 April 21, John Schulman, Pieter Abbeel, and Xi Chen. [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440). *arXiv:1704.06440*.
 * 2017 April 10, Carlos Florensa, Yan Duan, and Pieter Abbeel. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012). *arXiv:1704.03012*.
 * 2017 April 5, Alec Radford, Rafal Jozefowicz, and Ilya Sutskever. [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444). *arXiv:1704.01444*.
+* 2017 April 3, Michael Kapralov, Jelani Nelson, Jakub Pachocki, Zhengyu Wang, David P. Woodruff, and Mobin Yahyazadeh. [Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams](https://arxiv.org/abs/1704.00633). *arXiv:1704.00633*.
 * 2017 March 31, Alex X. Lee, Sergey Levine, and Pieter Abbeel. [Learning Visual Servoing with Deep Features and Fitted Q-Iteration](https://arxiv.org/abs/1703.11000). *arXiv:1703.11000*.
+* 2017 March 23, Jelani Nelson, Jakub Pachocki, and Zhengyu Wang. [Optimal lower bounds for universal relation, samplers, and finding duplicates](https://arxiv.org/abs/1703.08139). *arXiv:1703.08139*.
 * 2017 March 22, Yan Duan, Marcin Andrychowicz, Bradly C. Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, and Wojciech Zaremba. [One-Shot Imitation Learning](https://arxiv.org/abs/1703.07326). *arXiv:1703.07326*. [blog](https://blog.openai.com/robots-that-learn/). [video](https://www.youtube.com/watch?v=oMZwkIjZzCM)
 * 2017 March 20, Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, and Pieter Abbeel. [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907). *arXiv:1703.06907*.
 * 2017 March 15, Igor Mordatch and Pieter Abbeel. [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908). *arXiv:1703.04908*.

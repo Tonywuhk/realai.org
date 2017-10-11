@@ -105,7 +105,7 @@ In July 2017, OPP awarded a grant of $2.4 million over four years to the Montrea
 
 ## Sources
 
-* Some [effective altruism organizations](https://www.effectivealtruism.org/get-involved/) recommended by effectivealtruism.org.
+* Some [effective altruism organizations](https://www.effectivealtruism.org/organizations/) recommended by effectivealtruism.org.
 * 2017 May 3 (accessed online), Centre for Effective Altruism. [What is effective altruism?](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/)
 * 2017 May 3 (accessed online), Wikipedia. [Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism).
 * 2017 January 31, William MacAskill. [Effective Altruism: Introduction](http://commons.pacificu.edu/eip/vol18/iss1/1/). *Essays in Philosophy*, 18(1):1-5.

@@ -29,7 +29,7 @@ The scope of an AI system ranges from classical reinforcement learning agents th
 
 [Friston (2017)](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference) argues that consciousness is a process about inferring the causes of sensory states, and thereby navigating the world to elude surprises. We invoke this concept to describe a system when its internal model of self and the world has sufficient *counterfactural depth*, the temporal distance to the future on which the system can grasp the impact of its actions. Curiosity is not mentioned in this essay, and it is not clear how the curious behavior of seeking surprises can be reconciled with a disinterested mind. But it is conceivable that meaningful curiosity can be interpreted as the system acquiring information to reduce future uncertainty.
 
-[Lawrence (2017)](https://arxiv.org/abs/1705.07996) suggests that we develop complex cognitive processes including consciousness as we make best use of the limited bandwidth for [communication](http://realai.org/multi-agent-learning/#communication). The *embodiment factor*, the ratio of compute power to communication bandwidth, is a distinguishing feature of human and current machine intelligence. A typical desktop computer today has an embodiment factor of around \\(10\\), while the huge processing power of human brain and the very low information rate of reading or talking yield an embodiment factor of around \\(10^{16}\\).
+[Lawrence (2017)](https://arxiv.org/abs/1705.07996) suggests that we develop complex cognitive processes including consciousness as we make best use of the limited bandwidth for [communication](../../DRL/multi-agent-learning.md#communication). The *embodiment factor*, the ratio of compute power to communication bandwidth, is a distinguishing feature of human and current machine intelligence. A typical desktop computer today has an embodiment factor of around \\(10\\), while the huge processing power of human brain and the very low information rate of reading or talking yield an embodiment factor of around \\(10^{16}\\).
 
 [Kang et al. (2017)](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30784-4) provide experimental evidence that conscious awareness of having reached a decision arises when the brain’s representation of accumulated evidence reaches a threshold or bound.
 
@@ -72,6 +72,13 @@ In rule-based AI systems, creativity is rarely seen because by design, policies 
 ## Emergence
 
 Complex macroscopic patterns can emerge from a collection of simple processes. In [this video](https://www.youtube.com/watch?v=pNe6fsaCVtI), a rolling circle emerges from multiple well-positioned dots moving in a straight line. Intelligence doesn’t exist among the atoms, the reductionist conclusion is that intelligence doesn’t exist at all, which is clearly absurd. Even neurons or combination of a few neurons follow very simple, non-intelligence rules, it is entirely plausible that complex intelligence can arise when they work together. There is [a theory of reality](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/) in which conscious beings might have greater influence over the future than does the sum of their microscopic components
+
+More relevant to technical AI development, it has been observed repeatedly, in different training environments ([Heess et al., 2017](https://arxiv.org/abs/1707.02286); [Bansal et al., 2017](https://arxiv.org/abs/1710.03748)), that complex behavior of agents can emerge from learning.
+
+### References
+
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
 
 ## Anthropic Reasoning
 

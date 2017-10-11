@@ -7,7 +7,7 @@ The learning of some complex tasks can be a lot more efficient if these tasks ar
 
 ## Hierarchical Deep Reinforcement Learning
 
-[Van Seijen et al. (2016)](https://arxiv.org/abs/1612.05159) generalized the traditional setting by [training multiple agents](http://realai.org/multi-agent-learning/) in a hierarchical way.
+[Van Seijen et al. (2016)](https://arxiv.org/abs/1612.05159) generalized the traditional setting by training [multiple agents](DRL/multi-agent-learning.md) in a hierarchical way.
 
 ## References
 

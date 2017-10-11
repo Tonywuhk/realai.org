@@ -3,9 +3,12 @@ permalink: /few-shot-learning/
 ---
 # Few-Shot Learning
 
-Classification models that perform well after seeing very few samples from each class can be achieved in a number of ways:
+Few-shot learning is about learning to solve tasks using only a small number of samples. In classification models, for example, the objective is to perform well after seeing very few samples from each class.
 
-* A good weight initialization ([Finn et al., 2017](https://arxiv.org/abs/1703.03400)) so that subsequent learning coverges rapidly,
+[Finn et al. (2017)](https://arxiv.org/abs/1703.03400) propose a model-agnostic algorithm to learn a good weight initialization so that subsequent learning coverges rapidly. This technique is later used in a *continuous adaptation* ([Al-Shedivat et al., 2017](https://arxiv.org/abs/1710.03641)) problem, where an agent learns to solve a single but nonstationary task or environment. The source of nonstationarity is some underlying properties of the task, which can also be viewed as a sequence of stationary tasks to which the agent must quickly adapt. This is important in their setup where the agent's experiences in the current task contain information about the next task. These experiences are used to construct the agent's policy for the next task.
+
+Some few-shot learning methods:
+
 * Weight initialization and an optimizer ([Ravi & Larochelle, 2016](https://openreview.net/forum?id=rJY0-Kcll)) that builds on weight update rules meta-learned by gradient descent ([Andrychowicz et al., 2016](https://arxiv.org/abs/1606.04474)),
 * Learning an embedding of examples that facilitates classification by a linear model ([Snell et al., 2017](https://arxiv.org/abs/1703.05175)) or k-nearest neighbor ([Vinyals et al., 2016](https://arxiv.org/abs/1606.04080)), and
 * Using external memory ([Santoro et al., 2016](https://arxiv.org/abs/1605.06065)) to rapidly bind information in the data.
@@ -14,8 +17,11 @@ For deep generative models, an autoencoder can be extended to learn statistics o
 
 [Omniglot](https://github.com/brendenlake/omniglot) is a popular data set for evaluation.
 
+In *continuous adaptation* ([Al-Shedivat et al., 2017](https://arxiv.org/abs/1710.03641)), an agent learns to solve a single but nonstationary task or environment, where the source of nonstationarity is some underlying properties of the task. This task can be seen as a sequence of stationary tasks for which the agent must quickly adapt to.
+
 ## References
 
+* 2017 October 10, Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641). *arXiv:1710.03641*. [site](https://sites.google.com/view/adaptation-via-metalearning).
 * 2017 July 18, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*. [blog](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/).
 * 2017 March 15, Jake Snell, Kevin Swersky, and Richard S. Zemel. [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175). *arXiv:1703.05175*.
 * 2016 November 5, Sachin Ravi and Hugo Larochelle. [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll). *OpenReview*.

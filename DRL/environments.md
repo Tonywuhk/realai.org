@@ -4,7 +4,7 @@ mathjax: true
 ---
 # Environments
 
-Deep reinforcement learning ([DRL](README.md)) agents learn from interactions with the environments. Since 2013, DRL environments have become increasingly more flexible and sophisticated.
+Deep reinforcement learning ([DRL](README.md)) agents learn from interactions with the environments. Intuitively, training a sophisticated agent requires high complexity in its training input, which can come from environmental dynamics as well as other agents' behavior. Since 2013, DRL environments have become increasingly more complex, often encompassing [multiple agents](multi-agent-learning.md) participating in a diverse range of tasks.
 
 ## OpenAI Gym
 
