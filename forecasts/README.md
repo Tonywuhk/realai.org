@@ -41,11 +41,11 @@ Future work of [Pascanu & Li et al. (2017)](https://arxiv.org/abs/1707.06170) sh
 
 [Hessel et al. (2017)](https://arxiv.org/abs/1710.02298) introduce the first *Rainbow* agent that integrates six extensions to the DQN algorithm and achieves new state-of-the-art results in Atari games. There are many more algorithmic components that they're not able to include, which would be promising candidates for further experiments. Several such components include pure policy-based RL algorithms, episodic control, exploration methods other than noisy nets, hierarchical RL, and auxiliary tasks.
 
-[Bansal et al. (2017)](https://arxiv.org/abs/1710.0374) introduce several new competitive multi-agent 3D physically simulated environments. Future experiments can be conducted in larger scale and more complex environments that encourage agents to both compete and cooperate with each other, potentially with the ability to reason about other agents.
+[Bansal et al. (2017)](https://arxiv.org/abs/1710.03748) introduce several new competitive multi-agent 3D physically simulated environments. Future experiments can be conducted in larger scale and more complex environments that encourage agents to both compete and cooperate with each other, potentially with the ability to reason about other agents.
 
 ### References
 
-* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.0374). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
 * 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*.
 * 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*.
 

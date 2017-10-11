@@ -5,13 +5,14 @@ permalink: /industry/
 
 Large technology companies have poured enormous resources into AI, and are sponsors of some world-leading [research groups](http://realai.org/research-groups/).
 
-* [Alphabet Inc.](http://realai.org/industry/alphabet/)
-* [Facebook, Inc.](http://realai.org/industry/facebook/)
-* [Amazon.com, Inc.](http://realai.org/industry/amazon/)
-* [Microsoft Corporation](http://realai.org/industry/microsoft/)
-* [Apple Inc.](http://realai.org/industry/apple/)
-* [NVIDIA Corporation](http://realai.org/industry/nvidia/)
-* [Tencent Holdings Limited](http://realai.org/industry/tencent/)
+* [Alphabet Inc.](alphabet.md)
+* [Facebook, Inc.](facebook.md)
+* [Amazon.com, Inc.](amazon.md)
+* [Microsoft Corporation](microsoft.md)
+* [Apple Inc.](apple.md)
+* [NVIDIA Corporation](nvidia.md)
+* [Alibaba Group Holding](alibaba.md)
+* [Tencent Holdings Limited](tencent.md)
 
 By market capitalization, the first five companies in the above list are also the five [largest](http://www.dogsofthedow.com/largest-companies-by-market-cap.htm) [companies](http://www.iweblists.com/us/commerce/MarketCapitalization.html) in the U.S. In July 2017, they were worth [more than $3 trillion](https://techcrunch.com/2017/07/19/techs-5-biggest-players-now-worth-3-trillion/) when combined.
 
@@ -45,7 +46,7 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 
 ## Community 
 
-* [Partnership on AI](http://realai.org/industry/pai/)
+* [Partnership on AI](pai.md)
 * [SenseTime](https://www.sensetime.com/) is a Chinese startup that was [valued at more than $1.5 billion](https://www.wsj.com/articles/saving-face-investment-in-recognition-technology-heats-up-in-china-1499763603) as of July 2017.  In an August 17 [report](https://zhuanlan.zhihu.com/p/28575934), QbitAI listed four business areas SenseTime is working in, mostly focused on applications of computer vision technology.
 * [deeplearning.ai](https://www.deeplearning.ai/) is a project dedicated to disseminating AI knowledge, [announced](https://medium.com/@andrewng/deeplearning-ai-announcing-new-deep-learning-courses-on-coursera-43af0a368116) by deep learning "[visionary](https://venturebeat.com/2014/05/16/baidu-snatches-googles-deep-learning-visionary-andrew-ng-as-its-chief-scientist/)" Andrew Ng ([Twitter](https://twitter.com/AndrewYNg)) as the first of three new AI projects he had been working on. Andrew Ng was [raising a $150M AI fund](https://techcrunch.com/2017/08/15/andrew-ng-is-raising-a-150m-ai-fund/) in August 2017. Ng was former head of Baidu AI group, appointed as its Chief Scientist in May 2014 when Baidu [opened Silicon Valley Lab](http://ir.baidu.com/phoenix.zhtml?c=188488&p=irol-newsArticle&ID=1931950).
 * [Vicarious](https://www.vicarious.com/) is a Union City, California-based startup developing AGI for robots. In July 2017, it [raised $50 million](https://venturebeat.com/2017/07/25/khosla-ventures-leads-50-million-investment-in-vicarious-ai-tech/) in a round led by Khosla Ventures.

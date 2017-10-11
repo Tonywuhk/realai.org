@@ -24,6 +24,7 @@ In reinforcement learning (RL), agents learn to maximize numerical rewards provi
 ## Further Reading
 
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.
+* 2017 August 26-27, Pieter Abbeel, Rocky Duan, Peter Chen, and Andrej Karpathy. [Deep Reinforcement Learning Bootcamp](https://www.deepbootcamp.io/). *Berkeley, CA*. [Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures).
 * 2017 Fall, *University of California, Berkeley*. [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/). Sergey Levine, Abhishek Gupta, Joshua Achiam. [/r/berkeleydeeprlcourse](https://www.reddit.com/r/berkeleydeeprlcourse/).
 * 2017 June 19, Richard S. Sutton and Andrew G. Barto. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html), Second Edition, in progress. *MIT Press*. [PDF](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf).
 * 2017 Spring, *Carnegie Mellon University*. [CMU 10703: Deep Reinforcement Learning and Control](https://katefvision.github.io/). Katerina Fragkiadaki and Ruslan Satakhutdinov.

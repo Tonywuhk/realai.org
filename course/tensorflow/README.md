@@ -37,17 +37,11 @@ Within the scope of this sequence, we can think of TensorFlow as an extension to
 
 The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and [mobile](https://www.tensorflow.org/mobile/). It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
 
-Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can follow the steps below to run a simple AI agent that plays [StarCraft II](http://realai.org/environments/#starcraft-ii) on a remote desktop:
-
-* [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
-
-### TensorFlow Basics
-
-TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [`tf.contrib`](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
+Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Interested readers can optionally follow [these steps](http://realai.org/course/google-cloud-platform/gce-sc2le/) to run a simple AI agent that plays [StarCraft II](http://realai.org/environments/#starcraft-ii) on a remote desktop.
 
 #### Setting Up Your Computer
 
-Experiments in this section are conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
+Experiments in the next session will be conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
@@ -66,6 +60,10 @@ A known issue is that sometimes `tensorboard` reports an error message of `No mo
 ```bash
 sudo pip install html5lib==0.99999999
 ```
+
+### TensorFlow Basics
+
+TensorFlow contains a hierarchy of modules. Its public APIs are mostly under `tf.`, except [`tf.contrib`](https://www.tensorflow.org/api_docs/python/tf/contrib), which contains volatile or experimental code such as [Keras](https://www.tensorflow.org/api_docs/python/tf/contrib/keras) and [Learn](https://www.tensorflow.org/api_docs/python/tf/contrib/learn), as of August 2017. A practical difference between the public APIs and `tf.contrib` is that the latter is not covered by [TensorFlow Version Compatibility](https://www.tensorflow.org/programmers_guide/version_compat) in new [MINOR](http://semver.org/) releases.
 
 #### Define and Run
 
