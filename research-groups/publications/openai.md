@@ -8,7 +8,7 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 
 ## 2017
 
-* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition). [blog](https://blog.openai.com/competitive-self-play/).
 * 2017 October 10, Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641). *arXiv:1710.03641*. [site](https://sites.google.com/view/adaptation-via-metalearning).
 * 2017 September 28, Ashvin Nair, Bob McGrew, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel. [Overcoming Exploration in Reinforcement Learning with Demonstrations](https://arxiv.org/abs/1709.10089). *arXiv:1709.10089*.
 * 2017 September 28, Aravind Rajeswaran, Vikash Kumar, Abhishek Gupta, John Schulman, Emanuel Todorov, and Sergey Levine. [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087). *arXiv:1709.10087*.

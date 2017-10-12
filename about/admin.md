@@ -6,13 +6,13 @@ redirect_from: /about/admin/
 
 ## Basic Information
 
-Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016. Our registered office address is
+Real AI Limited (company registration No. 2466079) is a private company limited by shares, incorporated in Hong Kong ([holidays](https://www.gov.hk/en/about/abouthk/holiday/)) on December 19, 2016. Our registered office address in Hongkong Post's [format](https://www.hongkongpost.hk/en/about_us/tips/correct_address/index.html) for *local* mail is
 
 ```
-West Wing 2/F,
+West Wing, 2/F,
 822 Lai Chi Kok Road
-Cheung Sha Wan
-Kowloon, Hong Kong
+SHAM SHUI PO
+KOWLOON
 ```
 
 ## Governance

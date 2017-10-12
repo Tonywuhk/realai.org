@@ -11,7 +11,6 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2017, Artur Speiser, Jinyao Yan, Evan Archer, Lars Buesing, Srinivas C. Turaga, and Jakob H. Macke. [Fast amortized inference of neural activity from calcium imaging data with variational autoencoders](http://www.mackelab.org/pubs/Speiser_NIPS_2017.pdf) (PDF). *NIPS*.
 * 2017, Jiajun Wu, Erika Lu, Pushmeet Kohli, Bill Freeman, and Josh Tenenbaum. Scene Physics Acquisition via Visual De-animation. *NIPS*.
 * 2017, Rui Costa, Ioannis Alexandros Assael, Brendan Shillingford, Nando de Freitas, and Tim Vogels. Cortical microcircuits as gated-recurrent neural networks. *NIPS*.
-* 2017, Jacob Devlin, Rudy R Bunel, Rishabh Singh, Matthew Hausknecht, and Pushmeet Kohli. Neural Program Meta-Induction. *NIPS*.
 * 2017, Tom Schaul, Zhongwen Xu, Joseph Modayil, Hado van Hasselt, Andre Barreto, and David Silver. Natural value approximators: learning when to trust past estimates. *NIPS*.
 * 2017, Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Karl Tuyls, Julien Perolat, David Silver, and Thore Graepel. A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning. *NIPS*.
 * 2017, Michael Janner, Jiajun Wu, Tejas Kulkarni, Ilker Yildirim, and Josh Tenenbaum. Learning to Generalize Intrinsic Images with a Structured Disentangling Autoencoder. *NIPS*.
@@ -21,6 +20,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 October 11, Jacob Devlin, Rudy Bunel, Rishabh Singh, Matthew Hausknecht, and Pushmeet Kohli. [Neural Program Meta-Induction](https://arxiv.org/abs/1710.04157). *arXiv:1710.04157*.
 * 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*.
 * 2017 September 26, Christoph Dann, Tor Lattimore, and Emma Brunskill. [Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning](https://arxiv.org/abs/1703.07710). *arXiv:1703.07710*.
 * 2017 September 21, Jörg Bornschein, Andriy Mnih, Daniel Zoran, and Danilo J. Rezende. [Variational Memory Addressing in Generative Models](https://arxiv.org/abs/1709.07116). *arXiv:1709.07116*.

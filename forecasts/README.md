@@ -45,7 +45,7 @@ Future work of [Pascanu & Li et al. (2017)](https://arxiv.org/abs/1707.06170) sh
 
 ### References
 
-* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition). [blog](https://blog.openai.com/competitive-self-play/).
 * 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*.
 * 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*.
 

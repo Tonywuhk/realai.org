@@ -77,7 +77,7 @@ More relevant to technical AI development, it has been observed repeatedly, in d
 
 ### References
 
-* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition). [blog](https://blog.openai.com/competitive-self-play/).
 * 2017 July 7, Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, and David Silver. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286). *arXiv:1707.02286*.
 
 ## Anthropic Reasoning

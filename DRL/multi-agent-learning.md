@@ -32,7 +32,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## References
 
-* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition).
+* 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition). [blog](https://blog.openai.com/competitive-self-play/).
 * 2017 July 20, Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Charles Beattie, Karl Tuyls, and Thore Graepel. [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600). *arXiv:1707.06600*.
 * 2017 May 31, Serhii Havrylov and Ivan Titov. [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192). *arXiv:1705.11192*.
 * 2017 May 24, Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, and Shimon Whiteson. [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926). *arXiv:1705.08926*.

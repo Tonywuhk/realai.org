@@ -66,6 +66,14 @@ Neuroscience has spurred many attempts at building machine intelligence, such as
 * 2017 October 3, David Di Giorgio. [Simple Cortex: A Model of Cells in the Sensory Nervous System](https://arxiv.org/abs/1710.01347). *arXiv:1710.01347*.
 * 2016, J. Hawkins, S. Ahmad, S. Purdy, and A. Lavin. [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/). *online release*.
 
+## Brain-Computer Interface
+
+A brain computer interface (BCI) is a direct communication pathway between an enhanced or wired brain and an external device. Basic understanding of neuroscience is useful to assess the merit of this endeavor.
+
+### Related News
+
+* 2017 October 10. [Brain scientist Christof Koch maps out a path to merge humans and machines](https://www.geekwire.com/2017/brain-scientist-christof-koch-merge-machine/). *GeekWire*.
+
 ## Further Reading
 
 * Eric S. Lander, Graham Walker, Michelle Mischke, Brian White, and Mary Ellen Wiltrout. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6). *MITx 7.00x*.
