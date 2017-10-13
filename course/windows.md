@@ -3,7 +3,7 @@ permalink: /course/windows/
 ---
 # Windows
 
-Microsoft Windows, or simply [Windows](https://www.microsoft.com/en-us/windows/), is a metafamily of graphical operating systems developed, marketed, and sold by [Microsoft](http://realai.org/industry/microsoft/).
+Microsoft Windows, or simply [Windows](https://www.microsoft.com/en-us/windows/), is a metafamily of graphical operating systems developed, marketed, and sold by [Microsoft](http://realai.org/industry/microsoft/). Popular Windows applications include Microsoft Word, a word processor that has been documented to be more efficient than LaTeX in many ways ([Knauff & Nejasmic, 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069)).
 
 ## Windows Subsystem for Linux
 
@@ -24,4 +24,8 @@ Extending this practice to the scenario where a typically trusted Windows system
 * 5) Restore the system
 
 Note that [cloning a user account](https://answers.microsoft.com/en-us/windows/forum/windows_10-start/copying-user-profile-or-cloning-a-user-account/06aac64f-d1d8-4eb9-bea2-7a55a1a6b04f) doesn't seem to be a supported function in Windows 10, therefore every new user account in step 2 needs to be set up from scratch.
+
+## References
+
+* 2014 December 19, Markus Knauff and Jelica Nejasmic. [An Efficiency Comparison of Document Preparation Systems Used in Academic Research and Development](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069). *PLOS ONE*.
 

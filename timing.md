@@ -24,7 +24,9 @@ In recent years there has been rapid [progress](http://realai.org/progress/) tow
 
 ### Geoffrey E. Hinton
 
-[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) predicted in a [Guardian report](https://www.theguardian.com/science/2015/may/21/google-a-step-closer-to-developing-machines-with-human-like-intelligence) on 21 May 2015 that computers would have developed "common sense" within a decade. In that report, "reasoning and logic" were understood as part of common sense. In an [O'Reilly report](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai) published on 28 March 2017, he said it might take longer than 10 years to develop systems that surpass people in areas like "reasoning and learning from a very small number of examples."
+[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) predicted in a [Guardian report](https://www.theguardian.com/science/2015/may/21/google-a-step-closer-to-developing-machines-with-human-like-intelligence) on 21 May 2015 that computers would have developed "common sense" within a decade. In that report, "reasoning and logic" were understood as part of common sense. During an [October 2017 interview](https://www.re-work.co/blog/interview-yoshua-bengio-yann-lecun-geoffrey-hinton), Hinton said "it may well be 10 years before we can do" common sense, but quickly added that "it might take a week!"
+
+In an [O'Reilly report](https://www.oreilly.com/ideas/adapting-ideas-from-neuroscience-for-ai) published on 28 March 2017, he said it might take longer than 10 years to develop systems that surpass people in areas like "reasoning and learning from a very small number of examples."
 
 ### Jürgen Schmidhuber
 

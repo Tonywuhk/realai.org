@@ -7,6 +7,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## To Appear
 
+* 2017, Sara Sabour, Nicholas Frosst, and Geoffrey Hinton. [Dynamic Routing between Capsules](https://research.google.com/pubs/pub46351.html). *NIPS*.
 * 2017, Jeffrey Pennington and Pratik Worah. [Nonlinear random matrix theory for deep learning](https://research.google.com/pubs/pub46342.html). *NIPS*.
 * 2017, Jeffrey Pennington, Sam Schoenholz, and Surya Ganguli. [Investigating the learning dynamics of deep neural networks using random matrix theory](https://research.google.com/pubs/pub46341.html). *NIPS*.
 * 2017, Manasi Vartak, Hugo Larochelle, and Arvind Thiagarajan. [A Meta-Learning Perspective on Cold-Start Recommendations for Items](https://research.google.com/pubs/pub46346.html). *NIPS*.
