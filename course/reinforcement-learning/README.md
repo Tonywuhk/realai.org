@@ -21,6 +21,10 @@ In reinforcement learning (RL), agents learn to maximize numerical rewards provi
 
 * [DQN Agent on CartPole](DQN-agent-on-CartPole.md)
 
+### Other Sources
+
+* [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) is a PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR). It is being actively maintained as of October 13, 2017.
+
 ## Further Reading
 
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.

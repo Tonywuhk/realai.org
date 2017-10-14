@@ -16,6 +16,8 @@ title: DL Libraries
 
 [Caffe2](http://caffe2.ai/) is a new lightweight, modular, and scalable deep learning framework.
 
+[Gluon](https://github.com/gluon-api/gluon-api/) is a clear, concise, simple yet powerful and efficient API for deep learning, announced in October 2017 by [AWS](https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/) and Microsoft.
+
 ## Remarks
 
 TensorFlow is declarative, supposedly easier to optimize, but many programmers likely feel more comfortable with the imperative style of PyTorch, which may be a good fit if you want [better development and debugging experience](https://medium.com/@dubovikov.kirill/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b). Windows support for PyTorch is an [outstanding issue since January 2017](https://github.com/pytorch/pytorch/issues/494). One main difference between TensorFlow and PyTorch is that the former uses static computation graphs whereas the latter supports dynamic computation graphs. It is further explained and demonstrated for conditional and loop structures on page 120-129 of the [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) used in a Stanford lecture.

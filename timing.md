@@ -3,7 +3,7 @@ permalink: /timing/
 ---
 # Timing
 
-In recent years there has been rapid [progress](http://realai.org/progress/) towards the creation of AGI, to the extent that [roadmaps](http://realai.org/roadmaps/) are under serious dicussion. Given SI's potentially huge impact and its technological proximity to AGI, it is of paramount importance to form rational expectations on timing.
+In recent years there has been rapid [progress](http://realai.org/progress/) towards the creation of AGI, to the extent that [roadmaps](http://realai.org/roadmaps/) are under serious discussion. It's been argued, however, that there is unlikely to be an "unmistakable sign" that "everyone knows and agrees on," before it becomes common knowledge that an actual AGI is already running. Metaphorically, "there's no fire alarm for" AGI ([Yudkowsky, 2017](https://intelligence.org/2017/10/13/fire-alarm/)). Given SI's potentially huge impact and its technological proximity to AGI, it is of paramount importance to form rational expectations on timing.
 
 ## Links
 
@@ -87,4 +87,8 @@ In July 2015, Tim Dettmers [estimated](http://timdettmers.com/2015/07/27/brain-v
 WaveNet was [introduced on September 8, 2016](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), when it needed 1 second to generate just 0.02 seconds of audio. By [October 4, 2017](https://deepmind.com/blog/wavenet-launches-google-assistant/), it can produce 20 seconds of higher quality audio in 1 second, that is "1,000 times faster" and better.
 
 According to an [October public tweet](https://twitter.com/DynamicWebPaige/status/915326707107844097), Google's new neural machine translation system has around 500 lines of TensorFlow code, and performs better than its old translation system of around 500,000 lines of stats-focused code.
+
+## References
+
+* 2017 October 13, Eliezer Yudkowsky. [Theres No Fire Alarm for Artificial General Intelligence](https://intelligence.org/2017/10/13/fire-alarm/). *Machine Intelligence Research Institute*.
 
