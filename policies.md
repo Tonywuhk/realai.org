@@ -49,6 +49,8 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### United Kingdom
 
+* 2017 October 15. [Growing the artificial intelligence industry in the UK](https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk). *www.gov.uk*.
+* 2017 July 19. [What are the implications of artificial intelligence?](https://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/news-parliament-2017/call-for-evidence/). *www.parliament.uk*. [written evidence](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/).
 * 2017 April 25. [Machine learning requires careful stewardship says Royal Society](https://royalsociety.org/news/2017/04/machine-learning-requires-careful-stewardship-says-royal-society/). *The Royal Society*.
 * 2017 February 26. [Government to plough £20m into artificial intelligence research including robots and driverless cars](http://www.telegraph.co.uk/news/2017/02/26/government-plough-20m-artificial-intelligence-research-including/). *The Telegraph*.
 
