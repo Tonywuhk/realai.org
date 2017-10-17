@@ -20,6 +20,8 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 October 16, Marco Fraccaro, Simon Kamronn, Ulrich Paquet, and Ole Winther. [A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning](https://arxiv.org/abs/1710.05741). *arXiv:1710.05741*.
+* 2017 October 15, Ershad Banijamali, Rui Shu, Mohammad Ghavamzadeh, Hung Bui, and Ali Ghodsi. [Robust Locally-Linear Controllable Embedding](https://arxiv.org/abs/1710.05373). *arXiv:1710.05373*.
 * 2017 October 11, Jacob Devlin, Rudy Bunel, Rishabh Singh, Matthew Hausknecht, and Pushmeet Kohli. [Neural Program Meta-Induction](https://arxiv.org/abs/1710.04157). *arXiv:1710.04157*.
 * 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*.
 * 2017 September 26, Christoph Dann, Tor Lattimore, and Emma Brunskill. [Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning](https://arxiv.org/abs/1703.07710). *arXiv:1703.07710*.
@@ -148,6 +150,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
   * 2016 March 4. [modified version](https://openreview.net/forum?id=SJ6yPD5xg). *OpenReview*.
   * 2016 December 10, Kosuke Miyoshi. [replication using TensorFlow and DeepMind Lab](https://github.com/miyosuda/unreal). *GitHub*.
 * 2016 November 16, Joon Son Chung, Andrew Senior, Oriol Vinyals, and Andrew Zisserman. [Lip Reading Sentences in the Wild](https://arxiv.org/abs/1611.05358). *arXiv:1611.05358*.
+* 2016 November 13, Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, and Ole Winther. [Sequential Neural Models with Stochastic Layers](https://arxiv.org/abs/1605.07571). *arXiv:1605.07571*.
 * 2016 November 11, Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andrew J. Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, and Raia Hadsell. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673). *arXiv:1611.03673*.
 * 2016 November 10, Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). *arXiv:1611.03530*.
 * 2016 November 8, Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, and Tomas Kocisky. [The Neural Noisy Channel](https://arxiv.org/abs/1611.02554). *arXiv:1611.02554*.
@@ -179,6 +182,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2016 September 12, Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, and Koray Kavukcuoglu. [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499). *arXiv:1609.03499*.
 * 2016 September 6, Matthieu Geist, Bilal Piot, and Olivier Pietquin. [Should one minimize the Bellman residual or maximize the mean value?](https://arxiv.org/abs/1606.07636) *arXiv:1606.07636*.
 * 2016 August 18, Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, and Koray Kavukcuoglu. [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343). *arXiv:1608.05343*.
+* 2016 August 16, Mike Gartrell, Ulrich Paquet, and Noam Koenigstein. [The Bayesian Low-Rank Determinantal Point Process Mixture Model](https://arxiv.org/abs/1608.04245). *arXiv:1608.04245*.
 * 2016 August 9, Ian Osband and Benjamin Van Roy. [On Lower Bounds for Regret in Reinforcement Learning](https://arxiv.org/abs/1608.02732). *arXiv:1608.02732*.
 * 2016 August 9, Ian Osband and Benjamin Van Roy. [Posterior Sampling for Reinforcement Learning Without Episodes](https://arxiv.org/abs/1608.02731). *arXiv:1608.02731*.
 * 2016 July 19, Alex Graves. [Stochastic Backpropagation through Mixture Density Distributions](https://arxiv.org/abs/1607.05690). *arXiv:1607.05690*.
@@ -205,7 +209,6 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2016 June 6, Marc G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos. [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868). *arXiv:1606.01868*.
 * 2016 June 3, Bilal Piot, Matthieu Geist, and Olivier Pietquin. [Difference of Convex Functions Programming Applied to Control with Expert Data](https://arxiv.org/abs/1606.01128). *arXiv:1606.01128*.
 * 2016 June 1, Graham Neubig and Chris Dyer. [Generalizing and Hybridizing Count-based and Neural Language Models](https://arxiv.org/abs/1606.00499). *arXiv:1606.00499*.
-* 2016 May 24, Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, and Ole Winther. [Sequential Neural Models with Stochastic Layers](https://arxiv.org/abs/1605.07571). *arXiv:1605.07571*.
 * 2016 May 23, Martin J. Chadwick, Raeesa S. Anjum, Dharshan Kumaran, Daniel L. Schacter, Hugo J. Spiers, and Demis Hassabisa. [Semantic representations in the temporal pole predict false memories](http://www.pnas.org/content/113/36/10180.abstract). *Proceedings of the National Academy of Sciences*, 113:36:10180-10185.
 * 2016 May 21, Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, and Shimon Whiteson. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676). *arXiv:1605.06676*.
 * 2016 May 19, Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, and Timothy Lillicrap. [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065). *arXiv:1605.06065*.

@@ -20,8 +20,11 @@ redirect_from: /NLP/
 
 [Paulus et al. (2017)](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization) proposed a reinforcement learning model with intra-decoder attention, and achieved state-of-the-art results on the CNN/Daily Mail dataset.
 
+[Brundage Bot](https://twitter.com/BrundageBot) ([Mauboussin, 2017](https://medium.com/@amaub/building-brundage-bot-10252facf3d1)) is a Twitter bot that uses a CNN to predict which arXiv papers Miles Brundage would tweet.
+
 ### References
 
+* 2017 October 17, Andrew Mauboussin. [Building Brundage Bot](https://medium.com/@amaub/building-brundage-bot-10252facf3d1). *Medium*. [code](https://github.com/amauboussin/arxiv-twitterbot).
 * 2017 May 11, Romain Paulus, Caiming Xiong, and Richard Socher. [Your tl;dr by an ai: a deep reinforced model for abstractive summarization](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization). *Salesforce MetaMind*.
 
 ## Further Reading

@@ -61,6 +61,10 @@ where \\(r\\) is the learning rate, and the integrand is the product of an error
 
 Neuroscience has spurred many attempts at building machine intelligence, such as [Hierarchical Temporal Memory](http://numenta.org/) ([Hawkins et al., 2016](http://numenta.com/biological-and-machine-intelligence/)), [Feynman Machine](https://hackernoon.com/feynman-machine-a-new-approach-for-cortical-and-machine-intelligence-5855c0e61a70), and [Simple Cortex]([Di Giorgio, 2017](https://arxiv.org/abs/1710.01347)). They typically seek to build systems that mimic the human brain at a finer level of detail than what's common in deep learning.
 
+### Hardware
+
+* 2017 September 20. [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/). *Quanta Magazine*.
+
 ### References
 
 * 2017 October 3, David Di Giorgio. [Simple Cortex: A Model of Cells in the Sensory Nervous System](https://arxiv.org/abs/1710.01347). *arXiv:1710.01347*.

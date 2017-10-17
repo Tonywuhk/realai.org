@@ -17,11 +17,15 @@ According to [Rowan (2015)](http://www.wired.co.uk/article/deepmind), DeepMind s
 
 ### Edmonton Office
 
-In July 2017, DeepMind [opened](https://deepmind.com/blog/deepmind-office-canada-edmonton/) its first ever international AI research office in Edmonton, Canada, which would be led by [University of Alberta](https://www.ualberta.ca/) professors [Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) and Patrick Pilarski. The opening was reported by [Edmonton Journal](http://edmontonjournal.com/business/local-business/paula-simons-global-head-snap-googles-deepmind-sets-up-shop-in-edmonton) and [Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab).
+In July 2017, DeepMind [opened](https://deepmind.com/blog/deepmind-office-canada-edmonton/) its "first ever international AI research office" in Edmonton, Canada, which would be led by [University of Alberta](https://www.ualberta.ca/) professors [Rich Sutton](http://incompleteideas.net/sutton/index.html), [Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) and Patrick Pilarski. The opening was reported by [Edmonton Journal](http://edmontonjournal.com/business/local-business/paula-simons-global-head-snap-googles-deepmind-sets-up-shop-in-edmonton) and [Bloomberg Technology](https://www.bloomberg.com/news/articles/2017-07-05/deepmind-goes-to-alberta-for-first-international-lab).
 
 ### Montreal Office
 
 In October 2017, DeepMind [opened](https://deepmind.com/blog/strengthening-our-commitment-canadian-research/) an office in Montreal, in close collaboration with McGill University. It will be led by [Doina Precup](http://cs.mcgill.ca/~dprecup/), Associate Professor in the School of Computer Science at McGill. Doina will be supported by Shibl Mourad who will head up the engineering and program management teams at DeepMind Montreal and DeepMind Alberta.
+
+### Mountain View
+
+It was [reported](http://uk.businessinsider.com/deepminds-small-army-of-ai-researchers-in-mountain-view-is-growing-2017-5) in May 2017 that DeepMind had almost two dozen staff working out of an office in Mountain View, California. Since the Edmonton office was officially called the "first ever international AI research office," and Mountain View is international with respect to the UK, this location must not be an "AI research office."
 
 ## Ethics
 
