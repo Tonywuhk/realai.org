@@ -18,7 +18,7 @@ When [user account control](https://docs.microsoft.com/en-us/windows/access-prot
 Extending this practice to the scenario where a typically trusted Windows system needs to temporarily operate in an unsafe environment, e.g. through an untrusted WiFi connection, the following steps can be taken to mitigate security risks:
 
 * 1) [Create a system restore point](https://support.microsoft.com/en-hk/help/4027538/windows-create-a-system-restore-point)
-* 2) Create a standard user account
+* 2) Create a standard user account. Set the system-wide option of "Installing apps" to "Warn me before installing apps from outside the Store" if it will be needed later by the standard user.
 * 3) Perform short-term work in an unsafe environment
 * 4) Delete the standard user account
 * 5) Restore the system
