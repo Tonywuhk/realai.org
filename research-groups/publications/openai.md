@@ -8,7 +8,10 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 
 ## 2017
 
+* 2017 October 18, Lerrel Pinto, Marcin Andrychowicz, Peter Welinder, Wojciech Zaremba, and Pieter Abbeel. [Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/abs/1710.06542). *arXiv:1710.06542*. [blog](https://blog.openai.com/generalizing-from-simulation/).
+* 2017 October 18, Xue Bin Peng, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel. [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://arxiv.org/abs/1710.06537). *arXiv:1710.06537*. [blog](https://blog.openai.com/generalizing-from-simulation/).
 * 2017 October 17, Joshua Tobin, Wojciech Zaremba, and Pieter Abbeel. [Domain Randomization and Generative Models for Robotic Grasping](https://arxiv.org/abs/1710.06425). *arXiv:1710.06425*.
+* 2017 October 17, Carlos Florensa, David Held, Markus Wulfmeier, Michael Zhang, and Pieter Abbeel. [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300). *arXiv:1707.05300*.
 * 2017 October 12, Tianhao Zhang, Zoe McCarthy, Owen Jow, Dennis Lee, Ken Goldberg, and Pieter Abbeel. [Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation](https://arxiv.org/abs/1710.04615). *arXiv:1710.04615*.
 * 2017 October 10, Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch. [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748). *arXiv:1710.03748*. [site](https://sites.google.com/view/multi-agent-competition). [blog](https://blog.openai.com/competitive-self-play/).
 * 2017 October 10, Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641). *arXiv:1710.03641*. [site](https://sites.google.com/view/adaptation-via-metalearning).
@@ -21,7 +24,6 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 * 2017 August 4, Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, and Pieter Abbeel. [Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141). *arXiv:1707.03141*.
 * 2017 July 25, Markus Wulfmeier, Ingmar Posner, and Pieter Abbeel. [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907). *arXiv:1707.07907*.
 * 2017 July 24, Anish Athalye and Ilya Sutskever. [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397). *arXiv:1707.07397*.
-* 2017 July 17, Carlos Florensa, David Held, Markus Wulfmeier, and Pieter Abbeel. [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300). *arXiv:1707.05300*.
 * 2017 July 11, YuXuan Liu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine. [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374). *arXiv:1707.03374*.
 * 2017 July 10, Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, and Wojciech Zaremba. [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495). *arXiv:1707.01495*.
 * 2017 July 1, Tambet Matiisen, Avital Oliver, Taco Cohen, and John Schulman. [Teacher-Student Curriculum Learning](https://arxiv.org/abs/1707.00183). *arXiv:1707.00183*.

@@ -20,6 +20,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 October 19, David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton, Yutian Chen, Timothy Lillicrap, Fan Hui, Laurent Sifre, George van den Driessche, Thore Graepel, and Demis Hassabis. [Mastering the game of Go without human knowledge](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html). *Nature*, 550(7676):354-359. [PDF](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ). [blog](https://deepmind.com/blog/alphago-zero-learning-scratch/). [news](http://www.nature.com/news/self-taught-ai-is-best-yet-at-strategy-game-go-1.22858).
 * 2017 October 16, Marco Fraccaro, Simon Kamronn, Ulrich Paquet, and Ole Winther. [A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning](https://arxiv.org/abs/1710.05741). *arXiv:1710.05741*.
 * 2017 October 15, Ershad Banijamali, Rui Shu, Mohammad Ghavamzadeh, Hung Bui, and Ali Ghodsi. [Robust Locally-Linear Controllable Embedding](https://arxiv.org/abs/1710.05373). *arXiv:1710.05373*.
 * 2017 October 11, Jacob Devlin, Rudy Bunel, Rishabh Singh, Matthew Hausknecht, and Pushmeet Kohli. [Neural Program Meta-Induction](https://arxiv.org/abs/1710.04157). *arXiv:1710.04157*.

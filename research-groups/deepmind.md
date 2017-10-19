@@ -27,6 +27,10 @@ In October 2017, DeepMind [opened](https://deepmind.com/blog/strengthening-our-c
 
 It was [reported](http://uk.businessinsider.com/deepminds-small-army-of-ai-researchers-in-mountain-view-is-growing-2017-5) in May 2017 that DeepMind had almost two dozen staff working out of an office in Mountain View, California. Since the Edmonton office was officially called the "first ever international AI research office," and Mountain View is international with respect to the UK, this location must not be an "AI research office."
 
+## Safety
+
+The Economist [reported](https://www.economist.com/news/science-and-technology/21730391-learning-play-go-only-start-latest-ai-can-work-things-out-without?fsrc=scn/tw/te/bl/ed/) that DeepMind hopes advanced AIs "will end up as assistants to biological brains." Its news [tweet](https://twitter.com/TheEconomist/status/920715747281833987) was retweeted by DeepMind official Twitter account in October 2017.
+
 ## Ethics
 
 When Google acquired DeepMind, it [agreed to establish an ethics board](https://www.theinformation.com/google-beat-facebook-for-deepmind-creates-ethics-board). The Guardian [reported in January 2017](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board) that the board was internal and discussed confidential matters. When asked about the board in January 2016, DeepMind co-founder Demis Hassabis replied that it had convened and was "progressing very well." It can also be inferred from [an official job ad](https://deepmind.com/careers/655890/) that DeepMind has an "Ethics & Impact team".

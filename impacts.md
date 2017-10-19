@@ -5,6 +5,10 @@ permalink: /impacts/
 
 Opinions from influential people [diverge](http://www.agreelist.org/s/advanced-artificial-intelligenc-4mtqyes0jrqy) on whether advanced AI will pose a serious risk to society within the next 50 years. Tesla CEO Elon Musk [warned in August 2017](https://twitter.com/elonmusk/status/896166762361704450) that AI poses “vastly” more risk than [North Korea](http://realai.org/about/risks/#north-korea). Below we discuss in more details the likely impacts of AGI.
 
+## Recent Overview
+
+* 2017 October 18. AI Now announced the publication of its second annual research report. Press release: [AI Now Institute Announces 2017 Report With Key Recommendations for the Field of Artificial Intelligence]. *AI Now*.
+
 ## Public Administration
 
 It is conceivable that blackbox AI algorithms could be employed to make important decisions in the public sector. [ACLU reported in June 2017](https://www.aclu.org/blog/free-future/pitfalls-artificial-intelligence-decisionmaking-highlighted-idaho-aclu-case) that it was involved in an old Idaho case for the past several years where the amounts of assistance from Medicaid were assessed using Excel spreadsheet that lacked transparency.
@@ -73,7 +77,7 @@ In July 2017, [Greg Allen](https://twitter.com/gregory_c_allen) warned in a [Wir
 ## Links
 
 * [AIimpacts.org](http://aiimpacts.org/) aims to improve our understanding of the likely impacts of human-level artificial intelligence.
-* [AI Now](https://artificialintelligencenow.com/) is a New York-based research initiative working across disciplines to understand AI's social impacts.
+* The [AI Now Institute](https://ainowinstitute.org/) at New York University is an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence.
 
 ## References
 

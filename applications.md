@@ -19,13 +19,17 @@ A list of applications that productively make use of recent advances in AI.
 
 * 2017 October 4. [WaveNet launches in the Google Assistant](https://deepmind.com/blog/wavenet-launches-google-assistant/). *DeepMind Blog*.
 
+## Chatbot
+
+Non-AGI chatbots are already useful in a wide range of scenarios. Semantic Machines presents some [use cases](http://www.semanticmachines.com/case/) demonstrating how AI-powered conversational interfaces unlock simple yet powerful interactions. In October 2017, Andrew Ng [announced](https://medium.com/@andrewng/woebot-ai-for-mental-health-d0e8632b82ba) that he became chairman of [Woebot](http://woebot.io/), a company in its mission to build a chatbot that will help the millions of people who struggle with their mental health.
+
 ## APIs
 
 * 2017 June 15. [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html). *Google Research Blog*.
 
 ## Energy
 
-* 2017 March 13. [Google's Deepmind wants to cut 10% off the entire UK's energy bill](http://uk.businessinsider.com/google-deepmind-wants-to-cut-ten-percent-off-entire-uk-energy-bill-using-artificial-intelligence-2017-3). *Business Insider UK*.
+* 2017 March 13. [Google's DeepMind wants to cut 10% off the entire UK's energy bill](http://uk.businessinsider.com/google-deepmind-wants-to-cut-ten-percent-off-entire-uk-energy-bill-using-artificial-intelligence-2017-3). *Business Insider UK*.
 * 2016 July 20. [DeepMind AI Reduces Google Data Centre Cooling Bill by 40%](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/). *DeepMind Blog*.
 
 ## Financial Markets Applications
@@ -42,6 +46,8 @@ In July 2017, Financial Times [reported](https://www.ft.com/content/16b8ffb6-716
 * 2017 January 25. [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/press-releases/2017/01/25/artificial-inteltify-skin-cancer/). *Stanford News*.
 
 ## Deep Reinforcement Learning
+
+After the release of AlphaGo Zero, Quartz [reported](https://qz.com/1105509/deepminds-new-alphago-zero-artificial-intelligence-is-ready-for-more-than-board-games/) that according to Demis Hassabis, DRL can be applied to "drug discovery, proteins, quantum chemistry, material design." A Financial Times [report](https://www.ft.com/content/39786fe4-b3e4-11e7-aa26-bb002965bce8) mentioned "climate modelling."
 
 * 2017 October 10, Hongjia Li, Tianshu Wei, Ao Ren, Qi Zhu, and Yanzhi Wang. [Deep Reinforcement Learning: Framework, Applications, and Embedded Implementations](https://arxiv.org/abs/1710.03792). *arXiv:1710.03792*.
 

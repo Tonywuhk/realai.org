@@ -14,9 +14,12 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 October 18, Samuel S. Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. [A Correspondence Between Random Neural Networks and Statistical Field Theory](https://arxiv.org/abs/1710.06570). *arXiv:1710.06570*.
+* 2017 October 17, Samuel L. Smith and Quoc V. Le. [Understanding Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451). *arXiv:1710.06451*.
 * 2017 October 16, Prajit Ramachandran, Barret Zoph, and Quoc V. Le. [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941). *arXiv:1710.05941*.
 * 2017 October 11, Aleksandra Faust, Oscar Ramirez, Marek Fiser, Kenneth Oslund, Anthony Francis, James Davidson, and Lydia Tapia. [PRM-RL: Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-based Planning](https://arxiv.org/abs/1710.03937). *arXiv:1710.03937*.
 * 2017 September 29, Andrew Kyle Lampinen, David So, Douglas Eck, and Fred Bertsch. [Improving image generative models with human interactions](https://arxiv.org/abs/1709.10459). *arXiv:1709.10459*.
+* 2017 September 23, Samuel S. Schoenholz. [Combining Machine Learning and Physics to Understand Glassy Systems](https://arxiv.org/abs/1709.08015). *arXiv:1709.08015*.
 * 2017 September 22, Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, and Vincent Vanhoucke. [Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping](https://arxiv.org/abs/1709.07857). *arXiv:1709.07857*.
 * 2017 September 21, Irwan Bello, Barret Zoph, Vijay Vasudevan, and Quoc V. Le. [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417). *arXiv:1709.07417*.
 * 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
