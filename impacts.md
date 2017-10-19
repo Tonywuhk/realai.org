@@ -7,7 +7,7 @@ Opinions from influential people [diverge](http://www.agreelist.org/s/advanced-a
 
 ## Recent Overview
 
-* 2017 October 18. AI Now announced the publication of its second annual research report. Press release: [AI Now Institute Announces 2017 Report With Key Recommendations for the Field of Artificial Intelligence]. *AI Now*.
+* 2017 October 19. [The 10 Top Recommendations for the AI Field in 2017](https://medium.com/@AINowInstitute/the-10-top-recommendations-for-the-ai-field-in-2017-b3253624a7). *Medium*.
 
 ## Public Administration
 
