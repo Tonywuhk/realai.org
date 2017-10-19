@@ -49,7 +49,7 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### United Kingdom
 
-Professor Dame Wendy Hall and Jérôme Pesenti carried out an independent review titled [Growing the artificial intelligence industry in the UK](https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk), published in October 2017. Demis Hassabis called it a "great report on AI" in a [tweet](https://twitter.com/demishassabis/status/921042098710773762).
+Professor Dame Wendy Hall and Jérôme Pesenti carried out an independent review titled [Growing the artificial intelligence industry in the UK](https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk), published in October 2017. Demis Hassabis called it a "great report on AI" in a [tweet](https://twitter.com/demishassabis/status/921056793727512577).
 
 #### Links
 
