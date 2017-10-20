@@ -13,6 +13,8 @@ OpenAI's [technical goals](https://blog.openai.com/openai-technical-goals/) incl
 
 In April 2017, the safety implications of OpenAI was discussed online under the heading "OpenAI makes humanity less safe" at blog sites [LessWrong](http://lesswrong.com/lw/oul/openai_makes_humanity_less_safe/) and [Compass Rose](http://benjaminrosshoffman.com/openai-makes-humanity-less-safe/).
 
+In an [article](https://www.wsj.com/articles/protecting-against-ais-existential-threat-1508332313) published on Wall Street Journal in October 2017, Ilya Sutskever and Dario Amodei gave an example of future AI doing harm where an AI tasked with maximizing profits for a corporation could deliberately cause political upheaval. Both authors at the time were affiliated with OpenAI and the article was [tweeted](https://twitter.com/OpenAI/status/920684033582841856) by OpenAI's official Twitter account.
+
 ## Sponsors
 
 A group of sponsors committed $1 billion at OpenAI's formation, although only a tiny fraction was expected to be spent in the next a few years.

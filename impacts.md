@@ -7,7 +7,7 @@ Opinions from influential people [diverge](http://www.agreelist.org/s/advanced-a
 
 ## Recent Overview
 
-* 2017 October 19. [The 10 Top Recommendations for the AI Field in 2017](https://medium.com/@AINowInstitute/the-10-top-recommendations-for-the-ai-field-in-2017-b3253624a7). *Medium*.
+* 2017 October 19, AI Now Institute. [The 10 Top Recommendations for the AI Field in 2017](https://medium.com/@AINowInstitute/the-10-top-recommendations-for-the-ai-field-in-2017-b3253624a7). *Medium*.
 
 ## Public Administration
 

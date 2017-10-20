@@ -6,6 +6,7 @@ mathjax: true
 
 ## What's New
 
+* 2017 October 18. [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/). ([AlphaGo](https://deepmind.com/research/alphago/))
 * 2017 October 6, Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298). *arXiv:1710.02298*. ([DeepMind](research-groups/deepmind.md); [Agents](DRL/agents.md))
 * 2017 October 3. [Why we launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/). *DeepMind*. ([DeepMind](research-groups/deepmind.md); [Wired UK](http://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence); [The Guardian](https://www.theguardian.com/technology/2017/jan/26/google-deepmind-ai-ethics-board))
 

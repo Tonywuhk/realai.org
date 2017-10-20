@@ -7,6 +7,10 @@ A list of papers where at least one coauthor is affiliated with [Facebook AI Res
 
 ## 2017
 
+* 2017 October 19, Alexander Peysakhovich and Adam Lerer. [Consequentialist conditional cooperation in social dilemmas with imperfect information](https://arxiv.org/abs/1710.06975). *arXiv:1710.06975*.
+* 2017 October 12, Jason Lee, Kyunghyun Cho, Jason Weston, and Douwe Kiela. [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922). *arXiv:1710.06922*.
+* 2017 October 11, Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, and Hervé Jégou. [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087). *arXiv:1710.04087*.
+* 2017 September 26, Ledell Wu, Adam Fisch, Sumit Chopra, Keith Adams, Antoine Bordes, and Jason Weston. [StarSpace: Embed All The Things!](https://arxiv.org/abs/1709.03856) *arXiv:1709.03856*.
 * 2017 September 18, Simon S. Du, Jason D. Lee, and Yuandong Tian. [When is a Convolutional Filter Easy To Learn?](https://arxiv.org/abs/1709.06129) *arXiv:1709.06129*.
 * 2017 September 8, Alexander Peysakhovich and Adam Lerer. [Prosocial learning agents solve generalized Stag Hunts better than selfish ones](https://arxiv.org/abs/1709.02865). *arXiv:1709.02865*.
 * 2017 September 2, Marek Rei, Luana Bulat, Douwe Kiela, and Ekaterina Shutova. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575). *arXiv:1709.00575*.
@@ -14,12 +18,14 @@ A list of papers where at least one coauthor is affiliated with [Facebook AI Res
 * 2017 September 1, Naama Hadad, Lior Wolf, and Moni Shahar. [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199). *arXiv:1709.00199*.
 * 2017 August 31, Tomer Galanti and Lior Wolf. [Unsupervised Learning of Semantic Mappings](https://arxiv.org/abs/1709.00074). *arXiv:1709.00074*.
 * 2017 August 17, Prithvijit Chattopadhyay, Deshraj Yadav, Viraj Prabhu, Arjun Chandrasekaran, Abhishek Das, Stefan Lee, Dhruv Batra, and Devi Parikh. [Evaluating Visual Conversational Agents via Cooperative Human-AI Games](https://arxiv.org/abs/1708.05122). *arXiv:1708.05122*.
+* 2017 August 9, Matthijs Douze, Hervé Jégou, and Jeff Johnson. [An evaluation of large-scale methods for image instance and class discovery](https://arxiv.org/abs/1708.02898). *arXiv:1708.02898*.
 * 2017 August 8, Xiang Zhang and Yann LeCun. [Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?](https://arxiv.org/abs/1708.02657). *arXiv:1708.02657*.
 * 2017 August 8, Holger Schwenk and Matthijs Douze. [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154). *arXiv:1704.04154*.
 * 2017 August 7, Zeming Lin, Jonas Gehring, Vasil Khalidov, and Gabriel Synnaeve. [STARDATA: A StarCraft AI Research Dataset](https://arxiv.org/abs/1708.02139). *arXiv:1708.02139*.
 * 2017 August 7, Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). *arXiv:1708.02002*.
 * 2017 August 3, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra. [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502). *arXiv:1706.08502*.
 * 2017 July 20, Yaniv Taigman, Lior Wolf, Adam Polyak, and Eliya Nachmani. [Voice Synthesis for in-the-Wild Speakers via a Phonological Loop](https://arxiv.org/abs/1707.06588). *arXiv:1707.06588*.
+* 2017 July 19, Douwe Kiela, Alexis Conneau, Allan Jabri, and Maximilian Nickel. [Learning Visually Grounded Sentence Representations](https://arxiv.org/abs/1707.06320). *arXiv:1707.06320*.
 * 2017 July 18, Piotr Bojanowski, Armand Joulin, David Lopez-Paz, and Arthur Szlam. [Optimizing the Latent Space of Generative Networks](https://arxiv.org/abs/1707.05776). *arXiv:1707.05776*.
 * 2017 July 17, Moustapha Cisse, Yossi Adi, Natalia Neverova, and Joseph Keshet. [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373). *arXiv:1707.05373*.
 * 2017 July 9, Lior Wolf, Yaniv Taigman, and Adam Polyak. [Unsupervised Creation of Parameterized Avatars](https://arxiv.org/abs/1704.05693). *arXiv:1704.05693*.

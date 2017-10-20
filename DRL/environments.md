@@ -32,7 +32,7 @@ On 15 February 2017, Microsoft [announced](https://blogs.microsoft.com/next/2017
 
 ## Games
 
-Deep learning methods have been applied to games of various genres such as arcade, open-world, real-time strategy, board, and text-based games. Prominent examples include [Atari 2600 games](#the-arcade-learning-environment), [StarCraft](#starcraft), [Dota 2](#dota-2), [Poker](#poker), and [Go](#go). In many arcade games, deep learning has achieved above human-level performance.
+Deep learning methods have been applied to games of various genres such as arcade, open-world, real-time strategy, board, and text-based games. Prominent unsolved examples include [Atari 2600 games](#the-arcade-learning-environment), [StarCraft](#starcraft), [Dota 2](#dota-2), and [Poker](#poker). In many arcade games, deep learning has achieved above human-level performance.
 
 ### Video Games
 
@@ -115,17 +115,14 @@ Microsoft's [Project Malmö](https://github.com/Microsoft/malmo) is built on top
 
 ### Board and Card Games
 
+The ancient Chinese game of [Go](https://en.wikipedia.org/wiki/Go_(game)) is essentially solved by the [AlphaGo](https://deepmind.com/research/alphago/) system developed by DeepMind. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/), its most advanced version as of October 2017, uses a simple [DRL](README.md) algorithm to learn Go playing without human data. A single neural network including many residual blocks outputs move probabilities and value of the board. It is then trained to match search probabilities improved by Monte-Carlo tree search, and to match the outcome of a self-played game. The learning algorithm is very general as only the domain knowledge of game rules, scoring, grid-structure of the board, and rotation and reflection invariance is used. The trained system can effectively run on a single machine with 4 TPUs.
+
 #### Poker
 
 Texas Hold'em Poker is a family of games that exhibit imperfect information, where players do not have full knowledge of past events. [Bowling et al. (2015)](http://science.sciencemag.org/content/347/6218/145) essentially weakly solved the heads-up limit version of the game. Using deep learning, [Moravčík & Schmid et al. (2017)](https://arxiv.org/abs/1701.01724) built a system that defeated professional players in the heads-up no-limit version. One of its co-authors, Michael Bowling, estimated in a [tweet](https://twitter.com/MichaelHBowling/status/838426697817067520) on 6 March 2017 that computer will beat pros at multi-player level in "a couple years".
 
 * 2017 January 6, Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724). *arXiv:1701.01724*.
 * 2015 January 9, Michael Bowling, Neil Burch, Michael Johanson, and Oskari Tammelin. [Heads-up limit hold’em poker is solved](http://science.sciencemag.org/content/347/6218/145). *Science*, 347(6218):145-149.
-
-#### Go
-
-* 2016 March 15. AlphaGo defeated [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol) 4-1. [*The Guardian*](https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol), [*Wikipedia*](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol).
-* 2015 November 11, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, and Demis Hassabis. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html). *Nature*, 529(7587):484-489.
 
 ## Dialog Platforms
 
