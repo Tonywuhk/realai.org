@@ -22,6 +22,8 @@ According to a June 2016 [post](https://www.wired.com/2016/06/how-google-is-rema
 
 Google Brain Toronto was launched in March 2017. According to a Google Official Canada Blog [post authored by Geoffrey Hinton](https://canada.googleblog.com/2017/03/canadas-ai-moment.html) and published on the day of launch, Google is committed to supporting Canada's amazing AI moment.
 
+In October 2017, Bloomberg [reported](https://www.bloomberg.com/news/articles/2017-10-19/google-wants-to-train-other-companies-to-use-its-ai-tools) that Google is starting what it calls an "AI crash course" of free online tutorials, scripted by its staff and designed for software coders new to machine learning.
+
 ## Hardware
 
 In September 2017, Google [paid $1.1 billion](https://www.reuters.com/article/us-htc-m-a-google/google-bets-anew-on-smartphones-pays-1-1-billion-for-htcs-pixel-division-idUSKCN1BW06L) for [HTC](https://en.wikipedia.org/wiki/HTC)'s Pixel division. Google announced Pixel 2 ([TechCrunch report](https://techcrunch.com/2017/10/04/this-is-the-google-pixel-2-arriving-october-17-for-649/) on October 4, 2017, arriving October 17 for $649.

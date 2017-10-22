@@ -141,7 +141,7 @@ The softmax regression model achieves a classification error of around 7%. Nowad
 
 ### Deep Models
 
-In this session, we will build a [convolutional neural network](http://realai.org/course/deep-learning/convolutional-neural-network/) (CNN) for MNIST and achieve an error rate of around 1%:
+In this session, we will build a [convolutional neural network](http://realai.org/course/deep-learning/convolutional-neural-network/) (CNN) for MNIST. This is a standard task and can be [accomplished in about 30 seconds](https://github.com/vahidk/tensorflow-snippets) in a highly-customized [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). We will use Jupyter Notebook to do this and achieve an error rate of around 1%:
 
 * Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
 

@@ -22,6 +22,14 @@ where \\(\alpha \approx 1.6733\\) and \\(\lambda \approx 1.0507\\). Under these 
 
 * 2017 June 8, Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515). *arXiv:1706.02515*. [code](https://github.com/bioinf-jku/SNNs).
 
+## Activation Function
+
+[Ramachandran et al. (2017)](https://arxiv.org/abs/1710.05941) propose a new activation function, named Swish, which is simply \\(f(x)=x \cdot \mathrm{sigmoid} (x)\\). A [brief introduction](https://medium.com/@jaiyamsharma/experiments-with-swish-activation-function-on-mnist-dataset-fc89a8c79ff7) is available on Medium.
+
+### References
+
+* 2017 October 16, Prajit Ramachandran, Barret Zoph, and Quoc V. Le. [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941). *arXiv:1710.05941*.
+
 ## Regularization
 
 [Pereyra & Tucker et al. (2017)](https://arxiv.org/abs/1701.06548) found that label smoothing and confidence penalty improved model performances.

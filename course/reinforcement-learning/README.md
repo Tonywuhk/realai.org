@@ -25,6 +25,8 @@ In reinforcement learning (RL), agents learn to maximize numerical rewards provi
 
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) is a PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR). It is being actively maintained as of October 13, 2017.
 
+* [Coach](https://github.com/NervanaSystems/coach) ([docs](http://coach.nervanasys.com/)) is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms. It is stated in the [announcement blog post](https://www.intelnervana.com/reinforcement-learning-coach-intel/) in October 2017 that Intel Nervana planned to add more algorithms and environments in future releases.
+
 ## Further Reading
 
 * [Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) cover topics from the basic RL algorithms to advanced algorithms developed recent years.

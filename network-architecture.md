@@ -21,7 +21,7 @@ In an experiment evolving networks to produce patterns, [Huizinga et al. (2017)]
 
 ## Deep Feedforward Networks
 
-[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations. [Gomez & Ren et al. (2017)](https://arxiv.org/abs/1707.04585) present the Reversible Residual Network (RevNet) where each layer’s activations can be reconstructed from the next layer’s, eliminating the need to store activations in memory during backpropagation.
+[Greff et al. (2016)](https://arxiv.org/abs/1612.07771) argued that the functional blocks of Highway Networks ([Srivastava et al., 2015](https://arxiv.org/abs/1507.06228)) and Residual Networks ([He et al., 2015](https://arxiv.org/abs/1512.03385)) engage in an unrolled iterative estimation of representations. [Veit et al. (2016)](https://arxiv.org/abs/1605.06431) interpret Residual Networks as a collection of many paths of differing length. [Gomez & Ren et al. (2017)](https://arxiv.org/abs/1707.04585) present the Reversible Residual Network (RevNet) where each layer’s activations can be reconstructed from the next layer’s, eliminating the need to store activations in memory during backpropagation.
 
 A deep feedforward network can be interrupted at an intermediate layer to make *anytime predictions*. [Hu et al. (2017)](https://arxiv.org/abs/1708.06832) add uniformly spaced auxiliary predictions and losses to the residual bottleneck units of Resnets, and achieve competitive results.
 
@@ -37,6 +37,7 @@ A deep feedforward network can be interrupted at an intermediate layer to make *
 * 2016 December 22, Klaus Greff, Rupesh K. Srivastava, and Jürgen Schmidhuber. [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771). *arXiv:1612.07771*.
 * 2016 December 7, Michael Figurnov, Maxwell D. Collins, Yukun Zhu, Li Zhang, Jonathan Huang, Dmitry Vetrov, and Ruslan Salakhutdinov. [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297). *arXiv:1612.02297*. [code](https://github.com/mfigurnov/sact).
 * 2016 December 1, David Ha, Andrew Dai, and Quoc V. Le. [HyperNetworks](https://arxiv.org/abs/1609.09106). *arXiv:1609.09106*.
+* 2016 October 27, Andreas Veit, Michael Wilber, and Serge Belongie. [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431). *arXiv:1605.06431*.
 * 2016 September 6, Junyoung Chung, Sungjin Ahn, and Yoshua Bengio. [Hierarchical Multiscale Recurrent Neural Networks](https://arxiv.org/abs/1609.01704). *arXiv:1609.01704*.
 * 2016 July 12, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, and Jürgen Schmidhuber. [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474). *arXiv:1607.03474*.
 * 2015 December 10, Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). *arXiv:1512.03385*.
