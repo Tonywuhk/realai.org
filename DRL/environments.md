@@ -130,3 +130,7 @@ On 15 May 2017, Facebook [announced](https://code.facebook.com/posts/26643364715
 
 * 2017 May 18, Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu, Dhruv Batra, Antoine Bordes, Devi Parikh, and Jason Weston. [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476). *arXiv:1705.06476*.
 
+## Other Platforms
+
+* [CryptoCurrencies](CryptoCurrencies.md)
+

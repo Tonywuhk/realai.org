@@ -57,6 +57,8 @@ Bristol, UK-based startup Graphcore received a [$30 million Series A](https://ww
 
 In a [September 2017 article](https://www.bloomberg.com/news/articles/2017-09-24/in-battle-for-talent-one-startup-founder-tries-unlimited-pay) on Bloomberg Technology, which reported $3 million pay packages offered by a startup to lure top AI talent, it was also mentioned that "another startup recently agreed to a package worth $30 million over four years if certain targets are met." Such a package is unlikely to attract *top* talent among those who make long-term career choices based on pay packages, because as recent as February 2017, [a 33-year-old hedge fund star was awarded $250 million pay package at Och-Ziff](https://www.forbes.com/sites/nathanvardi/2017/02/15/33-year-old-hedge-fund-star-james-levin-awarded-250-million-pay-package-amid-och-ziff-stock-debacle/), according to Forbes.
 
+* 2017 October 22. [Tech Giants Are Paying Huge Salaries for Scarce A.I. Talent](https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html). *New York Times*.
+
 ## Events
 
 * Google I/O: [2017.05.17](https://events.google.com/io/), [2016](https://events.google.com/io2016/), [2015](https://events.google.com/io2016/)

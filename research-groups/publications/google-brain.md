@@ -14,6 +14,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 October 20, Robert M. Gower, Nicolas Le Roux, and Francis Bach. [Tracking the gradients using the Hessian: A new look at variance reducing stochastic methods](https://arxiv.org/abs/1710.07462). *arXiv:1710.07462*.
 * 2017 October 18, Samuel S. Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. [A Correspondence Between Random Neural Networks and Statistical Field Theory](https://arxiv.org/abs/1710.06570). *arXiv:1710.06570*.
 * 2017 October 17, Samuel L. Smith and Quoc V. Le. [Understanding Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451). *arXiv:1710.06451*.
 * 2017 October 16, Prajit Ramachandran, Barret Zoph, and Quoc V. Le. [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941). *arXiv:1710.05941*.
