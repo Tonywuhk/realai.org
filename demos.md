@@ -35,6 +35,7 @@ Interesting demos are often precursors to useful [applications](http://realai.or
 
 ### Object Detection
 
+* 2017 October 23. [Adobe Cloak Makes It Easy to Eliminate Unwanted Elements from Videos](http://mymodernmet.com/adobe-cloak-new-video-feature/). *My Modern Met*.
 * 2016 December 25. You only look once ([YOLO](https://pjreddie.com/darknet/yolo/)) is a real-time object detection system. [arXiv](https://arxiv.org/abs/1612.08242).
 
 ### Face Synthesis

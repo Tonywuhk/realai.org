@@ -3,8 +3,9 @@ permalink: /research-groups/publications/
 ---
 # Publications
 
-## Recent Announcements
+## Recent Submissions
 
+* 2017 October 28. [ICLR 2018 Conference](https://openreview.net/group?id=ICLR.cc/2018/Conference)
 * 2017 September 12. [NIPS 2017 Accepted Papers](https://nips.cc/Conferences/2017/AcceptedPapersInitial)
 
 ## Sources

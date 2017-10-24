@@ -8,6 +8,7 @@ A list of papers where at least one coauthor is affiliated with [OpenAI](http://
 
 ## 2017
 
+* 2017 October 20, Wei Ping, Kainan Peng, Andrew Gibiansky, Sercan O. Arik, Ajay Kannan, Sharan Narang, Jonathan Raiman, and John Miller. [Deep Voice 3: 2000-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1710.07654). *arXiv:1710.07654*.
 * 2017 October 18, Lerrel Pinto, Marcin Andrychowicz, Peter Welinder, Wojciech Zaremba, and Pieter Abbeel. [Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/abs/1710.06542). *arXiv:1710.06542*. [blog](https://blog.openai.com/generalizing-from-simulation/).
 * 2017 October 18, Xue Bin Peng, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel. [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://arxiv.org/abs/1710.06537). *arXiv:1710.06537*. [blog](https://blog.openai.com/generalizing-from-simulation/).
 * 2017 October 17, Joshua Tobin, Wojciech Zaremba, and Pieter Abbeel. [Domain Randomization and Generative Models for Robotic Grasping](https://arxiv.org/abs/1710.06425). *arXiv:1710.06425*.
