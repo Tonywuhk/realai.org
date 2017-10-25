@@ -14,6 +14,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 October 23, William Fedus, Mihaela Rosca, Balaji Lakshminarayanan, Andrew M. Dai, Shakir Mohamed, and Ian Goodfellow. [Many Paths to Equilibrium: GANs Do Not Need to Decrease aDivergence At Every Step](https://arxiv.org/abs/1710.08446). *arXiv:1710.08446*.
 * 2017 October 20, Robert M. Gower, Nicolas Le Roux, and Francis Bach. [Tracking the gradients using the Hessian: A new look at variance reducing stochastic methods](https://arxiv.org/abs/1710.07462). *arXiv:1710.07462*.
 * 2017 October 18, Samuel S. Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. [A Correspondence Between Random Neural Networks and Statistical Field Theory](https://arxiv.org/abs/1710.06570). *arXiv:1710.06570*.
 * 2017 October 17, Samuel L. Smith and Quoc V. Le. [Understanding Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451). *arXiv:1710.06451*.
@@ -25,6 +26,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 * 2017 September 21, Irwan Bello, Barret Zoph, Vijay Vasudevan, and Quoc V. Le. [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417). *arXiv:1709.07417*.
 * 2017 September 18, Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew Hausknecht, and Michael Bowling. [Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents](https://arxiv.org/abs/1709.06009). *arXiv:1709.06009*.
 * 2017 September 8, Danijar Hafner, James Davidson, and Vincent Vanhoucke. [TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow](https://arxiv.org/abs/1709.02878). *arXiv:1709.02878*.
+* 2017 August 26, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Nicolas Papernot, Kunal Talwar, and Li Zhang. [On the Protection of Private Information in Machine Learning Systems: Two Recent Approaches](https://arxiv.org/abs/1708.08022). *arXiv:1708.08022*.
 * 2017 August 24, Xinchen Yan, Mohi Khansari, Yunfei Bai, Jasmine Hsu, Arkanath Pathak, Arbhinav Gupta, James Davidson, and Honglak Lee. [Learning Grasping Interaction with Geometry-aware 3D Representations](https://arxiv.org/abs/1708.07303). *arXiv:1708.07303*.
 * 2017 July 21, Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V. Le. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012). *arXiv:1707.07012*.
 * 2017 July 13, Marc Pickett, Ayush Sekhari, and James Davidson. [A Brief Study of In-Domain Transfer and Learning from Fewer Samples using A Few Simple Priors](https://arxiv.org/abs/1707.03979). *arXiv:1707.03979*.

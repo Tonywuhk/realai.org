@@ -7,7 +7,7 @@ permalink: /adversarial-learning/
 
 Optical illusions are like adversarial examples for the human brain. Meiji University's [Koichi Sugihara](http://home.mims.meiji.ac.jp/~sugihara/Welcomee.html) has made quite a few stunning [3D illusions](https://twitter.com/machinepix/status/864543509486870528).
 
-[Lu et al. (2017)](https://arxiv.org/abs/1707.03501) show that when the pictures of physical adversarial examples are taken from different distances and angles, they are correctly classified by trained neural networks. [Evtimov et al. (2017)](https://arxiv.org/abs/1707.08945) propose Robust Physical Perturbations, an algorithm that can generate robust adversarial examples. They physically realize an adversarial example of a Stop sign that is misclassified under varying conditions, such as distances, angles, and resolutions.
+[Lu et al. (2017)](https://arxiv.org/abs/1707.03501) show that when the pictures of physical adversarial examples are taken from different distances and angles, they are correctly classified by trained neural networks. [Evtimov et al. (2017)](https://arxiv.org/abs/1707.08945) propose Robust Physical Perturbations, an algorithm that can generate robust adversarial examples. They physically realize an adversarial example of a Stop sign that is misclassified under varying conditions, such as distances, angles, and resolutions. [Su et al. (2017)](https://arxiv.org/abs/1710.08864) generate adversarial images with modifications on just one pixel.
 
 ## Adversarial Training Examples
 
@@ -19,6 +19,7 @@ In the field of evolutionary algorithms, there can be two coevolving populations
 
 ## References
 
+* 2017 October 24, Jiawei Su, Danilo Vasconcellos Vargas, and Sakurai Kouichi. [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864). *arXiv:1710.08864*.
 * 2017 July 27, Ivan Evtimov, Kevin Eykholt, Earlence Fernandes, Tadayoshi Kohno, Bo Li, Atul Prakash, Amir Rahmati, and Dawn Song. [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/abs/1707.08945). *arXiv:1707.08945*.
 * 2017 July 12, Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501). *arXiv:1707.03501*.
 * 2017 April 11, Florian Tramèr, Nicolas Papernot, Ian Goodfellow, Dan Boneh, and Patrick McDaniel. [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453). *arXiv:1704.03453*.

@@ -28,6 +28,10 @@ It can automatically generate ssh keys to access instances, and copy files to an
 * [Neural Machine Translation on Cloud GPU](http://realai.org/course/google-cloud-platform/gce-gpu-nmt/)
 * [Running StarCraft II Learning Environment on Google Compute Engine](http://realai.org/course/google-cloud-platform/gce-sc2le/)
 
+## Other Products
+
+[Colaboratory](https://colab.research.google.com) is a research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use. Unlike [Cloud Datalab](https://cloud.google.com/datalab/), it is not a fully supported or generally-available Google product.
+
 ## Resources
 
 * Links: [Medium](https://medium.com/google-cloud)
