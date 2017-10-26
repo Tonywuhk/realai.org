@@ -26,11 +26,14 @@ Below is an incomplete list of research groups around the world that potentially
   * Seattle (俞栋)
 * [Twitter Cortex](https://cortex.twitter.com/)
 * 今日头条 ([Hang Li](http://www.hangli-hl.com/index.html); [moving](http://m.21jingji.com/article/20170915/herald/2956233aa62fd47d52f9bf0908fb4f32.html))
-* [Nnaisense](https://nnaisense.com/) ([Jürgen Schmidhuber](http://people.idsia.ch/~juergen/))
 * [Citadel](https://www.citadel.com/) ([邓力](https://www.microsoft.com/en-us/research/people/deng/))
 * [GoodAI](https://www.goodai.com/)
 * [Numenta](http://numenta.com/)
 * [Cogitai](http://www.cogitai.com/)
+
+### NNAISENSE SA
+
+[NNAISENSE](https://nnaisense.com/) plans to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences (AGI). Its [team](https://nnaisense.com/) includes [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/), one of the most renowned AI experts in the world, as a co-founder of the company. As of October 2017, it is [looking to fill](https://nnaisense.com/careers.html) the role of "AGI Software Engineer," whose job description includes "contribute to the AGI code base." Qualifications include C++11, multi-threading, assembly, industry-grade software development, network programming, 3D rendering engine, compilers, manycore processors, OpenCL, and low-latency interconnects.
 
 ### The Curious AI Company
 
