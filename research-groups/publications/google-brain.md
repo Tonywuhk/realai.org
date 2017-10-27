@@ -7,13 +7,13 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## To Appear
 
-* 2017, Sara Sabour, Nicholas Frosst, and Geoffrey Hinton. [Dynamic Routing between Capsules](https://research.google.com/pubs/pub46351.html). *NIPS*.
 * 2017, Jeffrey Pennington and Pratik Worah. [Nonlinear random matrix theory for deep learning](https://research.google.com/pubs/pub46342.html). *NIPS*.
 * 2017, Jeffrey Pennington, Sam Schoenholz, and Surya Ganguli. [Investigating the learning dynamics of deep neural networks using random matrix theory](https://research.google.com/pubs/pub46341.html). *NIPS*.
 * 2017, Manasi Vartak, Hugo Larochelle, and Arvind Thiagarajan. [A Meta-Learning Perspective on Cold-Start Recommendations for Items](https://research.google.com/pubs/pub46346.html). *NIPS*.
 
 ## 2017
 
+* 2017 October 26, Sara Sabour, Nicholas Frosst, and Geoffrey E Hinton. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829). *arXiv:1710.09829*.
 * 2017 October 23, William Fedus, Mihaela Rosca, Balaji Lakshminarayanan, Andrew M. Dai, Shakir Mohamed, and Ian Goodfellow. [Many Paths to Equilibrium: GANs Do Not Need to Decrease aDivergence At Every Step](https://arxiv.org/abs/1710.08446). *arXiv:1710.08446*.
 * 2017 October 20, Robert M. Gower, Nicolas Le Roux, and Francis Bach. [Tracking the gradients using the Hessian: A new look at variance reducing stochastic methods](https://arxiv.org/abs/1710.07462). *arXiv:1710.07462*.
 * 2017 October 18, Samuel S. Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. [A Correspondence Between Random Neural Networks and Statistical Field Theory](https://arxiv.org/abs/1710.06570). *arXiv:1710.06570*.

@@ -42,3 +42,11 @@ A deep feedforward network can be interrupted at an intermediate layer to make *
 * 2016 July 12, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, and Jürgen Schmidhuber. [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474). *arXiv:1607.03474*.
 * 2015 December 10, Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). *arXiv:1512.03385*.
 * 2015 July 22, Rupesh Kumar Srivastava, Klaus Greff, and Jürgen Schmidhuber. [Training Very Deep Networks](https://arxiv.org/abs/1507.06228). *arXiv:1507.06228*.
+
+## Capsules
+
+Capsules are small groups of neurons that act together like a node in a layer of a deep neural network. [Sabour et al. (2017)](https://arxiv.org/abs/1710.09829) propose a dynamic routing algorithm where each capsule in the current layer computes a "prediction vector" for each possible parent in the layer above by multiplying the child capsule's own output by a weight matrix. If this prediction is in agreement with the output of the parent, these two capsules become more "coupled" in the next iteration. This routing operation iterates a few times between a pair of consecutive layers.
+
+### References
+
+* 2017 October 26, Sara Sabour, Nicholas Frosst, and Geoffrey E Hinton. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829). *arXiv:1710.09829*.

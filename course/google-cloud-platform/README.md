@@ -38,7 +38,7 @@ It can automatically generate ssh keys to access instances, and copy files to an
 
 ## Comparisons
 
-Cloud computing is a major focus of the AI [industry](http://realai.org/industry/#cloud-computing). Other notable cloud service platforms include [Amazon Web Services](https://aws.amazon.com/) and [Microsoft Azure](https://azure.microsoft.com/).
+Cloud computing is a major focus of the AI [industry](http://realai.org/industry/#cloud-computing). Other notable cloud service platforms include [Amazon Web Services](https://aws.amazon.com/) and [Microsoft Azure](https://azure.microsoft.com/). The [NVIDIA GPU Cloud](https://www.nvidia.com/en-us/gpu-cloud/) is available on Amazon [EC2](https://aws.amazon.com/ec2/) as of October 2017.
 
 * 2017 June 6. [Google Cloud Platform Vs. Amazon Web Services](https://dev.to/bugfenderapp/google-cloud-platform-vs-amazon-web-services). *dev.to*.
 * 2017 March 14. [A Tale of Two Clouds: Amazon vs. Google](https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38). *Medium*.
