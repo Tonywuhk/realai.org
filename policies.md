@@ -15,6 +15,7 @@ In July 2017, Elon Musk [called on the government to proactively regulate AI](ht
 
 ### Canada
 
+* 2017 October 26. [Why Artificial Intelligence Should Be More Canadian](https://www.technologyreview.com/the-download/609239/why-artificial-intelligence-should-be-more-canadian/). *MIT Technology Review*.
 * 2017 July 5. [It’s time to make the Canadian AI ecosystem bloom](https://www.theglobeandmail.com/report-on-business/rob-commentary/its-time-to-make-the-canadian-ai-ecosystem-bloom/article35559957/). *The Globe and Mail*.
 * 2017 July 5. [Justin Trudeau thanks DeepMind for investing in Edmonton, Canada](https://twitter.com/JustinTrudeau/status/882648011616202755). *Twitter*.
 * 2017 April 24. [Ontario to roll out basic income in three cities](http://www.theglobeandmail.com/news/national/what-is-basic-income-and-who-qualifies/article34795127/). *The Globe and Mail*.
