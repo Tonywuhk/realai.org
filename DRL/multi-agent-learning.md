@@ -28,7 +28,7 @@ Symbolic communication between neural networks can also be learned within an age
 
 ## Environments
 
-[Bansal et al. (2017)](https://arxiv.org/abs/1710.03748) introduce four competitive environments, *Run to Goal*, *You Shall Not Pass*, *Sumo* and *Kick and Defend*. These are 3D environments with simulated physics developed using the MuJoCo framework. Agents have continuous control and their key skills include balance, dexterity and manipulation.
+[Bansal et al. (2017)](https://arxiv.org/abs/1710.03748) introduce four competitive environments, *Run to Goal*, *You Shall Not Pass*, *Sumo* and *Kick and Defend*. These are 3D environments with simulated physics developed using the MuJoCo framework. Agents have continuous control and their key skills include balance, dexterity and manipulation. Through self-play, humanoids agents develop physical skills resembling martial arts.
 
 ## References
 

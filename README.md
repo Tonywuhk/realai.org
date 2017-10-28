@@ -91,7 +91,7 @@ mathjax: true
         4. [Reasoning](http://realai.org/reasoning/)
     6. Topics
         1. [Safety](DRL/safety.md)
-        2. [Multi-Agent Learning](multi-agent-learning.md)
+        2. [Multi-Agent Learning](DRL/multi-agent-learning.md)
         3. [General Reinforcement Learning](DRL/general.md)
 
 7. [Research](http://realai.org/research/)
