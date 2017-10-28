@@ -12,7 +12,7 @@ mathjax: true
 
 ## Main Contents
 
-1. [Overview](http://realai.org/overview/)
+1. [Overview](overview.md)
 2. AI and Society
     1. [Impacts](http://realai.org/impacts/):
         1. [Applications](http://realai.org/applications/) and [Demos](http://realai.org/demos/)
