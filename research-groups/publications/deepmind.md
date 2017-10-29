@@ -6,7 +6,7 @@ mathjax: true
 
 A list of papers where at least one coauthor is affiliated with [DeepMind Technologies Limited](http://realai.org/research-groups/deepmind/), in reverse chronological order:
 
-## To Appear
+## Expected To Appear
 
 * 2017, Artur Speiser, Jinyao Yan, Evan Archer, Lars Buesing, Srinivas C. Turaga, and Jakob H. Macke. [Fast amortized inference of neural activity from calcium imaging data with variational autoencoders](http://www.mackelab.org/pubs/Speiser_NIPS_2017.pdf) (PDF). *NIPS*.
 * 2017, Jiajun Wu, Erika Lu, Pushmeet Kohli, Bill Freeman, and Josh Tenenbaum. Scene Physics Acquisition via Visual De-animation. *NIPS*.
@@ -15,6 +15,7 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 * 2017, Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Karl Tuyls, Julien Perolat, David Silver, and Thore Graepel. A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning. *NIPS*.
 * 2017, Michael Janner, Jiajun Wu, Tejas Kulkarni, Ilker Yildirim, and Josh Tenenbaum. Learning to Generalize Intrinsic Images with a Structured Disentangling Autoencoder. *NIPS*.
 * 2017, Aaron van den Oord, Oriol Vinyals, and Koray Kavukcuoglu. Neural Discrete Representation Learning. *NIPS*.
+* 2017 October 28, Anonymous. [Distributed Prioritized Experience Replay](https://openreview.net/forum?id=H1Dy---0Z). *OpenReview*.
 * 2017 June 23, Caglar Gulcehre, Francis Dutil, Adam Trischler, and Yoshua Bengio. [Plan, Attend, Generate: Character-level Neural Machine Translation with Planning in the Decoder](https://arxiv.org/abs/1706.05087). *arXiv:1706.05087*.
 * 2017 March 4, Abbas Kazerouni, Mohammad Ghavamzadeh, Yasin Abbasi-Yadkori, and Benjamin Van Roy. [Conservative Contextual Linear Bandits](https://arxiv.org/abs/1611.06426). *arXiv:1611.06426*.
 

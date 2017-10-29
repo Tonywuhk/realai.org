@@ -62,12 +62,11 @@ mathjax: true
             * [Architecture Search](http://realai.org/architecture-search/)
             * Neural Interface
         2. [Learning Rules](http://realai.org/learning-rules/)
-        3. Evolutionary Algorithms
-        4. [Adversarial Learning](http://realai.org/adversarial-learning/)
-        5. [Generative Models](http://realai.org/generative-models/)
-        6. [Platforms](http://realai.org/learning-platforms/)
-        7. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
-        8. [Deep Learning Implementations](http://realai.org/deep-learning/implementation/)
+        3. [Adversarial Learning](http://realai.org/adversarial-learning/)
+        4. [Generative Models](http://realai.org/generative-models/)
+        5. [Platforms](http://realai.org/learning-platforms/)
+        6. [Deep Learning Theory](http://realai.org/deep-learning-theory/)
+        7. [Deep Learning Implementations](http://realai.org/deep-learning/implementation/)
     4. Experiments
         1. [Vision](http://realai.org/computer-vision/)
         2. [Language](http://realai.org/NLP/): [Program Induction](http://realai.org/program-induction/)
@@ -76,6 +75,7 @@ mathjax: true
  
 6. [DRL](DRL/README.md) (Deep RL; Deep Reinforcement Learning)
     1. [Learning Algorithms](DRL/learning-algorithms.md)
+        1. [Evolution Strategies](DRL/evolution-strategies.md)
     2. Learning Targets
         1. [Intrinsic Motivation](DRL/intrinsic-motivation.md)
             * [Exploration](DRL/exploration.md)
