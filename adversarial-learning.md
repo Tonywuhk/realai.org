@@ -19,11 +19,11 @@ In the field of evolutionary algorithms, there can be two coevolving populations
 
 ## Generative Adversarial Networks
 
-Generative Adversarial Networks (GAN) typically involve a pair of networks in competition with each other. [Dumoulin et al. (2017)](https://arxiv.org/abs/1710.07035) provide an overview (for the signal processing community). [Karras et al. (2017)](https://openreview.net/forum?id=Hk99zCeAb&noteId=Hk99zCeAb) grow both the generator and discriminator progressively: starting from a low resolution, then adding new layers that model increasingly fine details as training progresses. They are able to produce CelebA images at 1024x1024 resolution.
+Generative Adversarial Networks (GAN) typically involve a pair of networks in competition with each other. [Dumoulin et al. (2017)](https://arxiv.org/abs/1710.07035) provide an overview (for the signal processing community). [Karras et al. (2017)](https://arxiv.org/abs/1710.10196) grow both the generator and discriminator progressively: starting from a low resolution, then adding new layers that model increasingly fine details as training progresses. They are able to produce CelebA images at 1024x1024 resolution.
 
 ## References
 
-* 2017 October 27, Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen. [Progressive Growing of GANs for Improved Quality, Stability, and Variation](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of). *OpenReview*. [site](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of). [code](https://github.com/tkarras/progressive_growing_of_gans).
+* 2017 October 27, Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen. [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196). *arXiv:1710.10196*. [site](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of). [code](https://github.com/tkarras/progressive_growing_of_gans).
 * 2017 October 24, Jiawei Su, Danilo Vasconcellos Vargas, and Sakurai Kouichi. [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864). *arXiv:1710.08864*.
 * 2017 October 19, Antonia Creswell, Tom White, Vincent Dumoulin, Kai Arulkumaran, Biswa Sengupta, and Anil A Bharath. [Generative Adversarial Networks: An Overview](https://arxiv.org/abs/1710.07035). *arXiv:1710.07035*.
 * 2017 July 27, Ivan Evtimov, Kevin Eykholt, Earlence Fernandes, Tadayoshi Kohno, Bo Li, Atul Prakash, Amir Rahmati, and Dawn Song. [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/abs/1707.08945). *arXiv:1707.08945*.

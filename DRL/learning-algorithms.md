@@ -49,6 +49,8 @@ Estimating the \\(Q\\)-values is difficult when the actions can be continuous an
 
 Instead of learning the value functions, [Bellemare & Dabney & Munos (2017)](https://arxiv.org/abs/1707.06887) propose to learn the value distribution. The distribution of values on a state-action pair \\((s, a)\\) is modelled as a discrete distribution whose support set is a series of \\(N\\) equidistant values (called atoms) between \\(V_\mathrm{MIN}\\) and \\(V_\mathrm{MAX}\\). Each \\(Q\\)-value is the probability-weighted sum of these values, where the probabilities are functions of state-action pairs. In the **Categorical DQN** architecture, these probabilities replace the action-values as the output of a DQN architecture. The learning target is the result of applying a distributional Bellman operator to the next-state distribution using the current parameters. A common choice on the number of atoms to use is 51 and such an architecture is referred to as C51. C51 has also been [implemented and tested on VizDoom](https://flyyufelix.github.io/2017/10/24/distributional-bellman.html) by [Felix Yu](https://www.linkedin.com/in/felix-yu-60392815/).
 
+[Dabney et al. (2017)](https://arxiv.org/abs/1710.10044) present a novel distributional RL algorithm where value distribution is modelled by quantiles of the target distribution. They consider \\(N\\) locations with uniform weights instead of equidistant values with varying probabilities. They further develop the quantile regression DQN (QR-DQN) algorithm that outperforms C51.
+
 ## Policy Based Reinforcement Learning Algorithms
 
 Policy learning directly optimizes the parameters \\(\theta\\) of a policy \\(\pi(a\_t \| s\_t; \theta)\\), sometimes with the help of learning a value function \\(V(s; \theta_v)\\). In the standard REINFORCE with baseline algorithm, the policy parameters \\(\theta\\) are often updated in the direction of 
@@ -113,6 +115,7 @@ where the learning rate \\(\alpha\\) could have a high value. State representati
 
 ## References
 
+* 2017 October 27, Will Dabney, Mark Rowland, Marc G. Bellemare, and Rémi Munos. [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/abs/1710.10044). *arXiv:1710.10044*.
 * 2017 September 29, Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, and Sergey Levine. [Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation](https://arxiv.org/abs/1709.10489). *arXiv:1709.10489*. [code](https://github.com/gkahn13/gcg).
 * 2017 July 21, Marc G. Bellemare, Will Dabney, and Rémi Munos. [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). *arXiv:1707.06887*. [video](http://youtu.be/yFBwyPuO2Vg). [blog](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/).
 * 2017 May 21, Nir Levine, Tom Zahavy, Daniel J. Mankowitz, Aviv Tamar, and Shie Mannor. [Shallow Updates for Deep Reinforcement Learning](https://arxiv.org/abs/1705.07461). *arXiv:1705.07461*.
