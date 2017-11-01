@@ -5,7 +5,9 @@ permalink: /few-shot-learning/
 
 Few-shot learning is about learning to solve tasks using only a small number of samples. In classification models, for example, the objective is to perform well after seeing very few samples from each class.
 
-[Finn et al. (2017)](https://arxiv.org/abs/1703.03400) propose a model-agnostic algorithm to learn a good weight initialization so that subsequent learning coverges rapidly. This technique is later used in a *continuous adaptation* ([Al-Shedivat et al., 2017](https://arxiv.org/abs/1710.03641)) problem, where an agent learns to solve a single but nonstationary task or environment. The source of nonstationarity is some underlying properties of the task, which can also be viewed as a sequence of stationary tasks to which the agent must quickly adapt. This is important in their setup where the agent's experiences in the current task contain information about the next task. These experiences are used to construct the agent's policy for the next task.
+[Finn et al. (2017)](https://arxiv.org/abs/1703.03400) propose a model-agnostic meta-learning (MAML) algorithm to learn a good weight initialization so that subsequent learning converges rapidly. [Finn & Levine (2017)](https://arxiv.org/abs/1710.11622) find that MAML has sufficient capacity to approximate any learning algorithm. In their experiments, gradient-based MAML consistently leads to learning strategies that generalize more widely compared to RNN-based methods.
+
+This technique is used in a *continuous adaptation* ([Al-Shedivat et al., 2017](https://arxiv.org/abs/1710.03641)) problem, where an agent learns to solve a single but nonstationary task or environment. The source of nonstationarity is some underlying properties of the task, which can also be viewed as a sequence of stationary tasks to which the agent must quickly adapt. This is important in their setup where the agent's experiences in the current task contain information about the next task. These experiences are used to construct the agent's policy for the next task.
 
 Some few-shot learning methods:
 
@@ -21,6 +23,7 @@ In *continuous adaptation* ([Al-Shedivat et al., 2017](https://arxiv.org/abs/171
 
 ## References
 
+* 2017 October 31, Chelsea Finn and Sergey Levine. [Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm](https://arxiv.org/abs/1710.11622). *arXiv:1710.11622*.
 * 2017 October 10, Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641). *arXiv:1710.03641*. [site](https://sites.google.com/view/adaptation-via-metalearning).
 * 2017 July 18, Chelsea Finn, Pieter Abbeel, and Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). *arXiv:1703.03400*. [blog](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/).
 * 2017 March 15, Jake Snell, Kevin Swersky, and Richard S. Zemel. [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175). *arXiv:1703.05175*.

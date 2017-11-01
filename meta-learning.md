@@ -8,7 +8,7 @@ Meta-learning occurs at a higher level than standard learning and improves the l
 
 ## Related Topics
 
-* [Few-Shot Learning](http://realai.org/few-shot-learning/): The emphasis is on learning to solve tasks using only a small number of samples.
+* [Few-Shot Learning](few-shot-learning.md): The emphasis is on learning to solve tasks using only a small number of samples.
 
 ## Overview
 

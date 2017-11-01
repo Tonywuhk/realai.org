@@ -19,8 +19,12 @@ The agent learns a forward model of the environment, which can then be used by t
 
 In *Expert Iteration* ([Anthony et al., 2017](https://arxiv.org/abs/1705.08439)), tree search is used to improve a policy network, and the actions obtained from this improvement are used to train a new iteration of the policy network.
 
+[Farquhar & Rocktäschel et al. (2017)](https://arxiv.org/abs/1710.11417) propose TreeQN, a differentiable,
+recursive, tree-structured model that serves as a drop-in replacement for any value function network in deep RL with discrete actions. This architecture encodes an inductive bias based on the prior knowledge that the environment is a stationary Markov process.
+
 ## References
 
+* 2017 October 31, Gregory Farquhar, Tim Rocktäschel, Maximilian Igl, and Shimon Whiteson. [TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning](https://arxiv.org/abs/1710.11417). *arXiv:1710.11417*.
 * 2017 August 24, Edward Groshev, Aviv Tamar, Siddharth Srivastava, and Pieter Abbeel. [Learning Generalized Reactive Policies using Deep Neural Networks](https://arxiv.org/abs/1708.07280). *arXiv:1708.07280*. [video](https://sites.google.com/site/learn2plannips/).
 * 2017 July 19, Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, and Peter Battaglia. [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170). *arXiv:1707.06170*. [video](https://drive.google.com/open?id=0B3u8dCFTG5iVaUxzbzRmNldGcU0). [blog](https://deepmind.com/blog/agents-imagine-and-plan/).
 * 2017 May 23, Thomas Anthony, Zheng Tian, and David Barber. [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439). *arXiv:1705.08439*.

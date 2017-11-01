@@ -21,6 +21,10 @@ Based on the system’s architecture and training environment, an intuitive, but
 
 [The Alexa Prize](https://developer.amazon.com/alexaprize) is an annual university competition that focuses solely on *socialbots*, an Alexa skill that converses with users about popular topics and news events. During the semifinals between July 1 and August 15, 2017, Alexa users in the US asked to converse with the teams’ socialbots and were prompted to rate them. Participants in the September 2016 - November 2017 competition could receive a total prize of $2.5 million.
 
+## Libraries
+
+* [Bottery](https://github.com/google/bottery) is a conversational agent prototyping platform by [Kate Compton](https://github.com/galaxykate). It is a syntax, editor, and simulator for prototyping generative contextual conversations modeled as finite state machines.
+
 ## References
 
 * 2017 September 7, Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Mudumba, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, and Yoshua Bengio. [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349). *arXiv:1709.02349*.
