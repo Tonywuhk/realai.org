@@ -14,6 +14,9 @@ redirect_from: /NLP/
 
 ## Neural Machine Translation
 
+[Artetxe et al. (2017)](https://arxiv.org/abs/1710.11041) propose an attentional encoder-decoder model that learns to translate in an unsupervised manner. A shared encoder is given language independent word-level representations, and it only needs to learn how to compose them to build representations of larger phrases. Two main strategies are used: denoising and backtranslation. In denoising, the word order of the input sentence is altered by random swaps between contiguous words. In backtranslation, first apply the shared decoder to an input sentence, then apply the decoder of the other language to obtain a pseudo translation. The system is trained to predict the original sentence from this translation.
+
+* 2017 October 30, Mikel Artetxe, Gorka Labaka, Eneko Agirre, and Kyunghyun Cho. [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041). *arXiv:1710.11041*.
 * 2017 September 22, Philipp Koehn. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arXiv:1709.07809*.
 
 ## Abstractive Summarization
