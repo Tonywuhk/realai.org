@@ -13,6 +13,7 @@ A list of papers where at least one coauthor is affiliated with [Google Brain](h
 
 ## 2017
 
+* 2017 November 1, Jaehoon Lee, Yasaman Bahri, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165). *arXiv:1711.00165*.
 * 2017 October 30, Curtis Hawthorne, Erich Elsen, Jialin Song, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, and Douglas Eck. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153). *arXiv:1710.11153*.
 * 2017 October 27, Will Dabney, Mark Rowland, Marc G. Bellemare, and Rémi Munos. [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/abs/1710.10044). *arXiv:1710.10044*.
 * 2017 October 26, Sara Sabour, Nicholas Frosst, and Geoffrey E Hinton. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829). *arXiv:1710.09829*.

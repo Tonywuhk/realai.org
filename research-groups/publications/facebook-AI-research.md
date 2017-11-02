@@ -7,6 +7,8 @@ A list of papers where at least one coauthor is affiliated with [Facebook AI Res
 
 ## 2017
 
+* 2017 October 31, Brenden M. Lake and Marco Baroni. [Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks](https://arxiv.org/abs/1711.00350). *arXiv:1711.00350*.
+* 2017 October 31, Guillaume Lample, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043). *arXiv:1711.00043*.
 * 2017 October 30, Armand Joulin, Edouard Grave, Piotr Bojanowski, Maximilian Nickel, and Tomas Mikolov. [Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881). *arXiv:1710.10881*.
 * 2017 October 25, Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, and David Lopez-Paz. [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). *arXiv:1710.09412*.
 * 2017 October 19, Alexander Peysakhovich and Adam Lerer. [Consequentialist conditional cooperation in social dilemmas with imperfect information](https://arxiv.org/abs/1710.06975). *arXiv:1710.06975*.

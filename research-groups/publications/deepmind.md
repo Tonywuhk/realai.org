@@ -21,7 +21,10 @@ A list of papers where at least one coauthor is affiliated with [DeepMind Techno
 
 ## 2017
 
+* 2017 November 1, Rudy Bunel, Ilker Turkaslan, Philip H. S. Torr, Pushmeet Kohli, and M. Pawan Kumar. [Piecewise Linear Neural Network verification: A comparative study](https://arxiv.org/abs/1711.00455). *arXiv:1711.00455*.
+* 2017 November 1, Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, and Koray Kavukcuoglu. [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436). *arXiv:1711.00436*.
 * 2017 October 30, Jacob Devlin, Jonathan Uesato, Rishabh Singh, and Pushmeet Kohli. [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054). *arXiv:1710.11054*.
+* 2017 October 27, Scott Reed, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Ali Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. [Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions](https://arxiv.org/abs/1710.10304). *arXiv:1710.10304*.
 * 2017 October 27, Will Dabney, Mark Rowland, Marc G. Bellemare, and Rémi Munos. [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/abs/1710.10044). *arXiv:1710.10044*.
 * 2017 October 26, Felix Hill, Karl Moritz Hermann, Phil Blunsom, and Stephen Clark. [Understanding Grounded Language Learning Agents](https://arxiv.org/abs/1710.09867). *arXiv:1710.09867*.
 * 2017 October 23, William Fedus, Mihaela Rosca, Balaji Lakshminarayanan, Andrew M. Dai, Shakir Mohamed, and Ian Goodfellow. [Many Paths to Equilibrium: GANs Do Not Need to Decrease aDivergence At Every Step](https://arxiv.org/abs/1710.08446). *arXiv:1710.08446*.
