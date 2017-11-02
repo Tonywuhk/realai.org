@@ -1,6 +1,8 @@
 ---
 permalink: /course/tensorflow/
-redirect_from: /course/TF/
+redirect_from:
+  - /course/TF/
+  - /course/
 title: Course | TensorFlow
 mathjax: true
 ---
@@ -29,19 +31,18 @@ To follow the main sequence, readers are advised to install the [Chrome](https:/
 
 ### IT 101
 
-TensorFlow is one of the most popular [deep learning libraries](http://realai.org/course/deep-learning/libraries/). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
+TensorFlow is one of the most popular [deep learning libraries](../deep-learning/libraries.md). It is Google’s second-generation machine learning system, specifically designed to correct the shortcomings of [DistBelief](https://research.google.com/pubs/pub40565.html), its predecessor. TensorFlow was [open sourced by Google](https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html) on November 9, 2015. As is typical for open-source projects, it is [hosted](https://github.com/tensorflow/tensorflow) on [GitHub](https://github.com/), an Internet hosting service that is mostly used for code.
 
-Within the scope of this sequence, we can think of TensorFlow as an extension to the popular [Python](http://realai.org/course/python/) programming language. In this session, we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](http://realai.org/course/google-cloud-platform/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](http://realai.org/course/ubuntu/), install TensorFlow, and run a few lines of code in [Jupyter Notebook](http://realai.org/course/jupyter/). These concepts are illustrated in the diagram below:
+Within the scope of this sequence, we can think of TensorFlow as an extension to the popular Python programming language. In this session, we will set up a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) on the [Google Cloud Platform](https://cloud.google.com/) running an [operating system](https://en.wikipedia.org/wiki/Operating_system) called [Ubuntu](https://www.ubuntu.com/), install TensorFlow, and run a few lines of code in [Jupyter Notebook](http://jupyter.org/). These concepts are illustrated in the diagram below:
 
 ![](http://realai.org/course/tensorflow/IT-101.png)
 
 The actual architecture map is a lot more complex. For example, the part of TensorFlow we use in this sequence is only its Python [API](https://en.wikipedia.org/wiki/Application_programming_interface) on the front end. As a deep learning library designed to be used for both research and production, TensorFlow connects all the way down to the drivers of the hardware components that form the physical [cloud](https://en.wikipedia.org/wiki/Cloud_computing), and enables distributed execution on a range of devices such as CPU, GPU and [mobile](https://www.tensorflow.org/mobile/). It has APIs available in Python, C++, Java and Go. As of August 2017, the [Python API](https://www.tensorflow.org/api_docs/) is the most complete and the easiest to use.
 
-Fortunately we don’t need to know all these details to use TensorFlow, or to experiment on virtual machines. Readers who are interested in more practice with running programs in the cloud can optionally follow [these steps](http://realai.org/course/google-cloud-platform/gce-sc2le/) to run a simple AI agent that plays [StarCraft II](http://realai.org/environments/#starcraft-ii) on a remote desktop.
 
 #### Setting Up Your Computer
 
-Experiments in the next session will be conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](http://realai.org/course/google-cloud-platform/#google-compute-engine). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
+Experiments in the next session will be conducted on an [n1-standard-1](https://cloud.google.com/compute/pricing#predefined_machine_types) instance on [Google Compute Engine](https://cloud.google.com/compute/). As of August 2017, the machine type costs less than $30 per month in [asia-east1](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available). We use a Ubuntu 16.04 LTS boot image, with firewall rules that allow TCP access from ports 8888 and 6006 for Jupyter Notebook and TensorBoard, respectively. The environment can be set up by the following commands:
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3 -
@@ -55,7 +56,7 @@ For a step-by-step guide, see
 
 * [Running TensorFlow in Jupyter on Google Compute Engine](http://realai.org/course/tensorflow/jupyter-gce/)
 
-A known issue is that sometimes `tensorboard` reports an error message of `No module named 'html5lib.filters.base'`. It can be fixed by issuing an extra [`pip`](http://realai.org/course/pip/) command to reinstall `html5lib`:
+A known issue is that sometimes `tensorboard` reports an error message of `No module named 'html5lib.filters.base'`. It can be fixed by issuing an extra [`pip`](https://pypi.python.org/pypi/pip) command to reinstall `html5lib`:
 
 ```bash
 sudo pip install html5lib==0.99999999
@@ -141,7 +142,7 @@ The softmax regression model achieves a classification error of around 7%. Nowad
 
 ### Deep Models
 
-In this session, we will build a [convolutional neural network](http://realai.org/course/deep-learning/convolutional-neural-network/) (CNN) for MNIST. This is a standard task and can be [accomplished in about 30 seconds](https://github.com/vahidk/tensorflow-snippets) in a highly-customized [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). We will use Jupyter Notebook to do this and achieve an error rate of around 1%:
+In this session, we will build a [convolutional neural network](../deep-learning/convolutional-neural-network.md) (CNN) for MNIST. This is a standard task and can be [accomplished in about 30 seconds](https://github.com/vahidk/tensorflow-snippets) in a highly-customized [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). We will use Jupyter Notebook to do this and achieve an error rate of around 1%:
 
 * Jupyter Notebook: [Solving MNIST by Convolution](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/solving-MNIST-by-convolution.ipynb); [source](http://realai.org/course/tensorflow/solving-MNIST-by-convolution.ipynb))
 
@@ -155,7 +156,7 @@ A simple model like the one we studied in this session is already close to addin
 
 [Graphic Processing Unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU) has become an indispensable device for large-scale deep learning projects today. A GPU has thousands of cores that can run in parallel, making it well-suited for the kind of numerical computations used in deep learning. A high-level library like TensorFlow goes through one or more intermediate layers to access a GPU. In a typical setup today with NVIDIA GPUs, a toolkit called [CUDA](http://www.nvidia.com/object/cuda_home_new.html) (Compute Unified Device Architecture) provides a development environment for high-performance GPU applications in general. A GPU-accelerated library [cuDNN](https://developer.nvidia.com/cudnn) provides highly-tuned building blocks specifically for deep learning, such as convolution, pooling, and normalization. These two components are major dependencies TensorFlow needs to run with GPU support. As of August 2017, TensorFlow 1.3.0 required CUDA 8.0 and cuDNN v6, and it was [anticipated](https://github.com/tensorflow/tensorflow/releases/tag/v1.3.0) that TensorFlow 1.4 would be released with cuDNN v7. The official TensorFlow installation page provides an up-to-date list of [NVIDIA requirements (Linux)](https://www.tensorflow.org/install/install_linux#nvidia_requirements_to_run_tensorflow_with_gpu_support). Following the steps below, we can build a VM on GCP with an [NVIDIA® Tesla® K80](http://www.nvidia.com/object/tesla-k80.html) GPU ([pricing](https://cloud.google.com/compute/pricing#gpus)). Running the machine translation experiment is optional:
 
-* [Neural Machine Translation on Cloud GPU](http://realai.org/course/google-cloud-platform/gce-gpu-nmt/)
+* [Neural Machine Translation on Cloud GPU](../google-cloud-platform/gce-gpu-nmt.md)
 
 On our newly built VM, the CNN model in the previous session that took over 16 minutes to train on 8 vCPUs should now only take less than 2 minutes! With more computing power, let’s build a CNN with more convolutional layers for CIFAR-10:
 
@@ -163,7 +164,7 @@ On our newly built VM, the CNN model in the previous session that took over 16 m
 
 ### RNN
 
-A [recurrent neural network](http://realai.org/course/deep-learning/recurrent-neural-network/) (RNN) is a class of neural networks that have been widely used in natural language tasks such as machine translation. They're very effective at generating sequences.
+A [recurrent neural network](../deep-learning/recurrent-neural-network.md) (RNN) is a class of neural networks that have been widely used in natural language tasks such as machine translation. They're very effective at generating sequences.
 
 * Jupyter Notebook: [Character RNN](http://nbviewer.jupyter.org/url/realai.org/course/tensorflow/char-RNN.ipynb) (hosted on nbviewer; [GitHub](https://github.com/real-ai/realai.org/blob/master/course/tensorflow/char-RNN.ipynb); [source](http://realai.org/course/tensorflow/char-RNN.ipynb))
 

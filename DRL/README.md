@@ -3,7 +3,7 @@ permalink: /DRL/
 ---
 # Deep Reinforcement Learning
 
-Deep reinforcement learning (DRL) is a subfield that uses deep learning algorithms within RL. It is a main driving force behind rapid [progress](http://realai.org/progress/) in AI since 2013, and represents an important step towards developing AGI. [Henderson & Islam et al. (2017)](https://arxiv.org/abs/1709.06560) note that reported state-of-the-art DRL results are difficult to interpret, due to factors such as environment non-determinism and variance intrinsic to DRL methods.
+Deep reinforcement learning (DRL) is a subfield that uses deep learning algorithms within RL. It is a main driving force behind rapid progress in AI since 2013, and represents an important step towards developing AGI. [Henderson & Islam et al. (2017)](https://arxiv.org/abs/1709.06560) note that reported state-of-the-art DRL results are difficult to interpret, due to factors such as environment non-determinism and variance intrinsic to DRL methods.
 
 ### Recent Review
 
