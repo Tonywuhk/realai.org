@@ -11,10 +11,11 @@ The variational autoencoders (VAE) framework combines a neural-network based inf
 
 * 2017 [September 30](https://twitter.com/dpkingma/status/914277278602821633), Diederik P. Kingma. [Variational Inference & Deep Learning: A New Synthesis](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf) (PDF). *Dropbox*.
 
-A subset of latent variables in a VAE can be made interpretable by applying semi-supervised learning, where labels are supplied for these variables ([Siddharth et al., 2017](https://arxiv.org/abs/1706.00400)).
+A subset of latent variables in a VAE can be made interpretable by applying semi-supervised learning, where labels are supplied for these variables ([Siddharth et al., 2017](https://arxiv.org/abs/1706.00400)). [van den Oord et al. (2017)](https://arxiv.org/abs/1711.00937) propose the Vector Quantised-Variational AutoEncoder (VQ-VAE) that differs from VAEs by learning a discrete latent representation.
 
 ### References
 
+* 2017 November 2, Aaron van den Oord, Oriol Vinyals, and Koray Kavukcuoglu. [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937). *arXiv:1711.00937*.
 * 2017 June 1, N. Siddharth, Brooks Paige, Jan-Willem Van de Meent, Alban Desmaison, Frank Wood, Noah D. Goodman, Pushmeet Kohli, and Philip H. S. Torr. [Learning Disentangled Representations with Semi-Supervised Deep Generative Models](https://arxiv.org/abs/1706.00400). *arXiv:1706.00400*.
 
 ## Generative Adversarial Networks

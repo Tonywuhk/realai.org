@@ -202,5 +202,5 @@ TensorFlow's programming paradigm is [declarative](https://en.wikipedia.org/wiki
 
 * Links: [Python API Documentation](https://www.tensorflow.org/api_docs/python/) \| [Releases](https://github.com/tensorflow/tensorflow/tags) ([latest](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)) \| [Official Twitter](https://twitter.com/tensorflow)
 * Higher-Level Libraries: [TensorFlow Agents](https://github.com/tensorflow/agents) \| [TensorFlow Fold](https://github.com/tensorflow/fold) \| [Sonnet](https://github.com/deepmind/sonnet) \| [seq2seq](https://github.com/google/seq2seq) \| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) \| [Keras](https://keras.io/) \| [TFLearn](http://tflearn.org/)
-* Related GitHub Repositories: [TensorBoard](https://github.com/tensorflow/tensorboard) \| [magenta](https://github.com/tensorflow/magenta) \| [Deepmath](https://github.com/tensorflow/deepmath)
+* Related GitHub Repositories: [TensorBoard](https://github.com/tensorflow/tensorboard) \| [Tangent](https://github.com/google/tangent) \| [magenta](https://github.com/tensorflow/magenta) \| [Deepmath](https://github.com/tensorflow/deepmath)
 
