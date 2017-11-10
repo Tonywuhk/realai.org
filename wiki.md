@@ -1,6 +1,6 @@
 ---
-title: Welcome to Real AI
-permalink: /
+title: Welcome to Real AI Wiki
+permalink: /wiki/
 mathjax: true
 ---
 1. Course: [TensorFlow](course/tensorflow/README.md)
